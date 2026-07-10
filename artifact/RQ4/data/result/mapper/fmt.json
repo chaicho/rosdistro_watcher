@@ -1,0 +1,273 @@
+{
+  "alpine_edge": [
+    {
+      "name": "fmt",
+      "bin_name": "fmt",
+      "src_name": "fmt",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Open-source formatting library for C++",
+      "confidence": 1.0
+    },
+    {
+      "name": "fmt-dev",
+      "bin_name": "fmt-dev",
+      "src_name": "fmt",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Open-source formatting library for C++ (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "fmt-docs",
+      "bin_name": "fmt-docs",
+      "src_name": "fmt",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Open-source formatting library for C++ (documentation)",
+      "confidence": 1.0
+    },
+    {
+      "name": "fmt",
+      "bin_name": "fmt",
+      "src_name": "fmt",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Open-source formatting library for C++",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libfmt9",
+      "bin_name": "libfmt9",
+      "src_name": "fmtlib",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfmt-doc",
+      "bin_name": "libfmt-doc",
+      "src_name": "fmtlib",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfmt-dev",
+      "bin_name": "libfmt-dev",
+      "src_name": "fmtlib",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "fmt",
+      "bin_name": "fmt",
+      "src_name": "fmt",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Small, safe and fast formatting library for C++",
+      "confidence": 1.0
+    },
+    {
+      "name": "fmt-devel",
+      "bin_name": "fmt-devel",
+      "src_name": "fmt",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Small, safe and fast formatting library for C++",
+      "confidence": 1.0
+    },
+    {
+      "name": "fmt-debugsource",
+      "bin_name": "fmt-debugsource",
+      "src_name": "fmt",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Small, safe and fast formatting library for C++",
+      "confidence": 1.0
+    },
+    {
+      "name": "fmt-debuginfo",
+      "bin_name": "fmt-debuginfo",
+      "src_name": "fmt",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Small, safe and fast formatting library for C++",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "fmt-devel",
+      "bin_name": "fmt-devel",
+      "src_name": "fmt",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Small, safe and fast formatting library for C++",
+      "confidence": 1.0
+    },
+    {
+      "name": "fmt",
+      "bin_name": "fmt",
+      "src_name": "fmt",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Small, safe and fast formatting library for C++",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "fmt",
+      "bin_name": "fmt",
+      "src_name": "fmt",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Small, safe and fast formatting library for C++",
+      "confidence": 1.0
+    },
+    {
+      "name": "fmt-devel",
+      "bin_name": "fmt-devel",
+      "src_name": "fmt",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Small, safe and fast formatting library for C++",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libfmt-doc",
+      "bin_name": "libfmt-doc",
+      "src_name": "fmtlib",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfmt-dev",
+      "bin_name": "libfmt-dev",
+      "src_name": "fmtlib",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libfmt-dev",
+      "bin_name": "libfmt-dev",
+      "src_name": "fmtlib",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfmt8",
+      "bin_name": "libfmt8",
+      "src_name": "fmtlib",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfmt-doc",
+      "bin_name": "libfmt-doc",
+      "src_name": "fmtlib",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libfmt9",
+      "bin_name": "libfmt9",
+      "src_name": "fmtlib",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfmt-doc",
+      "bin_name": "libfmt-doc",
+      "src_name": "fmtlib",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfmt-dev",
+      "bin_name": "libfmt-dev",
+      "src_name": "fmtlib",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

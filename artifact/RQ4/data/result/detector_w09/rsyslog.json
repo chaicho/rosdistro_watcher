@@ -1,0 +1,132 @@
+{
+  "fedora_42": [
+    {
+      "name": "rsyslog",
+      "bin_name": "rsyslog",
+      "src_name": "rsyslog",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "8.2412.0-3.fc42",
+      "description": "Enhanced system logging and kernel message trapping daemon",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "rsyslog",
+      "bin_name": "rsyslog",
+      "src_name": "rsyslog",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "8.2302.0-1+deb12u1",
+      "description": "reliable system and kernel logging daemon",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "rsyslog",
+      "bin_name": "rsyslog",
+      "src_name": "rsyslog",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "8.2604.0-r0",
+      "description": "Enhanced multi-threaded syslogd with database support and more",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "rsyslog",
+      "bin_name": "rsyslog",
+      "src_name": "rsyslog",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "8.39.0-lp152.2.7",
+      "description": "The enhanced syslogd for Linux and Unix",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "rsyslog",
+      "bin_name": "rsyslog",
+      "src_name": "rsyslog",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "8.2506.0-2.el9",
+      "description": "Enhanced system logging and kernel message trapping daemon",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "rsyslog",
+      "bin_name": "rsyslog",
+      "src_name": "rsyslog",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "8.2102.0-15.el8",
+      "description": "Enhanced system logging and kernel message trapping daemon",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "rsyslog",
+      "bin_name": "rsyslog",
+      "src_name": "rsyslog",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "8.2312.0-3ubuntu9",
+      "description": "reliable system and kernel logging daemon",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "rsyslog",
+      "bin_name": "rsyslog",
+      "src_name": "rsyslog",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "8.2508.0-1.fc43",
+      "description": "Enhanced system logging and kernel message trapping daemon",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "rsyslog",
+      "bin_name": "rsyslog",
+      "src_name": "rsyslog",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "8.2112.0-2ubuntu2",
+      "description": "reliable system and kernel logging daemon",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "rsyslog",
+      "bin_name": "rsyslog",
+      "src_name": "rsyslog",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "8.2001.0-1ubuntu1",
+      "description": "reliable system and kernel logging daemon",
+      "confidence": 1.0
+    }
+  ]
+}

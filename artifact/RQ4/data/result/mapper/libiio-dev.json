@@ -1,0 +1,480 @@
+{
+  "arch": [
+    {
+      "name": "libiio",
+      "bin_name": "libiio",
+      "src_name": "libiio",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Interface to the Linux Industrial Input/Output (IIO) Subsystem",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-pylibiio",
+      "bin_name": "python-pylibiio",
+      "src_name": "libiio",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Interface to the Linux Industrial Input/Output (IIO) Subsystem - Python bindings",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": "libiio",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Interface to the Linux Industrial Input/Output (IIO) Subsystem (development files)",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-libiio",
+      "bin_name": "py3-libiio",
+      "src_name": "libiio",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Interface to the Linux Industrial Input/Output (IIO) Subsystem (python module)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-doc",
+      "bin_name": "libiio-doc",
+      "src_name": "libiio",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Interface to the Linux Industrial Input/Output (IIO) Subsystem (documentation)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio",
+      "bin_name": "libiio",
+      "src_name": "libiio",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Interface to the Linux Industrial Input/Output (IIO) Subsystem",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-pyc",
+      "bin_name": "libiio-pyc",
+      "src_name": "libiio",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for libiio",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-tools",
+      "bin_name": "libiio-tools",
+      "src_name": "libiio",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Interface to the Linux Industrial Input/Output (IIO) Subsystem",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-libiio",
+      "bin_name": "python3-libiio",
+      "src_name": "libiio",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": "libiio",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio0",
+      "bin_name": "libiio0",
+      "src_name": "libiio",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-utils",
+      "bin_name": "libiio-utils",
+      "src_name": "libiio",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "iiod",
+      "bin_name": "iiod",
+      "src_name": "libiio",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio0-doc",
+      "bin_name": "libiio0-doc",
+      "src_name": "libiio",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libiio",
+      "bin_name": "libiio",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library for Industrial IO",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-iio",
+      "bin_name": "python3-iio",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library for Industrial IO",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-utils",
+      "bin_name": "libiio-utils",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library for Industrial IO",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-devel",
+      "bin_name": "libiio-devel",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library for Industrial IO",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-doc",
+      "bin_name": "libiio-doc",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library for Industrial IO",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libiio-devel",
+      "bin_name": "libiio-devel",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library for Industrial IO",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-doc",
+      "bin_name": "libiio-doc",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library for Industrial IO",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio",
+      "bin_name": "libiio",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library for Industrial IO",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-iio",
+      "bin_name": "python3-iio",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library for Industrial IO",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-utils",
+      "bin_name": "libiio-utils",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library for Industrial IO",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "iiod",
+      "bin_name": "iiod",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-libiio",
+      "bin_name": "python3-libiio",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio0",
+      "bin_name": "libiio0",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-utils",
+      "bin_name": "libiio-utils",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio0-doc",
+      "bin_name": "libiio0-doc",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libiio-utils",
+      "bin_name": "libiio-utils",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-libiio",
+      "bin_name": "python3-libiio",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio0",
+      "bin_name": "libiio0",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio0-doc",
+      "bin_name": "libiio0-doc",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "iiod",
+      "bin_name": "iiod",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-libiio",
+      "bin_name": "python3-libiio",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio0",
+      "bin_name": "libiio0",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio0-doc",
+      "bin_name": "libiio0-doc",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "iiod",
+      "bin_name": "iiod",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libiio-utils",
+      "bin_name": "libiio-utils",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

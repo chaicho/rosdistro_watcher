@@ -1,0 +1,515 @@
+{
+  "rhel_9": [
+    {
+      "name": "flex-doc",
+      "bin_name": "flex-doc",
+      "src_name": "flex",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex",
+      "bin_name": "flex",
+      "src_name": "flex",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl2",
+      "bin_name": "libfl2",
+      "src_name": "flex",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex-debugsource",
+      "bin_name": "flex-debugsource",
+      "src_name": "flex",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl-static",
+      "bin_name": "libfl-static",
+      "src_name": "flex",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex-debuginfo",
+      "bin_name": "flex-debuginfo",
+      "src_name": "flex",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl-devel",
+      "bin_name": "libfl-devel",
+      "src_name": "flex",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "flex-dev",
+      "bin_name": "flex-dev",
+      "src_name": "flex",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating text-scanning programs (development files)",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex",
+      "bin_name": "flex",
+      "src_name": "flex",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating text-scanning programs",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex-libs",
+      "bin_name": "flex-libs",
+      "src_name": "flex",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating text-scanning programs (libraries)",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex-doc",
+      "bin_name": "flex-doc",
+      "src_name": "flex",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating text-scanning programs (documentation)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "flex",
+      "bin_name": "flex",
+      "src_name": "flex",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating text-scanning programs",
+      "confidence": 1.0
+    },
+    {
+      "name": "lib32-flex",
+      "bin_name": "lib32-flex",
+      "src_name": "lib32-flex",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating text-scanning programs",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "flex-old",
+      "bin_name": "flex-old",
+      "src_name": "flex-old",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex-doc",
+      "bin_name": "flex-doc",
+      "src_name": "flex",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl2",
+      "bin_name": "libfl2",
+      "src_name": "flex",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl-dev",
+      "bin_name": "libfl-dev",
+      "src_name": "flex",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex-old-doc",
+      "bin_name": "flex-old-doc",
+      "src_name": "flex-old",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex",
+      "bin_name": "flex",
+      "src_name": "flex",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libfl-static",
+      "bin_name": "libfl-static",
+      "src_name": "flex",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex",
+      "bin_name": "flex",
+      "src_name": "flex",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "compat-flex",
+      "bin_name": "compat-flex",
+      "src_name": "compat-flex",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Legacy version of flex, a tool for creating scanners",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl2",
+      "bin_name": "libfl2",
+      "src_name": "flex",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl-devel",
+      "bin_name": "libfl-devel",
+      "src_name": "flex",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libfl2",
+      "bin_name": "libfl2",
+      "src_name": "flex",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl-static",
+      "bin_name": "libfl-static",
+      "src_name": "flex",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "compat-flex",
+      "bin_name": "compat-flex",
+      "src_name": "compat-flex",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Legacy version of flex, a tool for creating scanners",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl-devel",
+      "bin_name": "libfl-devel",
+      "src_name": "flex",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex",
+      "bin_name": "flex",
+      "src_name": "flex",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating scanners (text pattern recognizers)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "flex-old",
+      "bin_name": "flex-old",
+      "src_name": "flex-old",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex-doc",
+      "bin_name": "flex-doc",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl2",
+      "bin_name": "libfl2",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl-dev",
+      "bin_name": "libfl-dev",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex-old-doc",
+      "bin_name": "flex-old-doc",
+      "src_name": "flex-old",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex",
+      "bin_name": "flex",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "flex-old-doc",
+      "bin_name": "flex-old-doc",
+      "src_name": "flex-old",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex",
+      "bin_name": "flex",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex-old",
+      "bin_name": "flex-old",
+      "src_name": "flex-old",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl2",
+      "bin_name": "libfl2",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex-doc",
+      "bin_name": "flex-doc",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl-dev",
+      "bin_name": "libfl-dev",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "flex-doc",
+      "bin_name": "flex-doc",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl2",
+      "bin_name": "libfl2",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libfl-dev",
+      "bin_name": "libfl-dev",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flex",
+      "bin_name": "flex",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

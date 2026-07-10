@@ -1,0 +1,10 @@
+{
+  "llm_name": "llm_glm_4.7",
+  "total_packages": 111,
+  "total_entries": 1121,
+  "verified_entries": 971,
+  "unverified_entries": 150,
+  "fake_packages_count": 150,
+  "verification_rate": "86.6%",
+  "fake_rate": "13.4%"
+}

@@ -1,0 +1,158 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "libfmt-dev",
+      "bin_name": "libfmt-dev",
+      "src_name": "fmtlib",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "9.1.0+ds1-2",
+      "description": "fast type-safe C++ formatting library -- development files",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "fmt-devel",
+      "bin_name": "fmt-devel",
+      "src_name": "fmt",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "11.2.0-3.fc43",
+      "description": "Development files for fmt",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "fmt-devel",
+      "bin_name": "fmt-devel",
+      "src_name": "fmt",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "8.1.1-5.el9",
+      "description": "Development files for fmt",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "fmt-devel",
+      "bin_name": "fmt-devel",
+      "src_name": "fmt",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "6.2.1-1.el8",
+      "description": "Development files for fmt",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libfmt-dev",
+      "bin_name": "libfmt-dev",
+      "src_name": "fmtlib",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "8.1.1+ds1-2",
+      "description": "fast type-safe C++ formatting library -- development files",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libfmt-dev",
+      "bin_name": "libfmt-dev",
+      "src_name": "fmtlib",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "9.1.0+ds1-2",
+      "description": "fast type-safe C++ formatting library -- development files",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "fmt-devel",
+      "bin_name": "fmt-devel",
+      "src_name": "fmt",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "11.1.4-1.fc42",
+      "description": "Development files for fmt",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "fmt-devel",
+      "bin_name": "fmt-devel",
+      "src_name": "fmt",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "6.2.1-lp152.1.1",
+      "description": "Development files for fmt, a formatting library",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "fmt",
+      "bin_name": "fmt",
+      "src_name": "fmt",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.3.1",
+      "description": "f-strings(Python 3.6) style literal string interpolation.",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "fmt",
+      "bin_name": "fmt",
+      "src_name": "fmt",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "12.1.0-1",
+      "description": "Open-source formatting library for C++",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "fmt-dev",
+      "bin_name": "fmt-dev",
+      "src_name": "fmt",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "11.2.0-r1",
+      "description": "Open-source formatting library for C++ (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libfmt-dev",
+      "bin_name": "libfmt-dev",
+      "src_name": "fmtlib",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "6.1.2+ds-2",
+      "description": "fast type-safe C++ formatting library -- development files",
+      "confidence": 1.0
+    }
+  ]
+}

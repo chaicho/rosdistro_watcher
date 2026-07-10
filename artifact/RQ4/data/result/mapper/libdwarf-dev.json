@@ -1,0 +1,372 @@
+{
+  "ubuntu_focal": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf1",
+      "bin_name": "libdwarf1",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "dwarfdump",
+      "bin_name": "dwarfdump",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libdwarf1",
+      "bin_name": "libdwarf1",
+      "src_name": "dwarfutils",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "dwarfdump",
+      "bin_name": "dwarfdump",
+      "src_name": "dwarfutils",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf1",
+      "bin_name": "libdwarf1",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "dwarfdump",
+      "bin_name": "dwarfdump",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "dwarfdump",
+      "bin_name": "dwarfdump",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf1",
+      "bin_name": "libdwarf1",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "libdwarf",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Parsing library for DWARF2 and later debugging file format (development files)",
+      "confidence": 1.0
+    },
+    {
+      "name": "dwarf-tools",
+      "bin_name": "dwarf-tools",
+      "src_name": "libdwarf",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tools for interacting with DWARF2 and later debugging files",
+      "confidence": 1.0
+    },
+    {
+      "name": "liblibdwarfp",
+      "bin_name": "liblibdwarfp",
+      "src_name": "libdwarf",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Parsing library for DWARF2 and later debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "dwarf-tools-doc",
+      "bin_name": "dwarf-tools-doc",
+      "src_name": "libdwarf",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Parsing library for DWARF2 and later debugging file format (documentation)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf",
+      "bin_name": "libdwarf",
+      "src_name": "libdwarf",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Parsing library for DWARF2 and later debugging file format",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "libdwarf",
+      "bin_name": "libdwarf",
+      "src_name": "libdwarf",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library for handling DWARF Debugging Information Format",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "libdwarf-debuginfo",
+      "bin_name": "libdwarf-debuginfo",
+      "src_name": "libdwarf",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf",
+      "bin_name": "libdwarf",
+      "src_name": "libdwarf",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf-devel",
+      "bin_name": "libdwarf-devel",
+      "src_name": "libdwarf",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf-static",
+      "bin_name": "libdwarf-static",
+      "src_name": "libdwarf",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf-tools",
+      "bin_name": "libdwarf-tools",
+      "src_name": "libdwarf",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf-debugsource",
+      "bin_name": "libdwarf-debugsource",
+      "src_name": "libdwarf",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libdwarf-tools",
+      "bin_name": "libdwarf-tools",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf",
+      "bin_name": "libdwarf",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf-static",
+      "bin_name": "libdwarf-static",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf-devel",
+      "bin_name": "libdwarf-devel",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libdwarf",
+      "bin_name": "libdwarf",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf-static",
+      "bin_name": "libdwarf-static",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf-devel",
+      "bin_name": "libdwarf-devel",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    },
+    {
+      "name": "libdwarf-tools",
+      "bin_name": "libdwarf-tools",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the DWARF Debugging file format",
+      "confidence": 1.0
+    }
+  ]
+}

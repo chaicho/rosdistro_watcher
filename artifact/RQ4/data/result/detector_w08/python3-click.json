@@ -1,0 +1,158 @@
+{
+  "rhel_9": [
+    {
+      "name": "python3-click",
+      "bin_name": "python3-click",
+      "src_name": "python-click",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "8.0.3-1.el9",
+      "description": "Simple wrapper around optparse for powerful command line utilities",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "python3-click",
+      "bin_name": "python3-click",
+      "src_name": "python-click",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "6.7-8.el8",
+      "description": "Simple wrapper around optparse for powerful command line utilities",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-click",
+      "bin_name": "python3-click",
+      "src_name": "python-click",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "8.1.7-7.fc42",
+      "description": "Simple wrapper around optparse for powerful command line utilities",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-click",
+      "bin_name": "python3-click",
+      "src_name": "python-click",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "7.0-3",
+      "description": "Wrapper around optparse for command line utilities - Python 3.x",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-click",
+      "bin_name": "python3-click",
+      "src_name": "python-click",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "8.1.3-2",
+      "description": "Wrapper around optparse for command line utilities - Python 3.x",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "click",
+      "bin_name": "click",
+      "src_name": "click",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "8.3.1",
+      "description": "Composable command line interface toolkit",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-click",
+      "bin_name": "python3-click",
+      "src_name": "python-click",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "8.0.3-1",
+      "description": "Wrapper around optparse for command line utilities - Python 3.x",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-click",
+      "bin_name": "py3-click",
+      "src_name": "py3-click",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "8.3.3-r1",
+      "description": "Simple wrapper around optparse for powerful command line utilities",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-click",
+      "bin_name": "python3-click",
+      "src_name": "python-click",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "1:8.1.7-11.fc43",
+      "description": "Simple wrapper around optparse for powerful command line utilities",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-click",
+      "bin_name": "python-click",
+      "src_name": "python-click",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "8.3.1-1",
+      "description": "Simple wrapper around optparse for powerful command line utilities",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-click",
+      "bin_name": "python3-click",
+      "src_name": "python-click",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "8.1.6-2",
+      "description": "Wrapper around optparse for command line utilities - Python 3.x",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python3-click",
+      "bin_name": "python3-click",
+      "src_name": "python-click",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "7.0-lp152.1.1",
+      "description": "A wrapper around optparse for command line utilities",
+      "confidence": 1.0
+    }
+  ]
+}

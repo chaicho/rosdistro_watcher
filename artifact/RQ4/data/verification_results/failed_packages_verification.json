@@ -1,0 +1,22 @@
+{
+  "llm_glm_4.7": {
+    "total": 102,
+    "verified_exist": 31,
+    "verified_fake": 71
+  },
+  "llm_gemini_3_pro": {
+    "total": 107,
+    "verified_exist": 42,
+    "verified_fake": 65
+  },
+  "llm_claude_opus_4_5": {
+    "total": 57,
+    "verified_exist": 36,
+    "verified_fake": 21
+  },
+  "llm_deepseek_v3.2": {
+    "total": 164,
+    "verified_exist": 41,
+    "verified_fake": 123
+  }
+}

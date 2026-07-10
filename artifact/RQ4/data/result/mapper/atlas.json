@@ -1,0 +1,313 @@
+{
+  "rhel_9": [
+    {
+      "name": "atlas",
+      "bin_name": "atlas",
+      "src_name": "atlas",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Automatically Tuned Linear Algebra Software",
+      "confidence": 1.0
+    },
+    {
+      "name": "atlas-devel",
+      "bin_name": "atlas-devel",
+      "src_name": "atlas",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Automatically Tuned Linear Algebra Software",
+      "confidence": 1.0
+    },
+    {
+      "name": "atlas-debugsource",
+      "bin_name": "atlas-debugsource",
+      "src_name": "atlas",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Automatically Tuned Linear Algebra Software",
+      "confidence": 1.0
+    },
+    {
+      "name": "atlas-static",
+      "bin_name": "atlas-static",
+      "src_name": "atlas",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Automatically Tuned Linear Algebra Software",
+      "confidence": 1.0
+    },
+    {
+      "name": "atlas-debuginfo",
+      "bin_name": "atlas-debuginfo",
+      "src_name": "atlas",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Automatically Tuned Linear Algebra Software",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libatlas-base-dev",
+      "bin_name": "libatlas-base-dev",
+      "src_name": "atlas",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas-doc",
+      "bin_name": "libatlas-doc",
+      "src_name": "atlas",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas3-base",
+      "bin_name": "libatlas3-base",
+      "src_name": "atlas",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas-test",
+      "bin_name": "libatlas-test",
+      "src_name": "atlas",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "atlas-devel",
+      "bin_name": "atlas-devel",
+      "src_name": "atlas",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Automatically Tuned Linear Algebra Software",
+      "confidence": 1.0
+    },
+    {
+      "name": "atlas-static",
+      "bin_name": "atlas-static",
+      "src_name": "atlas",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Automatically Tuned Linear Algebra Software",
+      "confidence": 1.0
+    },
+    {
+      "name": "atlas",
+      "bin_name": "atlas",
+      "src_name": "atlas",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Automatically Tuned Linear Algebra Software",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "atlas",
+      "bin_name": "atlas",
+      "src_name": "atlas",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Automatically Tuned Linear Algebra Software",
+      "confidence": 1.0
+    },
+    {
+      "name": "atlas-devel",
+      "bin_name": "atlas-devel",
+      "src_name": "atlas",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Automatically Tuned Linear Algebra Software",
+      "confidence": 1.0
+    },
+    {
+      "name": "atlas-static",
+      "bin_name": "atlas-static",
+      "src_name": "atlas",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Automatically Tuned Linear Algebra Software",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libatlas3-base",
+      "bin_name": "libatlas3-base",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas-test",
+      "bin_name": "libatlas-test",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas-doc",
+      "bin_name": "libatlas-doc",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas-base-dev",
+      "bin_name": "libatlas-base-dev",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libatlas-test",
+      "bin_name": "libatlas-test",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas-base-dev",
+      "bin_name": "libatlas-base-dev",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas3-base",
+      "bin_name": "libatlas3-base",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas-doc",
+      "bin_name": "libatlas-doc",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libatlas-doc",
+      "bin_name": "libatlas-doc",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas-base-dev",
+      "bin_name": "libatlas-base-dev",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas3-base",
+      "bin_name": "libatlas3-base",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libatlas-test",
+      "bin_name": "libatlas-test",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "unidecode",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "1.3.6-1",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "python-unidecode",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "1.3.8-4.fc42",
+      "description": "Found by rosdep CI (exact) in fedora 42",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "python-unidecode",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "1.4.0-3.fc43",
+      "description": "Found by rosdep CI (exact) in fedora 43",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "python-unidecode",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": "x86_64",
+      "version": "1.3.4-8.el8",
+      "description": "Found by rosdep CI (exact) in rhel 8",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "python-unidecode",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "1.3.4-8.el9",
+      "description": "Found by rosdep CI (exact) in rhel 9",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "unidecode",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "1.1.1-3build1",
+      "description": "Found by rosdep CI (exact) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "unidecode",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "1.3.3-1",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "unidecode",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "1.3.8-1",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

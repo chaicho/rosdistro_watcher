@@ -1,0 +1,145 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "3.0.9-1",
+      "description": "alternative to creating and executing simple grammars - Python 3.x",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python-pyparsing",
+      "bin_name": "python-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "2.4.6-1",
+      "description": "alternative to creating and executing simple grammars - Python 2.7",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3.11-pyparsing",
+      "bin_name": "python3.11-pyparsing",
+      "src_name": "python3.11-pyparsing",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "3.0.7-3.el9",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "python3.11-pyparsing",
+      "bin_name": "python3.11-pyparsing",
+      "src_name": "python3.11-pyparsing",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "3.0.7-3.el8",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "3.1.1-1",
+      "description": "alternative to creating and executing simple grammars - Python 3.x",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "3.1.2-14.fc43",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "python-pyparsing",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "2.2.0-lp152.3.3",
+      "description": "Grammar Parser Library for Python",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "3.1.2-8.fc42",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "2.4.7-1",
+      "description": "alternative to creating and executing simple grammars - Python 3.x",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-pyparsing",
+      "bin_name": "python-pyparsing",
+      "src_name": "python-pyparsing",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "3.3.1-3",
+      "description": "General parsing module for Python",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "pyparsing",
+      "bin_name": "pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "3.3.2",
+      "description": "pyparsing - Classes and methods to define and execute parsing grammars",
+      "confidence": 1.0
+    }
+  ]
+}

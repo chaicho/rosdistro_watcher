@@ -1,0 +1,264 @@
+{
+  "alpine_edge": [
+    {
+      "name": "py3-cryptography",
+      "bin_name": "py3-cryptography",
+      "src_name": "py3-cryptography",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Cryptographic recipes and primitives for Python",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-cryptography-pyc",
+      "bin_name": "py3-cryptography-pyc",
+      "src_name": "py3-cryptography",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-cryptography",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-cryptography",
+      "bin_name": "python-cryptography",
+      "src_name": "python-cryptography",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A package designed to expose cryptographic recipes and primitives to Python developers",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python-cryptography-debuginfo",
+      "bin_name": "python-cryptography-debuginfo",
+      "src_name": "python-cryptography",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "PyCA's cryptography library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-cryptography",
+      "bin_name": "python3-cryptography",
+      "src_name": "python-cryptography",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "PyCA's cryptography library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-cryptography-debugsource",
+      "bin_name": "python-cryptography-debugsource",
+      "src_name": "python-cryptography",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "PyCA's cryptography library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python-cryptography-debugsource",
+      "bin_name": "python-cryptography-debugsource",
+      "src_name": "python-cryptography",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "PyCA's cryptography library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-cryptography-debuginfo",
+      "bin_name": "python-cryptography-debuginfo",
+      "src_name": "python-cryptography",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "PyCA's cryptography library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-cryptography",
+      "bin_name": "python3-cryptography",
+      "src_name": "python-cryptography",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "PyCA's cryptography library",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "cryptography",
+      "bin_name": "cryptography",
+      "src_name": "cryptography",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python-cryptography-debugsource",
+      "bin_name": "python-cryptography-debugsource",
+      "src_name": "python-cryptography",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "PyCA's cryptography library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-cryptography-debuginfo",
+      "bin_name": "python-cryptography-debuginfo",
+      "src_name": "python-cryptography",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "PyCA's cryptography library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-cryptography",
+      "bin_name": "python3-cryptography",
+      "src_name": "python-cryptography",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "PyCA's cryptography library",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python-cryptography-doc",
+      "bin_name": "python-cryptography-doc",
+      "src_name": "python-cryptography",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-cryptography",
+      "bin_name": "python3-cryptography",
+      "src_name": "python-cryptography",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-cryptography",
+      "bin_name": "python3-cryptography",
+      "src_name": "python-cryptography",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-cryptography-doc",
+      "bin_name": "python-cryptography-doc",
+      "src_name": "python-cryptography",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-cryptography",
+      "bin_name": "python-cryptography",
+      "src_name": "python-cryptography",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python-cryptography-doc",
+      "bin_name": "python-cryptography-doc",
+      "src_name": "python-cryptography",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-cryptography",
+      "bin_name": "python3-cryptography",
+      "src_name": "python-cryptography",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python-cryptography-doc",
+      "bin_name": "python-cryptography-doc",
+      "src_name": "python-cryptography",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-cryptography",
+      "bin_name": "python3-cryptography",
+      "src_name": "python-cryptography",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "7.4.4-1",
+      "description": "Simple, powerful testing in Python3",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "python-pytest",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "3.10.1-lp152.4.1",
+      "description": "Python testing tool with autodiscovery and detailed asserts",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "python39-pytest",
+      "bin_name": "python39-pytest",
+      "src_name": "pytest",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "6.0.2-2.module_el8.6.0+2780+a40f65e1",
+      "description": "Simple powerful testing with Python",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-pytest",
+      "bin_name": "python-pytest",
+      "src_name": "python-pytest",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "1:8.4.2-3",
+      "description": "Simple powerful testing with Python",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "6.2.5-1ubuntu2",
+      "description": "Simple, powerful testing in Python3",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "4.6.9-1",
+      "description": "Simple, powerful testing in Python3",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "6.2.2-7.el9",
+      "description": "Simple powerful testing with Python",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "8.3.5-9.fc43",
+      "description": "Simple powerful testing with Python",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "pytest",
+      "bin_name": "pytest",
+      "src_name": "pytest",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "9.0.2",
+      "description": "pytest: simple powerful testing with Python",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "8.3.4-2.fc42",
+      "description": "Simple powerful testing with Python",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "7.2.1-2",
+      "description": "Simple, powerful testing in Python3",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-pytest",
+      "bin_name": "py3-pytest",
+      "src_name": "py3-pytest",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "9.0.3-r0",
+      "description": "Python3 testing library",
+      "confidence": 1.0
+    }
+  ]
+}

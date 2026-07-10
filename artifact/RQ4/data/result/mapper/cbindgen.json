@@ -1,0 +1,438 @@
+{
+  "rhel_9": [
+    {
+      "name": "cbindgen",
+      "bin_name": "cbindgen",
+      "src_name": "rust-cbindgen",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen+unstable_ir-devel",
+      "bin_name": "rust-cbindgen+unstable_ir-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen-debugsource",
+      "bin_name": "rust-cbindgen-debugsource",
+      "src_name": "rust-cbindgen",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "cbindgen-debugsource",
+      "bin_name": "cbindgen-debugsource",
+      "src_name": "cbindgen",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "cbindgen-debuginfo",
+      "bin_name": "cbindgen-debuginfo",
+      "src_name": "cbindgen",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen-devel",
+      "bin_name": "rust-cbindgen-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "cbindgen",
+      "bin_name": "cbindgen",
+      "src_name": "cbindgen",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen+default-devel",
+      "bin_name": "rust-cbindgen+default-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen+clap-devel",
+      "bin_name": "rust-cbindgen+clap-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen-debuginfo",
+      "bin_name": "rust-cbindgen-debuginfo",
+      "src_name": "rust-cbindgen",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "cbindgen",
+      "bin_name": "cbindgen",
+      "src_name": "cbindgen",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool to generate C bindings from Rust code",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "cbindgen",
+      "bin_name": "cbindgen",
+      "src_name": "cbindgen",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "librust-cbindgen-dev",
+      "bin_name": "librust-cbindgen-dev",
+      "src_name": "rust-cbindgen",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "cbindgen",
+      "bin_name": "cbindgen",
+      "src_name": "rust-cbindgen",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librust-cbindgen+clap-dev",
+      "bin_name": "librust-cbindgen+clap-dev",
+      "src_name": "rust-cbindgen",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "rust-cbindgen+clap-devel",
+      "bin_name": "rust-cbindgen+clap-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen-debuginfo",
+      "bin_name": "rust-cbindgen-debuginfo",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen-debugsource",
+      "bin_name": "rust-cbindgen-debugsource",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen+unstable_ir-devel",
+      "bin_name": "rust-cbindgen+unstable_ir-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen+default-devel",
+      "bin_name": "rust-cbindgen+default-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen-devel",
+      "bin_name": "rust-cbindgen-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "cbindgen",
+      "bin_name": "cbindgen",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "rust-cbindgen+unstable_ir-devel",
+      "bin_name": "rust-cbindgen+unstable_ir-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen+default-devel",
+      "bin_name": "rust-cbindgen+default-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen+clap-devel",
+      "bin_name": "rust-cbindgen+clap-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen-debugsource",
+      "bin_name": "rust-cbindgen-debugsource",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "cbindgen",
+      "bin_name": "cbindgen",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen-debuginfo",
+      "bin_name": "rust-cbindgen-debuginfo",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    },
+    {
+      "name": "rust-cbindgen-devel",
+      "bin_name": "rust-cbindgen-devel",
+      "src_name": "rust-cbindgen",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Tool for generating C bindings to Rust code",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "librust-cbindgen+clap-dev",
+      "bin_name": "librust-cbindgen+clap-dev",
+      "src_name": "rust-cbindgen",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "cbindgen",
+      "bin_name": "cbindgen",
+      "src_name": "rust-cbindgen",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librust-cbindgen-dev",
+      "bin_name": "librust-cbindgen-dev",
+      "src_name": "rust-cbindgen",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "cbindgen",
+      "bin_name": "cbindgen",
+      "src_name": "rust-cbindgen",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librust-cbindgen-dev",
+      "bin_name": "librust-cbindgen-dev",
+      "src_name": "rust-cbindgen",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librust-cbindgen+clap-dev",
+      "bin_name": "librust-cbindgen+clap-dev",
+      "src_name": "rust-cbindgen",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "librust-cbindgen-dev",
+      "bin_name": "librust-cbindgen-dev",
+      "src_name": "rust-cbindgen",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "cbindgen",
+      "bin_name": "cbindgen",
+      "src_name": "rust-cbindgen",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librust-cbindgen+clap-dev",
+      "bin_name": "librust-cbindgen+clap-dev",
+      "src_name": "rust-cbindgen",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "alpine_edge": [
+    {
+      "name": "py3-waitress-openrc",
+      "bin_name": "py3-waitress-openrc",
+      "src_name": "py3-waitress",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Python3 WSGI server (OpenRC init scripts)",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-waitress",
+      "bin_name": "py3-waitress",
+      "src_name": "py3-waitress",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Python3 WSGI server",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-waitress-pyc",
+      "bin_name": "py3-waitress-pyc",
+      "src_name": "py3-waitress",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-waitress",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-waitress",
+      "bin_name": "python-waitress",
+      "src_name": "python-waitress",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "python-waitress",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-python3-waitress",
+      "bin_name": "mingw32-python3-waitress",
+      "src_name": "mingw-python-waitress",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python waitress library",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-python3-waitress",
+      "bin_name": "mingw64-python3-waitress",
+      "src_name": "mingw-python-waitress",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python waitress library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "mingw64-python3-waitress",
+      "bin_name": "mingw64-python3-waitress",
+      "src_name": "mingw-python-waitress",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python waitress library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "python-waitress",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-python3-waitress",
+      "bin_name": "mingw32-python3-waitress",
+      "src_name": "mingw-python-waitress",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python waitress library",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "waitress",
+      "bin_name": "waitress",
+      "src_name": "waitress",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python-waitress-doc",
+      "bin_name": "python-waitress-doc",
+      "src_name": "waitress",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "waitress",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "python-waitress",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python-waitress-doc",
+      "bin_name": "python-waitress-doc",
+      "src_name": "waitress",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "waitress",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "waitress",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-waitress-doc",
+      "bin_name": "python-waitress-doc",
+      "src_name": "waitress",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python-waitress-doc",
+      "bin_name": "python-waitress-doc",
+      "src_name": "waitress",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "waitress",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

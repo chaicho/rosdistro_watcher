@@ -1,0 +1,1939 @@
+{
+  "rosdep_key": "python3-marisa",
+  "status": "completed",
+  "baseline_package": [
+    [
+      "python3-marisa",
+      "ubuntu",
+      "noble"
+    ]
+  ],
+  "primary_package": [
+    [
+      "python3-marisa",
+      "ubuntu",
+      "noble"
+    ]
+  ],
+  "detector_w07_result": {
+    "fedora_43": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": "0.3.0-5.fc43",
+        "description": "Python 3 language binding for marisa",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "py3-marisa",
+        "bin_name": "py3-marisa",
+        "src_name": "libmarisa",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": "0.2.6-r8",
+        "description": "MARISA: Matching Algorithm with Recursively Implemented StorAge (python module)",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa (0.2.6-13)",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": "0.2.6-13+b1",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": "0.2.5-6build2",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": "0.2.6-9build1",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": "0.2.6-13.fc42",
+        "description": "Python 3 language binding for marisa",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "python-marisa",
+        "bin_name": "python-marisa",
+        "src_name": "marisa",
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": "0.2.4-lp152.3.65",
+        "description": "Python bindings for marisa",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-marisa",
+        "bin_name": "python-marisa",
+        "src_name": "python-marisa",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": "0.2.6-20",
+        "description": "Python language binding for marisa",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "0.2.6-14ubuntu4",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "marisa",
+        "bin_name": "marisa",
+        "src_name": "marisa",
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": "0.2.4-38.el8",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_glm_4.7_result": {
+    "ubuntu_noble": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "0.2.6-14ubuntu4",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "py3-marisa",
+        "bin_name": "py3-marisa",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-marisa",
+        "bin_name": "python-marisa",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "pypi": [
+      {
+        "name": "marisa-trie",
+        "bin_name": "marisa-trie",
+        "src_name": null,
+        "repo_name": "pypi",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_gemini_3_pro_result": {
+    "ubuntu_noble": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "0.2.6-14ubuntu4",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "py3-marisa",
+        "bin_name": "py3-marisa",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_claude_opus_4_5_result": {
+    "ubuntu_noble": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "0.2.6-14ubuntu4",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "py3-marisa",
+        "bin_name": "py3-marisa",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-marisa",
+        "bin_name": "python-marisa",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "pypi": [
+      {
+        "name": "marisa-trie",
+        "bin_name": "marisa-trie",
+        "src_name": null,
+        "repo_name": "pypi",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_deepseek_v3.2_result": {
+    "ubuntu_noble": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "0.2.6-14ubuntu4",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "py3-marisa",
+        "bin_name": "py3-marisa",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-marisa",
+        "bin_name": "python-marisa",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "pypi": [
+      {
+        "name": "marisa-trie",
+        "bin_name": "marisa-trie",
+        "src_name": null,
+        "repo_name": "pypi",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-marisa",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "mapper_result": {
+    "alpine_edge": [
+      {
+        "name": "py3-marisa",
+        "bin_name": "py3-marisa",
+        "src_name": "libmarisa",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MARISA: Matching Algorithm with Recursively Implemented StorAge (python module)",
+        "confidence": 1.0
+      },
+      {
+        "name": "py3-marisa-pyc",
+        "bin_name": "py3-marisa-pyc",
+        "src_name": "libmarisa",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Precompiled Python bytecode for py3-marisa",
+        "confidence": 1.0
+      },
+      {
+        "name": "libmarisa-dev",
+        "bin_name": "libmarisa-dev",
+        "src_name": "libmarisa",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MARISA: Matching Algorithm with Recursively Implemented StorAge (development files)",
+        "confidence": 1.0
+      },
+      {
+        "name": "libmarisa",
+        "bin_name": "libmarisa",
+        "src_name": "libmarisa",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MARISA: Matching Algorithm with Recursively Implemented StorAge",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-marisa",
+        "bin_name": "python-marisa",
+        "src_name": "marisa",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Python language binding for marisa",
+        "confidence": 1.0
+      },
+      {
+        "name": "ruby-marisa",
+        "bin_name": "ruby-marisa",
+        "src_name": "marisa",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Ruby language binding for marisa",
+        "confidence": 1.0
+      },
+      {
+        "name": "perl-marisa",
+        "bin_name": "perl-marisa",
+        "src_name": "marisa",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Perl language binding for marisa",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa",
+        "bin_name": "marisa",
+        "src_name": "marisa",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and space-efficient trie data structure library",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "libmarisa0",
+        "bin_name": "libmarisa0",
+        "src_name": "marisa",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libmarisa-perl",
+        "bin_name": "libmarisa-perl",
+        "src_name": "marisa",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa",
+        "bin_name": "marisa",
+        "src_name": "marisa",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libmarisa-dev",
+        "bin_name": "libmarisa-dev",
+        "src_name": "marisa",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "ruby-marisa",
+        "bin_name": "ruby-marisa",
+        "src_name": "marisa",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "marisa-ruby",
+        "bin_name": "marisa-ruby",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa-perl",
+        "bin_name": "marisa-perl",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa-devel",
+        "bin_name": "marisa-devel",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa",
+        "bin_name": "marisa",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa-tools",
+        "bin_name": "marisa-tools",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "marisa",
+        "bin_name": "marisa",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa-devel",
+        "bin_name": "marisa-devel",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa-perl",
+        "bin_name": "marisa-perl",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa-ruby",
+        "bin_name": "marisa-ruby",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa-debugsource",
+        "bin_name": "marisa-debugsource",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa-debuginfo",
+        "bin_name": "marisa-debuginfo",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa-tools",
+        "bin_name": "marisa-tools",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Static and spece-efficient trie data structure library",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "libmarisa-dev",
+        "bin_name": "libmarisa-dev",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "ruby-marisa",
+        "bin_name": "ruby-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libmarisa0",
+        "bin_name": "libmarisa0",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa",
+        "bin_name": "marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libmarisa-perl",
+        "bin_name": "libmarisa-perl",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "libmarisa-perl",
+        "bin_name": "libmarisa-perl",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libmarisa0",
+        "bin_name": "libmarisa0",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "ruby-marisa",
+        "bin_name": "ruby-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa",
+        "bin_name": "marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libmarisa-dev",
+        "bin_name": "libmarisa-dev",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "libmarisa0",
+        "bin_name": "libmarisa0",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "ruby-marisa",
+        "bin_name": "ruby-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libmarisa-perl",
+        "bin_name": "libmarisa-perl",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libmarisa-dev",
+        "bin_name": "libmarisa-dev",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "marisa",
+        "bin_name": "marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "rosdep_ci_result": {
+    "debian_bookworm": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa (0.2.6-13)",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "0.2.6-13+b1",
+        "description": "Found by rosdep CI (exact) in debian bookworm",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "0.2.6-13.fc42",
+        "description": "Found by rosdep CI (exact) in fedora 42",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "0.3.0-5.fc43",
+        "description": "Found by rosdep CI (exact) in fedora 43",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "0.2.5-6build2",
+        "description": "Found by rosdep CI (exact) in ubuntu focal",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "0.2.6-9build1",
+        "description": "Found by rosdep CI (exact) in ubuntu jammy",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "0.2.6-14ubuntu4",
+        "description": "Found by rosdep CI (exact) in ubuntu noble",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "rosdep_result": {
+    "fedora_42": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": "0.2.6-13.fc42",
+        "description": "Python 3 language binding for marisa",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": "0.3.0-5.fc43",
+        "description": "Python 3 language binding for marisa",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": "0.2.5-6build2",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": "0.2.6-9build1",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "0.2.6-14ubuntu4",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-marisa",
+        "bin_name": "python-marisa",
+        "src_name": "python-marisa",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": "0.2.6-20",
+        "description": "Python language binding for marisa",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-marisa",
+        "bin_name": "python3-marisa",
+        "src_name": "marisa (0.2.6-13)",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": "0.2.6-13+b1",
+        "description": "Python3 bindings for MARISA",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "comparison_summary": {
+    "repositories_found": {
+      "rosdep": [
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "detector_w07": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "rhel_8",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_glm_4.7": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "pypi",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_gemini_3_pro": [
+        "alpine_edge",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_claude_opus_4_5": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "pypi",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_deepseek_v3.2": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "pypi",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "mapper": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "rosdep_ci": [
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ]
+    },
+    "package_counts": {
+      "rosdep": 7,
+      "detector_w07": 10,
+      "llm_glm_4.7": 12,
+      "llm_gemini_3_pro": 10,
+      "llm_claude_opus_4_5": 9,
+      "llm_deepseek_v3.2": 10,
+      "mapper": 46,
+      "rosdep_ci": 6
+    },
+    "common_repositories": [
+      "debian_bookworm",
+      "fedora_42",
+      "fedora_43",
+      "ubuntu_focal",
+      "ubuntu_jammy",
+      "ubuntu_noble"
+    ],
+    "accuracy_metrics": {
+      "detector_w07": {
+        "precision": 0.7,
+        "recall": 1.0,
+        "f1_score": 0.8235294117647058
+      },
+      "llm_glm_4.7": {
+        "precision": 0.5833333333333334,
+        "recall": 1.0,
+        "f1_score": 0.7368421052631579
+      },
+      "llm_gemini_3_pro": {
+        "precision": 0.6,
+        "recall": 0.8571428571428571,
+        "f1_score": 0.7058823529411764
+      },
+      "llm_claude_opus_4_5": {
+        "precision": 0.7777777777777778,
+        "recall": 1.0,
+        "f1_score": 0.8750000000000001
+      },
+      "llm_deepseek_v3.2": {
+        "precision": 0.7,
+        "recall": 1.0,
+        "f1_score": 0.8235294117647058
+      },
+      "mapper": {
+        "precision": 0.875,
+        "recall": 1.0,
+        "f1_score": 0.9333333333333333
+      },
+      "rosdep_ci": {
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "f1_score": 0.923076923076923
+      }
+    },
+    "unique_to_detector_w07": [],
+    "unique_to_llm_glm_4.7": [],
+    "unique_to_llm_gemini_3_pro": [],
+    "unique_to_llm_claude_opus_4_5": [],
+    "unique_to_llm_deepseek_v3.2": [],
+    "unique_to_mapper": [],
+    "unique_to_rosdep_ci": []
+  },
+  "detailed_package_comparison": {
+    "rosdep_key": "python3-marisa",
+    "platform_binname_analysis": {
+      "fedora_42": {
+        "platform": "fedora_42",
+        "ground_truth_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-marisa"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-marisa"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-marisa"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-marisa"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "marisa",
+          "marisa-devel",
+          "marisa-perl",
+          "marisa-ruby",
+          "marisa-tools",
+          "python3-marisa"
+        ],
+        "mapper_total_packages": 6,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-marisa"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "fedora_43": {
+        "platform": "fedora_43",
+        "ground_truth_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-marisa"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-marisa"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-marisa"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-marisa"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "marisa",
+          "marisa-debuginfo",
+          "marisa-debugsource",
+          "marisa-devel",
+          "marisa-perl",
+          "marisa-ruby",
+          "marisa-tools",
+          "python3-marisa"
+        ],
+        "mapper_total_packages": 8,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-marisa"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "ubuntu_focal": {
+        "platform": "ubuntu_focal",
+        "ground_truth_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-marisa"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-marisa"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-marisa"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-marisa"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "libmarisa-dev",
+          "libmarisa-perl",
+          "libmarisa0",
+          "marisa",
+          "python3-marisa",
+          "ruby-marisa"
+        ],
+        "mapper_total_packages": 6,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-marisa"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "ubuntu_jammy": {
+        "platform": "ubuntu_jammy",
+        "ground_truth_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-marisa"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-marisa"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-marisa"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-marisa"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "libmarisa-dev",
+          "libmarisa-perl",
+          "libmarisa0",
+          "marisa",
+          "python3-marisa",
+          "ruby-marisa"
+        ],
+        "mapper_total_packages": 6,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-marisa"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "ubuntu_noble": {
+        "platform": "ubuntu_noble",
+        "ground_truth_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-marisa"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-marisa"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-marisa"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-marisa"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "libmarisa-dev",
+          "libmarisa-perl",
+          "libmarisa0",
+          "marisa",
+          "python3-marisa",
+          "ruby-marisa"
+        ],
+        "mapper_total_packages": 6,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-marisa"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "arch": {
+        "platform": "arch",
+        "ground_truth_binnames": [
+          "python-marisa"
+        ],
+        "detector_w07_binnames": [
+          "python-marisa"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python-marisa"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [],
+        "llm_gemini_3_pro_match_result": "no_match",
+        "llm_gemini_3_pro_found_count": 0,
+        "llm_gemini_3_pro_total_packages": 0,
+        "llm_claude_opus_4_5_binnames": [
+          "python-marisa"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python-marisa"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "marisa",
+          "perl-marisa",
+          "python-marisa",
+          "ruby-marisa"
+        ],
+        "mapper_total_packages": 4,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [],
+        "rosdep_ci_match_result": "no_match",
+        "rosdep_ci_found_count": 0,
+        "rosdep_ci_total_packages": 0
+      },
+      "debian_bookworm": {
+        "platform": "debian_bookworm",
+        "ground_truth_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_binnames": [
+          "python3-marisa"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-marisa"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-marisa"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-marisa"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-marisa"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "libmarisa-dev",
+          "libmarisa-perl",
+          "libmarisa0",
+          "marisa",
+          "python3-marisa",
+          "ruby-marisa"
+        ],
+        "mapper_total_packages": 6,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-marisa"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      }
+    },
+    "summary": {
+      "total_ground_truth_platforms": 7,
+      "detector_w07_exact_matches": 7,
+      "detector_w07_partial_matches": 0,
+      "detector_w07_no_matches": 0,
+      "llm_glm_4.7_exact_matches": 7,
+      "llm_glm_4.7_partial_matches": 0,
+      "llm_glm_4.7_no_matches": 0,
+      "llm_gemini_3_pro_exact_matches": 6,
+      "llm_gemini_3_pro_partial_matches": 0,
+      "llm_gemini_3_pro_no_matches": 1,
+      "llm_claude_opus_4_5_exact_matches": 7,
+      "llm_claude_opus_4_5_partial_matches": 0,
+      "llm_claude_opus_4_5_no_matches": 0,
+      "llm_deepseek_v3.2_exact_matches": 7,
+      "llm_deepseek_v3.2_partial_matches": 0,
+      "llm_deepseek_v3.2_no_matches": 0,
+      "mapper_exact_matches": 0,
+      "mapper_partial_matches": 7,
+      "mapper_no_matches": 0,
+      "rosdep_ci_exact_matches": 6,
+      "rosdep_ci_partial_matches": 0,
+      "rosdep_ci_no_matches": 1
+    },
+    "status": "completed"
+  }
+}

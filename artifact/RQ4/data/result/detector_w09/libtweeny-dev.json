@@ -1,0 +1,80 @@
+{
+  "ubuntu_jammy": [
+    {
+      "name": "libtweeny-dev",
+      "bin_name": "libtweeny-dev",
+      "src_name": "tweeny",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "3-2",
+      "description": "modern C++ tweening library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libtweeny-dev",
+      "bin_name": "libtweeny-dev",
+      "src_name": "tweeny",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "3-2",
+      "description": "modern C++ tweening library",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "tweeny",
+      "bin_name": "tweeny",
+      "src_name": "tweeny",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "3.2.0-r1",
+      "description": "Modern C++ tweening library",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libtweeny-dev",
+      "bin_name": "libtweeny-dev",
+      "src_name": "tweeny",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "3-2",
+      "description": "modern C++ tweening library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libtweeny-dev",
+      "bin_name": "libtweeny-dev",
+      "src_name": "tweeny",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "3-2",
+      "description": "modern C++ tweening library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "tweeny-devel",
+      "bin_name": "tweeny-devel",
+      "src_name": "tweeny",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "3.2.0-9.fc42",
+      "description": "Development files for tweeny",
+      "confidence": 1.0
+    }
+  ]
+}

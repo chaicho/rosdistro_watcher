@@ -1,0 +1,159 @@
+{
+  "arch": [
+    {
+      "name": "python-soundfile",
+      "bin_name": "python-soundfile",
+      "src_name": "python-soundfile",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Python library to read and write audio files using libsndfile, CFFI and NumPy",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-soundfile",
+      "bin_name": "python3-soundfile",
+      "src_name": "pysoundfile",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-soundfile-doc",
+      "bin_name": "python-soundfile-doc",
+      "src_name": "pysoundfile",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python-soundfile-doc",
+      "bin_name": "python-soundfile-doc",
+      "src_name": "python-soundfile",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An audio library based on libsndfile, CFFI and NumPy",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-soundfile",
+      "bin_name": "python3-soundfile",
+      "src_name": "python-soundfile",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An audio library based on libsndfile, CFFI and NumPy",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "PySoundFile",
+      "bin_name": "PySoundFile",
+      "src_name": "PySoundFile",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "An audio library based on libsndfile, CFFI and NumPy",
+      "confidence": 1.0
+    },
+    {
+      "name": "soundfile",
+      "bin_name": "soundfile",
+      "src_name": "soundfile",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "An audio library based on libsndfile, CFFI and NumPy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-soundfile",
+      "bin_name": "python3-soundfile",
+      "src_name": "pysoundfile",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-soundfile-doc",
+      "bin_name": "python-soundfile-doc",
+      "src_name": "pysoundfile",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python-soundfile-doc",
+      "bin_name": "python-soundfile-doc",
+      "src_name": "pysoundfile",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-soundfile",
+      "bin_name": "python3-soundfile",
+      "src_name": "pysoundfile",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-soundfile",
+      "bin_name": "python3-soundfile",
+      "src_name": "pysoundfile",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-soundfile-doc",
+      "bin_name": "python-soundfile-doc",
+      "src_name": "pysoundfile",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

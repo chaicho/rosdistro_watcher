@@ -1,0 +1,145 @@
+{
+  "rhel_8": [
+    {
+      "name": "lua-devel",
+      "bin_name": "lua-devel",
+      "src_name": "lua",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "5.3.4-12.el8",
+      "description": "Development files for lua",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "lua-devel",
+      "bin_name": "lua-devel",
+      "src_name": "lua",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "5.4.8-2.fc43",
+      "description": "Development files for lua",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "liblua5.1-0-dev",
+      "bin_name": "liblua5.1-0-dev",
+      "src_name": "lua5.1",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "5.1.5-8.1build4",
+      "description": "Development files for the Lua language version 5.1",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "lua-dev",
+      "bin_name": "lua5.1-dev",
+      "src_name": "lua5.1",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "5.1.5-r13",
+      "description": "A powerful light-weight programming language designed for extending applications. (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "lua51",
+      "bin_name": "lua51",
+      "src_name": "lua51",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "5.1.5-13",
+      "description": "Powerful lightweight programming language designed for extending applications",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "lua-devel",
+      "bin_name": "lua-devel",
+      "src_name": "lua",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "5.4.7-3.fc42",
+      "description": "Development files for lua",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "liblua5.1-0-dev",
+      "bin_name": "liblua5.1-0-dev",
+      "src_name": "lua5.1",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "5.1.5-8.1build4",
+      "description": "Development files for the Lua language version 5.1",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "liblua5.1-0-dev",
+      "bin_name": "liblua5.1-0-dev",
+      "src_name": "lua5.1",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "5.1.5-9build2",
+      "description": "Development files for the Lua language version 5.1",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "lua-devel",
+      "bin_name": "lua-devel",
+      "src_name": "lua",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "5.4.4-4.el9",
+      "description": "Development files for lua",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "lua51-devel",
+      "bin_name": "lua51-devel",
+      "src_name": "lua51",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "5.1.5-lp152.4.9",
+      "description": "Development files for lua",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "liblua5.1-0-dev",
+      "bin_name": "liblua5.1-0-dev",
+      "src_name": "lua5.1",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "5.1.5-9",
+      "description": "Development files for the Lua language version 5.1",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "arch": [
+    {
+      "name": "libgrpc.so=51-64",
+      "bin_name": "grpc",
+      "src_name": "grpc",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "1.76.0-4",
+      "description": "High performance, open source, general RPC framework that puts mobile and HTTP/2 first.",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "grpc-devel",
+      "bin_name": "grpc-devel",
+      "src_name": "grpc",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "1.48.4-46.fc42",
+      "description": "Development files for gRPC library",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "grpc-devel",
+      "bin_name": "grpc-devel",
+      "src_name": "grpc",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "1.25.0-lp152.1.5",
+      "description": "Development files for grpc, a HTTP/2 Remote Procedure Call implementation",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libgrpc++-dev",
+      "bin_name": "libgrpc++-dev",
+      "src_name": "grpc",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "1.51.1-4.1build5",
+      "description": "high performance general RPC framework (development)",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "grpc",
+      "bin_name": "grpc",
+      "src_name": "grpc",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "1.0.0",
+      "description": "Please install the official package with: pip install grpcio",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "grpc-dev",
+      "bin_name": "grpc-dev",
+      "src_name": "grpc",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "1.78.1-r2",
+      "description": "The C based gRPC (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "grpc-devel",
+      "bin_name": "grpc-devel",
+      "src_name": "grpc",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "1.46.7-10.el9",
+      "description": "Development files for gRPC library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "grpc-devel",
+      "bin_name": "grpc-devel",
+      "src_name": "grpc",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "1.48.4-54.fc43",
+      "description": "Development files for gRPC library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libgrpc++-dev",
+      "bin_name": "libgrpc++-dev",
+      "src_name": "grpc",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "1.30.2-3build6",
+      "description": "high performance general RPC framework (development)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libgrpc++-dev",
+      "bin_name": "libgrpc++-dev",
+      "src_name": "grpc",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "1.16.1-1ubuntu5",
+      "description": "high performance general RPC framework (development)",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libgrpc++-dev",
+      "bin_name": "libgrpc++-dev",
+      "src_name": "grpc (1.51.1-3)",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "1.51.1-3+b1",
+      "description": "high performance general RPC framework (development)",
+      "confidence": 1.0
+    }
+  ]
+}

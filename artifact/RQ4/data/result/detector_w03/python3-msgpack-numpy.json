@@ -1,0 +1,80 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "python3-msgpack-numpy",
+      "bin_name": "python3-msgpack-numpy",
+      "src_name": "python-msgpack-numpy",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "0.4.8-1",
+      "description": "serialize numpy arrays using msgpack",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python3-msgpack-numpy",
+      "bin_name": "python3-msgpack-numpy",
+      "src_name": "python-msgpack-numpy",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "0.4.5-lp152.1.1",
+      "description": "Numpy data serialization library using msgpack",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-msgpack-numpy",
+      "bin_name": "python3-msgpack-numpy",
+      "src_name": "python-msgpack-numpy",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.4.8-1",
+      "description": "serialize numpy arrays using msgpack",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "msgpack-numpy",
+      "bin_name": "msgpack-numpy",
+      "src_name": "msgpack-numpy",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.4.8",
+      "description": "Numpy data serialization using msgpack",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-msgpack-numpy",
+      "bin_name": "python3-msgpack-numpy",
+      "src_name": "python-msgpack-numpy",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "0.4.4-1",
+      "description": "serialize numpy arrays using msgpack",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-msgpack-numpy",
+      "bin_name": "python3-msgpack-numpy",
+      "src_name": "python-msgpack-numpy",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "0.4.4-1.1",
+      "description": "serialize numpy arrays using msgpack",
+      "confidence": 1.0
+    }
+  ]
+}

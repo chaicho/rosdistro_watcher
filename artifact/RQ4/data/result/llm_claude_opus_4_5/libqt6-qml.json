@@ -1,0 +1,93 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "libqt6qml6",
+      "bin_name": "libqt6qml6",
+      "src_name": "qt6-declarative",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "6.4.2+dfsg-4build3",
+      "description": "Qt 6 QML module",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "qt6-qtdeclarative",
+      "bin_name": "qt6-qtdeclarative",
+      "src_name": null,
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libqt6qml6",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "qt6-declarative",
+      "bin_name": "qt6-declarative",
+      "src_name": null,
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libqt6qml6",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libqt6qml6",
+      "bin_name": "libqt6qml6",
+      "src_name": null,
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libqt6qml6",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "qt6-qtdeclarative",
+      "bin_name": "qt6-qtdeclarative",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libqt6qml6",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "qt6-qtdeclarative",
+      "bin_name": "qt6-qtdeclarative",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libqt6qml6",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libqt6qml6",
+      "bin_name": "libqt6qml6",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libqt6qml6",
+      "confidence": 1.0
+    }
+  ]
+}

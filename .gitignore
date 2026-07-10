@@ -1,0 +1,67 @@
+# Ignore everything else first
+*
+
+# Local/internal notes
+reproduce.md
+
+# Then add exceptions (must come after *)
+!Dockerfile
+!.dockerignore
+!docker
+!artifact
+!rosdep_auditor
+!rosdep
+!web_app
+!docker/**
+!artifact/** 
+!rosdep_auditor/**
+!rosdep/**
+!web_app/**
+
+# Internal review notes and generated publication files
+**/reproduce.md
+artifact/PAPER_RESULT_AUDIT.zh.md
+
+# Local credentials and environment overrides
+**/.env
+**/.env.*
+**/*credentials*.json
+**/*secret*.json
+**/*secret*.yaml
+**/*secret*.yml
+**/*.pem
+**/*.key
+
+# Local development state
+**/.venv/
+**/.venv-*/
+**/.idea/
+**/.vscode/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.coverage
+**/htmlcov/
+**/*.egg-info/
+**/.docker-cache/
+**/rosdep_cache/
+**/logs/
+**/temp/
+**/.cache/
+**/cache/
+**/.ipynb_checkpoints/
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+**/nohup.out
+**/*.tar
+**/*.tar.gz
+
+# Python
+**/__pycache__
+**/.DS_Store
+*.pyc
+*.pyo
+web_app/rosdepauditor_web_app.egg-info/
+*.out
+*.log

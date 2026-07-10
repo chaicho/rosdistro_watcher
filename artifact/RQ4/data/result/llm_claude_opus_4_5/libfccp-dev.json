@@ -1,0 +1,80 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "libfccp-dev",
+      "bin_name": "libfccp-dev",
+      "src_name": "fast-cpp-csv-parser",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.0+git20160525~9bf299c-2",
+      "description": "Fast C++ CSV Parser",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "fast-cpp-csv-parser",
+      "bin_name": "fast-cpp-csv-parser",
+      "src_name": null,
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libfccp-dev",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libfccp-dev",
+      "bin_name": "libfccp-dev",
+      "src_name": null,
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libfccp-dev",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "fast-cpp-csv-parser-devel",
+      "bin_name": "fast-cpp-csv-parser-devel",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libfccp-dev",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "fast-cpp-csv-parser-devel",
+      "bin_name": "fast-cpp-csv-parser-devel",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libfccp-dev",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libfccp-dev",
+      "bin_name": "libfccp-dev",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libfccp-dev",
+      "confidence": 1.0
+    }
+  ]
+}

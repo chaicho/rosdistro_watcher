@@ -1,0 +1,143 @@
+{
+  "alpine_edge": [
+    {
+      "name": "py3-semver",
+      "bin_name": "py3-semver",
+      "src_name": "py3-semver",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python package to work with Semantic Versioning",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-semver-pyc",
+      "bin_name": "py3-semver-pyc",
+      "src_name": "py3-semver",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-semver",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-semver",
+      "bin_name": "python-semver",
+      "src_name": "python-semver",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python helper for Semantic Versioning",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-semver",
+      "bin_name": "python3-semver",
+      "src_name": "python-semver",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-semver",
+      "bin_name": "python3-semver",
+      "src_name": "python-semver",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python helper for Semantic Versioning",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-semver",
+      "bin_name": "python3-semver",
+      "src_name": "python-semver",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python helper for Semantic Versioning",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-semver",
+      "bin_name": "python3-semver",
+      "src_name": "python-semver",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python helper for Semantic Versioning",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "semver",
+      "bin_name": "semver",
+      "src_name": "semver",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "Python helper for Semantic Versioning (https://semver.org)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-semver",
+      "bin_name": "python3-semver",
+      "src_name": "python-semver",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-semver",
+      "bin_name": "python3-semver",
+      "src_name": "python-semver",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-semver",
+      "bin_name": "python3-semver",
+      "src_name": "python-semver",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

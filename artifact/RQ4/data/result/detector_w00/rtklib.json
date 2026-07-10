@@ -1,0 +1,93 @@
+{
+  "rhel_8": [
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "2.4.3.b33-5.el8",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "2.4.3.b33-16.fc42",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "2.4.3.b34+dfsg-1",
+      "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "2.4.3.b33-17.fc43",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "rtklib-qt",
+      "bin_name": "rtklib-qt",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "",
+      "description": "Tools for standard and precise positioning with GNSS QT interface",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "2.4.3.b34+dfsg-1build2",
+      "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib (2.4.3.b34+dfsg-1)",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "2.4.3.b34+dfsg-1+b1",
+      "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+      "confidence": 1.0
+    }
+  ]
+}

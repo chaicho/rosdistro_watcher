@@ -1,0 +1,119 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.25-4build2",
+      "description": "libiio development files",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": "libiio",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "0.25-r3",
+      "description": "Interface to the Linux Industrial Input/Output (IIO) Subsystem (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libiio-devel",
+      "bin_name": "libiio-devel",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "0.26-7.fc43",
+      "description": "Development package for libiio",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "iio",
+      "bin_name": "iio",
+      "src_name": "iio",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "29",
+      "description": "Python wrapper to iio",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": "libiio",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "0.24-4",
+      "description": "libiio development files",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libiio-devel",
+      "bin_name": "libiio-devel",
+      "src_name": "libiio",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "0.26-3.fc42",
+      "description": "Development package for libiio",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "0.19-1",
+      "description": "libiio development files",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "libiio.so=0-64",
+      "bin_name": "libiio",
+      "src_name": "libiio",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.26-5",
+      "description": "Interface to the Linux Industrial Input/Output (IIO) Subsystem",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "0.23-2",
+      "description": "libiio development files",
+      "confidence": 1.0
+    }
+  ]
+}

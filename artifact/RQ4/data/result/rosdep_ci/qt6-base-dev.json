@@ -1,0 +1,54 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "qt6-base-dev",
+      "bin_name": "qt6-base-dev",
+      "src_name": "qt6-base",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "6.4.2+dfsg-10",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "qt6-base-dev",
+      "bin_name": "qt6-base-dev",
+      "src_name": "qt6-base",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "6.4.2+dfsg-21.1build5",
+      "description": "Found by rosdep CI (suggested) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "qt6-base-dev",
+      "bin_name": "qt6-base-dev",
+      "src_name": "qt6-base",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "6.2.4+dfsg-2ubuntu1",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "qt6-base-dev",
+      "bin_name": "qt6-base-dev",
+      "src_name": "qt6-base",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "6.4.2+dfsg-21.1build5",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

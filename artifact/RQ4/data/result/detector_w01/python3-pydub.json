@@ -1,0 +1,93 @@
+{
+  "arch": [
+    {
+      "name": "python-pydub",
+      "bin_name": "python-pydub",
+      "src_name": "python-pydub",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.25.1-8",
+      "description": "Manipulate audio with a simple and easy high level interface",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python3-pydub",
+      "bin_name": "python3-pydub",
+      "src_name": "python-pydub",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "0.23.1-lp152.2.3",
+      "description": "Audio manipulation with Python",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "pydub",
+      "bin_name": "pydub",
+      "src_name": "pydub",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.25.1",
+      "description": "Manipulate audio with an simple and easy high level interface",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-pydub",
+      "bin_name": "python3-pydub",
+      "src_name": "python-pydub",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "0.24.1-1",
+      "description": "Python audio sample manipulation (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-pydub",
+      "bin_name": "python3-pydub",
+      "src_name": "python-pydub",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "0.24.1-1",
+      "description": "Python audio sample manipulation (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-pydub",
+      "bin_name": "python3-pydub",
+      "src_name": "python-pydub",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.24.1-1",
+      "description": "Python audio sample manipulation (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-pydub",
+      "bin_name": "python3-pydub",
+      "src_name": "python-pydub",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "0.23.1-2",
+      "description": "Python audio sample manipulation (Python 3)",
+      "confidence": 1.0
+    }
+  ]
+}

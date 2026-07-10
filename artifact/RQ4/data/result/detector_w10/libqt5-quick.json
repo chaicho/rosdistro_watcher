@@ -1,0 +1,145 @@
+{
+  "rhel_8": [
+    {
+      "name": "qt5-qtdeclarative-devel",
+      "bin_name": "qt5-qtdeclarative-devel",
+      "src_name": "qt5-qtdeclarative",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "5.15.3-2.el8",
+      "description": "Development files for qt5-qtdeclarative",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libqt5quick5",
+      "bin_name": "libqt5quick5",
+      "src_name": "qtdeclarative-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "5.15.13+dfsg-1",
+      "description": "Qt 5 Quick library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libqt5quick5",
+      "bin_name": "libqt5quick5",
+      "src_name": "qtdeclarative-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "5.15.3+dfsg-1",
+      "description": "Qt 5 Quick library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libqt5quick5",
+      "bin_name": "libqt5quick5",
+      "src_name": "qtdeclarative-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "5.12.8-0ubuntu1",
+      "description": "Qt 5 Quick library",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "qt5-qtdeclarative",
+      "bin_name": "qt5-qtdeclarative",
+      "src_name": "qt5-qtdeclarative",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "5.15.18_git20251107-r0",
+      "description": "Qt5 - QtDeclarative component",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libqt5quick5",
+      "bin_name": "libqt5quick5",
+      "src_name": "qtdeclarative-opensource-src",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "5.15.8+dfsg-3",
+      "description": "Qt 5 Quick library",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "qt5-qtdeclarative-devel",
+      "bin_name": "qt5-qtdeclarative-devel",
+      "src_name": "qt5-qtdeclarative",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "5.15.9-3.el9",
+      "description": "Development files for qt5-qtdeclarative",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "qt5-qtdeclarative-devel",
+      "bin_name": "qt5-qtdeclarative-devel",
+      "src_name": "qt5-qtdeclarative",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "5.15.17-2.fc43",
+      "description": "Development files for qt5-qtdeclarative",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "libQtQuick5",
+      "bin_name": "libQtQuick5",
+      "src_name": "libqt5-qtdeclarative",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "5.12.7-lp152.2.2",
+      "description": "Qt 5 Declarative Library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "qt5-qtdeclarative-devel",
+      "bin_name": "qt5-qtdeclarative-devel",
+      "src_name": "qt5-qtdeclarative",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "5.15.16-2.fc42",
+      "description": "Development files for qt5-qtdeclarative",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "qt5-declarative",
+      "bin_name": "qt5-declarative",
+      "src_name": "qt5-declarative",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "5.15.18+kde+r23-1",
+      "description": "Classes for QML and JavaScript languages",
+      "confidence": 1.0
+    }
+  ]
+}

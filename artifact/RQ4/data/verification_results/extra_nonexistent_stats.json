@@ -1,0 +1,72 @@
+{
+  "detector_w07": {
+    "entries": 1143,
+    "exact_matches": 808,
+    "partial_matches": 1,
+    "total_matches": 809,
+    "verified_entries": 1143,
+    "extra_total": 334,
+    "unverified_count": 0,
+    "unverified_rate": "0.0%"
+  },
+  "llm_glm_4.7": {
+    "entries": 1121,
+    "exact_matches": 766,
+    "partial_matches": 0,
+    "total_matches": 766,
+    "verified_entries": 971,
+    "extra_total": 355,
+    "unverified_count": 150,
+    "unverified_rate": "42.3%"
+  },
+  "llm_gemini_3_pro": {
+    "entries": 1151,
+    "exact_matches": 785,
+    "partial_matches": 4,
+    "total_matches": 789,
+    "verified_entries": 1013,
+    "extra_total": 362,
+    "unverified_count": 138,
+    "unverified_rate": "38.1%"
+  },
+  "llm_claude_opus_4_5": {
+    "entries": 984,
+    "exact_matches": 702,
+    "partial_matches": 0,
+    "total_matches": 702,
+    "verified_entries": 914,
+    "extra_total": 282,
+    "unverified_count": 70,
+    "unverified_rate": "24.8%"
+  },
+  "llm_deepseek_v3.2": {
+    "entries": 1160,
+    "exact_matches": 700,
+    "partial_matches": 0,
+    "total_matches": 700,
+    "verified_entries": 903,
+    "extra_total": 460,
+    "unverified_count": 257,
+    "unverified_rate": "55.9%"
+  },
+  "mapper": {
+    "entries": 110652,
+    "exact_matches": 173,
+    "partial_matches": 522,
+    "total_matches": 695,
+    "verified_entries": 110652,
+    "extra_total": 109957,
+    "unverified_count": 0,
+    "unverified_rate": "0.0%"
+  },
+  "rosdep_ci": {
+    "entries": 706,
+    "exact_matches": 577,
+    "partial_matches": 0,
+    "total_matches": 577,
+    "verified_entries": 706,
+    "extra_total": 129,
+    "unverified_count": 0,
+    "unverified_rate": "0.0%"
+  }
+}

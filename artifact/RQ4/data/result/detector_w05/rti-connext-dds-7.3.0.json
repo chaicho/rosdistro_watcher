@@ -1,0 +1,54 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "rti-connext-dds-7.3.0-ros",
+      "bin_name": "rti-connext-dds-7.3.0-ros",
+      "src_name": "rti-connext-dds-7.3.0-ros",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "7.3.0.0-5-4bullseye",
+      "description": "RTI Connext 7.3.0 for ROS 2 RTI Connext is the world's leading architecture for developing intelligent distributed systems. . This package contains all files required to build and run the RTI Connext RMW for ROS 2.",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "rti-connext-dds-6.0.1",
+      "bin_name": "rti-connext-dds-6.0.1",
+      "src_name": "rti-connext-dds-6.0.1",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "6.0.1.25-1",
+      "description": "real-time messaging and integration platform. This package contains a minimal evaluation bundle of RTI Connext DDS 6.0.1, . The package includes all the C/C++ libraries, header files, and tools required to build and run an application with RTI Connext DDS. . The software is released under RTI's Non-Commercial and Pre-Commercial License Agreement.",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "rti-connext-dds-7.3.0-ros",
+      "bin_name": "rti-connext-dds-7.3.0-ros",
+      "src_name": "rti-connext-dds-7.3.0-ros",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "7.3.0.0-5-4bullseye",
+      "description": "RTI Connext 7.3.0 for ROS 2 RTI Connext is the world's leading architecture for developing intelligent distributed systems. . This package contains all files required to build and run the RTI Connext RMW for ROS 2.",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "rti-connext-dds-6.0.1",
+      "bin_name": "rti-connext-dds-6.0.1",
+      "src_name": "rti-connext-dds-6.0.1",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "6.0.1.25-1",
+      "description": "real-time messaging and integration platform. This package contains a minimal evaluation bundle of RTI Connext DDS 6.0.1, . The package includes all the C/C++ libraries, header files, and tools required to build and run an application with RTI Connext DDS. . The software is released under RTI's Non-Commercial and Pre-Commercial License Agreement.",
+      "confidence": 1.0
+    }
+  ]
+}

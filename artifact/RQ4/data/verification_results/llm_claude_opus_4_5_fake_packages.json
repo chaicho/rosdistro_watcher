@@ -1,0 +1,352 @@
+[
+  {
+    "package": "atlas",
+    "platform": "alpine_edge",
+    "bin_name": "atlas-dev"
+  },
+  {
+    "package": "atlas",
+    "platform": "arch",
+    "bin_name": "blas-atlas"
+  },
+  {
+    "package": "atlas",
+    "platform": "opensuse_15.2",
+    "bin_name": "libatlas3-devel"
+  },
+  {
+    "package": "castxml",
+    "platform": "alpine_edge",
+    "bin_name": "castxml"
+  },
+  {
+    "package": "cbindgen",
+    "platform": "fedora_42",
+    "bin_name": "rust-cbindgen"
+  },
+  {
+    "package": "cbindgen",
+    "platform": "fedora_43",
+    "bin_name": "rust-cbindgen"
+  },
+  {
+    "package": "gtk4",
+    "platform": "opensuse_15.2",
+    "bin_name": "gtk4-devel"
+  },
+  {
+    "package": "iwyu",
+    "platform": "arch",
+    "bin_name": "include-what-you-use"
+  },
+  {
+    "package": "libfccp-dev",
+    "platform": "arch",
+    "bin_name": "fast-cpp-csv-parser"
+  },
+  {
+    "package": "libfccp-dev",
+    "platform": "fedora_42",
+    "bin_name": "fast-cpp-csv-parser-devel"
+  },
+  {
+    "package": "libfccp-dev",
+    "platform": "fedora_43",
+    "bin_name": "fast-cpp-csv-parser-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "fedora_42",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "fedora_43",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "rhel_9",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libicu-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "icu-devel"
+  },
+  {
+    "package": "libiio-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "libiio-devel"
+  },
+  {
+    "package": "libomp-dev",
+    "platform": "alpine_edge",
+    "bin_name": "libomp-dev"
+  },
+  {
+    "package": "libomp-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "libomp-devel"
+  },
+  {
+    "package": "libpaho-mqttpp-dev",
+    "platform": "alpine_edge",
+    "bin_name": "paho-mqtt-cpp-dev"
+  },
+  {
+    "package": "libpaho-mqttpp-dev",
+    "platform": "arch",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp-dev",
+    "platform": "fedora_42",
+    "bin_name": "paho-mqtt-cpp-devel"
+  },
+  {
+    "package": "libpaho-mqttpp-dev",
+    "platform": "fedora_43",
+    "bin_name": "paho-mqtt-cpp-devel"
+  },
+  {
+    "package": "libpaho-mqttpp-dev",
+    "platform": "ubuntu_focal",
+    "bin_name": "libpaho-mqttpp-dev"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "alpine_edge",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "arch",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "fedora_42",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "fedora_43",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libqt5-gui",
+    "platform": "alpine_edge",
+    "bin_name": "qt5-qtbase-gui"
+  },
+  {
+    "package": "libqt5-qml",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt5Qml5"
+  },
+  {
+    "package": "libqt5-quick",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt5Quick5"
+  },
+  {
+    "package": "libtweeny-dev",
+    "platform": "arch",
+    "bin_name": "tweeny"
+  },
+  {
+    "package": "libtweeny-dev",
+    "platform": "fedora_43",
+    "bin_name": "tweeny-devel"
+  },
+  {
+    "package": "opende",
+    "platform": "alpine_edge",
+    "bin_name": "ode-dev"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "fedora_42",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "fedora_43",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "ubuntu_jammy",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-docstring-parser",
+    "platform": "alpine_edge",
+    "bin_name": "py3-docstring-parser"
+  },
+  {
+    "package": "python3-docstring-parser",
+    "platform": "arch",
+    "bin_name": "python-docstring-parser"
+  },
+  {
+    "package": "python3-docstring-parser",
+    "platform": "debian_bookworm",
+    "bin_name": "python3-docstring-parser"
+  },
+  {
+    "package": "python3-mongomock",
+    "platform": "alpine_edge",
+    "bin_name": "py3-mongomock"
+  },
+  {
+    "package": "python3-mongomock",
+    "platform": "ubuntu_focal",
+    "bin_name": "python3-mongomock"
+  },
+  {
+    "package": "python3-mongomock",
+    "platform": "ubuntu_jammy",
+    "bin_name": "python3-mongomock"
+  },
+  {
+    "package": "python3-msgpack-numpy",
+    "platform": "arch",
+    "bin_name": "python-msgpack-numpy"
+  },
+  {
+    "package": "python3-msgpack-numpy",
+    "platform": "fedora_42",
+    "bin_name": "python3-msgpack-numpy"
+  },
+  {
+    "package": "python3-msgpack-numpy",
+    "platform": "fedora_43",
+    "bin_name": "python3-msgpack-numpy"
+  },
+  {
+    "package": "python3-platformdirs",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-platformdirs"
+  },
+  {
+    "package": "python3-pre-commit",
+    "platform": "ubuntu_focal",
+    "bin_name": "pre-commit"
+  },
+  {
+    "package": "python3-pycryptodome",
+    "platform": "fedora_42",
+    "bin_name": "python3-pycryptodome"
+  },
+  {
+    "package": "python3-pycryptodome",
+    "platform": "fedora_43",
+    "bin_name": "python3-pycryptodome"
+  },
+  {
+    "package": "python3-pycryptodome",
+    "platform": "rhel_8",
+    "bin_name": "python3-pycryptodome"
+  },
+  {
+    "package": "python3-pycryptodome",
+    "platform": "rhel_9",
+    "bin_name": "python3-pycryptodome"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "alpine_edge",
+    "bin_name": "py3-pydub"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "fedora_42",
+    "bin_name": "python3-pydub"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "fedora_43",
+    "bin_name": "python3-pydub"
+  },
+  {
+    "package": "python3-pyparsing",
+    "platform": "alpine_edge",
+    "bin_name": "py3-pyparsing"
+  },
+  {
+    "package": "python3-rich",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-rich"
+  },
+  {
+    "package": "python3-soundfile",
+    "platform": "alpine_edge",
+    "bin_name": "py3-soundfile"
+  },
+  {
+    "package": "python3-soundfile",
+    "platform": "fedora_42",
+    "bin_name": "python3-soundfile"
+  },
+  {
+    "package": "python3-xlib",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-xlib"
+  },
+  {
+    "package": "qt6-5compat-dev",
+    "platform": "ubuntu_jammy",
+    "bin_name": "qt6-5compat-dev"
+  },
+  {
+    "package": "qt6-declarative-private-dev",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtdeclarative-private-devel"
+  },
+  {
+    "package": "qt6-declarative-private-dev",
+    "platform": "fedora_43",
+    "bin_name": "qt6-qtdeclarative-private-devel"
+  },
+  {
+    "package": "rsyslog",
+    "platform": "arch",
+    "bin_name": "rsyslog"
+  },
+  {
+    "package": "rtklib",
+    "platform": "arch",
+    "bin_name": "rtklib"
+  },
+  {
+    "package": "sdl",
+    "platform": "fedora_42",
+    "bin_name": "SDL-devel"
+  },
+  {
+    "package": "sdl",
+    "platform": "fedora_43",
+    "bin_name": "SDL-devel"
+  },
+  {
+    "package": "sdl",
+    "platform": "rhel_9",
+    "bin_name": "SDL-devel"
+  },
+  {
+    "package": "uhubctl",
+    "platform": "arch",
+    "bin_name": "uhubctl"
+  },
+  {
+    "package": "wx-common",
+    "platform": "alpine_edge",
+    "bin_name": "wxwidgets-common"
+  }
+]

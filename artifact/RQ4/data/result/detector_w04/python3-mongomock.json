@@ -1,0 +1,93 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "python3-mongomock",
+      "bin_name": "python3-mongomock",
+      "src_name": "python-mongomock",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "4.1.2-1",
+      "description": "Fake pymongo stub for testing simple MongoDB-dependent code (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-mongomock",
+      "bin_name": "python-mongomock",
+      "src_name": "python-mongomock",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "4.0.0-7",
+      "description": "Fake pymongo stub for testing simple MongoDB-dependent code",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-mongomock",
+      "bin_name": "python3-mongomock",
+      "src_name": "python-mongomock",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "4.1.3-1",
+      "description": "Fake pymongo stub for testing simple MongoDB-dependent code (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "mongomock",
+      "bin_name": "mongomock",
+      "src_name": "mongomock",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "4.3.0",
+      "description": "Fake pymongo stub for testing simple MongoDB-dependent code",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "python3-mongomock",
+      "bin_name": "python3-mongomock",
+      "src_name": "python-mongomock",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "3.20.0-1.el8",
+      "description": "Module for testing MongoDB-dependent code",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-mongomock",
+      "bin_name": "python3-mongomock",
+      "src_name": "python-mongomock",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "4.1.2-2.fc42",
+      "description": "Module for testing MongoDB-dependent code",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-mongomock",
+      "bin_name": "python3-mongomock",
+      "src_name": "python-mongomock",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "4.1.2-5.fc43",
+      "description": "Module for testing MongoDB-dependent code",
+      "confidence": 1.0
+    }
+  ]
+}

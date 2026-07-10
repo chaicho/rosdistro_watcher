@@ -1,0 +1,41 @@
+{
+  "ubuntu_jammy": [
+    {
+      "name": "gurumdds-3.2",
+      "bin_name": "gurumdds-3.2",
+      "src_name": "gurumdds-3.2",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "3.2.9-jammy",
+      "description": "DDS Implementation by GurumNetworks, Inc.",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "gurumdds-2.8",
+      "bin_name": "gurumdds-2.8",
+      "src_name": "gurumdds-2.8",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "2.8.3228-focal",
+      "description": "DDS Implementation by GurumNetworks, Inc.",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "gurumdds-3.2",
+      "bin_name": "gurumdds-3.2",
+      "src_name": "gurumdds-3.2",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "3.2.3-noble",
+      "description": "DDS Implementation by GurumNetworks, Inc.",
+      "confidence": 1.0
+    }
+  ]
+}

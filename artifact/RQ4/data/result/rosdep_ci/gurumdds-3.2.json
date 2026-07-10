@@ -1,0 +1,80 @@
+{
+  "ros_focal": [
+    {
+      "name": "gurumdds-3.2",
+      "bin_name": "gurumdds-3.2",
+      "src_name": "gurumdds-3.2",
+      "repo_name": "ros",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "3.2.3-noble",
+      "description": "Found by rosdep CI (suggested) in ros focal",
+      "confidence": 1.0
+    }
+  ],
+  "ros_jammy": [
+    {
+      "name": "gurumdds-3.2",
+      "bin_name": "gurumdds-3.2",
+      "src_name": "gurumdds-3.2",
+      "repo_name": "ros",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "3.2.9-jammy",
+      "description": "Found by rosdep CI (exact) in ros jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ros_noble": [
+    {
+      "name": "gurumdds-3.2",
+      "bin_name": "gurumdds-3.2",
+      "src_name": "gurumdds-3.2",
+      "repo_name": "ros",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "3.2.3-noble",
+      "description": "Found by rosdep CI (exact) in ros noble",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "gurumdds-3.2",
+      "bin_name": "gurumdds-3.2",
+      "src_name": "gurumdds-3.2",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "3.2.3-noble",
+      "description": "Found by rosdep CI (suggested) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "gurumdds-3.2",
+      "bin_name": "gurumdds-3.2",
+      "src_name": "gurumdds-3.2",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "3.2.9-jammy",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "gurumdds-3.2",
+      "bin_name": "gurumdds-3.2",
+      "src_name": "gurumdds-3.2",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "3.2.3-noble",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

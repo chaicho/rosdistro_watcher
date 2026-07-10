@@ -1,0 +1,173 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "libadwaita-1-doc",
+      "bin_name": "libadwaita-1-doc",
+      "src_name": "libadwaita-1",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libadwaita-1-dev",
+      "bin_name": "libadwaita-1-dev",
+      "src_name": "libadwaita-1",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libadwaita-1-0",
+      "bin_name": "libadwaita-1-0",
+      "src_name": "libadwaita-1",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libadwaita-1-examples",
+      "bin_name": "libadwaita-1-examples",
+      "src_name": "libadwaita-1",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-adw-1",
+      "bin_name": "gir1.2-adw-1",
+      "src_name": "libadwaita-1",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "gir1.2-adw-1",
+      "bin_name": "gir1.2-adw-1",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libadwaita-1-examples",
+      "bin_name": "libadwaita-1-examples",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libadwaita-1-0",
+      "bin_name": "libadwaita-1-0",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libadwaita-1-dev",
+      "bin_name": "libadwaita-1-dev",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libadwaita-1-doc",
+      "bin_name": "libadwaita-1-doc",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libadwaita-1-0",
+      "bin_name": "libadwaita-1-0",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libadwaita-1-examples",
+      "bin_name": "libadwaita-1-examples",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libadwaita-1-dev",
+      "bin_name": "libadwaita-1-dev",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libadwaita-1-doc",
+      "bin_name": "libadwaita-1-doc",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-adw-1",
+      "bin_name": "gir1.2-adw-1",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

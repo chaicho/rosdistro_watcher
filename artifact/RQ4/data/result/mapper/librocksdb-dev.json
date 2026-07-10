@@ -1,0 +1,306 @@
+{
+  "alpine_edge": [
+    {
+      "name": "rocksdb-dev",
+      "bin_name": "rocksdb-dev",
+      "src_name": "rocksdb",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "persistent key-value store for fast storage environments (development files)",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb",
+      "bin_name": "rocksdb",
+      "src_name": "rocksdb",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "persistent key-value store for fast storage environments",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb-doc",
+      "bin_name": "rocksdb-doc",
+      "src_name": "rocksdb",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "persistent key-value store for fast storage environments (documentation)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "rocksdb",
+      "bin_name": "rocksdb",
+      "src_name": "rocksdb",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Embedded key-value store for fast storage",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "librocksdb7.8",
+      "bin_name": "librocksdb7.8",
+      "src_name": "rocksdb",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb-tools",
+      "bin_name": "rocksdb-tools",
+      "src_name": "rocksdb",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librocksdb-dev",
+      "bin_name": "librocksdb-dev",
+      "src_name": "rocksdb",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "rocksdb",
+      "bin_name": "rocksdb",
+      "src_name": "rocksdb",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Persistent Key-Value Store for Flash and RAM Storage",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb-debuginfo",
+      "bin_name": "rocksdb-debuginfo",
+      "src_name": "rocksdb",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Persistent Key-Value Store for Flash and RAM Storage",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb-debugsource",
+      "bin_name": "rocksdb-debugsource",
+      "src_name": "rocksdb",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Persistent Key-Value Store for Flash and RAM Storage",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb-devel",
+      "bin_name": "rocksdb-devel",
+      "src_name": "rocksdb",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Persistent Key-Value Store for Flash and RAM Storage",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "rocksdb-devel",
+      "bin_name": "rocksdb-devel",
+      "src_name": "rocksdb",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Persistent Key-Value Store for Flash and RAM Storage",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb",
+      "bin_name": "rocksdb",
+      "src_name": "rocksdb",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Persistent Key-Value Store for Flash and RAM Storage",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb-tools",
+      "bin_name": "rocksdb-tools",
+      "src_name": "rocksdb",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Persistent Key-Value Store for Flash and RAM Storage",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "rocksdb-devel",
+      "bin_name": "rocksdb-devel",
+      "src_name": "rocksdb",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Persistent Key-Value Store for Flash and RAM Storage",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb",
+      "bin_name": "rocksdb",
+      "src_name": "rocksdb",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Persistent Key-Value Store for Flash and RAM Storage",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb-tools",
+      "bin_name": "rocksdb-tools",
+      "src_name": "rocksdb",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A Persistent Key-Value Store for Flash and RAM Storage",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "rocksdb-tools",
+      "bin_name": "rocksdb-tools",
+      "src_name": "rocksdb",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librocksdb5.17",
+      "bin_name": "librocksdb5.17",
+      "src_name": "rocksdb",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librocksdb-dev",
+      "bin_name": "librocksdb-dev",
+      "src_name": "rocksdb",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "librocksdb-dev",
+      "bin_name": "librocksdb-dev",
+      "src_name": "rocksdb",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb-tools",
+      "bin_name": "rocksdb-tools",
+      "src_name": "rocksdb",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librocksdb6.11",
+      "bin_name": "librocksdb6.11",
+      "src_name": "rocksdb",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "librocksdb8.9",
+      "bin_name": "librocksdb8.9",
+      "src_name": "rocksdb",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rocksdb-tools",
+      "bin_name": "rocksdb-tools",
+      "src_name": "rocksdb",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librocksdb-dev",
+      "bin_name": "librocksdb-dev",
+      "src_name": "rocksdb",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

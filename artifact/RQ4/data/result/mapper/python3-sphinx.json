@@ -1,0 +1,352 @@
+{
+  "rhel_9": [
+    {
+      "name": "python-sphinx-doc",
+      "bin_name": "python-sphinx-doc",
+      "src_name": "python-sphinx",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python documentation generator",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-sphinx-latex",
+      "bin_name": "python3-sphinx-latex",
+      "src_name": "python-sphinx",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python documentation generator",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-sphinx",
+      "bin_name": "python3-sphinx",
+      "src_name": "python-sphinx",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python documentation generator",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-sphinx",
+      "bin_name": "py3-sphinx",
+      "src_name": "py3-sphinx",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python Documentation Generator",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-sphinx-pyc",
+      "bin_name": "py3-sphinx-pyc",
+      "src_name": "py3-sphinx",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-sphinx",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-sphinx",
+      "bin_name": "python-sphinx",
+      "src_name": "python-sphinx",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python documentation generator",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-sphinx",
+      "bin_name": "python3-sphinx",
+      "src_name": "sphinx",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "sphinx-common",
+      "bin_name": "sphinx-common",
+      "src_name": "sphinx",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libjs-sphinxdoc",
+      "bin_name": "libjs-sphinxdoc",
+      "src_name": "sphinx",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "sphinx-doc",
+      "bin_name": "sphinx-doc",
+      "src_name": "sphinx",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-sphinx-latex",
+      "bin_name": "python3-sphinx-latex",
+      "src_name": "python-sphinx",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python documentation generator",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-sphinx",
+      "bin_name": "python3-sphinx",
+      "src_name": "python-sphinx",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python documentation generator",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-sphinx-doc",
+      "bin_name": "python-sphinx-doc",
+      "src_name": "python-sphinx",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python documentation generator",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-sphinx",
+      "bin_name": "python3-sphinx",
+      "src_name": "python-sphinx",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python documentation generator",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-sphinx-doc",
+      "bin_name": "python-sphinx-doc",
+      "src_name": "python-sphinx",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python documentation generator",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-sphinx-latex",
+      "bin_name": "python3-sphinx-latex",
+      "src_name": "python-sphinx",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python documentation generator",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "sphinx-doc",
+      "bin_name": "sphinx-doc",
+      "src_name": "sphinx-doc",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "Automated Sphinx documentation generator for SystemVerilog and Python UVM testbenches",
+      "confidence": 1.0
+    },
+    {
+      "name": "Sphinx",
+      "bin_name": "Sphinx",
+      "src_name": "Sphinx",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "Python documentation generator",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "sphinx-common",
+      "bin_name": "sphinx-common",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "sphinx-doc",
+      "bin_name": "sphinx-doc",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libjs-sphinxdoc",
+      "bin_name": "libjs-sphinxdoc",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-sphinx",
+      "bin_name": "python3-sphinx",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-sphinx",
+      "bin_name": "python3-sphinx",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libjs-sphinxdoc",
+      "bin_name": "libjs-sphinxdoc",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "sphinx-common",
+      "bin_name": "sphinx-common",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "sphinx-doc",
+      "bin_name": "sphinx-doc",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-sphinx",
+      "bin_name": "python3-sphinx",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "sphinx-common",
+      "bin_name": "sphinx-common",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libjs-sphinxdoc",
+      "bin_name": "libjs-sphinxdoc",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "sphinx-doc",
+      "bin_name": "sphinx-doc",
+      "src_name": "sphinx",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

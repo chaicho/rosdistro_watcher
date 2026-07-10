@@ -1,0 +1,158 @@
+{
+  "rhel_8": [
+    {
+      "name": "python3-ruamel-yaml",
+      "bin_name": "python3-ruamel-yaml",
+      "src_name": "python-ruamel-yaml",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "0.17.21-1.el8",
+      "description": "YAML 1.2 loader/dumper package for Python",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-ruamel.yaml",
+      "bin_name": "python3-ruamel.yaml",
+      "src_name": "ruamel.yaml",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "0.17.16-1",
+      "description": "roundtrip YAML parser/emitter (Python 3 module)",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-ruamel.yaml",
+      "bin_name": "py3-ruamel.yaml",
+      "src_name": "py3-ruamel.yaml",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "0.19.1-r0",
+      "description": "Python YAML parser/emitter",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python2-ruamel.yaml",
+      "bin_name": "python2-ruamel.yaml",
+      "src_name": "python-ruamel.yaml",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "0.16.10-lp152.1.1",
+      "description": "Python YAML parser",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-ruamel.yaml",
+      "bin_name": "python3-ruamel.yaml",
+      "src_name": "ruamel.yaml",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "0.17.21-1",
+      "description": "roundtrip YAML parser/emitter (Python 3 module)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-ruamel.yaml",
+      "bin_name": "python3-ruamel.yaml",
+      "src_name": "ruamel.yaml",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "0.15.89-3build1",
+      "description": "roundtrip YAML parser/emitter (Python 3 module)",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "ruamel.yaml",
+      "bin_name": "ruamel.yaml",
+      "src_name": "ruamel.yaml",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.19.1",
+      "description": "ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-ruamel-yaml",
+      "bin_name": "python3-ruamel-yaml",
+      "src_name": "python-ruamel-yaml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "0.18.15-2.fc43",
+      "description": "YAML 1.2 loader/dumper package for Python",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-ruamel.yaml",
+      "bin_name": "python3-ruamel.yaml",
+      "src_name": "ruamel.yaml",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.17.21-1",
+      "description": "roundtrip YAML parser/emitter (Python 3 module)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-ruamel-yaml",
+      "bin_name": "python3-ruamel-yaml",
+      "src_name": "python-ruamel-yaml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "0.18.10-2.fc42",
+      "description": "YAML 1.2 loader/dumper package for Python",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-ruamel-yaml",
+      "bin_name": "python3-ruamel-yaml",
+      "src_name": "python-ruamel-yaml",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "0.16.6-7.el9.1",
+      "description": "YAML 1.2 loader/dumper package for Python",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-ruamel-yaml",
+      "bin_name": "python-ruamel-yaml",
+      "src_name": "python-ruamel-yaml",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.18.10-2",
+      "description": "YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order",
+      "confidence": 1.0
+    }
+  ]
+}

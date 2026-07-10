@@ -1,0 +1,54 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "qml6-module-qtquick-controls",
+      "bin_name": "qml6-module-qtquick-controls",
+      "src_name": "qt6-declarative",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "6.4.2+dfsg-1",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "qml6-module-qtquick-controls",
+      "bin_name": "qml6-module-qtquick-controls",
+      "src_name": "qt6-declarative",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "6.4.2+dfsg-4build3",
+      "description": "Found by rosdep CI (suggested) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "qml6-module-qtquick-controls",
+      "bin_name": "qml6-module-qtquick-controls",
+      "src_name": "qt6-declarative",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "6.2.4+dfsg-3ubuntu1",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "qml6-module-qtquick-controls",
+      "bin_name": "qml6-module-qtquick-controls",
+      "src_name": "qt6-declarative",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "6.4.2+dfsg-4build3",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

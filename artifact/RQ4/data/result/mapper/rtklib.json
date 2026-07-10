@@ -1,0 +1,322 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "librtklib1",
+      "bin_name": "librtklib1",
+      "src_name": "rtklib",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librtklib-dev",
+      "bin_name": "librtklib-dev",
+      "src_name": "rtklib",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-doc",
+      "bin_name": "rtklib-doc",
+      "src_name": "rtklib",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-qt",
+      "bin_name": "rtklib-qt",
+      "src_name": "rtklib",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "rtklib-doc",
+      "bin_name": "rtklib-doc",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-devel",
+      "bin_name": "rtklib-devel",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-libs",
+      "bin_name": "rtklib-libs",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-qt",
+      "bin_name": "rtklib-qt",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-qt",
+      "bin_name": "rtklib-qt",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-devel",
+      "bin_name": "rtklib-devel",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-libs",
+      "bin_name": "rtklib-libs",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-doc",
+      "bin_name": "rtklib-doc",
+      "src_name": "rtklib",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Program Package for GNSS Positioning",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "rtklib-doc",
+      "bin_name": "rtklib-doc",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-qt",
+      "bin_name": "rtklib-qt",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "rtklib-doc",
+      "bin_name": "rtklib-doc",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librtklib1",
+      "bin_name": "librtklib1",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-qt",
+      "bin_name": "rtklib-qt",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librtklib-dev",
+      "bin_name": "librtklib-dev",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "rtklib",
+      "bin_name": "rtklib",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librtklib1",
+      "bin_name": "librtklib1",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-qt",
+      "bin_name": "rtklib-qt",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "librtklib-dev",
+      "bin_name": "librtklib-dev",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rtklib-doc",
+      "bin_name": "rtklib-doc",
+      "src_name": "rtklib",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

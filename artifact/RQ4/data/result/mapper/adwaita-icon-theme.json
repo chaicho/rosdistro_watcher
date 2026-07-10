@@ -1,0 +1,284 @@
+{
+  "rhel_9": [
+    {
+      "name": "adwaita-icon-theme-devel",
+      "bin_name": "adwaita-icon-theme-devel",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    },
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    },
+    {
+      "name": "adwaita-cursor-theme",
+      "bin_name": "adwaita-cursor-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "adwaita-icon-theme-doc",
+      "bin_name": "adwaita-icon-theme-doc",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme (documentation)",
+      "confidence": 1.0
+    },
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    },
+    {
+      "name": "adwaita-icon-theme-dev",
+      "bin_name": "adwaita-icon-theme-dev",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "adwaita-cursors",
+      "bin_name": "adwaita-cursors",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "GNOME standard cursors",
+      "confidence": 1.0
+    },
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "GNOME standard icons",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "adwaita-icon-theme-devel",
+      "bin_name": "adwaita-icon-theme-devel",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-adwaita-icon-theme",
+      "bin_name": "mingw32-adwaita-icon-theme",
+      "src_name": "mingw-adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme for MingGW",
+      "confidence": 1.0
+    },
+    {
+      "name": "adwaita-cursor-theme",
+      "bin_name": "adwaita-cursor-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    },
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-adwaita-icon-theme",
+      "bin_name": "mingw64-adwaita-icon-theme",
+      "src_name": "mingw-adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme for MingGW",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "adwaita-cursor-theme",
+      "bin_name": "adwaita-cursor-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    },
+    {
+      "name": "adwaita-icon-theme-devel",
+      "bin_name": "adwaita-icon-theme-devel",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    },
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-adwaita-icon-theme",
+      "bin_name": "mingw64-adwaita-icon-theme",
+      "src_name": "mingw-adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme for MingGW",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-adwaita-icon-theme",
+      "bin_name": "mingw32-adwaita-icon-theme",
+      "src_name": "mingw-adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Adwaita icon theme for MingGW",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "adwaita-icon-theme-full",
+      "bin_name": "adwaita-icon-theme-full",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "adwaita-icon-theme-full",
+      "bin_name": "adwaita-icon-theme-full",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

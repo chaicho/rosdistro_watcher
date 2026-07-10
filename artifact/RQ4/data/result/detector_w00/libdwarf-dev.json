@@ -1,0 +1,158 @@
+{
+  "fedora_43": [
+    {
+      "name": "libdwarf-tools",
+      "bin_name": "libdwarf-tools",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "",
+      "description": "Tools for accessing DWARF debugging information",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils (20210528-1)",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "20210528-1+b1",
+      "description": "library to consume and produce DWARF debug information",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "20210528-1",
+      "description": "library to consume and produce DWARF debug information",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "libdwarf-tools",
+      "bin_name": "libdwarf-tools",
+      "src_name": "libdwarf",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "",
+      "description": "Tools for accessing DWARF debugging information",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "libdwarf-devel",
+      "bin_name": "libdwarf-devel",
+      "src_name": "libdwarf",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "20180129-4.el8",
+      "description": "Library and header files of libdwarf",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "libdwarf",
+      "bin_name": "libdwarf",
+      "src_name": "libdwarf",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "1:2.2.0-1",
+      "description": "A library for handling DWARF Debugging Information Format",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "libdwarf",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "2.1.0-r0",
+      "description": "Parsing library for DWARF2 and later debugging file format (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libdwarf-tools",
+      "bin_name": "libdwarf-tools",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "",
+      "description": "Tools for accessing DWARF debugging information",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "libdwarf-devel-static",
+      "bin_name": "libdwarf-devel-static",
+      "src_name": "libdwarf",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "20161124-lp152.3.9",
+      "description": "Static library for libdwarf",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "dwarf",
+      "bin_name": "dwarf",
+      "src_name": "dwarf",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.1.3",
+      "description": "yet another static site generator",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "20210528-1build2",
+      "description": "library to consume and produce DWARF debug information",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "20200114-1",
+      "description": "library to consume and produce DWARF debug information",
+      "confidence": 1.0
+    }
+  ]
+}

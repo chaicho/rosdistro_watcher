@@ -1,0 +1,81 @@
+pr_url,pr_number,pr_title,created_at,closed_at,modified_keys,classification_types
+https://github.com/ros/rosdistro/pull/23993,23993,pyquaternion: 0.9.6-4 in 'kinetic/distribution.yaml' [bloom] replaces rosdep python-pyquaterion-pip,2020-03-07T00:20:20Z,2020-03-12T21:36:05Z,python-pyquaternion-pip,"A.1,B.2a"
+https://github.com/ros/rosdistro/pull/28473,28473,Use apt packages for python-more-itertools,2021-03-04T07:34:50Z,2021-03-23T22:49:22Z,"python-more-itertools, python-more-itertools-pip, python3-more-itertools","A.1,B.2a"
+https://github.com/ros/rosdistro/pull/33091,33091,Add in a rosdep key for python3-transforms3d.,2022-05-06T13:11:15Z,2022-05-17T17:49:19Z,"python-transforms3d-pip, python3-transforms3d","A.1,B.2a"
+https://github.com/ros/rosdistro/pull/35326,35326,Add python3-graphviz to rosdep/python.yaml,2022-11-15T14:37:34Z,2022-11-16T17:44:23Z,"python3-graphviz, python3-pygraphviz","A.1,B.2a"
+https://github.com/ros/rosdistro/pull/36030,36030,rosdep: python3-catkin-sphinx: Add Buster APT version,2023-02-02T01:02:14Z,2023-02-10T03:13:01Z,python3-catkin-sphinx,B.2a
+https://github.com/ros/rosdistro/pull/36164,36164,Adding rosdep rule for python3-pymap3d,2023-02-14T15:37:42Z,2023-02-21T13:57:28Z,"pymap3d-pip, python3-pymap3d","A.1,B.2a"
+https://github.com/ros/rosdistro/pull/41623,41623,Add in liboctomap-dev key.,2024-06-14T16:47:53Z,2024-06-24T15:11:46Z,liboctomap-dev,"A.1,B.2b"
+https://github.com/ros/rosdistro/pull/42561,42561,Remove the octomap package from Rolling.,2024-08-23T14:30:13Z,2024-08-26T15:39:39Z,,B.2b
+https://github.com/ros/rosdistro/pull/45588,45588,Added mcp sdk to python.yaml,2025-05-01T03:51:38Z,2025-05-06T14:25:23Z,python3-mcp-pip,A.1
+https://github.com/ros/rosdistro/pull/45589,45589,Add awsiotclient package to python.yaml,2025-05-01T10:57:19Z,2025-05-06T14:23:25Z,python3-awsiotclient-pip,A.1
+https://github.com/ros/rosdistro/pull/45591,45591,Added rtklib to base.yaml,2025-05-01T14:38:39Z,2025-05-04T15:37:12Z,rtklib,A.1
+https://github.com/ros/rosdistro/pull/45621,45621,"Added Qt6 Core, Multimedia, Qml, Quick.",2025-05-05T09:10:47Z,2025-05-05T19:01:40Z,"libqt6-core, libqt6-multimedia, libqt6-qml, libqt6-quick, qml6-module-qtquick, qt6-base-dev, qt6-declarative-dev, qt6-multimedia-dev",A.1
+https://github.com/ros/rosdistro/pull/45653,45653,Added touchlab-comm-py rosdep,2025-05-07T10:35:03Z,2025-05-07T17:26:28Z,python3-touchlab-comm-py-pip,A.1
+https://github.com/ros/rosdistro/pull/45659,45659,Add new gurumdds packages for Jammy and Noble.,2025-05-08T18:31:32Z,2025-05-08T18:43:25Z,"gurumdds-3.1, gurumdds-3.2",A.1
+https://github.com/ros/rosdistro/pull/45660,45660,Add rosdep keys for rti-connext-dds-7.3.0 debs.,2025-05-08T18:35:48Z,2025-05-08T18:43:02Z,rti-connext-dds-7.3.0,A.2
+https://github.com/ros/rosdistro/pull/45694,45694,Added opengen to rosdep,2025-05-12T06:41:11Z,2025-05-16T15:55:17Z,python3-opengen-pip,A.1
+https://github.com/ros/rosdistro/pull/45695,45695,Add qml6-module-qtqml-workerscript.,2025-05-12T07:40:52Z,2025-05-13T23:32:46Z,qml6-module-qtqml-workerscript,A.1
+https://github.com/ros/rosdistro/pull/45765,45765,Add key cbindgen,2025-05-14T05:38:57Z,2025-05-21T21:20:04Z,cbindgen,A.1
+https://github.com/ros/rosdistro/pull/45820,45820,add google-cloud-firestore to rosdep/python.yaml,2025-05-17T11:00:28Z,2025-05-23T16:43:26Z,python3-google-cloud-firestore-pip,A.1
+https://github.com/ros/rosdistro/pull/45913,45913,Add python3-posix-ipc-pip rule,2025-05-21T10:58:09Z,2025-05-30T18:37:18Z,python3-posix-ipc,A.1
+https://github.com/ros/rosdistro/pull/45954,45954,Add 'taskflow' rosdep rule,2025-05-22T10:02:29Z,2025-05-30T18:23:45Z,libtaskflow-cpp-dev,A.1
+https://github.com/ros/rosdistro/pull/45980,45980,Add RHEL 9 rule for 'opende',2025-05-22T18:16:24Z,2025-05-30T18:27:11Z,opende,A.2
+https://github.com/ros/rosdistro/pull/45981,45981,Add Fedora rule for 'iwyu',2025-05-22T18:43:37Z,2025-05-30T18:26:49Z,iwyu,A.2
+https://github.com/ros/rosdistro/pull/45982,45982,Add Fedora rules for qt5-quick and qt5-qml,2025-05-22T19:24:36Z,2025-05-30T18:26:29Z,"libqt5-qml, libqt5-quick",A.2
+https://github.com/ros/rosdistro/pull/45983,45983,Fix Fedora rule for 'rapidjson',2025-05-22T19:26:14Z,2025-05-30T18:26:08Z,rapidjson-dev,B.1
+https://github.com/ros/rosdistro/pull/45984,45984,Fix wxGTK package name for Fedora and RHEL,2025-05-22T19:41:45Z,2025-05-30T18:25:32Z,"wx-common, wxwidgets",B.1
+https://github.com/ros/rosdistro/pull/46201,46201,adding gersemi,2025-05-30T03:05:28Z,2025-07-14T16:15:36Z,python3-gersemi-pip,A.1
+https://github.com/ros/rosdistro/pull/46296,46296,Add qt-material pip package,2025-06-03T18:08:07Z,2025-07-18T00:13:50Z,python3-qt-material-pip,A.1
+https://github.com/ros/rosdistro/pull/46442,46442,Add PyQt6-WebEngine pip package,2025-06-12T03:00:09Z,2025-07-27T15:07:05Z,python3-pyqt6.qtwebengine,A.1
+https://github.com/ros/rosdistro/pull/46484,46484,remove 'libopen3d-dev' and 'python3-open3d' from Ubuntu noble,2025-06-16T07:33:52Z,2025-06-21T06:15:42Z,"libopen3d-dev, python3-open3d",B.1
+https://github.com/ros/rosdistro/pull/46493,46493,add python3-xlib,2025-06-16T18:42:55Z,2025-07-18T00:17:07Z,python3-xlib,A.1
+https://github.com/ros/rosdistro/pull/46592,46592,Sila2,2025-06-23T08:42:12Z,2025-06-23T16:48:13Z,python3-sila2-pip,A.1
+https://github.com/ros/rosdistro/pull/46631,46631,Add faiss-cpu,2025-06-24T10:03:38Z,2025-08-07T06:56:05Z,python3-faiss,A.1
+https://github.com/ros/rosdistro/pull/46633,46633,rosdep: nixos: Add python3-filelock package,2025-06-25T03:40:24Z,2025-07-23T01:40:27Z,python3-filelock,A.2
+https://github.com/ros/rosdistro/pull/46651,46651,Added cxxopts.,2025-06-26T12:31:33Z,2025-06-30T23:20:48Z,libcxxopts-dev,A.1
+https://github.com/ros/rosdistro/pull/46660,46660,Add libfcpp-dev,2025-06-27T10:47:33Z,2025-07-23T01:42:57Z,libfccp-dev,A.1
+https://github.com/ros/rosdistro/pull/46675,46675,add gtk4/adw dependencies,2025-06-27T22:42:16Z,2025-08-14T22:46:25Z,"adwaita-icon-theme, gtk4, libadwaita-dev, libgirepository-dev",A.1
+https://github.com/ros/rosdistro/pull/46701,46701,add librocksdb-dev in 'rosdep/base.yml',2025-07-01T09:42:23Z,2025-07-23T02:10:23Z,librocksdb-dev,A.1
+https://github.com/ros/rosdistro/pull/46723,46723,Add 'python3-toml' rule for RHEL,2025-07-01T15:56:16Z,2025-07-04T05:29:46Z,python3-toml,A.2
+https://github.com/ros/rosdistro/pull/46764,46764,Add ifm3dpy to rosdep database,2025-07-03T18:00:24Z,2025-07-22T13:28:11Z,python3-ifm3dpy-pip,A.1
+https://github.com/ros/rosdistro/pull/46833,46833,Add `reduct-py` pip index,2025-07-09T10:30:05Z,2025-07-30T19:52:57Z,python3-reduct-py-pip,A.1
+https://github.com/ros/rosdistro/pull/46855,46855,Add rowan pip,2025-07-11T09:27:54Z,2025-07-29T15:24:34Z,python3-rowan-pip,A.1
+https://github.com/ros/rosdistro/pull/46859,46859,Add mujoco,2025-07-11T17:48:29Z,2025-07-24T04:50:46Z,python3-mujoco-pip,A.1
+https://github.com/ros/rosdistro/pull/46860,46860,Add python3-obj2mjcf-pip,2025-07-11T18:12:41Z,2025-07-23T02:12:15Z,python3-obj2mjcf-pip,A.1
+https://github.com/ros/rosdistro/pull/46866,46866,"add rsyslog to rhel, gentoo, alpine, macports and opensuse.",2025-07-12T04:50:43Z,2025-07-24T18:16:34Z,rsyslog,A.2
+https://github.com/ros/rosdistro/pull/46970,46970,add libflac-dev (again),2025-07-20T03:37:20Z,2025-08-14T22:36:42Z,libflac-dev,A.1
+https://github.com/ros/rosdistro/pull/47034,47034,Add missing nixos rosdep rules,2025-07-23T14:53:08Z,2025-07-24T04:50:19Z,"atlas, libfl-dev, libiio-dev, python3-attrs, python3-httpx, python3-marisa, python3-msgpack-numpy, python3-platformdirs, python3-pydub, python3-setproctitle, python3-soundfile, python3-unidecode, python3-wheel, sound-theme-freedesktop",A.2
+https://github.com/ros/rosdistro/pull/47038,47038,add python3 redis,2025-07-24T01:55:24Z,2025-07-29T15:25:12Z,python3-redis,A.1
+https://github.com/ros/rosdistro/pull/47089,47089,Add MuJoCo MJX entry,2025-07-28T08:28:10Z,2025-07-31T23:36:39Z,python3-mujoco-mjx-pip,A.1
+https://github.com/ros/rosdistro/pull/47090,47090,adding python bleak,2025-07-28T11:33:45Z,2025-07-30T19:47:00Z,python3-bleak,A.1
+https://github.com/ros/rosdistro/pull/47104,47104,Add 'lua-dev' rule for RHEL,2025-07-28T17:26:06Z,2025-07-29T15:36:58Z,lua-dev,A.2
+https://github.com/ros/rosdistro/pull/47205,47205,Update libqt5-* rosdep keys for Ubuntu 24.04 (Noble) compatibility,2025-07-31T20:55:00Z,2025-07-31T23:36:05Z,"libqt5-gui, libqt5-widgets, libqt5-xml",B.1
+https://github.com/ros/rosdistro/pull/47211,47211,Add sdformat versions on nixos,2025-08-04T07:01:49Z,2025-08-05T20:44:04Z,"sdformat11, sdformat12, sdformat13",A.2
+https://github.com/ros/rosdistro/pull/47214,47214,"Add Qt6 svg, qt5-compat, base-private and declarative-private packages",2025-08-04T22:43:15Z,2025-08-11T22:36:15Z,"libqt6svg6, qt6-5compat-dev, qt6-base-private-dev, qt6-declarative-private-dev",A.1
+https://github.com/ros/rosdistro/pull/47215,47215,Add more qml6-module-* packages,2025-08-04T23:09:29Z,2025-08-11T22:36:34Z,"qml6-module-qt-labs-folderlistmodel, qml6-module-qt-labs-platform, qml6-module-qt-labs-settings, qml6-module-qt5compat-graphicaleffects, qml6-module-qtcharts, qml6-module-qtcore, qml6-module-qtpositioning, qml6-module-qtqml, qml6-module-qtqml-models, qml6-module-qtquick-controls, qml6-module-qtquick-dialogs, qml6-module-qtquick-layouts, qml6-module-qtquick-templates, qml6-module-qtquick-window",A.1
+https://github.com/ros/rosdistro/pull/47230,47230,add libicu-devel entry for rhel,2025-08-06T08:03:43Z,2025-08-07T07:36:35Z,libicu-dev,A.2
+https://github.com/ros/rosdistro/pull/47247,47247,Add uhubctl to the rosdep database,2025-08-07T06:07:59Z,2025-08-12T12:55:35Z,uhubctl,A.1
+https://github.com/ros/rosdistro/pull/47264,47264,Add python3-mongomock-pip for debian and ubuntu,2025-08-08T21:38:27Z,2025-08-18T23:12:31Z,python3-mongomock,A.1
+https://github.com/ros/rosdistro/pull/47270,47270,add hydro-core from pypi,2025-08-11T07:31:18Z,2025-08-14T22:22:31Z,python3-hydra-core-pip,A.1
+https://github.com/ros/rosdistro/pull/47288,47288,rosdep: adding dependencies for openembedded,2025-08-13T17:28:00Z,2025-08-14T22:24:12Z,"python-simplejson, python-tqdm, python3-attrs, python3-cryptography, python3-filelock, python3-httpx, python3-platformdirs, python3-setproctitle, python3-toml, python3-websockets, python3-wheel","A.2,B.1"
+https://github.com/ros/rosdistro/pull/47304,47304,rosdep: fixing openembedded,2025-08-15T19:07:37Z,2025-08-21T13:26:02Z,"libzstd-dev, python-termcolor, python-twisted-core, python-yaml, python3-pycryptodome, python3-pyparsing, python3-pytest, python3-requests, python3-ruamel.yaml, python3-yaml",B.1
+https://github.com/ros/rosdistro/pull/47322,47322,Add python3-pytest-dependency,2025-08-19T13:27:00Z,2025-09-03T18:20:50Z,python3-pytest-dependency,A.1
+https://github.com/ros/rosdistro/pull/47342,47342,rosdep: fixing openembedded,2025-08-21T18:52:16Z,2025-08-22T21:27:30Z,"castxml, fmt, libgrpc, libmicrohttpd, libomp-dev, python-click, python-lxml, python-sphinx, python-tqdm, python3-click, python3-colorama, python3-deprecated, python3-importlib-metadata, python3-lxml, python3-paho-mqtt, python3-rich, python3-semver, python3-sphinx, python3-tqdm, python3-typing-extensions, python3-waitress, sdl","A.2,B.1"
+https://github.com/ros/rosdistro/pull/47481,47481,Add libdwarf-dev to rosdep,2025-09-02T21:01:46Z,2025-09-06T14:29:05Z,libdwarf-dev,A.1
+https://github.com/ros/rosdistro/pull/47529,47529,distro: add python3-pre-commit for openembedded,2025-09-06T06:42:53Z,2025-09-08T02:28:16Z,python3-pre-commit,A.2
+https://github.com/ros/rosdistro/pull/47584,47584,Added libpsl-dev to base.yaml,2025-09-10T08:49:02Z,2025-10-08T14:28:54Z,libpsl-dev,No classification found
+https://github.com/ros/rosdistro/pull/47604,47604,Add python3-docstring-parser to rosdep/python.yaml,2025-09-11T10:04:12Z,2025-09-15T11:55:00Z,python3-docstring-parser,A.1
+https://github.com/ros/rosdistro/pull/47634,47634,add tweeny,2025-09-12T13:18:26Z,2025-09-15T07:44:10Z,libtweeny-dev,A.1
+https://github.com/ros/rosdistro/pull/47643,47643,Add libqt6bluetooth6 and qt6-connectivity-dev,2025-09-13T08:23:40Z,2025-09-15T07:44:52Z,"libqt6bluetooth6, qt6-connectivity-dev",A.1
+https://github.com/ros/rosdistro/pull/47652,47652,Add libpaho-mqttpp and libpaho-mqttpp-dev for RHEL,2025-09-15T09:08:04Z,2025-09-16T18:42:53Z,"libpaho-mqttpp, libpaho-mqttpp-dev",A.2
+https://github.com/ros/rosdistro/pull/47662,47662,Update cdk rosdep key for Ubuntu and Debian compatibility,2025-09-15T12:28:28Z,2025-10-10T00:12:42Z,cdk,No classification found
+https://github.com/ros/rosdistro/pull/47678,47678,Add missing libboost-* rosdep entries in Debian Bookworm,2025-09-16T15:31:03Z,2025-10-16T19:05:58Z,"libboost-atomic, libboost-chrono, libboost-coroutine, libboost-date-time, libboost-filesystem, libboost-iostreams, libboost-math, libboost-program-options, libboost-python, libboost-random, libboost-regex, libboost-serialization, libboost-system, libboost-thread, libboost-timer",No classification found
+https://github.com/ros/rosdistro/pull/47688,47688,Add pip fallbacks for python3-docstring-parser,2025-09-17T12:13:36Z,2025-10-08T13:57:44Z,python3-docstring-parser,No classification found
+https://github.com/ros/rosdistro/pull/47703,47703,Add libglib2.0-dev-bin for debian based distros,2025-09-17T18:19:00Z,2025-09-23T15:09:48Z,libglib-dev,B.1
+https://github.com/ros/rosdistro/pull/47770,47770,openembedded: remove not existing python3-pytest-dependency recipe,2025-09-24T16:52:05Z,2025-10-02T21:21:30Z,python3-pytest-dependency,No classification found
+https://github.com/ros/rosdistro/pull/47771,47771,openembedded: python(3)-psutil,2025-09-24T16:52:39Z,2025-10-02T21:21:03Z,"python-psutil, python3-psutil",B.1
+https://github.com/ros/rosdistro/pull/47772,47772,openembedded: python(3)pyudev,2025-09-24T17:04:24Z,2025-10-02T21:20:31Z,"python-pyudev, python3-pyudev",A.2
+https://github.com/ros/rosdistro/pull/47775,47775,openembedded: python3-whichcraft meta-ros-common -> meta-ros2,2025-09-24T17:39:36Z,2025-10-02T21:37:20Z,python3-whichcraft,B.1
+https://github.com/ros/rosdistro/pull/47776,47776,openembedded: python(3)-pyproj,2025-09-24T17:59:27Z,2025-10-02T21:19:29Z,"python-pyproj, python3-pyproj",B.1
+https://github.com/ros/rosdistro/pull/47813,47813,Add spatialite-bin,2025-09-26T14:50:57Z,2025-10-01T19:10:09Z,spatialite-bin,A.1

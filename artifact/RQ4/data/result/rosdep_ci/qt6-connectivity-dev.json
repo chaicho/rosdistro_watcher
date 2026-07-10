@@ -1,0 +1,54 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "qt6-connectivity-dev",
+      "bin_name": "qt6-connectivity-dev",
+      "src_name": "qt6-connectivity",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "6.4.2-1",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "qt6-connectivity-dev",
+      "bin_name": "qt6-connectivity-dev",
+      "src_name": "qt6-connectivity",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "6.4.2-5build2",
+      "description": "Found by rosdep CI (suggested) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "qt6-connectivity-dev",
+      "bin_name": "qt6-connectivity-dev",
+      "src_name": "qt6-connectivity",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "6.2.4-1",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "qt6-connectivity-dev",
+      "bin_name": "qt6-connectivity-dev",
+      "src_name": "qt6-connectivity",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "6.4.2-5build2",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

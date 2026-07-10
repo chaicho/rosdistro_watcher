@@ -1,0 +1,165 @@
+{
+  "alpine_edge": [
+    {
+      "name": "py3-filelock-pyc",
+      "bin_name": "py3-filelock-pyc",
+      "src_name": "py3-filelock",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-filelock",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-filelock",
+      "bin_name": "py3-filelock",
+      "src_name": "py3-filelock",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A platform independent file lock for Python3",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-filelock",
+      "bin_name": "python-filelock",
+      "src_name": "python-filelock",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A platform independent file lock",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-filelock",
+      "bin_name": "python3-filelock",
+      "src_name": "python-filelock",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-filelock",
+      "bin_name": "python3-filelock",
+      "src_name": "python-filelock",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A platform independent file lock",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python-filelock-doc",
+      "bin_name": "python-filelock-doc",
+      "src_name": "python-filelock",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A platform independent file lock",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-filelock",
+      "bin_name": "python3-filelock",
+      "src_name": "python-filelock",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A platform independent file lock",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-filelock",
+      "bin_name": "python3-filelock",
+      "src_name": "python-filelock",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A platform independent file lock",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-filelock-doc",
+      "bin_name": "python-filelock-doc",
+      "src_name": "python-filelock",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A platform independent file lock",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "filelock",
+      "bin_name": "filelock",
+      "src_name": "filelock",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "A platform independent file lock.",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-filelock",
+      "bin_name": "python3-filelock",
+      "src_name": "python-filelock",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-filelock",
+      "bin_name": "python3-filelock",
+      "src_name": "python-filelock",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-filelock",
+      "bin_name": "python3-filelock",
+      "src_name": "python-filelock",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

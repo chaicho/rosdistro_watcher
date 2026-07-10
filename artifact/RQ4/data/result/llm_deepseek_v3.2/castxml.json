@@ -1,0 +1,119 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": "castxml",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.6.3-1build2",
+      "description": "C-family abstract syntax tree XML output tool",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": null,
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for castxml",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": null,
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for castxml",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": null,
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for castxml",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for castxml",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for castxml",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": null,
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for castxml",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for castxml",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for castxml",
+      "confidence": 1.0
+    }
+  ]
+}

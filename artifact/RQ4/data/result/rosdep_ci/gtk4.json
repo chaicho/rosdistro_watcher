@@ -1,0 +1,54 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "libgtk-4-dev",
+      "bin_name": "libgtk-4-dev",
+      "src_name": "gtk4",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "4.8.3+ds-2+deb12u1",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libgtk-4-dev",
+      "bin_name": "libgtk-4-dev",
+      "src_name": "gtk4",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "4.14.2+ds-1ubuntu1",
+      "description": "Found by rosdep CI (suggested) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libgtk-4-dev",
+      "bin_name": "libgtk-4-dev",
+      "src_name": "gtk4",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "4.6.2+ds-1ubuntu2",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libgtk-4-dev",
+      "bin_name": "libgtk-4-dev",
+      "src_name": "gtk4",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "4.14.2+ds-1ubuntu1",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

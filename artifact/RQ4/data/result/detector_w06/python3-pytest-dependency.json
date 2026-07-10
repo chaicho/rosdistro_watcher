@@ -1,0 +1,119 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": "pytest-dependency",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "0.5.1-5",
+      "description": "Manages dependencies of pytest test cases (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": "python-pytest-dependency",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "0.6.0-4.el9",
+      "description": "Pytest plugin to manage dependencies of tests",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "pytest-dependency",
+      "bin_name": "pytest-dependency",
+      "src_name": "pytest-dependency",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.6.0",
+      "description": "Manage dependencies of tests",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": "pytest-dependency",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "0.5.1-4",
+      "description": "Manages dependencies of pytest test cases (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": "python-pytest-dependency",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "0.6.0-7.fc43",
+      "description": "Pytest plugin to manage dependencies of tests",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-pytest-dependency",
+      "bin_name": "py3-pytest-dependency",
+      "src_name": "py3-pytest-dependency",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "0.6.0-r1",
+      "description": "Manage dependencies of tests",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": "pytest-dependency",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.5.1-5",
+      "description": "Manages dependencies of pytest test cases (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": "python-pytest-dependency",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "0.6.0-2.fc42",
+      "description": "Pytest plugin to manage dependencies of tests",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-pytest-dependency",
+      "bin_name": "python-pytest-dependency",
+      "src_name": "python-pytest-dependency",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.6.0-4",
+      "description": "Manage dependencies of tests",
+      "confidence": 1.0
+    }
+  ]
+}

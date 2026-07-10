@@ -1,0 +1,206 @@
+{
+  "rq1": {
+    "initial_issues_mined": 534,
+    "initial_prs_mined": 1002,
+    "total_cases": 863,
+    "unique_issues": 28,
+    "prs": 835,
+    "defect_counts": {
+      "A.1": 625,
+      "A.2": 181,
+      "B.1": 111,
+      "B.2": 12
+    },
+    "defect_rates": {
+      "A.1": "72.4%",
+      "A.2": "21.0%",
+      "B.1": "12.9%",
+      "B.2": "1.4%"
+    },
+    "coverage_defects": 806,
+    "correctness_defects": 123
+  },
+  "rq2": {
+    "prs": 835,
+    "avg_resolution_hours": "248.6",
+    "comments_total": 3915,
+    "avg_comments": "4.69",
+    "manual_review_prs": 808,
+    "manual_review_rate": "96.8%",
+    "post_review_iteration_prs": 555,
+    "post_review_iteration_rate": "66.5%",
+    "rule_related_iteration_prs": 402,
+    "rule_related_iteration_rate": "72.4%",
+    "unique_entries": 1921,
+    "entries_modified_multiple_prs": 990,
+    "entries_modified_multiple_prs_rate": "51.5%",
+    "avg_updates_per_repeated_entry": "2.94",
+    "short_period_repeated_entries": 137,
+    "short_period_repeated_entries_rate": "13.8%",
+    "paper_only": {
+      "rule_related_rate_when_package_names_differ": "66.2%",
+      "rule_related_rate_when_package_names_do_not_differ": "26.4%"
+    }
+  },
+  "rq3": {
+    "entries_analyzed": 1737,
+    "inconsistent_entries": 1331,
+    "inconsistency_rate": "76.6%",
+    "affixation": 1007,
+    "evolution": 240,
+    "policy": 526,
+    "structural_content": 568,
+    "structural_content_rate": "42.7%"
+  },
+  "rq4": {
+    "instances": 854,
+    "entries": 112,
+    "tools": {
+      "PackageDistributionDetector (w=0.7)": {
+        "exact": 808,
+        "partial": 1,
+        "none": 45,
+        "exact_rate": "94.6%",
+        "total_rate": "94.7%",
+        "extra_total": 334,
+        "nonexistent": 0,
+        "nonexistent_rate": "0.0%"
+      },
+      "RosdepCIMapper": {
+        "exact": 577,
+        "partial": 0,
+        "none": 277,
+        "exact_rate": "67.6%",
+        "total_rate": "67.6%",
+        "nonexistent": 0,
+        "nonexistent_rate": "0.0%",
+        "extra_total": 129
+      },
+      "RepologyMapper": {
+        "exact": 173,
+        "partial": 522,
+        "none": 159,
+        "exact_rate": "20.3%",
+        "total_rate": "81.4%",
+        "extra_total": 109957,
+        "nonexistent": 0,
+        "nonexistent_rate": "0.0%"
+      },
+      "LLMDetector (gemini-3-pro)": {
+        "exact": 785,
+        "partial": 4,
+        "none": 65,
+        "exact_rate": "91.9%",
+        "total_rate": "92.4%",
+        "extra_total": 362,
+        "nonexistent": 138,
+        "nonexistent_rate": "38.1%"
+      },
+      "LLMDetector (glm-4.7)": {
+        "exact": 766,
+        "partial": 0,
+        "none": 88,
+        "exact_rate": "89.7%",
+        "total_rate": "89.7%",
+        "extra_total": 355,
+        "nonexistent": 150,
+        "nonexistent_rate": "42.3%"
+      },
+      "LLMDetector (claude-opus-4-5)": {
+        "exact": 702,
+        "partial": 0,
+        "none": 152,
+        "exact_rate": "82.2%",
+        "total_rate": "82.2%",
+        "extra_total": 282,
+        "nonexistent": 70,
+        "nonexistent_rate": "24.8%"
+      },
+      "LLMDetector (deepseek-v3.2)": {
+        "exact": 700,
+        "partial": 0,
+        "none": 154,
+        "exact_rate": "82.0%",
+        "total_rate": "82.0%",
+        "extra_total": 460,
+        "nonexistent": 257,
+        "nonexistent_rate": "55.9%"
+      }
+    },
+    "w_sensitivity": {
+      "0": "87.0%",
+      "1": "90.0%",
+      "0.1": "89.9%",
+      "0.2": "91.2%",
+      "0.3": "92.2%",
+      "0.4": "93.0%",
+      "0.5": "94.3%",
+      "0.6": "94.6%",
+      "0.7": "94.6%",
+      "0.8": "94.5%",
+      "0.9": "94.4%"
+    }
+  },
+  "rq5": {
+    "dataset_prs": 75,
+    "ground_truth_defects": 83,
+    "reported": 100,
+    "verified": 99,
+    "true_positives": 82,
+    "recall": "98.8%",
+    "precision": "99.0%",
+    "by_type": {
+      "A.1": {
+        "reported": 48,
+        "ground_truth": 48,
+        "recall": "100.0%",
+        "precision": "100.0%"
+      },
+      "A.2": {
+        "reported": 26,
+        "ground_truth": 16,
+        "recall": "100.0%",
+        "precision": "100.0%"
+      },
+      "B.1": {
+        "reported": 16,
+        "ground_truth": 11,
+        "recall": "90.9%",
+        "precision": "93.8%"
+      },
+      "B.2": {
+        "reported": 10,
+        "ground_truth": 8,
+        "recall": "100.0%",
+        "precision": "100.0%"
+      }
+    }
+  },
+  "rq6": {
+    "index_snapshot_commit": "592178c",
+    "total_entries": 2513,
+    "total_defects": 3249,
+    "entries_affected": 2233,
+    "affected_entry_rate": "88.9%",
+    "defect_counts": {
+      "A.1": 0,
+      "A.2": 1820,
+      "B.1": 1139,
+      "B.2": 290
+    },
+    "b1_nonexistent_packages": 818,
+    "reported_defects_confirmed": 46,
+    "reported_defect_breakdown": {
+      "A.2": 5,
+      "B.1": 25,
+      "B.2": 16
+    },
+    "prospective_prs": 33,
+    "prospective_defects_a2": 21,
+    "prospective_defects_b1": 14,
+    "prospective_defect_instances": 35,
+    "prospective_exact_identified": 32,
+    "prospective_exact_identification_rate": "91.4%",
+    "prospective_fixed_same_packages": 21
+  }
+}

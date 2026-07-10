@@ -1,0 +1,158 @@
+{
+  "ubuntu_focal": [
+    {
+      "name": "libmicrohttpd-dev",
+      "bin_name": "libmicrohttpd-dev",
+      "src_name": "libmicrohttpd",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "0.9.66-1",
+      "description": "library embedding HTTP server functionality (development)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libmicrohttpd-devel",
+      "bin_name": "libmicrohttpd-devel",
+      "src_name": "libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "1:1.0.1-3.fc42",
+      "description": "Development files for libmicrohttpd",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "libmicrohttpd-devel",
+      "bin_name": "libmicrohttpd-devel",
+      "src_name": "libmicrohttpd",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "0.9.57-lp152.3.4",
+      "description": "Small Embeddable HTTP Server Library",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "libmicrohttpd-devel",
+      "bin_name": "libmicrohttpd-devel",
+      "src_name": "libmicrohttpd",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "1:0.9.59-3.el8",
+      "description": "Development files for libmicrohttpd",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libmicrohttpd-dev",
+      "bin_name": "libmicrohttpd-dev",
+      "src_name": "libmicrohttpd",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "0.9.75-3ubuntu1",
+      "description": "library embedding HTTP server functionality (development)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libmicrohttpd-devel",
+      "bin_name": "libmicrohttpd-devel",
+      "src_name": "libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "1:1.0.2-2.fc43",
+      "description": "Development files for libmicrohttpd",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "libmicrohttpd-devel",
+      "bin_name": "libmicrohttpd-devel",
+      "src_name": "libmicrohttpd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "1:0.9.72-5.el9",
+      "description": "Development files for libmicrohttpd",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libmicrohttpd-dev",
+      "bin_name": "libmicrohttpd-dev",
+      "src_name": "libmicrohttpd",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "0.9.75-6",
+      "description": "library embedding HTTP server functionality (development)",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "libmicrohttpd-dev",
+      "bin_name": "libmicrohttpd-dev",
+      "src_name": "libmicrohttpd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "1.0.5-r0",
+      "description": "small C library that is supposed to make it easy to run an HTTP server as part of another application (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libmicrohttpd-dev",
+      "bin_name": "libmicrohttpd-dev",
+      "src_name": "libmicrohttpd",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "1.0.0-2.1ubuntu2",
+      "description": "library embedding HTTP server functionality (development)",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "microhttpd",
+      "bin_name": "microhttpd",
+      "src_name": "microhttpd",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.5.1",
+      "description": "UNKNOWN",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "libmicrohttpd",
+      "bin_name": "libmicrohttpd",
+      "src_name": "libmicrohttpd",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "1.0.2-1",
+      "description": "a small C library that is supposed to make it easy to run an HTTP server as part of another application.",
+      "confidence": 1.0
+    }
+  ]
+}

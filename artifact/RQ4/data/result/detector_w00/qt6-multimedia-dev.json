@@ -1,0 +1,119 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "qt6-multimedia-dev",
+      "bin_name": "qt6-multimedia-dev",
+      "src_name": "qt6-multimedia",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "6.4.2-11build3",
+      "description": "Qt 6 Multimedia - development files",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "qt6-multimedia-gstreamer",
+      "bin_name": "qt6-multimedia-gstreamer",
+      "src_name": "qt6-multimedia-gstreamer",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "6.10.1-1",
+      "description": "Gstreamer backend for qt6-multimedia",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "qt6-qtsvg-devel",
+      "bin_name": "qt6-qtsvg-devel",
+      "src_name": "qt6-qtsvg",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "6.9.2-1.fc43",
+      "description": "Development files for qt6-qtsvg",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "qt6-multimedia-dev",
+      "bin_name": "qt6-multimedia-dev",
+      "src_name": "qt6-multimedia",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "6.2.4-1",
+      "description": "Qt 6 Multimedia - development files",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "qt6-qtsvg-devel",
+      "bin_name": "qt6-qtsvg-devel",
+      "src_name": "qt6-qtsvg",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "6.8.2-1.fc42",
+      "description": "Development files for qt6-qtsvg",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "qt6-qtdatavis3d-dev",
+      "bin_name": "qt6-qtdatavis3d-dev",
+      "src_name": "qt6-qtdatavis3d",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "6.11.1-r0",
+      "description": "Qt6 Data Visualization module (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "qt6-qtsvg-devel",
+      "bin_name": "qt6-qtsvg-devel",
+      "src_name": "qt6-qtsvg",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "6.6.2-1.el9",
+      "description": "Development files for qt6-qtsvg",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "qt6-multimedia-dev",
+      "bin_name": "qt6-multimedia-dev",
+      "src_name": "qt6-multimedia",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "6.4.2-5",
+      "description": "Qt 6 Multimedia - development files",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libqt5x11extras5-dev",
+      "bin_name": "libqt5x11extras5-dev",
+      "src_name": "qtx11extras-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "",
+      "description": "Qt 5 X11 extras development files",
+      "confidence": 1.0
+    }
+  ]
+}

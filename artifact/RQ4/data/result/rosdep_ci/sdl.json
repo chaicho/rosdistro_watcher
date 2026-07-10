@@ -1,0 +1,54 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "libsdl1.2-dev",
+      "bin_name": "libsdl1.2-dev",
+      "src_name": "libsdl1.2",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "1.2.15+dfsg2-8",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libsdl1.2-dev",
+      "bin_name": "libsdl1.2-dev",
+      "src_name": "libsdl1.2",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "1.2.15+dfsg2-5",
+      "description": "Found by rosdep CI (exact) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libsdl1.2-dev",
+      "bin_name": "libsdl1.2-dev",
+      "src_name": "libsdl1.2",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "1.2.15+dfsg2-6",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libsdl1.2-dev",
+      "bin_name": "libsdl1.2-dev",
+      "src_name": "sdl12-compat",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "1.2.68-2",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

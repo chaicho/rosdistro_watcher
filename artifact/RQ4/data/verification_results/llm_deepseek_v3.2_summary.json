@@ -1,0 +1,10 @@
+{
+  "llm_name": "llm_deepseek_v3.2",
+  "total_packages": 110,
+  "total_entries": 1160,
+  "verified_entries": 903,
+  "unverified_entries": 257,
+  "fake_packages_count": 257,
+  "verification_rate": "77.8%",
+  "fake_rate": "22.2%"
+}

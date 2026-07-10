@@ -1,0 +1,158 @@
+{
+  "pypi": [
+    {
+      "name": "websockets",
+      "bin_name": "websockets",
+      "src_name": "websockets",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "16.0",
+      "description": "An implementation of the WebSocket Protocol (RFC 6455 & 7692)",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "python3-websockets",
+      "bin_name": "python3-websockets",
+      "src_name": "python-websockets",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "9.1-2.el8",
+      "description": "An implementation of the WebSocket Protocol for python with asyncio",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-websockets",
+      "bin_name": "python3-websockets",
+      "src_name": "python-websockets",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "14.1-2.fc42",
+      "description": "Implementation of the WebSocket Protocol for Python",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-websockets",
+      "bin_name": "python3-websockets",
+      "src_name": "python-websockets",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "10.4-1",
+      "description": "implementation of the WebSocket Protocol (RFC 6455)",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python3-websockets",
+      "bin_name": "python3-websockets",
+      "src_name": "python-websockets",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "8.1-lp152.1.3",
+      "description": "An implementation of the WebSocket Protocol (RFC 6455)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-websockets",
+      "bin_name": "python-websockets",
+      "src_name": "python-websockets",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "15.0.1-2",
+      "description": "Python implementation of the WebSocket Protocol (RFC 6455)",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-websockets",
+      "bin_name": "python3-websockets",
+      "src_name": "python-websockets",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "14.2-1.el9_7",
+      "description": "Implementation of the WebSocket Protocol for Python",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-websockets",
+      "bin_name": "python3-websockets",
+      "src_name": "python-websockets",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "15.0.1-9.fc43",
+      "description": "Implementation of the WebSocket Protocol for Python",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-websockets",
+      "bin_name": "python3-websockets",
+      "src_name": "python-websockets",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "8.1-1",
+      "description": "implementation of the WebSocket Protocol (RFC 6455)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-websockets",
+      "bin_name": "python3-websockets",
+      "src_name": "python-websockets",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "9.1-1",
+      "description": "implementation of the WebSocket Protocol (RFC 6455)",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-websockets",
+      "bin_name": "py3-websockets",
+      "src_name": "py3-websockets",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "16.0-r1",
+      "description": "An implementation of the WebSocket Protocol (RFC 6455)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-websockets",
+      "bin_name": "python3-websockets",
+      "src_name": "python-websockets",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "10.4-1",
+      "description": "implementation of the WebSocket Protocol (RFC 6455)",
+      "confidence": 1.0
+    }
+  ]
+}

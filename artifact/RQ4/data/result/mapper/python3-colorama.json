@@ -1,0 +1,143 @@
+{
+  "pypi": [
+    {
+      "name": "colorama",
+      "bin_name": "colorama",
+      "src_name": "colorama",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "Cross-platform colored terminal text.",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-colorama",
+      "bin_name": "python-colorama",
+      "src_name": "python-colorama",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python API for cross-platform colored terminal text.",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-colorama",
+      "bin_name": "python3-colorama",
+      "src_name": "python-colorama",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Cross-platform colored terminal text",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-colorama-pyc",
+      "bin_name": "py3-colorama-pyc",
+      "src_name": "py3-colorama",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-colorama",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-colorama",
+      "bin_name": "py3-colorama",
+      "src_name": "py3-colorama",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Simple cross-platform colored terminal text",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-colorama",
+      "bin_name": "python3-colorama",
+      "src_name": "python-colorama",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-colorama",
+      "bin_name": "python3-colorama",
+      "src_name": "python-colorama",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Cross-platform colored terminal text",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-colorama",
+      "bin_name": "python3-colorama",
+      "src_name": "python-colorama",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Cross-platform colored terminal text",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-colorama",
+      "bin_name": "python3-colorama",
+      "src_name": "python-colorama",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-colorama",
+      "bin_name": "python3-colorama",
+      "src_name": "python-colorama",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-colorama",
+      "bin_name": "python3-colorama",
+      "src_name": "python-colorama",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

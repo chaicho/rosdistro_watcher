@@ -1,0 +1,1287 @@
+[
+  {
+    "package": "atlas",
+    "platform": "alpine_edge",
+    "bin_name": "atlas-dev"
+  },
+  {
+    "package": "atlas",
+    "platform": "arch",
+    "bin_name": "atlas"
+  },
+  {
+    "package": "atlas",
+    "platform": "opensuse_15.2",
+    "bin_name": "atlas-devel"
+  },
+  {
+    "package": "castxml",
+    "platform": "alpine_edge",
+    "bin_name": "castxml"
+  },
+  {
+    "package": "castxml",
+    "platform": "opensuse_15.2",
+    "bin_name": "castxml"
+  },
+  {
+    "package": "cbindgen",
+    "platform": "opensuse_15.2",
+    "bin_name": "cbindgen"
+  },
+  {
+    "package": "cbindgen",
+    "platform": "rhel_8",
+    "bin_name": "cbindgen"
+  },
+  {
+    "package": "gtk4",
+    "platform": "alpine_edge",
+    "bin_name": "gtk4-dev"
+  },
+  {
+    "package": "gtk4",
+    "platform": "opensuse_15.2",
+    "bin_name": "gtk4-devel"
+  },
+  {
+    "package": "gtk4",
+    "platform": "rhel_8",
+    "bin_name": "gtk4-devel"
+  },
+  {
+    "package": "gtk4",
+    "platform": "ubuntu_focal",
+    "bin_name": "libgtk-4-dev"
+  },
+  {
+    "package": "gurumdds-3.2",
+    "platform": "arch",
+    "bin_name": "gurumdds"
+  },
+  {
+    "package": "gurumdds-3.2",
+    "platform": "debian_bookworm",
+    "bin_name": "gurumdds"
+  },
+  {
+    "package": "gurumdds-3.2",
+    "platform": "fedora_42",
+    "bin_name": "gurumdds"
+  },
+  {
+    "package": "gurumdds-3.2",
+    "platform": "fedora_43",
+    "bin_name": "gurumdds"
+  },
+  {
+    "package": "gurumdds-3.2",
+    "platform": "opensuse_15.2",
+    "bin_name": "gurumdds"
+  },
+  {
+    "package": "gurumdds-3.2",
+    "platform": "rhel_8",
+    "bin_name": "gurumdds"
+  },
+  {
+    "package": "gurumdds-3.2",
+    "platform": "rhel_9",
+    "bin_name": "gurumdds"
+  },
+  {
+    "package": "gurumdds-3.2",
+    "platform": "ubuntu_focal",
+    "bin_name": "gurumdds"
+  },
+  {
+    "package": "gurumdds-3.2",
+    "platform": "ubuntu_jammy",
+    "bin_name": "gurumdds"
+  },
+  {
+    "package": "iwyu",
+    "platform": "alpine_edge",
+    "bin_name": "iwyu"
+  },
+  {
+    "package": "iwyu",
+    "platform": "arch",
+    "bin_name": "iwyu"
+  },
+  {
+    "package": "iwyu",
+    "platform": "opensuse_15.2",
+    "bin_name": "iwyu"
+  },
+  {
+    "package": "libadwaita-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "libadwaita-devel"
+  },
+  {
+    "package": "libcxxopts-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "cxxopts-devel"
+  },
+  {
+    "package": "libcxxopts-dev",
+    "platform": "ubuntu_focal",
+    "bin_name": "libcxxopts-dev"
+  },
+  {
+    "package": "libfccp-dev",
+    "platform": "arch",
+    "bin_name": "fast-cpp-csv-parser"
+  },
+  {
+    "package": "libfccp-dev",
+    "platform": "fedora_42",
+    "bin_name": "fast-cpp-csv-parser-devel"
+  },
+  {
+    "package": "libfccp-dev",
+    "platform": "fedora_43",
+    "bin_name": "fast-cpp-csv-parser-devel"
+  },
+  {
+    "package": "libfccp-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "fast-cpp-csv-parser-devel"
+  },
+  {
+    "package": "libfccp-dev",
+    "platform": "rhel_8",
+    "bin_name": "fast-cpp-csv-parser-devel"
+  },
+  {
+    "package": "libfccp-dev",
+    "platform": "rhel_9",
+    "bin_name": "fast-cpp-csv-parser-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "fedora_42",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "fedora_43",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "rhel_9",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libglib-dev",
+    "platform": "alpine_edge",
+    "bin_name": "glib2-dev"
+  },
+  {
+    "package": "libgrpc",
+    "platform": "rhel_8",
+    "bin_name": "grpc-devel"
+  },
+  {
+    "package": "libiio-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "libiio-devel"
+  },
+  {
+    "package": "libiio-dev",
+    "platform": "rhel_8",
+    "bin_name": "libiio-devel"
+  },
+  {
+    "package": "libiio-dev",
+    "platform": "rhel_9",
+    "bin_name": "libiio-devel"
+  },
+  {
+    "package": "libomp-dev",
+    "platform": "fedora_42",
+    "bin_name": "llvm-openmp-devel"
+  },
+  {
+    "package": "libomp-dev",
+    "platform": "fedora_43",
+    "bin_name": "llvm-openmp-devel"
+  },
+  {
+    "package": "libomp-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "llvm-openmp-devel"
+  },
+  {
+    "package": "libpaho-mqttpp-dev",
+    "platform": "alpine_edge",
+    "bin_name": "paho-mqtt-cpp-dev"
+  },
+  {
+    "package": "libpaho-mqttpp-dev",
+    "platform": "arch",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp-dev",
+    "platform": "fedora_42",
+    "bin_name": "paho-mqtt-cpp-devel"
+  },
+  {
+    "package": "libpaho-mqttpp-dev",
+    "platform": "fedora_43",
+    "bin_name": "paho-mqtt-cpp-devel"
+  },
+  {
+    "package": "libpaho-mqttpp-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "paho-mqtt-cpp-devel"
+  },
+  {
+    "package": "libpaho-mqttpp-dev",
+    "platform": "ubuntu_focal",
+    "bin_name": "libpaho-mqttpp-dev"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "alpine_edge",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "arch",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "debian_bookworm",
+    "bin_name": "libpaho-mqtt-cpp3"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "fedora_42",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "fedora_43",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "opensuse_15.2",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "rhel_8",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "rhel_9",
+    "bin_name": "paho-mqtt-cpp"
+  },
+  {
+    "package": "libpaho-mqttpp",
+    "platform": "ubuntu_focal",
+    "bin_name": "libpaho-mqttpp1-1"
+  },
+  {
+    "package": "libqt5-qml",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt5Qml5"
+  },
+  {
+    "package": "libqt5-quick",
+    "platform": "alpine_edge",
+    "bin_name": "qt5-qtquick"
+  },
+  {
+    "package": "libqt5-quick",
+    "platform": "arch",
+    "bin_name": "qt5-quick"
+  },
+  {
+    "package": "libqt5-quick",
+    "platform": "fedora_42",
+    "bin_name": "qt5-qtquick"
+  },
+  {
+    "package": "libqt5-quick",
+    "platform": "fedora_43",
+    "bin_name": "qt5-qtquick"
+  },
+  {
+    "package": "libqt5-quick",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt5Quick5"
+  },
+  {
+    "package": "libqt5-quick",
+    "platform": "rhel_8",
+    "bin_name": "qt5-qtquick"
+  },
+  {
+    "package": "libqt5-quick",
+    "platform": "rhel_9",
+    "bin_name": "qt5-qtquick"
+  },
+  {
+    "package": "libqt6-core",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtbase"
+  },
+  {
+    "package": "libqt6-core",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtbase"
+  },
+  {
+    "package": "libqt6-qml",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtdeclarative"
+  },
+  {
+    "package": "libqt6-quick",
+    "platform": "alpine_edge",
+    "bin_name": "qt6-qtquick"
+  },
+  {
+    "package": "libqt6-quick",
+    "platform": "arch",
+    "bin_name": "qt6-quick"
+  },
+  {
+    "package": "libqt6-quick",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtquick"
+  },
+  {
+    "package": "libqt6-quick",
+    "platform": "fedora_43",
+    "bin_name": "qt6-qtquick"
+  },
+  {
+    "package": "libqt6-quick",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt6Quick6"
+  },
+  {
+    "package": "libqt6-quick",
+    "platform": "rhel_9",
+    "bin_name": "qt6-qtquick"
+  },
+  {
+    "package": "libqt6-quick",
+    "platform": "ubuntu_focal",
+    "bin_name": "libqt6quick6"
+  },
+  {
+    "package": "libqt6bluetooth6",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt6Bluetooth6"
+  },
+  {
+    "package": "libqt6bluetooth6",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtconnectivity"
+  },
+  {
+    "package": "libqt6svg6",
+    "platform": "alpine_edge",
+    "bin_name": "qt6-svg"
+  },
+  {
+    "package": "libqt6svg6",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtbase-svg"
+  },
+  {
+    "package": "libqt6svg6",
+    "platform": "fedora_43",
+    "bin_name": "qt6-qtbase-svg"
+  },
+  {
+    "package": "libqt6svg6",
+    "platform": "rhel_9",
+    "bin_name": "qt6-qtbase-svg"
+  },
+  {
+    "package": "librocksdb-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "rocksdb-devel"
+  },
+  {
+    "package": "libtaskflow-cpp-dev",
+    "platform": "alpine_edge",
+    "bin_name": "taskflow-dev"
+  },
+  {
+    "package": "libtaskflow-cpp-dev",
+    "platform": "arch",
+    "bin_name": "taskflow"
+  },
+  {
+    "package": "libtaskflow-cpp-dev",
+    "platform": "debian_bookworm",
+    "bin_name": "libtaskflow-cpp-dev"
+  },
+  {
+    "package": "libtaskflow-cpp-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "taskflow-devel"
+  },
+  {
+    "package": "libtaskflow-cpp-dev",
+    "platform": "rhel_8",
+    "bin_name": "taskflow-devel"
+  },
+  {
+    "package": "libtaskflow-cpp-dev",
+    "platform": "rhel_9",
+    "bin_name": "taskflow-devel"
+  },
+  {
+    "package": "libtaskflow-cpp-dev",
+    "platform": "ubuntu_jammy",
+    "bin_name": "libtaskflow-cpp-dev"
+  },
+  {
+    "package": "libtweeny-dev",
+    "platform": "alpine_edge",
+    "bin_name": "tweeny-dev"
+  },
+  {
+    "package": "libtweeny-dev",
+    "platform": "arch",
+    "bin_name": "tweeny"
+  },
+  {
+    "package": "libtweeny-dev",
+    "platform": "fedora_43",
+    "bin_name": "tweeny-devel"
+  },
+  {
+    "package": "libtweeny-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "tweeny-devel"
+  },
+  {
+    "package": "libzstd-dev",
+    "platform": "fedora_42",
+    "bin_name": "zstd-devel"
+  },
+  {
+    "package": "libzstd-dev",
+    "platform": "fedora_43",
+    "bin_name": "zstd-devel"
+  },
+  {
+    "package": "libzstd-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "zstd-devel"
+  },
+  {
+    "package": "libzstd-dev",
+    "platform": "rhel_8",
+    "bin_name": "zstd-devel"
+  },
+  {
+    "package": "libzstd-dev",
+    "platform": "rhel_9",
+    "bin_name": "zstd-devel"
+  },
+  {
+    "package": "lua-dev",
+    "platform": "fedora_42",
+    "bin_name": "lua5.1-devel"
+  },
+  {
+    "package": "lua-dev",
+    "platform": "fedora_43",
+    "bin_name": "lua5.1-devel"
+  },
+  {
+    "package": "opende",
+    "platform": "alpine_edge",
+    "bin_name": "ode-dev"
+  },
+  {
+    "package": "python3-attrs",
+    "platform": "debian_bookworm",
+    "bin_name": "python3-attrs"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "fedora_42",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "fedora_43",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "rhel_8",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "rhel_9",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "ubuntu_focal",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "ubuntu_jammy",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-docstring-parser",
+    "platform": "alpine_edge",
+    "bin_name": "py3-docstring-parser"
+  },
+  {
+    "package": "python3-docstring-parser",
+    "platform": "arch",
+    "bin_name": "python-docstring-parser"
+  },
+  {
+    "package": "python3-docstring-parser",
+    "platform": "debian_bookworm",
+    "bin_name": "python3-docstring-parser"
+  },
+  {
+    "package": "python3-docstring-parser",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-docstring-parser"
+  },
+  {
+    "package": "python3-docstring-parser",
+    "platform": "rhel_8",
+    "bin_name": "python3-docstring-parser"
+  },
+  {
+    "package": "python3-docstring-parser",
+    "platform": "rhel_9",
+    "bin_name": "python3-docstring-parser"
+  },
+  {
+    "package": "python3-docstring-parser",
+    "platform": "ubuntu_jammy",
+    "bin_name": "python3-docstring-parser"
+  },
+  {
+    "package": "python3-httpx",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-httpx"
+  },
+  {
+    "package": "python3-httpx",
+    "platform": "ubuntu_focal",
+    "bin_name": "python3-httpx"
+  },
+  {
+    "package": "python3-marisa",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-marisa"
+  },
+  {
+    "package": "python3-mongomock",
+    "platform": "alpine_edge",
+    "bin_name": "py3-mongomock"
+  },
+  {
+    "package": "python3-mongomock",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-mongomock"
+  },
+  {
+    "package": "python3-mongomock",
+    "platform": "ubuntu_focal",
+    "bin_name": "python3-mongomock"
+  },
+  {
+    "package": "python3-mongomock",
+    "platform": "ubuntu_jammy",
+    "bin_name": "python3-mongomock"
+  },
+  {
+    "package": "python3-msgpack-numpy",
+    "platform": "alpine_edge",
+    "bin_name": "py3-msgpack-numpy"
+  },
+  {
+    "package": "python3-msgpack-numpy",
+    "platform": "arch",
+    "bin_name": "python-msgpack-numpy"
+  },
+  {
+    "package": "python3-msgpack-numpy",
+    "platform": "fedora_42",
+    "bin_name": "python3-msgpack-numpy"
+  },
+  {
+    "package": "python3-msgpack-numpy",
+    "platform": "fedora_43",
+    "bin_name": "python3-msgpack-numpy"
+  },
+  {
+    "package": "python3-platformdirs",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-platformdirs"
+  },
+  {
+    "package": "python3-platformdirs",
+    "platform": "rhel_8",
+    "bin_name": "python3-platformdirs"
+  },
+  {
+    "package": "python3-platformdirs",
+    "platform": "ubuntu_focal",
+    "bin_name": "python3-platformdirs"
+  },
+  {
+    "package": "python3-pre-commit",
+    "platform": "opensuse_15.2",
+    "bin_name": "pre-commit"
+  },
+  {
+    "package": "python3-pre-commit",
+    "platform": "ubuntu_focal",
+    "bin_name": "pre-commit"
+  },
+  {
+    "package": "python3-pycryptodome",
+    "platform": "fedora_42",
+    "bin_name": "python3-pycryptodome"
+  },
+  {
+    "package": "python3-pycryptodome",
+    "platform": "fedora_43",
+    "bin_name": "python3-pycryptodome"
+  },
+  {
+    "package": "python3-pycryptodome",
+    "platform": "rhel_8",
+    "bin_name": "python3-pycryptodome"
+  },
+  {
+    "package": "python3-pycryptodome",
+    "platform": "rhel_9",
+    "bin_name": "python3-pycryptodome"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "alpine_edge",
+    "bin_name": "py3-pydub"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "fedora_42",
+    "bin_name": "python3-pydub"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "fedora_43",
+    "bin_name": "python3-pydub"
+  },
+  {
+    "package": "python3-pyparsing",
+    "platform": "alpine_edge",
+    "bin_name": "py3-pyparsing"
+  },
+  {
+    "package": "python3-pyqt6.qtwebengine",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-pyqt6-webengine"
+  },
+  {
+    "package": "python3-pyqt6.qtwebengine",
+    "platform": "ubuntu_jammy",
+    "bin_name": "python3-pyqt6.qtwebengine"
+  },
+  {
+    "package": "python3-pytest-dependency",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-pytest-dependency"
+  },
+  {
+    "package": "python3-rich",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-rich"
+  },
+  {
+    "package": "python3-rich",
+    "platform": "rhel_8",
+    "bin_name": "python3-rich"
+  },
+  {
+    "package": "python3-rich",
+    "platform": "ubuntu_focal",
+    "bin_name": "python3-rich"
+  },
+  {
+    "package": "python3-ruamel.yaml",
+    "platform": "arch",
+    "bin_name": "python-ruamel.yaml"
+  },
+  {
+    "package": "python3-ruamel.yaml",
+    "platform": "fedora_42",
+    "bin_name": "python3-ruamel.yaml"
+  },
+  {
+    "package": "python3-ruamel.yaml",
+    "platform": "fedora_43",
+    "bin_name": "python3-ruamel.yaml"
+  },
+  {
+    "package": "python3-ruamel.yaml",
+    "platform": "rhel_8",
+    "bin_name": "python3-ruamel.yaml"
+  },
+  {
+    "package": "python3-ruamel.yaml",
+    "platform": "rhel_9",
+    "bin_name": "python3-ruamel.yaml"
+  },
+  {
+    "package": "python3-soundfile",
+    "platform": "alpine_edge",
+    "bin_name": "py3-soundfile"
+  },
+  {
+    "package": "python3-soundfile",
+    "platform": "fedora_42",
+    "bin_name": "python3-soundfile"
+  },
+  {
+    "package": "python3-typing-extensions",
+    "platform": "arch",
+    "bin_name": "python-typing-extensions"
+  },
+  {
+    "package": "python3-typing-extensions",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-typing-extensions"
+  },
+  {
+    "package": "python3-xlib",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-xlib"
+  },
+  {
+    "package": "qml6-module-qt-labs-folderlistmodel",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-declarative"
+  },
+  {
+    "package": "qml6-module-qt-labs-platform",
+    "platform": "alpine_edge",
+    "bin_name": "qt6-qtlabsplatform"
+  },
+  {
+    "package": "qml6-module-qt-labs-platform",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtlabsplatform"
+  },
+  {
+    "package": "qml6-module-qt-labs-platform",
+    "platform": "fedora_43",
+    "bin_name": "qt6-qtlabsplatform"
+  },
+  {
+    "package": "qml6-module-qt-labs-platform",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtlabsplatform"
+  },
+  {
+    "package": "qml6-module-qt-labs-platform",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtlabsplatform"
+  },
+  {
+    "package": "qml6-module-qt-labs-platform",
+    "platform": "rhel_9",
+    "bin_name": "qt6-qtlabsplatform"
+  },
+  {
+    "package": "qml6-module-qt-labs-settings",
+    "platform": "alpine_edge",
+    "bin_name": "qt6-qml-module-qt-labs-settings"
+  },
+  {
+    "package": "qml6-module-qt-labs-settings",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qml-module-qt-labs-settings"
+  },
+  {
+    "package": "qml6-module-qt-labs-settings",
+    "platform": "fedora_43",
+    "bin_name": "qt6-qml-module-qt-labs-settings"
+  },
+  {
+    "package": "qml6-module-qt-labs-settings",
+    "platform": "rhel_9",
+    "bin_name": "qt6-qml-module-qt-labs-settings"
+  },
+  {
+    "package": "qml6-module-qt5compat-graphicaleffects",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qt5compat"
+  },
+  {
+    "package": "qml6-module-qt5compat-graphicaleffects",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qt5compat"
+  },
+  {
+    "package": "qml6-module-qtcharts",
+    "platform": "debian_bookworm",
+    "bin_name": "qt6-charts-qml"
+  },
+  {
+    "package": "qml6-module-qtcharts",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtcharts"
+  },
+  {
+    "package": "qml6-module-qtcore",
+    "platform": "opensuse_15.2",
+    "bin_name": "libqt6-qtdeclarative"
+  },
+  {
+    "package": "qml6-module-qtpositioning",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtpositioning"
+  },
+  {
+    "package": "qml6-module-qtpositioning",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtpositioning"
+  },
+  {
+    "package": "qml6-module-qtqml-models",
+    "platform": "debian_bookworm",
+    "bin_name": "qt6-declarative"
+  },
+  {
+    "package": "qml6-module-qtqml-models",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-declarative"
+  },
+  {
+    "package": "qml6-module-qtqml-workerscript",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtdeclarativedevel"
+  },
+  {
+    "package": "qml6-module-qtqml-workerscript",
+    "platform": "fedora_43",
+    "bin_name": "qt6-qtdeclarativedevel"
+  },
+  {
+    "package": "qml6-module-qtqml-workerscript",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-declarative-devel"
+  },
+  {
+    "package": "qml6-module-qtquick-controls",
+    "platform": "alpine_edge",
+    "bin_name": "qt6-qtquickcontrols"
+  },
+  {
+    "package": "qml6-module-qtquick-controls",
+    "platform": "arch",
+    "bin_name": "qt6-quickcontrols"
+  },
+  {
+    "package": "qml6-module-qtquick-controls",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtquickcontrols"
+  },
+  {
+    "package": "qml6-module-qtquick-controls",
+    "platform": "fedora_43",
+    "bin_name": "qt6-qtquickcontrols"
+  },
+  {
+    "package": "qml6-module-qtquick-controls",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtquickcontrols"
+  },
+  {
+    "package": "qml6-module-qtquick-controls",
+    "platform": "rhel_9",
+    "bin_name": "qt6-qtquickcontrols"
+  },
+  {
+    "package": "qml6-module-qtquick-dialogs",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtdeclarativedialogs"
+  },
+  {
+    "package": "qml6-module-qtquick-dialogs",
+    "platform": "fedora_43",
+    "bin_name": "qt6-qtdeclarativedialogs"
+  },
+  {
+    "package": "qml6-module-qtquick-dialogs",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt6QuickDialogs6"
+  },
+  {
+    "package": "qml6-module-qtquick-dialogs",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtdeclarativedialogs"
+  },
+  {
+    "package": "qml6-module-qtquick-dialogs",
+    "platform": "rhel_9",
+    "bin_name": "qt6-qtdeclarativedialogs"
+  },
+  {
+    "package": "qml6-module-qtquick-layouts",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtdeclarative"
+  },
+  {
+    "package": "qml6-module-qtquick-layouts",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtdeclarative"
+  },
+  {
+    "package": "qml6-module-qtquick-templates",
+    "platform": "alpine_edge",
+    "bin_name": "qt6-qtquickcontrols2"
+  },
+  {
+    "package": "qml6-module-qtquick-templates",
+    "platform": "arch",
+    "bin_name": "qt6-quickcontrols2"
+  },
+  {
+    "package": "qml6-module-qtquick-templates",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtquickcontrols2"
+  },
+  {
+    "package": "qml6-module-qtquick-templates",
+    "platform": "fedora_43",
+    "bin_name": "qt6-qtquickcontrols2"
+  },
+  {
+    "package": "qml6-module-qtquick-templates",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtquickcontrols2"
+  },
+  {
+    "package": "qml6-module-qtquick-templates",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtquickcontrols2"
+  },
+  {
+    "package": "qml6-module-qtquick-templates",
+    "platform": "rhel_9",
+    "bin_name": "qt6-qtquickcontrols2"
+  },
+  {
+    "package": "qml6-module-qtquick",
+    "platform": "alpine_edge",
+    "bin_name": "qt6-qtquick"
+  },
+  {
+    "package": "qml6-module-qtquick",
+    "platform": "arch",
+    "bin_name": "qt6-quick"
+  },
+  {
+    "package": "qml6-module-qtquick",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtquick"
+  },
+  {
+    "package": "qml6-module-qtquick",
+    "platform": "fedora_43",
+    "bin_name": "qt6-qtquick"
+  },
+  {
+    "package": "qml6-module-qtquick",
+    "platform": "rhel_9",
+    "bin_name": "qt6-qtquick"
+  },
+  {
+    "package": "qt6-5compat-dev",
+    "platform": "alpine_edge",
+    "bin_name": "qt6-5compat-dev"
+  },
+  {
+    "package": "qt6-5compat-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qt5compat-devel"
+  },
+  {
+    "package": "qt6-5compat-dev",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qt5compat-devel"
+  },
+  {
+    "package": "qt6-5compat-dev",
+    "platform": "ubuntu_focal",
+    "bin_name": "qt6-5compat-dev"
+  },
+  {
+    "package": "qt6-5compat-dev",
+    "platform": "ubuntu_jammy",
+    "bin_name": "qt6-5compat-dev"
+  },
+  {
+    "package": "qt6-base-dev",
+    "platform": "arch",
+    "bin_name": "qt6-base-devel"
+  },
+  {
+    "package": "qt6-base-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtbase-devel"
+  },
+  {
+    "package": "qt6-base-private-dev",
+    "platform": "arch",
+    "bin_name": "qt6-base-devel"
+  },
+  {
+    "package": "qt6-base-private-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtbase-devel"
+  },
+  {
+    "package": "qt6-base-private-dev",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtbase-devel"
+  },
+  {
+    "package": "qt6-connectivity-dev",
+    "platform": "debian_bookworm",
+    "bin_name": "libqt6connectivity-dev"
+  },
+  {
+    "package": "qt6-connectivity-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "libqt6-connectivity-devel"
+  },
+  {
+    "package": "qt6-connectivity-dev",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtconnectivity-devel"
+  },
+  {
+    "package": "qt6-declarative-dev",
+    "platform": "arch",
+    "bin_name": "qt6-declarative-devel"
+  },
+  {
+    "package": "qt6-declarative-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "libqt6declarative-devel"
+  },
+  {
+    "package": "qt6-declarative-dev",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtdeclarative-devel"
+  },
+  {
+    "package": "qt6-declarative-dev",
+    "platform": "ubuntu_focal",
+    "bin_name": "qt6-declarative-dev"
+  },
+  {
+    "package": "qt6-declarative-private-dev",
+    "platform": "arch",
+    "bin_name": "qt6-declarative-dev"
+  },
+  {
+    "package": "qt6-declarative-private-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "libqt6-qtdeclarative-devel"
+  },
+  {
+    "package": "qt6-multimedia-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtmultimedia-devel"
+  },
+  {
+    "package": "rsyslog",
+    "platform": "arch",
+    "bin_name": "rsyslog"
+  },
+  {
+    "package": "rti-connext-dds-7.3.0",
+    "platform": "arch",
+    "bin_name": "rti-connext-dds"
+  },
+  {
+    "package": "rti-connext-dds-7.3.0",
+    "platform": "debian_bookworm",
+    "bin_name": "ros-humble-rmw-connext-cpp"
+  },
+  {
+    "package": "rti-connext-dds-7.3.0",
+    "platform": "fedora_42",
+    "bin_name": "ros-humble-rmw-connext-cpp"
+  },
+  {
+    "package": "rti-connext-dds-7.3.0",
+    "platform": "fedora_43",
+    "bin_name": "ros-humble-rmw-connext-cpp"
+  },
+  {
+    "package": "rti-connext-dds-7.3.0",
+    "platform": "opensuse_15.2",
+    "bin_name": "ros-humble-rmw-connext-cpp"
+  },
+  {
+    "package": "rti-connext-dds-7.3.0",
+    "platform": "rhel_8",
+    "bin_name": "ros-foxy-rmw-connext-cpp"
+  },
+  {
+    "package": "rti-connext-dds-7.3.0",
+    "platform": "rhel_9",
+    "bin_name": "ros-humble-rmw-connext-cpp"
+  },
+  {
+    "package": "rti-connext-dds-7.3.0",
+    "platform": "ubuntu_focal",
+    "bin_name": "ros-foxy-rmw-connext-cpp"
+  },
+  {
+    "package": "rti-connext-dds-7.3.0",
+    "platform": "ubuntu_jammy",
+    "bin_name": "ros-humble-rmw-connext-cpp"
+  },
+  {
+    "package": "rtklib",
+    "platform": "alpine_edge",
+    "bin_name": "rtklib"
+  },
+  {
+    "package": "rtklib",
+    "platform": "arch",
+    "bin_name": "rtklib"
+  },
+  {
+    "package": "rtklib",
+    "platform": "opensuse_15.2",
+    "bin_name": "rtklib"
+  },
+  {
+    "package": "sdl",
+    "platform": "alpine_edge",
+    "bin_name": "sdl12-dev"
+  },
+  {
+    "package": "sdl",
+    "platform": "fedora_42",
+    "bin_name": "sdl12-devel"
+  },
+  {
+    "package": "sdl",
+    "platform": "fedora_43",
+    "bin_name": "sdl12-devel"
+  },
+  {
+    "package": "sdl",
+    "platform": "opensuse_15.2",
+    "bin_name": "sdl12-devel"
+  },
+  {
+    "package": "sdl",
+    "platform": "rhel_8",
+    "bin_name": "sdl12-devel"
+  },
+  {
+    "package": "sdl",
+    "platform": "rhel_9",
+    "bin_name": "sdl12-devel"
+  },
+  {
+    "package": "uhubctl",
+    "platform": "arch",
+    "bin_name": "uhubctl"
+  },
+  {
+    "package": "wx-common",
+    "platform": "debian_bookworm",
+    "bin_name": "wx3.0-common"
+  },
+  {
+    "package": "wx-common",
+    "platform": "fedora_42",
+    "bin_name": "wxGTK3-devel"
+  },
+  {
+    "package": "wx-common",
+    "platform": "fedora_43",
+    "bin_name": "wxGTK3-devel"
+  },
+  {
+    "package": "wx-common",
+    "platform": "opensuse_15.2",
+    "bin_name": "wxWidgets-devel"
+  },
+  {
+    "package": "wx-common",
+    "platform": "ubuntu_focal",
+    "bin_name": "wx3.0-common"
+  },
+  {
+    "package": "wx-common",
+    "platform": "ubuntu_jammy",
+    "bin_name": "wx3.0-common"
+  },
+  {
+    "package": "wxwidgets",
+    "platform": "alpine_edge",
+    "bin_name": "wxgtk-dev"
+  },
+  {
+    "package": "wxwidgets",
+    "platform": "arch",
+    "bin_name": "wxgtk3"
+  },
+  {
+    "package": "wxwidgets",
+    "platform": "fedora_42",
+    "bin_name": "wxGTK3-devel"
+  },
+  {
+    "package": "wxwidgets",
+    "platform": "fedora_43",
+    "bin_name": "wxGTK3-devel"
+  },
+  {
+    "package": "wxwidgets",
+    "platform": "opensuse_15.2",
+    "bin_name": "wxGTK3-devel"
+  }
+]

@@ -1,0 +1,145 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "libwxgtk3.2-dev",
+      "bin_name": "libwxgtk3.2-dev",
+      "src_name": "wxwidgets3.2",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "3.2.4+dfsg-4build1",
+      "description": "wxWidgets Cross-platform C++ GUI toolkit (GTK 3 development)",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "wxgtk-dev",
+      "bin_name": "wxgtk-dev",
+      "src_name": null,
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libwxgtk3.2-dev",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "wxgtk3",
+      "bin_name": "wxgtk3",
+      "src_name": null,
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libwxgtk3.2-dev",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libwxgtk3.2-dev",
+      "bin_name": "libwxgtk3.2-dev",
+      "src_name": null,
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libwxgtk3.2-dev",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "wxGTK3-devel",
+      "bin_name": "wxGTK3-devel",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libwxgtk3.2-dev",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "wxGTK3-devel",
+      "bin_name": "wxGTK3-devel",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libwxgtk3.2-dev",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "wxGTK3-devel",
+      "bin_name": "wxGTK3-devel",
+      "src_name": null,
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libwxgtk3.2-dev",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "wxGTK3-devel",
+      "bin_name": "wxGTK3-devel",
+      "src_name": null,
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libwxgtk3.2-dev",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "wxGTK3-devel",
+      "bin_name": "wxGTK3-devel",
+      "src_name": null,
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libwxgtk3.2-dev",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libwxgtk3.0-gtk3-dev",
+      "bin_name": "libwxgtk3.0-gtk3-dev",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libwxgtk3.2-dev",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libwxgtk3.0-gtk3-dev",
+      "bin_name": "libwxgtk3.0-gtk3-dev",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libwxgtk3.2-dev",
+      "confidence": 1.0
+    }
+  ]
+}

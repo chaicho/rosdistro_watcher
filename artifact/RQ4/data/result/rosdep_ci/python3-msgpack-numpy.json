@@ -1,0 +1,67 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "python3-msgpack-numpy",
+      "bin_name": "python3-msgpack-numpy",
+      "src_name": "python-msgpack-numpy",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "0.4.8-1",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python3-msgpack-numpy",
+      "bin_name": "python3-msgpack-numpy",
+      "src_name": "python-msgpack-numpy",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": "x86_64",
+      "version": "0.4.5-lp152.1.1",
+      "description": "Found by rosdep CI (exact) in opensuse 15.2",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-msgpack-numpy",
+      "bin_name": "python3-msgpack-numpy",
+      "src_name": "python-msgpack-numpy",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "0.4.4-1",
+      "description": "Found by rosdep CI (exact) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-msgpack-numpy",
+      "bin_name": "python3-msgpack-numpy",
+      "src_name": "python-msgpack-numpy",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "0.4.4-1.1",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-msgpack-numpy",
+      "bin_name": "python3-msgpack-numpy",
+      "src_name": "python-msgpack-numpy",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "0.4.8-1",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rosdepauditor-web-app"
+version = "0.1.0"
+description = "Flask web interface for RosdepAuditor package distribution detection"
+requires-python = ">=3.11"
+dependencies = [
+    "Flask>=3.0",
+]
+
+[tool.setuptools]
+py-modules = []

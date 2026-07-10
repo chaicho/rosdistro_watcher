@@ -1,0 +1,54 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "liblua5.1-0-dev",
+      "bin_name": "liblua5.1-0-dev",
+      "src_name": "lua5.1",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "5.1.5-9",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "liblua5.1-0-dev",
+      "bin_name": "liblua5.1-0-dev",
+      "src_name": "lua5.1",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "5.1.5-8.1build4",
+      "description": "Found by rosdep CI (exact) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "liblua5.1-0-dev",
+      "bin_name": "liblua5.1-0-dev",
+      "src_name": "lua5.1",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "5.1.5-8.1build4",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "liblua5.1-0-dev",
+      "bin_name": "liblua5.1-0-dev",
+      "src_name": "lua5.1",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "5.1.5-9build2",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

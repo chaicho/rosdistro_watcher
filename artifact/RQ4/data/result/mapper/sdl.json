@@ -1,0 +1,392 @@
+{
+  "arch": [
+    {
+      "name": "lib32-sdl12-compat",
+      "bin_name": "lib32-sdl12-compat",
+      "src_name": "lib32-sdl12-compat",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat",
+      "bin_name": "sdl12-compat",
+      "src_name": "sdl12-compat",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "sdl12-compat-debugsource",
+      "bin_name": "sdl12-compat-debugsource",
+      "src_name": "sdl12-compat",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat",
+      "bin_name": "sdl12-compat",
+      "src_name": "sdl12-compat",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat-debuginfo",
+      "bin_name": "sdl12-compat-debuginfo",
+      "src_name": "sdl12-compat",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat-devel",
+      "bin_name": "sdl12-compat-devel",
+      "src_name": "sdl12-compat",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "sdl12-compat-static",
+      "bin_name": "sdl12-compat-static",
+      "src_name": "sdl12-compat",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL-1.2 compat layer that uses SDL-2.0 (static library)",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat-dev",
+      "bin_name": "sdl12-compat-dev",
+      "src_name": "sdl12-compat",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL-1.2 compat layer that uses SDL-2.0 (development files)",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat-dbg",
+      "bin_name": "sdl12-compat-dbg",
+      "src_name": "sdl12-compat",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL-1.2 compat layer that uses SDL-2.0 (debug symbols)",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat",
+      "bin_name": "sdl12-compat",
+      "src_name": "sdl12-compat",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL-1.2 compat layer that uses SDL-2.0",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libsdl1.2-compat-dev",
+      "bin_name": "libsdl1.2-compat-dev",
+      "src_name": "sdl12-compat",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libsdl1.2-compat",
+      "bin_name": "libsdl1.2-compat",
+      "src_name": "sdl12-compat",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libsdl1.2-compat-tests",
+      "bin_name": "libsdl1.2-compat-tests",
+      "src_name": "sdl12-compat",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libsdl1.2-compat-shim",
+      "bin_name": "libsdl1.2-compat-shim",
+      "src_name": "sdl12-compat",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "sdl12-compat",
+      "bin_name": "sdl12-compat",
+      "src_name": "sdl12-compat",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat-static",
+      "bin_name": "sdl12-compat-static",
+      "src_name": "sdl12-compat",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-sdl12-compat",
+      "bin_name": "mingw32-sdl12-compat",
+      "src_name": "mingw-sdl12-compat",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows port of SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-sdl12-compat",
+      "bin_name": "mingw64-sdl12-compat",
+      "src_name": "mingw-sdl12-compat",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows port of SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat-devel",
+      "bin_name": "sdl12-compat-devel",
+      "src_name": "sdl12-compat",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "mingw64-sdl12-compat",
+      "bin_name": "mingw64-sdl12-compat",
+      "src_name": "mingw-sdl12-compat",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows port of SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-sdl12-compat",
+      "bin_name": "mingw32-sdl12-compat",
+      "src_name": "mingw-sdl12-compat",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows port of SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat-devel",
+      "bin_name": "sdl12-compat-devel",
+      "src_name": "sdl12-compat",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat",
+      "bin_name": "sdl12-compat",
+      "src_name": "sdl12-compat",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    },
+    {
+      "name": "sdl12-compat-static",
+      "bin_name": "sdl12-compat-static",
+      "src_name": "sdl12-compat",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "SDL 1.2 runtime compatibility library using SDL 2.0",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libsdl1.2-compat-shim",
+      "bin_name": "libsdl1.2-compat-shim",
+      "src_name": "sdl12-compat",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libsdl1.2-compat-dev",
+      "bin_name": "libsdl1.2-compat-dev",
+      "src_name": "sdl12-compat",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libsdl1.2-compat-tests",
+      "bin_name": "libsdl1.2-compat-tests",
+      "src_name": "sdl12-compat",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libsdl1.2-compat",
+      "bin_name": "libsdl1.2-compat",
+      "src_name": "sdl12-compat",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libsdl1.2debian",
+      "bin_name": "libsdl1.2debian",
+      "src_name": "sdl12-compat",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libsdl1.2-dev",
+      "bin_name": "libsdl1.2-dev",
+      "src_name": "sdl12-compat",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libsdl1.2-compat",
+      "bin_name": "libsdl1.2-compat",
+      "src_name": "sdl12-compat",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libsdl1.2-compat-tests",
+      "bin_name": "libsdl1.2-compat-tests",
+      "src_name": "sdl12-compat",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libsdl1.2-compat-dev",
+      "bin_name": "libsdl1.2-compat-dev",
+      "src_name": "sdl12-compat",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libsdl1.2-compat-shim",
+      "bin_name": "libsdl1.2-compat-shim",
+      "src_name": "sdl12-compat",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,944 @@
+{
+  "fedora_42": [
+    {
+      "name": "mingw32-glib2",
+      "bin_name": "mingw32-glib2",
+      "src_name": "mingw-glib2",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-tests",
+      "bin_name": "glib2-tests",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2",
+      "bin_name": "glib2",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib-devel",
+      "bin_name": "glib-devel",
+      "src_name": "glib",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-glib2-static",
+      "bin_name": "mingw64-glib2-static",
+      "src_name": "mingw-glib2",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib",
+      "bin_name": "glib",
+      "src_name": "glib",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-devel",
+      "bin_name": "glib2-devel",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-static",
+      "bin_name": "glib2-static",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-glib2",
+      "bin_name": "mingw64-glib2",
+      "src_name": "mingw-glib2",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-glib2-static",
+      "bin_name": "mingw32-glib2-static",
+      "src_name": "mingw-glib2",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-doc",
+      "bin_name": "glib2-doc",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "glib",
+      "bin_name": "glib",
+      "src_name": "glib",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-devel",
+      "bin_name": "glib2-devel",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-glib2",
+      "bin_name": "mingw64-glib2",
+      "src_name": "mingw-glib2",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-static",
+      "bin_name": "glib2-static",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-glib2-static",
+      "bin_name": "mingw32-glib2-static",
+      "src_name": "mingw-glib2",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-doc",
+      "bin_name": "glib2-doc",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-glib2",
+      "bin_name": "mingw32-glib2",
+      "src_name": "mingw-glib2",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-tests",
+      "bin_name": "glib2-tests",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib-devel",
+      "bin_name": "glib-devel",
+      "src_name": "glib",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2",
+      "bin_name": "glib2",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-glib2-static",
+      "bin_name": "mingw64-glib2-static",
+      "src_name": "mingw-glib2",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "glib-lang",
+      "bin_name": "glib-lang",
+      "src_name": "glib",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Languages for package glib",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib-dev",
+      "bin_name": "glib-dev",
+      "src_name": "glib",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Low-level core library that forms the basis for projects such as GTK and GNOME (development files)",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib-static",
+      "bin_name": "glib-static",
+      "src_name": "glib",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Low-level core library that forms the basis for projects such as GTK and GNOME (static library)",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib-bash-completion",
+      "bin_name": "glib-bash-completion",
+      "src_name": "glib",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Bash completions for glib",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib",
+      "bin_name": "glib",
+      "src_name": "glib",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Low-level core library that forms the basis for projects such as GTK and GNOME",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib-dbg",
+      "bin_name": "glib-dbg",
+      "src_name": "glib",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Low-level core library that forms the basis for projects such as GTK and GNOME (debug symbols)",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib-doc",
+      "bin_name": "glib-doc",
+      "src_name": "glib",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Low-level core library that forms the basis for projects such as GTK and GNOME (documentation)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "lib32-glib2",
+      "bin_name": "lib32-glib2",
+      "src_name": "lib32-glib2",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Low level core library - 32-bit",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-docs",
+      "bin_name": "glib2-docs",
+      "src_name": "glib2",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Low level core library - documentation",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2",
+      "bin_name": "glib2",
+      "src_name": "glib2",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Low level core library",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-devel",
+      "bin_name": "glib2-devel",
+      "src_name": "glib2",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Low level core library - development tools",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "glib2-static",
+      "bin_name": "glib2-static",
+      "src_name": "glib2",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-debuginfo",
+      "bin_name": "glib2-debuginfo",
+      "src_name": "glib2",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-glib2-static",
+      "bin_name": "mingw32-glib2-static",
+      "src_name": "mingw-glib2",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-tests",
+      "bin_name": "glib2-tests",
+      "src_name": "glib2",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-doc",
+      "bin_name": "glib2-doc",
+      "src_name": "glib2",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-glib2",
+      "bin_name": "mingw32-glib2",
+      "src_name": "mingw-glib2",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-debugsource",
+      "bin_name": "glib2-debugsource",
+      "src_name": "glib2",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2",
+      "bin_name": "glib2",
+      "src_name": "glib2",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-glib2",
+      "bin_name": "mingw64-glib2",
+      "src_name": "mingw-glib2",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-glib2-static",
+      "bin_name": "mingw64-glib2-static",
+      "src_name": "mingw-glib2",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows GLib2 library",
+      "confidence": 1.0
+    },
+    {
+      "name": "glib2-devel",
+      "bin_name": "glib2-devel",
+      "src_name": "glib2",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libglib2.0-0",
+      "bin_name": "libglib2.0-0",
+      "src_name": "glib2.0",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-udeb",
+      "bin_name": "libglib2.0-udeb",
+      "src_name": "glib2.0",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-doc",
+      "bin_name": "libglib2.0-doc",
+      "src_name": "glib2.0",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-bin",
+      "bin_name": "libglib2.0-bin",
+      "src_name": "glib2.0",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-dev",
+      "bin_name": "libglib2.0-dev",
+      "src_name": "glib2.0",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-data",
+      "bin_name": "libglib2.0-data",
+      "src_name": "glib2.0",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-tests",
+      "bin_name": "libglib2.0-tests",
+      "src_name": "glib2.0",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-dev-bin",
+      "bin_name": "libglib2.0-dev-bin",
+      "src_name": "glib2.0",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libglib2.0-dev-bin",
+      "bin_name": "libglib2.0-dev-bin",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-doc",
+      "bin_name": "libglib2.0-doc",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-tests",
+      "bin_name": "libglib2.0-tests",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-0",
+      "bin_name": "libglib2.0-0",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-bin",
+      "bin_name": "libglib2.0-bin",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-dev",
+      "bin_name": "libglib2.0-dev",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-data",
+      "bin_name": "libglib2.0-data",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgio-fam",
+      "bin_name": "libgio-fam",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-udeb",
+      "bin_name": "libglib2.0-udeb",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libglib2.0-udeb",
+      "bin_name": "libglib2.0-udeb",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-dev-bin",
+      "bin_name": "libglib2.0-dev-bin",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-tests",
+      "bin_name": "libglib2.0-tests",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-0",
+      "bin_name": "libglib2.0-0",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-bin",
+      "bin_name": "libglib2.0-bin",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-doc",
+      "bin_name": "libglib2.0-doc",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-dev",
+      "bin_name": "libglib2.0-dev",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-data",
+      "bin_name": "libglib2.0-data",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libglib2.0-0t64",
+      "bin_name": "libglib2.0-0t64",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-bin",
+      "bin_name": "libglib2.0-bin",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-glib-2.0-dev",
+      "bin_name": "gir1.2-glib-2.0-dev",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-data",
+      "bin_name": "libglib2.0-data",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-girepository-3.0",
+      "bin_name": "gir1.2-girepository-3.0",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-udeb",
+      "bin_name": "libglib2.0-udeb",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-girepository-3.0-dev",
+      "bin_name": "gir1.2-girepository-3.0-dev",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-dev",
+      "bin_name": "libglib2.0-dev",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-dev-bin",
+      "bin_name": "libglib2.0-dev-bin",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-tests",
+      "bin_name": "libglib2.0-tests",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-0",
+      "bin_name": "libglib2.0-0",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository-2.0-0",
+      "bin_name": "libgirepository-2.0-0",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libglib2.0-doc",
+      "bin_name": "libglib2.0-doc",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository-2.0-dev",
+      "bin_name": "libgirepository-2.0-dev",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-glib-2.0",
+      "bin_name": "gir1.2-glib-2.0",
+      "src_name": "glib2.0",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

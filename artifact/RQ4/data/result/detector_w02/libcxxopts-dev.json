@@ -1,0 +1,119 @@
+{
+  "alpine_edge": [
+    {
+      "name": "cxxopts-dev",
+      "bin_name": "cxxopts-dev",
+      "src_name": "cxxopts",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "3.3.1-r0",
+      "description": "Lightweight C++ command line option parser as a header only library (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libcxxopts-dev",
+      "bin_name": "libcxxopts-dev",
+      "src_name": "cxxopts",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "3.1.1-1",
+      "description": "Lightweight C++ option parser library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "cxxopts-devel",
+      "bin_name": "cxxopts-devel",
+      "src_name": "cxxopts",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "3.2.1-3.fc42",
+      "description": "Development files for cxxopts",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "cxxopts-devel",
+      "bin_name": "cxxopts-devel",
+      "src_name": "cxxopts",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "3.1.1-1.el8",
+      "description": "Development files for cxxopts",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libcxxopts-dev",
+      "bin_name": "libcxxopts-dev",
+      "src_name": "cxxopts",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "3.1.1-1",
+      "description": "Lightweight C++ option parser library",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "cxxopts-devel",
+      "bin_name": "cxxopts-devel",
+      "src_name": "cxxopts",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "3.3.1-1.el9",
+      "description": "Development files for cxxopts",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "cxxopts",
+      "bin_name": "cxxopts",
+      "src_name": "cxxopts",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "3.3.1-1",
+      "description": "Lightweight C++ command line option parser",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libcxxopts-dev",
+      "bin_name": "libcxxopts-dev",
+      "src_name": "cxxopts",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "3.0.0-1",
+      "description": "Lightweight C++ option parser library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "cxxopts-devel",
+      "bin_name": "cxxopts-devel",
+      "src_name": "cxxopts",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "3.3.1-2.fc43",
+      "description": "Development files for cxxopts",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+pr_url,pr_number,pr_title,created_at,closed_at,modified_keys
+https://github.com/ros/rosdistro/pull/47529,47529,distro: add python3-pre-commit for openembedded,2025-09-06T06:42:53Z,2025-09-08T02:28:16Z,python3-pre-commit
+https://github.com/ros/rosdistro/pull/47652,47652,Add libpaho-mqttpp and libpaho-mqttpp-dev for RHEL,2025-09-15T09:08:04Z,2025-09-16T18:42:53Z,"libpaho-mqttpp, libpaho-mqttpp-dev"
+https://github.com/ros/rosdistro/pull/47678,47678,Add missing libboost-* rosdep entries in Debian Bookworm,2025-09-16T15:31:03Z,2025-10-16T19:05:58Z,"libboost-atomic, libboost-chrono, libboost-coroutine, libboost-date-time, libboost-filesystem, libboost-iostreams, libboost-math, libboost-program-options, libboost-python, libboost-random, libboost-regex, libboost-serialization, libboost-system, libboost-thread, libboost-timer"
+https://github.com/ros/rosdistro/pull/47703,47703,Add libglib2.0-dev-bin for debian based distros,2025-09-17T18:19:00Z,2025-09-23T15:09:48Z,libglib-dev
+https://github.com/ros/rosdistro/pull/47771,47771,openembedded: python(3)-psutil,2025-09-24T16:52:39Z,2025-10-02T21:21:03Z,"python-psutil, python3-psutil"
+https://github.com/ros/rosdistro/pull/47772,47772,openembedded: python(3)pyudev,2025-09-24T17:04:24Z,2025-10-02T21:20:31Z,"python-pyudev, python3-pyudev"
+https://github.com/ros/rosdistro/pull/47775,47775,openembedded: python3-whichcraft meta-ros-common -> meta-ros2,2025-09-24T17:39:36Z,2025-10-02T21:37:20Z,python3-whichcraft
+https://github.com/ros/rosdistro/pull/47776,47776,openembedded: python(3)-pyproj,2025-09-24T17:59:27Z,2025-10-02T21:19:29Z,"python-pyproj, python3-pyproj"
+https://github.com/ros/rosdistro/pull/47914,47914,Bump version of liborocos-kdl for debian,2025-10-03T16:01:05Z,2025-10-07T16:45:12Z,liborocos-kdl
+https://github.com/ros/rosdistro/pull/47916,47916,openembedded: adding python3-tabulate,2025-10-03T17:58:08Z,2025-10-07T16:47:47Z,python3-tabulate
+https://github.com/ros/rosdistro/pull/48072,48072,gsl on rhel,2025-10-13T23:24:52Z,2025-10-14T18:35:00Z,libgsl
+https://github.com/ros/rosdistro/pull/48172,48172,Update tbb entry for NixOS,2025-10-16T18:11:30Z,2025-10-17T00:07:22Z,tbb
+https://github.com/ros/rosdistro/pull/48304,48304,Add ignition dependencies for NixOS,2025-10-22T20:40:34Z,2025-10-29T03:27:05Z,"ignition-msgs8, ignition-transport11"
+https://github.com/ros/rosdistro/pull/48305,48305,Add crccheck package for NixOS,2025-10-23T04:26:24Z,2025-10-29T03:32:03Z,python-crccheck-pip
+https://github.com/ros/rosdistro/pull/48359,48359,Update aiortc to support Ubuntu noble and later,2025-10-27T09:28:34Z,2025-10-29T03:25:26Z,python3-aiortc
+https://github.com/ros/rosdistro/pull/48361,48361,Switch python3-bson to pymongo for NixOS,2025-10-27T21:01:27Z,2025-10-29T03:24:23Z,python3-bson
+https://github.com/ros/rosdistro/pull/48402,48402,Add python3-osrf-pycommon and python3-types-pyyaml entries for NixOS,2025-10-30T07:07:17Z,2025-11-04T15:51:38Z,"python3-osrf-pycommon, python3-types-pyyaml"
+https://github.com/ros/rosdistro/pull/48573,48573,rosdep: add some Qt6 deps on NixOS,2025-11-10T22:46:39Z,2025-11-18T14:45:23Z,"libqt6svg6, qml6-module-qt-labs-folderlistmodel, qml6-module-qt-labs-platform, qml6-module-qt-labs-settings, qml6-module-qt5compat-graphicaleffects, qml6-module-qtcharts, qml6-module-qtcore, qml6-module-qtpositioning, qml6-module-qtqml, qml6-module-qtqml-models, qml6-module-qtqml-workerscript, qml6-module-qtquick-controls, qml6-module-qtquick-dialogs, qml6-module-qtquick-layouts, qml6-module-qtquick-templates, qml6-module-qtquick-window, qt6-5compat-dev, qt6-base-private-dev, qt6-declarative-private-dev"
+https://github.com/ros/rosdistro/pull/48620,48620,Add RHEL rule for 'python3-networkx',2025-11-12T20:51:56Z,2025-11-18T14:45:02Z,python3-networkx
+https://github.com/ros/rosdistro/pull/48661,48661,Add python3-cbor2 for RHEL,2025-11-17T15:54:59Z,2025-11-18T10:01:00Z,python3-cbor2
+https://github.com/ros/rosdistro/pull/48734,48734,Fix qml6-module-qtquick entry for NixOS,2025-11-21T21:48:25Z,2025-11-25T15:17:07Z,qml6-module-qtquick
+https://github.com/ros/rosdistro/pull/48819,48819,Add python3-fastapi for OpenEmbedded,2025-11-30T20:55:36Z,2025-12-05T18:07:54Z,python3-fastapi
+https://github.com/ros/rosdistro/pull/48990,48990,Add libxcursor-devel for RHEL,2025-12-09T22:31:21Z,2025-12-10T10:15:37Z,libxcursor-dev
+https://github.com/ros/rosdistro/pull/49004,49004,Add libxinerama-devel to base.yaml,2025-12-10T11:51:31Z,2025-12-12T14:27:53Z,libxinerama-dev
+https://github.com/ros/rosdistro/pull/49142,49142,[openembedded] drop python2 from meta-qt5,2025-12-20T17:27:03Z,2026-01-13T17:27:34Z,"pyqt5-dev-tools, python-qt5-bindings, python-qt5-bindings-gl, python-qt5-bindings-qsci, python-qt5-bindings-webkit, python3-pyqt5.qtwebengine"
+https://github.com/ros/rosdistro/pull/49143,49143,[openembedded] python3-nose: moved from openembedded-core to meta-ros-common,2025-12-20T17:30:30Z,2025-12-29T17:44:49Z,python3-nose
+https://github.com/ros/rosdistro/pull/49201,49201,remove python2-pydot,2025-12-25T10:45:53Z,2026-01-06T17:21:11Z,python-pydot
+https://github.com/ros/rosdistro/pull/49203,49203,Support libgsl on debian bookworm,2025-12-26T07:00:14Z,2026-01-06T17:19:23Z,libgsl
+https://github.com/ros/rosdistro/pull/49227,49227,[openembedded] pydocstyle: removed the deprecated PYTHON_PN,2025-12-28T18:08:35Z,2026-02-10T18:18:38Z,pydocstyle
+https://github.com/ros/rosdistro/pull/49275,49275,Add NixOS key for python3-smbus2,2026-01-02T20:51:04Z,2026-01-06T17:15:56Z,python3-smbus2
+https://github.com/ros/rosdistro/pull/49279,49279,Update lz4 keys of base.yaml,2026-01-05T09:30:03Z,2026-01-06T16:07:45Z,lz4
+https://github.com/ros/rosdistro/pull/49417,49417,Add cxxopts-devel for RHEL in base.yaml,2026-01-13T14:51:41Z,2026-01-13T16:33:25Z,libcxxopts-dev
+https://github.com/ros/rosdistro/pull/49418,49418,Add language-pack- rules for Debian and RHEL,2026-01-13T15:03:47Z,2026-01-13T22:47:21Z,"language-pack-de, language-pack-en"
+https://github.com/ros/rosdistro/pull/49427,49427,Add RHEL mapping for procps,2026-01-13T20:24:55Z,2026-01-13T22:34:06Z,procps

@@ -1,0 +1,145 @@
+{
+  "fedora_42": [
+    {
+      "name": "atlas-devel",
+      "bin_name": "atlas-devel",
+      "src_name": "atlas",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "3.10.3-28.fc42",
+      "description": "Development libraries for ATLAS",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "atlas-devel",
+      "bin_name": "atlas-devel",
+      "src_name": "atlas",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "3.10.3-8.el8",
+      "description": "Development libraries for ATLAS",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libatlas-base-dev",
+      "bin_name": "libatlas-base-dev",
+      "src_name": "atlas",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "3.10.3-13",
+      "description": "Automatically Tuned Linear Algebra Software, generic static",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "blas-devel",
+      "bin_name": "blas-devel",
+      "src_name": "lapack",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "3.5.0-lp152.5.9",
+      "description": "Basic Linear Algebra Subprograms",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libatlas-base-dev",
+      "bin_name": "libatlas-base-dev",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "3.10.3-13ubuntu1",
+      "description": "Automatically Tuned Linear Algebra Software, generic static",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "atlas-devel",
+      "bin_name": "atlas-devel",
+      "src_name": "atlas",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "3.10.3-17.el9",
+      "description": "Development libraries for ATLAS",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libatlas-base-dev",
+      "bin_name": "libatlas-base-dev",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "3.10.3-12ubuntu1",
+      "description": "Automatically Tuned Linear Algebra Software, generic static",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "atlas-devel",
+      "bin_name": "atlas-devel",
+      "src_name": "atlas",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "3.10.3-30.fc43",
+      "description": "Development libraries for ATLAS",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libatlas-base-dev",
+      "bin_name": "libatlas-base-dev",
+      "src_name": "atlas",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "3.10.3-8ubuntu7",
+      "description": "Automatically Tuned Linear Algebra Software, generic static",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "blas",
+      "bin_name": "blas",
+      "src_name": "blas",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "3.12.1-2",
+      "description": "Basic Linear Algebra Subprograms",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "atlas",
+      "bin_name": "atlas",
+      "src_name": "atlas",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.3.1",
+      "description": "Interactive environments for AI agents",
+      "confidence": 1.0
+    }
+  ]
+}

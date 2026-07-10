@@ -1,0 +1,115 @@
+{
+  "ubuntu_jammy": [
+    {
+      "name": "iwyu",
+      "bin_name": "iwyu",
+      "src_name": "iwyu",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "iwyu",
+      "bin_name": "iwyu",
+      "src_name": "iwyu",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "include-what-you-use-dbg",
+      "bin_name": "include-what-you-use-dbg",
+      "src_name": "include-what-you-use",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for use with clang to analyze #includes in C and C++ source files (debug symbols)",
+      "confidence": 1.0
+    },
+    {
+      "name": "include-what-you-use",
+      "bin_name": "include-what-you-use",
+      "src_name": "include-what-you-use",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for use with clang to analyze #includes in C and C++ source files",
+      "confidence": 1.0
+    },
+    {
+      "name": "include-what-you-use-doc",
+      "bin_name": "include-what-you-use-doc",
+      "src_name": "include-what-you-use",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A tool for use with clang to analyze #includes in C and C++ source files (documentation)",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "iwyu",
+      "bin_name": "iwyu",
+      "src_name": "iwyu",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "iwyu",
+      "bin_name": "iwyu",
+      "src_name": "iwyu",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "C/C++ source files #include analyzer based on clang",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "iwyu",
+      "bin_name": "iwyu",
+      "src_name": "iwyu",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "C/C++ source files #include analyzer based on clang",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "iwyu",
+      "bin_name": "iwyu",
+      "src_name": "iwyu",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

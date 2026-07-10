@@ -1,0 +1,592 @@
+{
+  "rhel_9": [
+    {
+      "name": "libicu60-debugsource",
+      "bin_name": "libicu60-debugsource",
+      "src_name": "libicu60",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Compat package with icu libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu60",
+      "bin_name": "libicu60",
+      "src_name": "libicu60",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Compat package with icu libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu",
+      "bin_name": "libicu",
+      "src_name": "icu",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu-doc",
+      "bin_name": "libicu-doc",
+      "src_name": "icu",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu50",
+      "bin_name": "libicu50",
+      "src_name": "libicu50",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Compat package with icu libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-debugsource",
+      "bin_name": "icu-debugsource",
+      "src_name": "icu",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-debuginfo",
+      "bin_name": "icu-debuginfo",
+      "src_name": "icu",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu",
+      "bin_name": "icu",
+      "src_name": "icu",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu60-debuginfo",
+      "bin_name": "libicu60-debuginfo",
+      "src_name": "libicu60",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Compat package with icu libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu50-debuginfo",
+      "bin_name": "libicu50-debuginfo",
+      "src_name": "libicu50",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Compat package with icu libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu50-debugsource",
+      "bin_name": "libicu50-debugsource",
+      "src_name": "libicu50",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Compat package with icu libraries",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-devtools",
+      "bin_name": "icu-devtools",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu66",
+      "bin_name": "libicu66",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-doc",
+      "bin_name": "icu-doc",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "icu-dev",
+      "bin_name": "icu-dev",
+      "src_name": "icu",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode library (development files)",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-data-en",
+      "bin_name": "icu-data-en",
+      "src_name": "icu",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Stripped down ICU data with only en_US/GB locale and no legacy charset converters",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-doc",
+      "bin_name": "icu-doc",
+      "src_name": "icu",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode library (documentation)",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-libs",
+      "bin_name": "icu-libs",
+      "src_name": "icu",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode library (libraries)",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu",
+      "bin_name": "icu",
+      "src_name": "icu",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode library",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-data-full",
+      "bin_name": "icu-data-full",
+      "src_name": "icu",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Full ICU data",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-static",
+      "bin_name": "icu-static",
+      "src_name": "icu",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode library (static library)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "icu",
+      "bin_name": "icu",
+      "src_name": "icu",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode library",
+      "confidence": 1.0
+    },
+    {
+      "name": "lib32-icu",
+      "bin_name": "lib32-icu",
+      "src_name": "lib32-icu",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode library (32 bit)",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-doc",
+      "bin_name": "icu-doc",
+      "src_name": "icu",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-devtools",
+      "bin_name": "icu-devtools",
+      "src_name": "icu",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu72",
+      "bin_name": "libicu72",
+      "src_name": "icu",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "mingw64-icu",
+      "bin_name": "mingw64-icu",
+      "src_name": "mingw-icu",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW compilation of International Components for Unicode Tools",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu",
+      "bin_name": "icu",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu74",
+      "bin_name": "libicu74",
+      "src_name": "libicu74",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Compat package with icu libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu-doc",
+      "bin_name": "libicu-doc",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu",
+      "bin_name": "libicu",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-icu",
+      "bin_name": "mingw32-icu",
+      "src_name": "mingw-icu",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW compilation of International Components for Unicode Tools",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libicu-doc",
+      "bin_name": "libicu-doc",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu",
+      "bin_name": "icu",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu",
+      "bin_name": "libicu",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu76",
+      "bin_name": "libicu76",
+      "src_name": "libicu76",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Compat package with icu 76.1 libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu74",
+      "bin_name": "libicu74",
+      "src_name": "libicu74",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Compat package with icu libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-icu",
+      "bin_name": "mingw64-icu",
+      "src_name": "mingw-icu",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW compilation of International Components for Unicode Tools",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "International Components for Unicode",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-icu",
+      "bin_name": "mingw32-icu",
+      "src_name": "mingw-icu",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW compilation of International Components for Unicode Tools",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libicu70",
+      "bin_name": "libicu70",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-devtools",
+      "bin_name": "icu-devtools",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-doc",
+      "bin_name": "icu-doc",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-doc",
+      "bin_name": "icu-doc",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libicu74",
+      "bin_name": "libicu74",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "icu-devtools",
+      "bin_name": "icu-devtools",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

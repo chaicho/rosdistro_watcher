@@ -1,0 +1,67 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "python3-bleak",
+      "bin_name": "python3-bleak",
+      "src_name": "bleak",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.21.1-1",
+      "description": "Bluetooth Low Energy platform agnostic client",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "bleak",
+      "bin_name": "bleak",
+      "src_name": "bleak",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "2.1.1",
+      "description": "Bluetooth Low Energy platform Agnostic Klient",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-bleak",
+      "bin_name": "python-bleak",
+      "src_name": "python-bleak",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "2.0.0-2",
+      "description": "Bluetooth Low Energy platform Agnostic Klient for Python",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-bleak",
+      "bin_name": "python3-bleak",
+      "src_name": "bleak",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "0.20.2-1",
+      "description": "Bluetooth Low Energy platform agnostic client",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-bleak",
+      "bin_name": "py3-bleak",
+      "src_name": "py3-bleak",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "0.22.3-r1",
+      "description": "Bluetooth Low Energy platform Agnostic Klient",
+      "confidence": 1.0
+    }
+  ]
+}

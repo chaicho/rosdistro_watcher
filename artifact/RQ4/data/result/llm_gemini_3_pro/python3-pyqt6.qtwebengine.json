@@ -1,0 +1,106 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "python3-pyqt6.qtwebengine",
+      "bin_name": "python3-pyqt6.qtwebengine",
+      "src_name": "pyqt6-webengine",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "6.6.0-1build2",
+      "description": "Python bindings for the Qt 6 WebEngine framework",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-pyqt6-webengine",
+      "bin_name": "py3-pyqt6-webengine",
+      "src_name": null,
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pyqt6.qtwebengine",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-pyqt6-webengine",
+      "bin_name": "python-pyqt6-webengine",
+      "src_name": null,
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pyqt6.qtwebengine",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-pyqt6.qtwebengine",
+      "bin_name": "python3-pyqt6.qtwebengine",
+      "src_name": null,
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pyqt6.qtwebengine",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-pyqt6-webengine",
+      "bin_name": "python3-pyqt6-webengine",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pyqt6.qtwebengine",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-pyqt6-webengine",
+      "bin_name": "python3-pyqt6-webengine",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pyqt6.qtwebengine",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "PyQt6-WebEngine",
+      "bin_name": "PyQt6-WebEngine",
+      "src_name": null,
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pyqt6.qtwebengine",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-pyqt6.qtwebengine",
+      "bin_name": "python3-pyqt6.qtwebengine",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pyqt6.qtwebengine",
+      "confidence": 1.0
+    }
+  ]
+}

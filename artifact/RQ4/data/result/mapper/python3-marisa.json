@@ -1,0 +1,524 @@
+{
+  "alpine_edge": [
+    {
+      "name": "py3-marisa",
+      "bin_name": "py3-marisa",
+      "src_name": "libmarisa",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MARISA: Matching Algorithm with Recursively Implemented StorAge (python module)",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-marisa-pyc",
+      "bin_name": "py3-marisa-pyc",
+      "src_name": "libmarisa",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-marisa",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmarisa-dev",
+      "bin_name": "libmarisa-dev",
+      "src_name": "libmarisa",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MARISA: Matching Algorithm with Recursively Implemented StorAge (development files)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmarisa",
+      "bin_name": "libmarisa",
+      "src_name": "libmarisa",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MARISA: Matching Algorithm with Recursively Implemented StorAge",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-marisa",
+      "bin_name": "python-marisa",
+      "src_name": "marisa",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python language binding for marisa",
+      "confidence": 1.0
+    },
+    {
+      "name": "ruby-marisa",
+      "bin_name": "ruby-marisa",
+      "src_name": "marisa",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Ruby language binding for marisa",
+      "confidence": 1.0
+    },
+    {
+      "name": "perl-marisa",
+      "bin_name": "perl-marisa",
+      "src_name": "marisa",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Perl language binding for marisa",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa",
+      "bin_name": "marisa",
+      "src_name": "marisa",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and space-efficient trie data structure library",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libmarisa0",
+      "bin_name": "libmarisa0",
+      "src_name": "marisa",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmarisa-perl",
+      "bin_name": "libmarisa-perl",
+      "src_name": "marisa",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": "marisa",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa",
+      "bin_name": "marisa",
+      "src_name": "marisa",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmarisa-dev",
+      "bin_name": "libmarisa-dev",
+      "src_name": "marisa",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "ruby-marisa",
+      "bin_name": "ruby-marisa",
+      "src_name": "marisa",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "marisa-ruby",
+      "bin_name": "marisa-ruby",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa-perl",
+      "bin_name": "marisa-perl",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa-devel",
+      "bin_name": "marisa-devel",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa",
+      "bin_name": "marisa",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa-tools",
+      "bin_name": "marisa-tools",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "marisa",
+      "bin_name": "marisa",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa-devel",
+      "bin_name": "marisa-devel",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa-perl",
+      "bin_name": "marisa-perl",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa-ruby",
+      "bin_name": "marisa-ruby",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa-debugsource",
+      "bin_name": "marisa-debugsource",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa-debuginfo",
+      "bin_name": "marisa-debuginfo",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa-tools",
+      "bin_name": "marisa-tools",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": "marisa",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Static and spece-efficient trie data structure library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libmarisa-dev",
+      "bin_name": "libmarisa-dev",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "ruby-marisa",
+      "bin_name": "ruby-marisa",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmarisa0",
+      "bin_name": "libmarisa0",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa",
+      "bin_name": "marisa",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmarisa-perl",
+      "bin_name": "libmarisa-perl",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libmarisa-perl",
+      "bin_name": "libmarisa-perl",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmarisa0",
+      "bin_name": "libmarisa0",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "ruby-marisa",
+      "bin_name": "ruby-marisa",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa",
+      "bin_name": "marisa",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmarisa-dev",
+      "bin_name": "libmarisa-dev",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libmarisa0",
+      "bin_name": "libmarisa0",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "ruby-marisa",
+      "bin_name": "ruby-marisa",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmarisa-perl",
+      "bin_name": "libmarisa-perl",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmarisa-dev",
+      "bin_name": "libmarisa-dev",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "marisa",
+      "bin_name": "marisa",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

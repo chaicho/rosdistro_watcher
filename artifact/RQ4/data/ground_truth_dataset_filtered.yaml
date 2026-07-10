@@ -1,0 +1,1224 @@
+adwaita-icon-theme:
+  arch: [adwaita-icon-theme]
+  debian: [adwaita-icon-theme]
+  fedora: [adwaita-icon-theme]
+  gentoo: [x11-themes/adwaita-icon-theme]
+  nixos: [adwaita-icon-theme]
+  openembedded: [adwaita-icon-theme@openembedded-core]
+  ubuntu: [adwaita-icon-theme]
+atlas:
+  debian: [libatlas-base-dev]
+  fedora: [atlas-devel]
+  gentoo: [sci-libs/atlas]
+  macports: [atlas]
+  nixos: [atlas]
+  rhel: [atlas-devel]
+  ubuntu: [libatlas-base-dev]
+castxml:
+  debian: [castxml]
+  fedora: [castxml]
+  macports: [castxml]
+  nixos: [castxml]
+  openembedded: [castxml@meta-oe]
+  ubuntu: [castxml]
+cbindgen:
+  alpine: [cbindgen]
+  arch: [cbindgen]
+  debian: [cbindgen]
+  fedora: [cbindgen]
+  rhel:
+    '*': [cbindgen]
+    '8': null
+  ubuntu:
+    '*': [cbindgen]
+    focal: null
+fmt:
+  arch: [fmt]
+  debian: [libfmt-dev]
+  fedora: [fmt-devel]
+  gentoo: [dev-libs/libfmt]
+  nixos: [fmt]
+  openembedded: [fmt@openembedded-core]
+  osx:
+    homebrew:
+      packages: [fmt]
+  rhel: [fmt-devel]
+  ubuntu: [libfmt-dev]
+gtk4:
+  arch: [gtk4]
+  debian: [libgtk-4-dev]
+  fedora: [gtk4-devel]
+  freebsd: [gtk4]
+  gentoo: [gui-libs/gtk]
+  nixos: [gtk4]
+  openembedded: [gtk4@openembedded-core]
+  rhel:
+    '*': [gtk4-devel]
+    '8': null
+  ubuntu:
+    '*': [libgtk-4-dev]
+    focal: null
+gurumdds-3.2:
+  ubuntu:
+    jammy: [gurumdds-3.2]
+    noble: [gurumdds-3.2]
+iwyu:
+  debian: [iwyu]
+  fedora: [iwyu]
+  nixos: [include-what-you-use]
+  ubuntu: [iwyu]
+libadwaita-dev:
+  debian: [libadwaita-1-dev]
+  fedora: [libadwaita-devel]
+  gentoo: [gui-libs/libadwaita]
+  nixos: [libadwaita]
+  openembedded: [libadwaita@openembedded-core]
+  rhel:
+    '*': [libadwaita-devel]
+    '8': null
+  ubuntu:
+    '*': [libadwaita-1-dev]
+    focal: null
+libcxxopts-dev:
+  alpine: [cxxopts-dev]
+  arch: [cxxopts]
+  debian: [libcxxopts-dev]
+  fedora: [cxxopts-devel]
+  gentoo: [dev-libs/cxxopts]
+  nixos: [cxxopts]
+  opensuse:
+    '*': [cxxopts]
+    '15.2': null
+  osx: [cxxopts]
+  ubuntu:
+    '*': [libcxxopts-dev]
+    focal: null
+libdwarf-dev:
+  alpine: [libdwarf-dev]
+  arch: [libdwarf]
+  debian: [libdwarf-dev]
+  fedora: [libdwarf-devel]
+  gentoo: [dev-libs/libdwarf]
+  nixos: [libdwarf]
+  openembedded: [libdwarf]
+  opensuse: [libdwarf-devel]
+  osx:
+    homebrew:
+      packages: [dwarfutils]
+  rhel: [libdwarf-devel]
+  ubuntu: [libdwarf-dev]
+libfccp-dev:
+  debian: [libfccp-dev]
+  ubuntu: [libfccp-dev]
+libfl-dev:
+  debian: [libfl-dev]
+  fedora: [libfl-devel]
+  nixos: [flex]
+  opensuse: [libfl-devel]
+  ubuntu: [libfl-dev]
+libflac-dev:
+  alpine: [flac-dev]
+  debian: [libflac-dev]
+  fedora: [flac-devel]
+  opensuse: [flac-devel]
+  rhel: [flac-devel]
+  ubuntu: [libflac-dev]
+libgirepository-dev:
+  arch: [gobject-introspection]
+  debian: [libgirepository1.0-dev]
+  fedora: [gobject-introspection-devel]
+  gentoo: [dev-libs/gobject-introspection]
+  nixos: [gobject-introspection]
+  ubuntu: [libgirepository1.0-dev]
+libglib-dev:
+  arch: [glib2]
+  debian: [libglib2.0-dev, libglib2.0-dev-bin]
+  fedora: [glib2-devel]
+  gentoo: [dev-libs/glib]
+  nixos: [glib]
+  openembedded: [glib-2.0@openembedded-core]
+  ubuntu: [libglib2.0-dev, libglib2.0-dev-bin]
+libgrpc:
+  alpine: [grpc-dev]
+  arch: [grpc]
+  debian: [libgrpc++-dev]
+  fedora: [grpc-devel]
+  gentoo: [net-libs/grpc]
+  nixos: [grpc]
+  openembedded: [grpc@meta-oe]
+  opensuse: [grpc-devel]
+  osx:
+    homebrew:
+      packages: [grpc]
+    macports:
+      packages: [grpc]
+  rhel:
+    '*': [grpc-devel]
+    '8': null
+  ubuntu: [libgrpc++-dev]
+libicu-dev:
+  arch: [icu]
+  debian: [libicu-dev]
+  fedora: [libicu-devel]
+  gentoo: [dev-libs/icu]
+  nixos: [icu]
+  rhel: [libicu-devel]
+  ubuntu: [libicu-dev]
+libiio-dev:
+  arch: [libiio]
+  debian: [libiio-dev]
+  fedora: [libiio-devel]
+  gentoo: [net-libs/libiio]
+  nixos: [libiio]
+  ubuntu: [libiio-dev]
+libmicrohttpd:
+  arch: [libmicrohttpd]
+  debian: [libmicrohttpd-dev]
+  fedora: [libmicrohttpd-devel]
+  gentoo: [net-libs/libmicrohttpd]
+  nixos: [libmicrohttpd]
+  openembedded: [libmicrohttpd@openembedded-core]
+  rhel: [libmicrohttpd-devel]
+  ubuntu: [libmicrohttpd-dev]
+libomp-dev:
+  arch: [openmp]
+  debian: [libomp-dev]
+  fedora: [libomp-devel]
+  gentoo: [sys-libs/libomp]
+  nixos: [llvmPackages.openmp]
+  openembedded: [openmp@openembedded-core]
+  rhel:
+    '*': [libomp-devel]
+    '7': null
+  ubuntu: [libomp-dev]
+libpaho-mqttpp:
+  debian:
+    '*': [libpaho-mqttpp3-1]
+    bullseye: null
+  nixos: [paho-mqtt-cpp]
+  openembedded: [paho-mqtt-cpp@meta-oe]
+  rhel: [paho-cpp]
+  ubuntu:
+    '*': [libpaho-mqttpp3-1]
+    bionic: null
+    focal: null
+libpaho-mqttpp-dev:
+  debian:
+    '*': [libpaho-mqttpp-dev]
+    bullseye: null
+  nixos: [paho-mqtt-cpp]
+  openembedded: [paho-mqtt-cpp@meta-oe]
+  rhel: [paho-cpp-devel]
+  ubuntu:
+    '*': [libpaho-mqttpp-dev]
+    bionic: null
+    focal: null
+libqt5-gui:
+  alpine: [qt5-qtbase]
+  arch: [qt5-base]
+  debian: [libqt5gui5]
+  fedora: [qt5-qtbase-gui]
+  freebsd: [qt5-gui]
+  gentoo: ['dev-qt/qtgui:5']
+  nixos: [qt5.qtbase]
+  openembedded: [qtbase@meta-qt5]
+  opensuse: [libQt5Gui5]
+  rhel: [qt5-qtbase-gui]
+  slackware: [qt5]
+  ubuntu:
+    '*': [libqt5gui5t64]
+    focal: [libqt5gui5]
+    jammy: [libqt5gui5]
+libqt5-qml:
+  arch: [qt5-declarative]
+  debian: [libqt5qml5]
+  fedora: [qt5-qtdeclarative]
+  gentoo: ['dev-qt/qtdeclarative:5']
+  nixos: [qt5.qtdeclarative]
+  openembedded: [qtdeclarative@meta-qt5]
+  rhel: [qt5-qtdeclarative]
+  ubuntu: [libqt5qml5]
+libqt5-quick:
+  arch: [qt5-declarative]
+  debian: [libqt5quick5]
+  fedora: [qt5-qtdeclarative]
+  gentoo: ['dev-qt/qtdeclarative:5']
+  nixos: [qt5.qtdeclarative]
+  openembedded: [qtdeclarative@meta-qt5]
+  rhel: [qt5-qtdeclarative]
+  ubuntu: [libqt5quick5]
+libqt5-widgets:
+  alpine: [qt5-qtbase-dev]
+  arch: [qt5-base]
+  debian: [libqt5widgets5]
+  fedora: [qt5-qtbase]
+  freebsd: [qt5-widgets]
+  gentoo: ['dev-qt/qtwidgets:5']
+  nixos: [qt5.qtbase]
+  openembedded: [qtbase@meta-qt5]
+  opensuse: [libQt5Widgets5]
+  rhel: [qt5-qtbase]
+  slackware: [qt5]
+  ubuntu:
+    '*': [libqt5widgets5t64]
+    focal: [libqt5widgets5]
+    jammy: [libqt5widgets5]
+libqt5-xml:
+  arch: [qt5-base]
+  debian: [libqt5xml5]
+  nixos: [qt5.qtbase]
+  ubuntu:
+    '*': [libqt5xml5t64]
+    focal: [libqt5xml5]
+    jammy: [libqt5xml5]
+libqt6-core:
+  alpine: [qt6-qtbase]
+  arch: [qt6-base]
+  debian: [libqt6core6]
+  fedora: [qt6-qtbase]
+  gentoo: ['dev-qt/qtcore:6']
+  nixos: [qt6.qtbase]
+  openembedded: [qtbase@meta-qt6]
+  opensuse:
+    '*': [libQt6Core6]
+    '15.2': null
+  rhel:
+    '*': [qt6-qtbase]
+    '8': null
+  slackware: [qt6]
+  ubuntu:
+    '*': [libqt6core6t64]
+    focal: null
+    jammy: [libqt6core6]
+libqt6-multimedia:
+  arch: [qt6-multimedia]
+  debian: [libqt6multimedia6]
+  fedora: [qt6-qtmultimedia]
+  nixos: [qt6.qtmultimedia]
+  rhel:
+    '*': [qt6-qtmultimedia]
+    '8': null
+  ubuntu:
+    '*': [libqt6multimedia6]
+    focal: null
+libqt6-qml:
+  arch: [qt6-declarative]
+  debian: [libqt6qml6]
+  gentoo: ['dev-qt/qtdeclarative:6']
+  nixos: [qt6.qtdeclarative]
+  openembedded: [qtdeclarative@meta-qt6]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [libqt6qml6]
+    focal: null
+libqt6-quick:
+  arch: [qt6-declarative]
+  debian: [libqt6quick6]
+  gentoo: ['dev-qt/qtdeclarative:6']
+  nixos: [qt6.qtdeclarative]
+  openembedded: [qtdeclarative@meta-qt6]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [libqt6quick6]
+    focal: null
+libqt6bluetooth6:
+  alpine: [qt6-qtconnectivity]
+  arch: [qt6-connectivity]
+  debian: [libqt6bluetooth6]
+  fedora: [qt6-qtconnectivity]
+  gentoo: ['dev-qt/qtconnectivity:6']
+  rhel:
+    '*': [qt6-qtconnectivity]
+    '8': null
+  ubuntu:
+    '*': [libqt6bluetooth6]
+    focal: null
+libqt6svg6:
+  alpine: [qt6-qtsvg]
+  arch: [qt6-svg]
+  debian: [libqt6svg6]
+  fedora: [qt6-qtsvg]
+  gentoo: ['dev-qt/qtsvg:6']
+  openembedded: [qtsvg@meta-qt6]
+  rhel:
+    '*': [qt6-qtsvg-devel]
+    '8': null
+  ubuntu:
+    '*': [libqt6svg6]
+    focal: null
+librocksdb-dev:
+  alpine: [rocksdb-dev]
+  debian: [librocksdb-dev]
+  fedora: [rocksdb-devel]
+  rhel: [rocksdb-devel]
+  ubuntu: [librocksdb-dev]
+libtaskflow-cpp-dev:
+  debian:
+    '*': [libtaskflow-cpp-dev]
+    bookworm: null
+    bullseye: null
+  fedora: [taskflow-devel]
+  freebsd: [taskflow]
+  gentoo: [dev-cpp/taskflow]
+  nixos: [taskflow]
+  openembedded: [taskflow@meta-ros1-noetic]
+  osx:
+    homebrew:
+      packages: [taskflow]
+  ubuntu:
+    '*': [libtaskflow-cpp-dev]
+    focal: null
+    jammy: null
+libtweeny-dev:
+  alpine: [tweeny]
+  debian: [libtweeny-dev]
+  fedora: [tweeny-devel]
+  freebsd: [tweeny]
+  nixos: [tweeny]
+  ubuntu: [libtweeny-dev]
+libzstd-dev:
+  alpine: [zstd-dev]
+  arch: [zstd]
+  debian: [libzstd-dev]
+  fedora: [libzstd-devel]
+  freebsd: [zstd]
+  gentoo: [app-arch/zstd]
+  nixos: [zstd]
+  openembedded: [zstd@openembedded-core]
+  rhel: [libzstd-devel]
+  ubuntu:
+    '*': [libzstd-dev]
+lua-dev:
+  arch: [lua]
+  debian: [liblua5.1-0-dev]
+  fedora: [compat-lua-devel]
+  gentoo: [dev-lang/lua]
+  macports: [lua51]
+  nixos: [lua]
+  openembedded: [lua@openembedded-core]
+  rhel: [compat-lua-devel]
+  ubuntu: [liblua5.1-0-dev]
+opende:
+  arch: [ode]
+  debian: [libode-dev]
+  fedora: [ode-devel]
+  gentoo: [dev-games/ode]
+  nixos: [ode]
+  openembedded: [ode@meta-ros-common]
+  rhel: [ode-devel]
+  ubuntu: [libode-dev]
+python3-attrs:
+  debian: [python3-attr]
+  fedora: [python3-attrs]
+  nixos: [python3Packages.attrs]
+  opensuse: [python3-attrs]
+  rhel: [python3-attrs]
+  ubuntu: [python3-attr]
+python3-bleak:
+  debian: [python3-bleak]
+  ubuntu:
+    '*': [python3-bleak]
+    focal: null
+    jammy: null
+python3-click:
+  debian: [python3-click]
+  fedora: [python3-click]
+  gentoo: [dev-python/click]
+  nixos: [python3Packages.click]
+  openembedded: [python3-click@openembedded-core]
+  rhel: ['python%{python3_pkgversion}-click']
+  ubuntu: [python3-click]
+python3-colorama:
+  debian: [python3-colorama]
+  fedora: [python3-colorama]
+  gentoo: [dev-python/colorama]
+  nixos: [python3Packages.colorama]
+  openembedded: [python3-colorama@openembedded-core]
+  rhel: ['python%{python3_pkgversion}-colorama']
+  ubuntu: [python3-colorama]
+python3-cryptography:
+  alpine: [py3-cryptography]
+  arch: [python-cryptography]
+  debian: [python3-cryptography]
+  fedora: [python3-cryptography]
+  freebsd: [security/py-cryptography]
+  gentoo: [dev-python/cryptography]
+  nixos: [python3Packages.cryptography]
+  openembedded: [python3-cryptography@openembedded-core]
+  opensuse: [python3-cryptography]
+  rhel: ['python%{python3_pkgversion}-cryptography']
+  ubuntu: [python3-cryptography]
+python3-deprecated:
+  debian:
+    '*': [python3-deprecated]
+    buster: null
+  fedora: [python3-deprecated]
+  nixos: [python3Packages.deprecated]
+  openembedded: [python3-deprecated@meta-python]
+  rhel:
+    '*': [python3-deprecated]
+    '7': null
+  ubuntu:
+    '*': [python3-deprecated]
+    bionic: null
+python3-docstring-parser:
+  '*':
+    pip:
+      packages: [docstring-parser]
+  debian:
+    trixie: [python3-docstring-parser]
+  fedora: [python3-docstring-parser]
+  nixos: [python3Packages.docstring-parser]
+  ubuntu:
+    noble: [python3-docstring-parser]
+python3-filelock:
+  alpine: [py3-filelock]
+  arch: [python-filelock]
+  debian: [python3-filelock]
+  fedora: [python3-filelock]
+  nixos: [python3Packages.filelock]
+  opensuse: [python3-filelock]
+  rhel: [python3-filelock]
+  ubuntu: [python3-filelock]
+python3-httpx:
+  alpine: [httpx]
+  arch: [python-httpx]
+  debian: [python3-httpx]
+  fedora: [python3-httpx]
+  gentoo: [dev-python/httpx]
+  nixos: [python3Packages.httpx]
+  osx:
+    pip:
+      packages: [httpx]
+  rhel: [python3-httpx]
+  ubuntu:
+    '*': [python3-httpx]
+    focal:
+      pip:
+        packages: [httpx]
+python3-importlib-metadata:
+  alpine: [py3-importlib-metadata]
+  arch: [python-importlib-metadata]
+  debian:
+    '*': [python3-importlib-metadata]
+    buster:
+      pip:
+        packages: [importlib-metadata]
+    stretch:
+      pip:
+        packages: [importlib-metadata]
+  fedora: [python3]
+  freebsd: [python3]
+  gentoo: [dev-python/importlib-metadata]
+  nixos: [python3Packages.importlib-metadata]
+  openembedded: [python3-importlib-metadata@meta-python]
+  osx:
+    pip:
+      packages: [importlib_metadata]
+  rhel:
+    '*': [python3]
+    '7': null
+    '8': [python3-importlib-metadata]
+  ubuntu:
+    '*': [python3-importlib-metadata]
+    bionic:
+      pip:
+        packages: [importlib-metadata]
+python3-lxml:
+  alpine: [py3-lxml]
+  arch: [python-lxml]
+  debian: [python3-lxml]
+  fedora: [python3-lxml]
+  freebsd: [devel/py-lxml]
+  gentoo: [dev-python/lxml]
+  nixos: [python3Packages.lxml]
+  openembedded: [python3-lxml@openembedded-core]
+  opensuse: [python3-lxml]
+  osx:
+    pip:
+      packages: [lxml]
+  rhel: ['python%{python3_pkgversion}-lxml']
+  ubuntu: [python3-lxml]
+python3-marisa:
+  arch: [python-marisa]
+  debian: [python3-marisa]
+  fedora: [python3-marisa]
+  gentoo: [dev-libs/marisa]
+  nixos: [python3Packages.marisa]
+  ubuntu: [python3-marisa]
+python3-mongomock:
+  debian:
+    '*': [python3-mongomock]
+    bookworm:
+      pip:
+        packages: [mongomock]
+  ubuntu:
+    '*': [python3-mongomock]
+    focal:
+      pip:
+        packages: [mongomock]
+    jammy:
+      pip:
+        packages: [mongomock]
+python3-msgpack-numpy:
+  debian: [python3-msgpack-numpy]
+  fedora:
+    pip:
+      packages: [msgpack-numpy]
+  nixos: [python3Packages.msgpack-numpy]
+  opensuse: [python3-msgpack-numpy]
+  osx:
+    pip:
+      packages: [msgpack-numpy]
+  rhel:
+    pip:
+      packages: [msgpack-numpy]
+  ubuntu: [python3-msgpack-numpy]
+python3-paho-mqtt:
+  debian: [python3-paho-mqtt]
+  fedora: [python3-paho-mqtt]
+  nixos: [python3Packages.paho-mqtt]
+  openembedded: [python3-paho-mqtt@meta-python]
+  rhel:
+    '*': [python3-paho-mqtt]
+    '7': null
+  ubuntu:
+    '*': [python3-paho-mqtt]
+python3-platformdirs:
+  debian: [python3-platformdirs]
+  fedora: [python3-platformdirs]
+  nixos: [python3Packages.platformdirs]
+  rhel:
+    '*': [python3-platformdirs]
+    '8': null
+  ubuntu:
+    '*': [python3-platformdirs]
+    focal: null
+python3-pre-commit:
+  debian:
+    '*': [pre-commit]
+    buster:
+      pip:
+        packages: [pre-commit]
+    stretch:
+      pip:
+        packages: [pre-commit]
+  fedora: [pre-commit]
+  nixos: [pre-commit]
+  openembedded: [python3-pre-commit@meta-python]
+  rhel:
+    '*': [pre-commit]
+    '8': null
+  ubuntu:
+    '*': [pre-commit]
+    bionic:
+      pip:
+        packages: [pre-commit]
+    focal:
+      pip:
+        packages: [pre-commit]
+python3-pycryptodome:
+  alpine: [py3-pycryptodome]
+  arch: [python-pycryptodome]
+  debian: [python3-pycryptodome]
+  fedora: [python3-pycryptodomex]
+  gentoo: [dev-python/pycryptodome]
+  nixos: [python3Packages.pycryptodomex]
+  openembedded: [python3-pycryptodomex@openembedded-core]
+  opensuse: [python3-pycryptodomex]
+  osx:
+    pip:
+      packages: [pycryptodome]
+  rhel: ['python%{python3_pkgversion}-pycryptodomex']
+  ubuntu: [python3-pycryptodome]
+python3-pydub:
+  debian: [python3-pydub]
+  nixos: [python3Packages.pydub]
+  opensuse: [python3-pydub]
+  ubuntu: [python3-pydub]
+python3-pyparsing:
+  arch: [python-pyparsing]
+  debian: [python3-pyparsing]
+  fedora: [python3-pyparsing]
+  gentoo: [dev-python/pyparsing]
+  nixos: [python3Packages.pyparsing]
+  openembedded: [python3-pyparsing@openembedded-core]
+  opensuse: [python3-pyparsing]
+  ubuntu: [python3-pyparsing]
+python3-pyqt6.qtwebengine:
+  '*':
+    pip:
+      packages: [PyQt6-WebEngine]
+  debian:
+    '*': [python3-pyqt6.qtwebengine]
+    bullseye:
+      pip:
+        packages: [PyQt6-WebEngine]
+  fedora: [python3-pyqt6-webengine]
+  ubuntu:
+    '*': [python3-pyqt6.qtwebengine]
+    focal:
+      pip:
+        packages: [PyQt6-WebEngine]
+    jammy:
+      pip:
+        packages: [PyQt6-WebEngine]
+python3-pytest:
+  alpine: [py3-pytest]
+  arch: [python-pytest]
+  debian: [python3-pytest]
+  fedora: [python3-pytest]
+  freebsd: [devel/py-pytest]
+  gentoo: [dev-python/pytest]
+  nixos: [python3Packages.pytest]
+  openembedded: [python3-pytest@openembedded-core]
+  opensuse: [python3-pytest]
+  osx:
+    pip:
+      packages: [pytest]
+  rhel: ['python%{python3_pkgversion}-pytest']
+  ubuntu: [python3-pytest]
+python3-pytest-dependency:
+  alpine: [py3-pytest-dependency]
+  arch: [python-pytest-dependency]
+  debian: [python3-pytest-dependency]
+  fedora: [python3-pytest-dependency]
+  gentoo: [dev-python/pytest-dependency]
+  nixos: [python3Packages.pytest-dependency]
+  openembedded: [python3-pytest-dependency]
+  rhel:
+    '*': [python3-pytest-dependency]
+    '7': null
+    '8': null
+  ubuntu:
+    '*': [python3-pytest-dependency]
+    focal: null
+python3-redis:
+  debian: [python3-redis]
+  fedora: [python3-redis]
+  opensuse: [python3-redis]
+  rhel: [python3-redis]
+  ubuntu: [python3-redis]
+python3-requests:
+  arch: [python-requests]
+  debian: [python3-requests]
+  fedora: [python3-requests]
+  gentoo: [dev-python/requests]
+  nixos: [python3Packages.requests]
+  openembedded: [python3-requests@openembedded-core]
+  rhel: ['python%{python3_pkgversion}-requests']
+  ubuntu: [python3-requests]
+python3-rich:
+  debian: [python3-rich]
+  fedora: [python3-rich]
+  gentoo: [rich]
+  nixos: [python3Packages.rich]
+  openembedded: [python3-rich@meta-python]
+  osx:
+    pip:
+      packages: [rich]
+  rhel:
+    '*': [python3-rich]
+    '8': null
+  ubuntu:
+    '*': [python3-rich]
+    focal:
+      pip:
+        packages: [rich]
+python3-ruamel.yaml:
+  debian:
+    buster: [python3-ruamel.yaml]
+    stretch: [python3-ruamel.yaml]
+  fedora: [python3-ruamel-yaml]
+  nixos: [python3Packages.ruamel_yaml]
+  openembedded: [python3-ruamel-yaml@openembedded-core]
+  rhel: ['python%{python3_pkgversion}-ruamel-yaml']
+  ubuntu: [python3-ruamel.yaml]
+python3-semver:
+  debian: [python3-semver]
+  fedora: [python3-semver]
+  freebsd: [py36-semver]
+  nixos: [python3Packages.semver]
+  openembedded: [python3-semver@meta-python]
+  rhel: [python3-semver]
+  ubuntu: [python3-semver]
+python3-setproctitle:
+  alpine: [py3-setproctitle]
+  arch: [python-setproctitle]
+  debian: [python3-setproctitle]
+  fedora: [python3-setproctitle]
+  gentoo: [dev-python/setproctitle]
+  nixos: [python3Packages.setproctitle]
+  opensuse: [python3-setproctitle]
+  osx:
+    pip:
+      packages: [setproctitle]
+  rhel: [python3-setproctitle]
+  ubuntu: [python3-setproctitle]
+python3-soundfile:
+  debian: [python3-soundfile]
+  nixos: [python3Packages.soundfile]
+  ubuntu: [python3-soundfile]
+python3-sphinx:
+  debian: [python3-sphinx]
+  fedora: [python3-sphinx]
+  gentoo: [dev-python/sphinx]
+  nixos: [python3Packages.sphinx]
+  openembedded: [python3-sphinx@openembedded-core]
+  opensuse: [python3-Sphinx]
+  rhel: ['python%{python3_pkgversion}-sphinx']
+  ubuntu: [python3-sphinx]
+python3-toml:
+  debian: [python3-toml]
+  fedora: [python3-toml]
+  gentoo: [dev-python/toml]
+  nixos: [python3Packages.toml]
+  rhel: [python3-toml]
+  ubuntu: [python3-toml]
+python3-tqdm:
+  alpine: [py3-tqdm]
+  debian: [python3-tqdm]
+  fedora: [python3-tqdm]
+  nixos: [python3Packages.tqdm]
+  openembedded: [python3-tqdm@meta-python]
+  osx:
+    pip:
+      packages: [tqdm]
+  rhel: [python3-tqdm]
+  ubuntu:
+    '*': [python3-tqdm]
+python3-typing-extensions:
+  arch: [python-typing_extensions]
+  debian: [python3-typing-extensions]
+  fedora: [python3-typing-extensions]
+  freebsd: [devel/py-typing-extensions]
+  gentoo: [dev-python/typing-extensions]
+  nixos: [python3Packages.typing-extensions]
+  openembedded: [python3-typing-extensions@openembedded-core]
+  opensuse: [python3-typing_extensions]
+  rhel:
+    '*': [python3-typing-extensions]
+    '7': null
+  ubuntu:
+    '*': [python3-typing-extensions]
+    bionic:
+      pip:
+        packages: [typing-extensions]
+python3-unidecode:
+  arch: [python-unidecode]
+  debian: [python3-unidecode]
+  fedora: [python3-unidecode]
+  gentoo: [dev-python/unidecode]
+  nixos: [python3Packages.unidecode]
+  osx:
+    pip:
+      packages: [unidecode]
+  rhel: [python3-unidecode]
+  ubuntu: [python3-unidecode]
+python3-waitress:
+  debian: [python3-waitress]
+  fedora: [python3-waitress]
+  gentoo: [dev-python/waitress]
+  nixos: [python3Packages.waitress]
+  openembedded: [python3-waitress@meta-python]
+  opensuse: [python3-waitress]
+  rhel: [python3-waitress]
+  ubuntu: [python3-waitress]
+python3-websockets:
+  arch: [python-websockets]
+  debian: [python3-websockets]
+  fedora: [python3-websockets]
+  gentoo: [dev-python/websockets]
+  nixos: [python3Packages.websockets]
+  openembedded: [python3-websockets@openembedded-core]
+  rhel: [python3-websockets]
+  ubuntu: [python3-websockets]
+python3-wheel:
+  arch: [python-wheel]
+  debian: [python3-wheel]
+  fedora: [python3-wheel]
+  gentoo: [dev-python/wheel]
+  nixos: [python3Packages.wheel]
+  opensuse: [python3-wheel]
+  rhel: [python3-wheel]
+  ubuntu: [python3-wheel]
+python3-xlib:
+  debian: [python3-xlib]
+  fedora: [python3-xlib]
+  gentoo: [dev-python/python-xlib]
+  opensuse: [python3-python-xlib]
+  rhel: [python3-xlib]
+  ubuntu: [python3-xlib]
+python3-yaml:
+  alpine: [py3-yaml]
+  arch: [python-yaml]
+  debian: [python3-yaml]
+  fedora: [python3-PyYAML]
+  freebsd: [devel/py-pyyaml]
+  gentoo: [dev-python/pyyaml]
+  nixos: [python3Packages.pyyaml]
+  openembedded: [python3-pyyaml@openembedded-core]
+  opensuse: [python3-PyYAML]
+  osx:
+    pip:
+      packages: [pyyaml]
+  rhel: ['python%{python3_pkgversion}-yaml']
+  ubuntu: [python3-yaml]
+qml6-module-qt-labs-folderlistmodel:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qt-labs-folderlistmodel]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qt-labs-folderlistmodel]
+    focal: null
+qml6-module-qt-labs-platform:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qt-labs-platform]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qt-labs-platform]
+    focal: null
+qml6-module-qt-labs-settings:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qt-labs-settings]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qt-labs-settings]
+    focal: null
+qml6-module-qt5compat-graphicaleffects:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qt5compat-graphicaleffects]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qt5compat-graphicaleffects]
+    focal: null
+qml6-module-qtcharts:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtcharts]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtcharts]
+    focal: null
+qml6-module-qtcore:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtcore]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtcore]
+    focal: null
+qml6-module-qtpositioning:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtpositioning]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtpositioning]
+    focal: null
+qml6-module-qtqml:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtqml]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtqml]
+    focal: null
+qml6-module-qtqml-models:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtqml-models]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtqml-models]
+    focal: null
+qml6-module-qtqml-workerscript:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtqml-workerscript]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtqml-workerscript]
+    focal: null
+qml6-module-qtquick:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtquick]
+  fedora: [qt6-qtdeclarative]
+  nixos: [qt6.qtquickcontrols]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtquick]
+    focal: null
+qml6-module-qtquick-controls:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtquick-controls]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtquick-controls]
+    focal: null
+qml6-module-qtquick-dialogs:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtquick-dialogs]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtquick-dialogs]
+    focal: null
+qml6-module-qtquick-layouts:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtquick-layouts]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtquick-layouts]
+    focal: null
+qml6-module-qtquick-templates:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtquick-templates]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtquick-templates]
+    focal: null
+qml6-module-qtquick-window:
+  arch: [qt6-declarative]
+  debian: [qml6-module-qtquick-window]
+  fedora: [qt6-qtdeclarative]
+  rhel:
+    '*': [qt6-qtdeclarative]
+    '8': null
+  ubuntu:
+    '*': [qml6-module-qtquick-window]
+    focal: null
+qt6-5compat-dev:
+  alpine: [qt6-qt5compat]
+  arch: [qt6-5compat]
+  debian: [qt6-5compat-dev]
+  fedora: [qt6-qt5compat]
+  gentoo: ['dev-qt/qt5compat:6']
+  openembedded: [qt5compat@meta-qt6]
+  rhel:
+    '*': [qt6-qt5compat-devel]
+    '8': null
+  ubuntu:
+    '*': [qt6-5compat-dev]
+    focal: null
+    jammy: [libqt6core5compat6-dev]
+qt6-base-dev:
+  alpine: [qt6-qtbase-dev]
+  arch: [qt6-base]
+  debian: [qt6-base-dev]
+  fedora: [qt6-qtbase-devel]
+  gentoo: ['dev-qt/qtcore:6', 'dev-qt/qtwidgets:6', 'dev-qt/qttest:6']
+  nixos: [qt6.qtbase]
+  openembedded: [qtbase@meta-qt6]
+  opensuse:
+    '*': [libqt6-qtbase-devel]
+    '15.2': null
+  rhel:
+    '*': [qt6-qtbase-devel]
+    '8': null
+  slackware: [qt6]
+  ubuntu:
+    '*': [qt6-base-dev]
+    focal: null
+qt6-base-private-dev:
+  alpine: [qt6-qtbase-private-dev]
+  arch: [qt6-base]
+  debian: [qt6-base-private-dev]
+  fedora: [qt6-qtbase-private-devel]
+  gentoo: ['dev-qt/qtbase:6']
+  openembedded: [qtbase@meta-qt6]
+  rhel:
+    '*': [qt6-qtbase-private-devel]
+    '8': null
+  ubuntu:
+    '*': [qt6-base-private-dev]
+    focal: null
+qt6-connectivity-dev:
+  alpine: [qt6-qtconnectivity-dev]
+  arch: [qt6-connectivity]
+  debian: [qt6-connectivity-dev]
+  fedora: [qt6-qtconnectivity-devel]
+  gentoo: ['dev-qt/qtconnectivity:6']
+  rhel:
+    '*': [qt6-qtconnectivity-devel]
+    '8': null
+  ubuntu:
+    '*': [qt6-connectivity-dev]
+    focal: null
+qt6-declarative-dev:
+  arch: [qt6-declarative]
+  debian: [qt6-declarative-dev]
+  fedora: [qt6-qtdeclarative-devel]
+  gentoo: ['dev-qt/qtdeclarative:6']
+  nixos: [qt6.qtdeclarative]
+  openembedded: [qtdeclarative@meta-qt6]
+  rhel:
+    '*': [qt6-qtdeclarative-devel]
+    '8': null
+  ubuntu:
+    '*': [qt6-declarative-dev]
+    focal: null
+qt6-declarative-private-dev:
+  alpine: [qt6-qtdeclarative-private-dev]
+  arch: [qt6-declarative]
+  debian: [qt6-declarative-private-dev]
+  fedora: [qt6-qtdeclarative-devel]
+  gentoo: ['dev-qt/qtdeclarative:6']
+  openembedded: [qtdeclarative@meta-qt6]
+  rhel:
+    '*': [qt6-qtdeclarative-private-devel]
+    '8': null
+  ubuntu:
+    '*': [qt6-declarative-private-dev]
+    focal: null
+qt6-multimedia-dev:
+  arch: [qt6-multimedia]
+  debian: [qt6-multimedia-dev]
+  fedora: [qt6-qtmultimedia-devel]
+  gentoo: ['dev-qt/qtmultimedia:6']
+  nixos: [qt6.qtmultimedia]
+  openembedded: [qtmultimedia@meta-qt6]
+  rhel:
+    '*': [qt6-qtmultimedia-devel]
+    '8': null
+  ubuntu:
+    '*': [qt6-multimedia-dev]
+    focal: null
+rapidjson-dev:
+  arch: [rapidjson]
+  debian: [rapidjson-dev]
+  fedora: [rapidjson-devel]
+  gentoo: [dev-libs/rapidjson]
+  nixos: [rapidjson]
+  openembedded: [rapidjson@meta-oe]
+  rhel: [rapidjson-devel]
+  ubuntu: [rapidjson-dev]
+rsyslog:
+  alpine: [rsyslog]
+  debian: [rsyslog]
+  fedora: [rsyslog]
+  gentoo: [app-admin/rsyslog]
+  nixos: [rsyslog]
+  opensuse: [rsyslog]
+  rhel: [rsyslog]
+  ubuntu: [rsyslog]
+rti-connext-dds-7.3.0:
+  debian:
+    '*': [rti-connext-dds-7.3.0-ros]
+    bullseye: null
+  nixos: []
+  ubuntu:
+    '*': [rti-connext-dds-7.3.0-ros]
+    focal: null
+    jammy: null
+rtklib:
+  debian: [rtklib]
+  fedora: [rtklib]
+  opensuse:
+    '*': [rtklib]
+    '15.2': null
+  ubuntu: [rtklib]
+sdl:
+  arch: [sdl12-compat]
+  debian: [libsdl1.2-dev]
+  fedora: [SDL-devel]
+  gentoo: [media-libs/libsdl]
+  macports: [libsdl]
+  nixos: [SDL]
+  openembedded: [libsdl@meta-oe]
+  opensuse: [libSDL-devel]
+  rhel: [SDL-devel]
+  ubuntu: [libsdl1.2-dev]
+sound-theme-freedesktop:
+  arch: [sound-theme-freedesktop]
+  debian: [sound-theme-freedesktop]
+  fedora: [sound-theme-freedesktop]
+  gentoo: [x11-themes/sound-theme-freedesktop]
+  nixos: [sound-theme-freedesktop]
+  openembedded: [sound-theme-freedesktop@meta-oe]
+  ubuntu: [sound-theme-freedesktop]
+uhubctl:
+  alpine: [uhubctl]
+  debian: [uhubctl]
+  fedora: [uhubctl]
+  gentoo: [sys-power/uhubctl]
+  nixos: [uhubctl]
+  opensuse: [uhubctl]
+  osx:
+    homebrew:
+      packages: [uhubctl]
+  rhel: [uhubctl]
+  ubuntu: [uhubctl]
+wx-common:
+  arch: [wxwidgets-gtk3]
+  debian: [wx-common]
+  fedora: [wxGTK-devel]
+  gentoo: [x11-libs/wxGTK]
+  nixos: [wxGTK32]
+  openembedded: [wxwidgets@meta-ros-common]
+  rhel:
+    '*': [wxGTK-devel]
+    '8': [wxGTK3-devel]
+  ubuntu: [wx-common]
+wxwidgets:
+  arch: [wxwidgets-gtk3]
+  debian:
+    '*': [libwxgtk3.2-dev]
+    bullseye: [libwxgtk3.0-gtk3-dev]
+    buster: [libwxgtk3.0-dev]
+  fedora: [wxGTK-devel]
+  freebsd: [wxgtk2]
+  gentoo: [x11-libs/wxGTK]
+  macports: [wxWidgets-python]
+  nixos: [wxGTK32]
+  openembedded: [wxwidgets@meta-ros-common]
+  opensuse: [wxGTK-devel]
+  rhel:
+    '*': [wxGTK-devel]
+    '8': [wxGTK3-devel]
+  ubuntu:
+    '*': [libwxgtk3.2-dev]
+    bionic: [libwxgtk3.0-dev]
+    focal: [libwxgtk3.0-gtk3-dev]
+    jammy: [libwxgtk3.0-gtk3-dev]

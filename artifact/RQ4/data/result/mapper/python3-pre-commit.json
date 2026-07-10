@@ -1,0 +1,130 @@
+{
+  "alpine_edge": [
+    {
+      "name": "pre-commit-pyc",
+      "bin_name": "pre-commit-pyc",
+      "src_name": "pre-commit",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for pre-commit",
+      "confidence": 1.0
+    },
+    {
+      "name": "pre-commit",
+      "bin_name": "pre-commit",
+      "src_name": "pre-commit",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "framework for managing and maintaining multi-language pre-commit hooks",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "pre-commit",
+      "bin_name": "pre-commit",
+      "src_name": "pre-commit",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "A framework for managing and maintaining multi-language pre-commit hooks",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "pre-commit",
+      "bin_name": "pre-commit",
+      "src_name": "pre-commit",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "pre-commit",
+      "bin_name": "pre-commit",
+      "src_name": "pre-commit",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Framework for managing and maintaining multi-language pre-commit hooks",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "pre-commit",
+      "bin_name": "pre-commit",
+      "src_name": "pre-commit",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "pre-commit",
+      "bin_name": "pre-commit",
+      "src_name": "pre-commit",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Framework for managing and maintaining multi-language pre-commit hooks",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "pre-commit",
+      "bin_name": "pre-commit",
+      "src_name": "pre-commit",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Framework for managing and maintaining multi-language pre-commit hooks",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "pre-commit",
+      "bin_name": "pre-commit",
+      "src_name": "pre-commit",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "pre-commit",
+      "bin_name": "pre-commit",
+      "src_name": "pre-commit",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "A framework for managing and maintaining multi-language pre-commit hooks.",
+      "confidence": 1.0
+    }
+  ]
+}

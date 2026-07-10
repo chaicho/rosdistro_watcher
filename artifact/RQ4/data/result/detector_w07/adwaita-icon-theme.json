@@ -1,0 +1,145 @@
+{
+  "opensuse_15.2": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "3.34.3-lp152.1.3",
+      "description": "GNOME Icon Theme",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "3.28.0-3.el8",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "48.0-1.fc42",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "43-1",
+      "description": "default icon theme of GNOME",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "40.1.1-3.el9",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "49.0-1.fc43",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "49.0-1",
+      "description": "GNOME standard icons",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "41.0-1ubuntu1",
+      "description": "default icon theme of GNOME (small subset)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "3.36.0-1ubuntu1",
+      "description": "default icon theme of GNOME (small subset)",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "50.0-r1",
+      "description": "Adwaita icon theme",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "adwaita-icon-theme",
+      "bin_name": "adwaita-icon-theme",
+      "src_name": "adwaita-icon-theme",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "46.0-1",
+      "description": "default icon theme of GNOME",
+      "confidence": 1.0
+    }
+  ]
+}

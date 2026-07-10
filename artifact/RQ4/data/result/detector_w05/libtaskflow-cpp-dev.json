@@ -1,0 +1,54 @@
+{
+  "fedora_42": [
+    {
+      "name": "taskflow-devel",
+      "bin_name": "taskflow-devel",
+      "src_name": "taskflow",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "3.4.0-6.fc42",
+      "description": "Development files for the Taskflow library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libtaskflow-cpp-dev",
+      "bin_name": "libtaskflow-cpp-dev",
+      "src_name": "taskflow",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "3.6.0+ds-6",
+      "description": "Parallel and Heterogeneous Task Programming System for C++ (header files)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "taskflow-devel",
+      "bin_name": "taskflow-devel",
+      "src_name": "taskflow",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "3.4.0-7.fc43",
+      "description": "Development files for the Taskflow library",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "taskflow",
+      "bin_name": "taskflow",
+      "src_name": "taskflow",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "6.1.0",
+      "description": "Taskflow structured state management library.",
+      "confidence": 1.0
+    }
+  ]
+}

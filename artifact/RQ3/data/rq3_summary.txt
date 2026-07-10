@@ -1,0 +1,12 @@
+RQ3 Analysis Summary
+================================================================================
+
+Total entries analyzed: 1737
+Entries with inconsistent naming: 1331
+Inconsistency rate: 76.6%
+
+Root causes:
+  - Divergent Affixation Rules: 1007
+  - Repository Evolution: 240
+  - Differing Packaging Policies: 526
+  - Unknown: 0

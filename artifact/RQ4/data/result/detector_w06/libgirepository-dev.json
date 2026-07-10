@@ -1,0 +1,145 @@
+{
+  "ubuntu_jammy": [
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "1.72.0-1",
+      "description": "Library for handling GObject introspection data (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "1.80.1-1",
+      "description": "Library for handling GObject introspection data (complete development files)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "1.64.0-2",
+      "description": "Library for handling GObject introspection data (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "gobject-introspection",
+      "bin_name": "gobject-introspection",
+      "src_name": "gobject-introspection",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "1.62.0-lp152.2.4",
+      "description": "GObject Introspection Tools",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "glib2-devel",
+      "bin_name": "glib2-devel",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "2.86.0-2.fc43",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "glib2",
+      "bin_name": "glib2",
+      "src_name": "glib2",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "2.86.3-2",
+      "description": "Low level core library",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "gobject-introspection-devel",
+      "bin_name": "gobject-introspection-devel",
+      "src_name": "gobject-introspection",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "1.56.1-1.el8",
+      "description": "Libraries and headers for gobject-introspection",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "1.74.0-3",
+      "description": "Library for handling GObject introspection data (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "gobject-introspection-devel",
+      "bin_name": "gobject-introspection-devel",
+      "src_name": "gobject-introspection",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "1.68.0-11.el9",
+      "description": "Libraries and headers for gobject-introspection",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "glib2-devel",
+      "bin_name": "glib2-devel",
+      "src_name": "glib2",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "2.84.0-1.fc42",
+      "description": "A library of handy utility functions",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "gobject-introspection-dev",
+      "bin_name": "gobject-introspection-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "",
+      "description": "Introspection system for GObject-based libraries (development files)",
+      "confidence": 1.0
+    }
+  ]
+}

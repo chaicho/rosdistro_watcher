@@ -1,0 +1,128 @@
+{
+  "arch": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": "castxml",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "C-family abstract syntax tree XML output tool",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": "castxml",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "castxml-debuginfo",
+      "bin_name": "castxml-debuginfo",
+      "src_name": "castxml",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "C-family abstract syntax tree XML output tool",
+      "confidence": 1.0
+    },
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": "castxml",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "C-family abstract syntax tree XML output tool",
+      "confidence": 1.0
+    },
+    {
+      "name": "castxml-debugsource",
+      "bin_name": "castxml-debugsource",
+      "src_name": "castxml",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "C-family abstract syntax tree XML output tool",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": "castxml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "C-family abstract syntax tree XML output tool",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": "castxml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "C-family abstract syntax tree XML output tool",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": "castxml",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": "castxml",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "castxml",
+      "bin_name": "castxml",
+      "src_name": "castxml",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

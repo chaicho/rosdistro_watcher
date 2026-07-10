@@ -1,0 +1,119 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "libqt6core6",
+      "bin_name": "libqt6core6",
+      "src_name": "qt6-base",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "6.4.2+dfsg-10",
+      "description": "Qt 6 core module",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libqt6core6t64",
+      "bin_name": "libqt6core6t64",
+      "src_name": "qt6-base",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "6.4.2+dfsg-21.1build5",
+      "description": "Qt 6 core module",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "qt6-qtbase-devel",
+      "bin_name": "qt6-qtbase-devel",
+      "src_name": "qt6-qtbase",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "6.8.2-3.fc42",
+      "description": "Development files for qt6-qtbase",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libqt6core6",
+      "bin_name": "libqt6core6",
+      "src_name": "qt6-base",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "6.2.4+dfsg-2ubuntu1",
+      "description": "Qt 6 core module",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "qt6-base",
+      "bin_name": "qt6-base",
+      "src_name": "qt6-base",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "6.10.1-1",
+      "description": "A cross-platform application and UI framework",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "qt6-qtbase-devel",
+      "bin_name": "qt6-qtbase-devel",
+      "src_name": "qt6-qtbase",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "6.6.2-1.el9",
+      "description": "Development files for qt6-qtbase",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "qt6-qtbase",
+      "bin_name": "qt6-qtbase",
+      "src_name": "qt6-qtbase",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "6.11.1-r0",
+      "description": "A cross-platform application and UI framework",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "qt6-qtbase",
+      "bin_name": "qt6-qtbase",
+      "src_name": "qt6-qtbase",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "6.9.2-1.fc43",
+      "description": "Qt6 - QtBase components",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libqt53dcore5",
+      "bin_name": "libqt53dcore5",
+      "src_name": "qt3d-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "",
+      "description": "Qt 3D module",
+      "confidence": 1.0
+    }
+  ]
+}

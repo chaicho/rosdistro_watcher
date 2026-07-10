@@ -1,0 +1,35 @@
+pr,keys,defect_types_addressed_in_pr,defect_types_detect_from_keys,use_our_packages,description
+https://github.com/ros/rosdistro/pull/49427,procps,A.2,A.2,1
+https://github.com/ros/rosdistro/pull/49418,"language-pack-de, language-pack-en","A.2, B.1",None,0
+https://github.com/ros/rosdistro/pull/49417,libcxxopts-dev,A.2,A.2,1
+https://github.com/ros/rosdistro/pull/49279,lz4,B.1,B.1,1
+https://github.com/ros/rosdistro/pull/49275,python3-smbus2,A.2,A.2,1
+https://github.com/ros/rosdistro/pull/49227,pydocstyle,No classification found,,,
+https://github.com/ros/rosdistro/pull/49203,libgsl,"A.2",A.2,1
+https://github.com/ros/rosdistro/pull/49201,python-pydot,B.1,"A.2, B.1",0
+https://github.com/ros/rosdistro/pull/49143,python3-nose,B.1,"A.2, B.1",0,
+https://github.com/ros/rosdistro/pull/49142,"pyqt5-dev-tools, python-qt5-bindings, python-qt5-bindings-gl, python-qt5-bindings-qsci, python-qt5-bindings-webkit, python3-pyqt5.qtwebengine",B.1,"A.2, B.1",0
+https://github.com/ros/rosdistro/pull/49004,libxinerama-dev,A.2,A.2,1
+https://github.com/ros/rosdistro/pull/48990,libxcursor-dev,A.2,A.2,1
+https://github.com/ros/rosdistro/pull/48819,python3-fastapi,A.2,"A.2, B.1",1
+https://github.com/ros/rosdistro/pull/48734,qml6-module-qtquick,B.1,"A.2, B.1",0
+https://github.com/ros/rosdistro/pull/48661,python3-cbor2,A.2,"A.2, B.1",1
+https://github.com/ros/rosdistro/pull/48620,python3-networkx,A.2,"A.2, B.1",1
+https://github.com/ros/rosdistro/pull/48573,"libqt6svg6, qml6-module-qt-labs-folderlistmodel, qml6-module-qt-labs-platform, qml6-module-qt-labs-settings, qml6-module-qt5compat-graphicaleffects, qml6-module-qtcharts, qml6-module-qtcore, qml6-module-qtpositioning, qml6-module-qtqml, qml6-module-qtqml-models, qml6-module-qtqml-workerscript, qml6-module-qtquick-controls, qml6-module-qtquick-dialogs, qml6-module-qtquick-layouts, qml6-module-qtquick-templates, qml6-module-qtquick-window, qt6-5compat-dev, qt6-base-private-dev, qt6-declarative-private-dev",A.2,"A.2, B.1",0
+https://github.com/ros/rosdistro/pull/48402,"python3-osrf-pycommon, python3-types-pyyaml",A.2,"A.2, B.1, B.2",1
+https://github.com/ros/rosdistro/pull/48361,python3-bson,B.1,"A.2, B.1",1,
+https://github.com/ros/rosdistro/pull/48359,python3-aiortc,A.2,A.2,1
+https://github.com/ros/rosdistro/pull/48305,python-crccheck-pip,A.2,"A.2, B.2",1
+https://github.com/ros/rosdistro/pull/48304,"ignition-msgs8, ignition-transport11",A.2,A.2,0
+https://github.com/ros/rosdistro/pull/48172,tbb,B.1,"A.2, B.1",0.5
+https://github.com/ros/rosdistro/pull/48072,libgsl,A.2,A.2,1
+https://github.com/ros/rosdistro/pull/47916,python3-tabulate,A.2,"A.2, B.1",1
+https://github.com/ros/rosdistro/pull/47914,liborocos-kdl,B.1,B.1,1
+https://github.com/ros/rosdistro/pull/47776,"python-pyproj, python3-pyproj",B.1,"A.2, B.1",0
+https://github.com/ros/rosdistro/pull/47775,python3-whichcraft,B.1,"A.2, B.1",0,
+https://github.com/ros/rosdistro/pull/47772,"python-pyudev, python3-pyudev",A.2,"A.2, B.1",1
+https://github.com/ros/rosdistro/pull/47771,"python-psutil, python3-psutil",B.1,"A.2, B.1",0
+https://github.com/ros/rosdistro/pull/47703,libglib-dev,B.1,A.2,0
+https://github.com/ros/rosdistro/pull/47678,"libboost-atomic, libboost-chrono, libboost-coroutine, libboost-date-time, libboost-filesystem, libboost-iostreams, libboost-math, libboost-program-options, libboost-python, libboost-random, libboost-regex, libboost-serialization, libboost-system, libboost-thread, libboost-timer","A.2, B.1","A.2, B.1",1,
+https://github.com/ros/rosdistro/pull/47652,"libpaho-mqttpp, libpaho-mqttpp-dev",A.2,A.2,1,
+https://github.com/ros/rosdistro/pull/47529,python3-pre-commit,A.2,A.2,1

@@ -1,0 +1,158 @@
+{
+  "alpine_edge": [
+    {
+      "name": "zstd-dev",
+      "bin_name": "zstd-dev",
+      "src_name": "zstd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "1.5.7-r2",
+      "description": "Zstandard - Fast real-time compression algorithm (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "libzstd-devel",
+      "bin_name": "libzstd-devel",
+      "src_name": "zstd",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "1.4.4-1.el8",
+      "description": "Header files for Zstd library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libzstd-devel",
+      "bin_name": "libzstd-devel",
+      "src_name": "zstd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "1.5.7-1.fc42",
+      "description": "Header files for Zstd library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libzstd-dev",
+      "bin_name": "libzstd-dev",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "1.4.8+dfsg-3build1",
+      "description": "fast lossless compression algorithm -- development files",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "libzstd-devel",
+      "bin_name": "libzstd-devel",
+      "src_name": "zstd",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "1.4.4-lp152.1.12",
+      "description": "Development files for the Zstd compression library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libzstd-devel",
+      "bin_name": "libzstd-devel",
+      "src_name": "zstd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "1.5.7-2.fc43",
+      "description": "Header files for Zstd library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libzstd-dev",
+      "bin_name": "libzstd-dev",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "1.4.4+dfsg-3",
+      "description": "fast lossless compression algorithm -- development files",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "libzstd-devel",
+      "bin_name": "libzstd-devel",
+      "src_name": "zstd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "1.5.5-1.el9",
+      "description": "Header files for Zstd library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libzstd-dev",
+      "bin_name": "libzstd-dev",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "1.5.5+dfsg2-2build1",
+      "description": "fast lossless compression algorithm -- development files",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libzstd-dev",
+      "bin_name": "libzstd-dev",
+      "src_name": "libzstd",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "1.5.4+dfsg2-5",
+      "description": "fast lossless compression algorithm -- development files",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "zstd",
+      "bin_name": "zstd",
+      "src_name": "zstd",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "1.5.7.3",
+      "description": "ZSTD Bindings for Python",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "libzstd.so=1-64",
+      "bin_name": "zstd",
+      "src_name": "zstd",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "1.5.7-2",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "alpine_edge": [
+    {
+      "name": "libflac++",
+      "bin_name": "libflac++",
+      "src_name": "flac",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Free Lossless Audio Codec (libFLAC++)",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-dev",
+      "bin_name": "flac-dev",
+      "src_name": "flac",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Free Lossless Audio Codec (development files)",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-libs",
+      "bin_name": "flac-libs",
+      "src_name": "flac",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-doc",
+      "bin_name": "flac-doc",
+      "src_name": "flac",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Free Lossless Audio Codec (documentation)",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac",
+      "bin_name": "flac",
+      "src_name": "flac",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-static",
+      "bin_name": "flac-static",
+      "src_name": "flac",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Free Lossless Audio Codec (static library)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac",
+      "bin_name": "libflac",
+      "src_name": "flac",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Free Lossless Audio Codec (libFLAC)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "flac",
+      "bin_name": "flac",
+      "src_name": "flac",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-doc",
+      "bin_name": "flac-doc",
+      "src_name": "flac",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Free Lossless Audio Codec - documentation",
+      "confidence": 1.0
+    },
+    {
+      "name": "lib32-flac",
+      "bin_name": "lib32-flac",
+      "src_name": "lib32-flac",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Free Lossless Audio Codec (32-bit)",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libflac++10",
+      "bin_name": "libflac++10",
+      "src_name": "flac",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac",
+      "bin_name": "flac",
+      "src_name": "flac",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac12",
+      "bin_name": "libflac12",
+      "src_name": "flac",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac-dev",
+      "bin_name": "libflac-dev",
+      "src_name": "flac",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac++-dev",
+      "bin_name": "libflac++-dev",
+      "src_name": "flac",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac-doc",
+      "bin_name": "libflac-doc",
+      "src_name": "flac",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "mingw64-flac",
+      "bin_name": "mingw64-flac",
+      "src_name": "mingw-flac",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-flac",
+      "bin_name": "mingw32-flac",
+      "src_name": "mingw-flac",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-flac-tools",
+      "bin_name": "mingw32-flac-tools",
+      "src_name": "mingw-flac",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-flac-tools",
+      "bin_name": "mingw64-flac-tools",
+      "src_name": "mingw-flac",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-devel",
+      "bin_name": "flac-devel",
+      "src_name": "flac",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-libs",
+      "bin_name": "flac-libs",
+      "src_name": "flac",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac",
+      "bin_name": "flac",
+      "src_name": "flac",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "mingw64-flac",
+      "bin_name": "mingw64-flac",
+      "src_name": "mingw-flac",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-flac",
+      "bin_name": "mingw32-flac",
+      "src_name": "mingw-flac",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-libs",
+      "bin_name": "flac-libs",
+      "src_name": "flac",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-flac-tools",
+      "bin_name": "mingw64-flac-tools",
+      "src_name": "mingw-flac",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac",
+      "bin_name": "flac",
+      "src_name": "flac",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-flac-tools",
+      "bin_name": "mingw32-flac-tools",
+      "src_name": "mingw-flac",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-devel",
+      "bin_name": "flac-devel",
+      "src_name": "flac",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libflac++10",
+      "bin_name": "libflac++10",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac12t64",
+      "bin_name": "libflac12t64",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac++-dev",
+      "bin_name": "libflac++-dev",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac-dev",
+      "bin_name": "libflac-dev",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac",
+      "bin_name": "flac",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac-doc",
+      "bin_name": "libflac-doc",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "flac",
+      "bin_name": "flac",
+      "src_name": "flac",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-debuginfo",
+      "bin_name": "flac-debuginfo",
+      "src_name": "flac",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-devel",
+      "bin_name": "flac-devel",
+      "src_name": "flac",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-libs",
+      "bin_name": "flac-libs",
+      "src_name": "flac",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac-debugsource",
+      "bin_name": "flac-debugsource",
+      "src_name": "flac",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "An encoder/decoder for the Free Lossless Audio Codec",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libflac++6v5",
+      "bin_name": "libflac++6v5",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac",
+      "bin_name": "flac",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac++-dev",
+      "bin_name": "libflac++-dev",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac-dev",
+      "bin_name": "libflac-dev",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac8",
+      "bin_name": "libflac8",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac-doc",
+      "bin_name": "libflac-doc",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libflac8",
+      "bin_name": "libflac8",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac-doc",
+      "bin_name": "libflac-doc",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac++6v5",
+      "bin_name": "libflac++6v5",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac++-dev",
+      "bin_name": "libflac++-dev",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "flac",
+      "bin_name": "flac",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libflac-dev",
+      "bin_name": "libflac-dev",
+      "src_name": "flac",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

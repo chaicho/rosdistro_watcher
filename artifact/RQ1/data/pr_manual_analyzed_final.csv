@@ -1,0 +1,1021 @@
+repo_name,repo_owner,title,pr_url,comments_count,status,author_role,author,created_at,closed_at,classification_types,chained_modifications_types
+rosdistro,ros,remove the 'pybind11-dev' key for RHEL8,https://github.com/ros/rosdistro/pull/42740,0.0,merged,contributor,christianrauch,2024-09-05T19:16:16Z,2024-09-06T15:03:15Z,B.1,No modifications found
+rosdistro,ros,Remove the octomap package from Rolling.,https://github.com/ros/rosdistro/pull/42561,1.0,merged,contributor,clalancette,2024-08-23T14:30:13Z,2024-08-26T15:39:39Z,B.2,No modifications found
+rosdistro,ros,python-transitions is not available past bionic,https://github.com/ros/rosdistro/pull/32380,0.0,merged,contributor,audrow,2022-03-17T19:40:05Z,2022-03-17T18:01:01Z,A.2,No modifications found
+rosdistro,ros,Ignition Edifice rosdep keys,https://github.com/ros/rosdistro/pull/29176,1.0,merged,contributor,chapulina,2021-04-15T18:51:07Z,2021-04-16T18:27:06Z,A.1,lint
+rosdistro,ros,Split libuv-dev into libuv-dev and libuv1-dev. Fix #28399,https://github.com/ros/rosdistro/pull/29035,0.0,merged,contributor,stertingen,2021-04-08T07:52:08Z,2021-04-14T19:58:49Z,B.1,No modifications found
+rosdistro,ros,Implement fix to nlohmann-json-dev,https://github.com/ros/rosdistro/pull/26642,0.0,merged,contributor,mjcarroll,2020-09-21T19:10:54Z,2020-09-22T16:43:16Z,B.1,lint
+rosdistro,ros,Fix libpcl-all entry for Debian buster. Fix #25293,https://github.com/ros/rosdistro/pull/26487,2.0,merged,contributor,lepalom,2020-09-08T10:26:50Z,2020-09-10T13:31:44Z,B.1,No modifications found
+rosdistro,ros,Fix libjpeg mapping for OpenEmbedded (#21648),https://github.com/ros/rosdistro/pull/21649,4.0,merged,contributor,herb-kuta-lge,2019-06-28T19:21:46Z,2019-07-10T13:20:03Z,B.1,No modifications found
+rosdistro,ros,Fix libgtkmm install error on Ubuntu/Debian,https://github.com/ros/rosdistro/pull/20738,5.0,merged,contributor,Tiryoh,2019-03-28T08:15:14Z,2019-03-29T23:17:55Z,B.1,B.1
+rosdistro,ros,ffmpeg is back since wily!,https://github.com/ros/rosdistro/pull/20474,0.0,merged,contributor,peci1,2019-03-05T23:37:42Z,2019-03-06T14:09:22Z,"A.2, B.1",No modifications found
+rosdistro,ros,add libqwt6-qt5 rosdep key,https://github.com/ros/rosdistro/pull/19567,6.0,merged,contributor,samuelba,2018-11-30T06:51:58Z,2018-12-12T00:29:09Z,A.1,lint
+rosdistro,ros,Update git to use new package name,https://github.com/ros/rosdistro/pull/18305,0.0,merged,contributor,tfoote,2018-06-28T20:16:40Z,2018-06-28T20:32:58Z,B.1,No modifications found
+rosdistro,ros,jasper is not available on recent ubuntu/debian,https://github.com/ros/rosdistro/pull/18843,0.0,merged,contributor,mikaelarguedas,2018-08-15T16:51:34Z,2018-08-17T20:19:17Z,No classification found,No modifications found
+rosdistro,ros,Add yapf for code formatting,https://github.com/ros/rosdistro/pull/15567,2.0,merged,contributor,cglwn,2017-07-18T22:51:47Z,2017-07-19T00:56:04Z,A.1,No modifications found
+rosdistro,ros,libftdipp-dev support for ubuntu xenial,https://github.com/ros/rosdistro/pull/12866,0.0,merged,contributor,koenlek,2016-09-30T16:10:28Z,2016-10-08T09:20:25Z,"A.2, B.1",No modifications found
+rosdistro,ros,Update gentoo dependency,https://github.com/ros/rosdistro/pull/10586,2.0,merged,contributor,Alessandro-Barbieri,2016-02-29T17:13:16Z,2016-02-29T18:17:51Z,B.1,No modifications found
+rosdistro,ros,media-gfx/assimp entry to media-libs/assimp,https://github.com/ros/rosdistro/pull/9571,1.0,merged,contributor,Alessandro-Barbieri,2015-09-28T02:33:49Z,2015-09-28T03:33:57Z,B.1,No modifications found
+rosdistro,ros,Added definitions to osx-homebrew.yaml,https://github.com/ros/rosdistro/pull/854,0.0,merged,contributor,DeFrenZ,2013-05-19T13:13:28Z,2013-05-19T13:35:42Z,No classification found,No modifications found
+rosdistro,ros,Remove specific Python versions from NixOS rosdep entries,https://github.com/ros/rosdistro/pull/45576,0.0,merged,contributor,wentasah,2025-04-30T15:32:47Z,2025-05-05T18:56:33Z,No classification found,No modifications found
+rosdistro,ros,add python-duckdb for ubuntu and debian,https://github.com/ros/rosdistro/pull/45554,0.0,merged,contributor,tomkimsour,2025-04-29T12:43:45Z,2025-05-07T12:57:34Z,A.1,lint
+rosdistro,ros,Add python3-regex.,https://github.com/ros/rosdistro/pull/45387,1.0,merged,contributor,StefanFabian,2025-04-25T13:46:40Z,2025-04-29T13:57:48Z,A.1,B.1
+rosdistro,ros,Add RHEL and Fedora rules for various qml-module-* keys,https://github.com/ros/rosdistro/pull/45319,0.0,merged,contributor,cottsay,2025-04-23T22:01:01Z,2025-04-24T15:33:03Z,A.2,No modifications found
+rosdistro,ros,Add RHEL rule for python3-pyside2,https://github.com/ros/rosdistro/pull/45318,0.0,merged,contributor,cottsay,2025-04-23T21:13:53Z,2025-04-24T15:33:21Z,A.2,No modifications found
+rosdistro,ros,"Add RHEL, fix Fedora rule for python3-websockets",https://github.com/ros/rosdistro/pull/45317,0.0,merged,contributor,cottsay,2025-04-23T20:56:18Z,2025-04-24T15:33:54Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add RHEL rule for qtmultimedia5-dev,https://github.com/ros/rosdistro/pull/45314,0.0,merged,contributor,cottsay,2025-04-23T20:46:23Z,2025-04-24T15:31:56Z,A.2,No modifications found
+rosdistro,ros,Add RHEL and Fedora rules for libqt5-multimedia,https://github.com/ros/rosdistro/pull/45313,0.0,merged,contributor,cottsay,2025-04-23T20:43:34Z,2025-04-24T15:35:11Z,A.2,No modifications found
+rosdistro,ros,Add RHEL rule for python3-pre-commit,https://github.com/ros/rosdistro/pull/45312,0.0,merged,contributor,cottsay,2025-04-23T20:21:27Z,2025-04-24T15:35:43Z,A.2,No modifications found
+rosdistro,ros,Add RHEL rule for libxcb-randr0-dev,https://github.com/ros/rosdistro/pull/45311,0.0,merged,contributor,cottsay,2025-04-23T20:11:40Z,2025-04-24T15:36:04Z,A.2,No modifications found
+rosdistro,ros,Add RHEL rule for qtdeclarative5-dev,https://github.com/ros/rosdistro/pull/45310,0.0,merged,contributor,cottsay,2025-04-23T20:06:56Z,2025-04-24T15:36:37Z,A.2,No modifications found
+rosdistro,ros,"Add RHEL, fix Fedora rule for qtquickcontrols2-5-dev",https://github.com/ros/rosdistro/pull/45309,0.0,merged,contributor,cottsay,2025-04-23T20:03:31Z,2025-04-24T15:40:39Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add rosdep key 'python3-platformdirs',https://github.com/ros/rosdistro/pull/45307,0.0,merged,contributor,cottsay,2025-04-23T19:43:37Z,2025-04-24T15:41:07Z,A.1,No modifications found
+rosdistro,ros,add python3-filelock to rosdistro,https://github.com/ros/rosdistro/pull/45306,0.0,merged,contributor,saikishor,2025-04-23T17:13:10Z,2025-04-24T15:41:41Z,A.1,A.2
+rosdistro,ros,Add libc++-dev,https://github.com/ros/rosdistro/pull/45277,2.0,merged,contributor,Tacha-S,2025-04-22T11:36:50Z,2025-04-30T12:56:04Z,A.1,A.2
+rosdistro,ros,fix python3-soundfile key syntax,https://github.com/ros/rosdistro/pull/45200,1.0,merged,contributor,mqcmd196,2025-04-16T06:07:19Z,2025-04-29T15:05:46Z,No classification found,No modifications found
+rosdistro,ros,Add python3-pypylon-pip,https://github.com/ros/rosdistro/pull/45169,2.0,merged,contributor,nikosmitrop1995,2025-04-15T12:28:08Z,2025-05-06T14:27:20Z,A.1,No modifications found
+rosdistro,ros,add python3-soundfile,https://github.com/ros/rosdistro/pull/45168,0.0,merged,contributor,mqcmd196,2025-04-15T06:36:18Z,2025-04-15T10:44:46Z,A.1,No modifications found
+rosdistro,ros,add pydub key,https://github.com/ros/rosdistro/pull/45167,2.0,merged,contributor,mqcmd196,2025-04-15T06:20:37Z,2025-04-15T10:45:20Z,A.1,A.2
+rosdistro,ros,Add rosdep key for libexpected-dev,https://github.com/ros/rosdistro/pull/45164,2.0,merged,contributor,otamachan,2025-04-15T04:20:59Z,2025-05-06T16:40:20Z,A.1,B.1
+rosdistro,ros,Add open_gopro to python.yaml,https://github.com/ros/rosdistro/pull/45115,1.0,merged,contributor,yoshida6298,2025-04-11T07:58:47Z,2025-05-05T18:51:18Z,A.1,No modifications found
+rosdistro,ros,new rosdep python packages,https://github.com/ros/rosdistro/pull/45085,1.0,merged,contributor,david-wb,2025-04-10T13:45:53Z,2025-05-06T14:27:57Z,A.1,"B.2, A.2, B.1"
+rosdistro,ros,Add python3-reedsolo,https://github.com/ros/rosdistro/pull/45084,3.0,merged,contributor,Silviis,2025-04-10T12:28:00Z,2025-05-08T04:58:22Z,A.1,"A.2, B.1"
+rosdistro,ros,Update libqt5-core rosdep key for Ubuntu 24.04 (Noble) compatibility,https://github.com/ros/rosdistro/pull/45035,4.0,merged,contributor,omarzayedbeshir,2025-04-08T16:19:07Z,2025-05-12T23:51:02Z,B.1,lint
+rosdistro,ros,Add rosdep key for libserialport,https://github.com/ros/rosdistro/pull/44989,0.0,merged,contributor,Adrian-Stanea,2025-04-04T10:25:28Z,2025-04-14T03:36:09Z,A.1,B.1
+rosdistro,ros,Add rosdep key for libaio,https://github.com/ros/rosdistro/pull/44988,0.0,merged,contributor,Adrian-Stanea,2025-04-04T10:23:33Z,2025-04-14T03:39:12Z,A.1,A.2
+rosdistro,ros,Add rosdep key for re2: Google's library for regular expressions,https://github.com/ros/rosdistro/pull/44984,1.0,merged,contributor,cadmus-to,2025-04-04T01:48:04Z,2025-04-14T03:45:15Z,A.1,lint
+rosdistro,ros,Add keys for rti-connext-dds-7.3.0.,https://github.com/ros/rosdistro/pull/44972,4.0,closed_without_merge,contributor,nuclearsandwich,2025-04-02T22:00:41Z,2025-05-07T08:12:43Z,A.1,No modifications found
+rosdistro,ros,Add python3-jraph-pip,https://github.com/ros/rosdistro/pull/44942,9.0,merged,contributor,stergiosba,2025-04-02T01:16:18Z,2025-05-06T14:30:56Z,A.1,No modifications found
+rosdistro,ros,Add python3-einops-pip,https://github.com/ros/rosdistro/pull/44920,5.0,merged,contributor,stergiosba,2025-03-31T20:59:59Z,2025-04-01T23:11:17Z,A.1,No modifications found
+rosdistro,ros,#44821: include rti-connext-7.3.0 in base.yaml,https://github.com/ros/rosdistro/pull/44918,2.0,merged,contributor,lobolanja,2025-03-31T13:19:46Z,2025-04-08T01:46:00Z,A.1,lint
+rosdistro,ros,add python3-freezegun rule,https://github.com/ros/rosdistro/pull/44839,1.0,merged,contributor,mqcmd196,2025-03-20T07:52:42Z,2025-03-27T19:04:37Z,A.1,B.1
+rosdistro,ros,Add galois to python.yaml,https://github.com/ros/rosdistro/pull/44829,1.0,merged,contributor,Silviis,2025-03-19T09:44:59Z,2025-03-27T19:12:17Z,A.1,No modifications found
+rosdistro,ros,Add rosdep key 'python3-json5',https://github.com/ros/rosdistro/pull/44759,0.0,merged,contributor,cottsay,2025-03-14T17:36:03Z,2025-03-27T19:06:59Z,A.1,lint
+rosdistro,ros,Add tftp-hpa,https://github.com/ros/rosdistro/pull/44757,3.0,merged,contributor,arekin19,2025-03-14T14:04:03Z,2025-03-27T19:10:36Z,A.1,No modifications found
+rosdistro,ros,[rosdep] Added python3-apt.,https://github.com/ros/rosdistro/pull/44743,6.0,merged,contributor,tonybaltovski,2025-03-13T15:20:36Z,2025-03-26T18:19:25Z,A.1,No modifications found
+rosdistro,ros,Add silero-vad pip package rule to rosdep,https://github.com/ros/rosdistro/pull/44741,3.0,merged,contributor,vsevolod-misiul,2025-03-13T12:34:06Z,2025-03-27T19:11:52Z,A.1,No modifications found
+rosdistro,ros,Added python3-mss-pip,https://github.com/ros/rosdistro/pull/44705,3.0,merged,contributor,peci1,2025-03-09T14:33:38Z,2025-03-27T19:06:29Z,A.1,No modifications found
+rosdistro,ros,add python3-apscheduler to rosdep for Debian and Ubuntu,https://github.com/ros/rosdistro/pull/44672,5.0,merged,contributor,jmnavarrete,2025-03-06T14:18:41Z,2025-05-13T00:00:08Z,A.1,A.2
+rosdistro,ros,Add python3-utm,https://github.com/ros/rosdistro/pull/44654,5.0,merged,contributor,Timple,2025-03-03T09:19:48Z,2025-03-27T19:10:07Z,A.1,B.1
+rosdistro,ros,nixos: Update names of alsa* packages after renaming,https://github.com/ros/rosdistro/pull/44653,2.0,merged,contributor,wentasah,2025-03-02T16:14:58Z,2025-03-26T17:46:31Z,B.1,No modifications found
+rosdistro,ros,Add Isaac Lab.,https://github.com/ros/rosdistro/pull/44652,2.0,merged,contributor,baconbrot,2025-03-02T11:45:32Z,2025-03-26T18:02:51Z,A.1,No modifications found
+rosdistro,ros,Add rustup dependency to rosdep base.yaml,https://github.com/ros/rosdistro/pull/44640,3.0,closed_without_merge,contributor,Mallets,2025-02-28T10:06:06Z,2025-03-26T18:07:26Z,A.1,No modifications found
+rosdistro,ros,Fix geographiclib for generic Ubuntu version,https://github.com/ros/rosdistro/pull/44623,2.0,closed_without_merge,contributor,chris-hagen,2025-02-26T12:09:51Z,2025-04-01T23:05:15Z,B.1,No modifications found
+rosdistro,ros,Fix geographiclib for Ubuntu 18.04,https://github.com/ros/rosdistro/pull/44622,0.0,closed_without_merge,contributor,chris-hagen,2025-02-26T11:09:03Z,2025-02-26T12:06:43Z,B.1,No modifications found
+rosdistro,ros,Add python3-utm-pip,https://github.com/ros/rosdistro/pull/44608,2.0,closed_without_merge,contributor,Timple,2025-02-25T12:23:58Z,2025-03-03T08:58:44Z,A.1,No modifications found
+rosdistro,ros,Add RHEL package for libzip-dev key,https://github.com/ros/rosdistro/pull/44541,0.0,merged,contributor,azeey,2025-02-19T22:55:35Z,2025-02-20T08:36:46Z,A.2,No modifications found
+rosdistro,ros,Update python.yaml to include tactigon-gear pip key,https://github.com/ros/rosdistro/pull/44508,0.0,merged,contributor,gpallares,2025-02-18T14:12:00Z,2025-02-20T10:16:28Z,A.1,lint
+rosdistro,ros,add 'python3-wheel',https://github.com/ros/rosdistro/pull/44501,4.0,merged,contributor,christianrauch,2025-02-17T19:17:13Z,2025-02-19T00:12:28Z,A.1,A.2
+rosdistro,ros,Adds ubuntu/osx/arch as targets for pip installation of attrs,https://github.com/ros/rosdistro/pull/44427,0.0,merged,contributor,aleph-ra,2025-02-10T22:54:17Z,2025-02-19T19:41:12Z,A.2,lint
+rosdistro,ros,Adds setproctitle to rosdep database,https://github.com/ros/rosdistro/pull/44420,0.0,merged,contributor,mkabtoul,2025-02-10T17:09:17Z,2025-02-16T03:06:43Z,A.1,No modifications found
+rosdistro,ros,Add python-snap7,https://github.com/ros/rosdistro/pull/44413,2.0,merged,contributor,tgaspar,2025-02-10T13:00:00Z,2025-02-16T03:13:10Z,A.1,No modifications found
+rosdistro,ros,Add the python package pygeodesy to rosdep,https://github.com/ros/rosdistro/pull/44396,1.0,merged,contributor,joram-berger,2025-02-07T09:17:30Z,2025-02-19T19:38:53Z,A.1,lint
+rosdistro,ros,add fast-float to rosdep,https://github.com/ros/rosdistro/pull/44354,2.0,closed_without_merge,contributor,ottojo,2025-02-03T12:39:42Z,2025-03-09T21:12:29Z,A.1,No modifications found
+rosdistro,ros,Add copier,https://github.com/ros/rosdistro/pull/44327,0.0,merged,contributor,Joschi3,2025-01-31T11:38:29Z,2025-02-20T11:07:33Z,A.1,lint
+rosdistro,ros,Add python3-ubjson entry for NixOS,https://github.com/ros/rosdistro/pull/44313,0.0,merged,contributor,mbeutelspacher,2025-01-29T21:40:24Z,2025-02-04T15:08:55Z,A.2,No modifications found
+rosdistro,ros,Add isaacsim pip with cache pkgs,https://github.com/ros/rosdistro/pull/44305,4.0,merged,contributor,baconbrot,2025-01-29T17:47:20Z,2025-02-20T11:04:46Z,A.1,lint
+rosdistro,ros,Adds msgpack-numpy to rosdep database,https://github.com/ros/rosdistro/pull/44301,2.0,merged,contributor,mkabtoul,2025-01-29T09:29:58Z,2025-02-18T23:35:43Z,A.1,A.2
+rosdistro,ros,"Revert ""Add python3-pymongo-pip  for debian and ubuntu""",https://github.com/ros/rosdistro/pull/44287,1.0,merged,contributor,tfoote,2025-01-27T16:45:32Z,2025-01-28T06:29:03Z,No classification found,No modifications found
+rosdistro,ros,Add black-pip key for debian and ubuntu,https://github.com/ros/rosdistro/pull/44281,3.0,closed_without_merge,contributor,jackiescanlon,2025-01-24T20:58:45Z,2025-01-28T14:58:51Z,A.1,No modifications found
+rosdistro,ros,Add few Python entries for NixOS,https://github.com/ros/rosdistro/pull/44277,0.0,merged,contributor,wentasah,2025-01-24T15:53:00Z,2025-01-24T20:24:14Z,A.2,No modifications found
+rosdistro,ros,Add python3-typing-extensions for nixos,https://github.com/ros/rosdistro/pull/44223,0.0,merged,contributor,wentasah,2025-01-17T20:51:31Z,2025-01-23T14:39:42Z,A.2,No modifications found
+rosdistro,ros,Add rclone to rosdep,https://github.com/ros/rosdistro/pull/44181,0.0,merged,contributor,carebare47,2025-01-14T12:36:23Z,2025-01-27T19:28:59Z,A.1,lint
+rosdistro,ros,Add pyubx2,https://github.com/ros/rosdistro/pull/44166,1.0,merged,contributor,ARK3r,2025-01-13T21:34:07Z,2025-02-18T23:31:06Z,A.1,lint
+rosdistro,ros,Add torchrl,https://github.com/ros/rosdistro/pull/44122,0.0,merged,contributor,baconbrot,2025-01-08T12:56:14Z,2025-01-21T21:50:53Z,A.1,No modifications found
+rosdistro,ros,Add platformio,https://github.com/ros/rosdistro/pull/44119,6.0,merged,contributor,Tacha-S,2025-01-08T02:27:28Z,2025-01-30T20:04:50Z,A.1,A.2
+rosdistro,ros,feat: add python3 inject,https://github.com/ros/rosdistro/pull/44101,3.0,closed_without_merge,contributor,ipa-pfs,2025-01-03T10:04:16Z,2025-01-27T14:52:11Z,A.1,No modifications found
+rosdistro,ros,Add python3-beartype,https://github.com/ros/rosdistro/pull/44039,0.0,merged,contributor,Tacha-S,2024-12-25T05:56:24Z,2024-12-30T14:27:25Z,A.1,lint
+rosdistro,ros,Add python3-alsaaudio,https://github.com/ros/rosdistro/pull/44038,0.0,merged,contributor,Tacha-S,2024-12-25T05:44:46Z,2024-12-30T14:26:54Z,A.1,No modifications found
+rosdistro,ros,Add python3-gtts,https://github.com/ros/rosdistro/pull/44037,0.0,merged,contributor,Tacha-S,2024-12-25T05:11:28Z,2024-12-30T14:24:30Z,A.1,lint
+rosdistro,ros,rosdep: Add missing entries for OpenEmbedded,https://github.com/ros/rosdistro/pull/43942,6.0,merged,contributor,robwoolley,2024-12-18T00:22:23Z,2025-02-07T16:18:35Z,A.2,B.1
+rosdistro,ros,Nix,https://github.com/ros/rosdistro/pull/43904,2.0,merged,contributor,nim65s,2024-12-13T16:26:30Z,2024-12-30T14:22:28Z,A.2,lint
+rosdistro,ros,Add python3-robyn-pip,https://github.com/ros/rosdistro/pull/43897,2.0,merged,contributor,derme302,2024-12-13T06:41:25Z,2024-12-30T14:22:00Z,A.1,No modifications found
+rosdistro,ros,Fix Nix packages that incorrectly used Python 2,https://github.com/ros/rosdistro/pull/43895,2.0,merged,contributor,lopsided98,2024-12-13T00:03:26Z,2024-12-30T14:21:33Z,No classification found,No modifications found
+rosdistro,ros,Add python3-facenet-pytorch-pip,https://github.com/ros/rosdistro/pull/43860,2.0,merged,contributor,MatthijsBurgh,2024-12-11T06:53:03Z,2024-12-30T14:21:08Z,A.1,No modifications found
+rosdistro,ros,rosdistro: fix a typo in `empy`,https://github.com/ros/rosdistro/pull/43813,0.0,merged,contributor,galou,2024-12-06T07:34:24Z,2024-12-06T14:27:05Z,No classification found,No modifications found
+rosdistro,ros,Add rosdep key 'python3-osrf-pycommon',https://github.com/ros/rosdistro/pull/43767,2.0,merged,contributor,cottsay,2024-12-02T23:06:04Z,2024-12-04T15:51:35Z,A.1,No modifications found
+rosdistro,ros,Updated python3-filterpy-pip using wildcard notation,https://github.com/ros/rosdistro/pull/43757,0.0,merged,contributor,jack-obrien,2024-12-02T10:20:45Z,2024-12-04T20:13:18Z,No classification found,No modifications found
+rosdistro,ros,Added python3-pillow packages under python3-pillow-imagetk package.,https://github.com/ros/rosdistro/pull/43756,0.0,merged,contributor,jack-obrien,2024-12-02T09:55:09Z,2024-12-04T20:26:55Z,A.2,No modifications found
+rosdistro,ros,"Fedora 39 is EOL, long live Fedora 41",https://github.com/ros/rosdistro/pull/43723,1.0,merged,contributor,cottsay,2024-11-27T17:52:59Z,2024-11-28T03:52:31Z,No classification found,No modifications found
+rosdistro,ros,Added libtmux,https://github.com/ros/rosdistro/pull/43720,0.0,merged,contributor,StefanFabian,2024-11-27T13:58:34Z,2024-12-04T20:27:43Z,A.1,"A.2, B.1"
+rosdistro,ros,Add python3 textual and its extensions,https://github.com/ros/rosdistro/pull/43622,1.0,merged,contributor,user-cjw,2024-11-22T07:15:52Z,2024-11-22T14:49:59Z,A.1,No modifications found
+rosdistro,ros,Add some random rosdep rules to test automation,https://github.com/ros/rosdistro/pull/43607,0.0,closed_without_merge,contributor,cottsay,2024-11-21T06:03:39Z,2024-11-21T06:04:47Z,A.2,No modifications found
+rosdistro,ros,rosdep: import python3-babel,https://github.com/ros/rosdistro/pull/43539,2.0,merged,contributor,severin-lemaignan,2024-11-18T12:31:37Z,2024-11-21T05:59:17Z,A.1,A.2
+rosdistro,ros,rosdep: Added fcl library (non-development version),https://github.com/ros/rosdistro/pull/43530,4.0,merged,contributor,peci1,2024-11-17T12:25:21Z,2024-11-20T16:38:19Z,A.1,lint
+rosdistro,ros,Fix jupyter-notebook for nixos,https://github.com/ros/rosdistro/pull/43517,1.0,merged,contributor,lopsided98,2024-11-15T18:57:13Z,2024-11-18T18:56:01Z,B.1,No modifications found
+rosdistro,ros,Add rules for many packages needed for ROS 2 on FreeBSD,https://github.com/ros/rosdistro/pull/43511,1.0,merged,contributor,cottsay,2024-11-15T03:43:21Z,2024-11-16T17:09:29Z,"A.2, B.1",B.1
+rosdistro,ros,Add python3-streamz to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/43502,4.0,merged,contributor,galou,2024-11-14T13:27:30Z,2024-12-04T20:28:37Z,A.1,"A.2, B.2"
+rosdistro,ros,[rosdep] no more distutils as of Python 3.12,https://github.com/ros/rosdistro/pull/43500,8.0,merged,contributor,mikaelarguedas,2024-11-14T07:51:55Z,2024-11-27T22:40:06Z,B.1,No modifications found
+rosdistro,ros,Add python3-validators to rosdistro,https://github.com/ros/rosdistro/pull/43485,5.0,merged,contributor,Barry-Xu-2018,2024-11-13T06:52:34Z,2024-11-21T14:12:12Z,A.1,B.2
+rosdistro,ros,Add python3-ollama-pip to rosdistro,https://github.com/ros/rosdistro/pull/43482,0.0,merged,contributor,Barry-Xu-2018,2024-11-13T05:57:32Z,2024-11-16T20:06:27Z,A.1,No modifications found
+rosdistro,ros,Add python3-fabric to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/43466,0.0,merged,contributor,gstorer,2024-11-12T08:25:25Z,2024-11-21T05:33:03Z,A.1,B.1
+rosdistro,ros,rosdep: Added libexiv2-dev,https://github.com/ros/rosdistro/pull/43463,4.0,merged,contributor,peci1,2024-11-12T00:56:58Z,2024-11-18T20:19:56Z,A.1,lint
+rosdistro,ros,"rosdep: Added lensfun, lensfun-dev and python3-lensfun",https://github.com/ros/rosdistro/pull/43462,0.0,merged,contributor,peci1,2024-11-12T00:28:53Z,2024-11-15T19:16:20Z,A.1,"A.2, B.1"
+rosdistro,ros,Add rosdep key for minijinja,https://github.com/ros/rosdistro/pull/43391,1.0,merged,contributor,JafarAbdi,2024-11-08T11:48:31Z,2024-11-12T18:01:25Z,A.1,B.2
+rosdistro,ros,Add rosdep key for rich,https://github.com/ros/rosdistro/pull/43386,0.0,merged,contributor,JafarAbdi,2024-11-08T10:53:24Z,2024-11-12T18:00:56Z,A.1,"A.2, B.1"
+rosdistro,ros,"Add nanobind, an alternative to pybind11",https://github.com/ros/rosdistro/pull/43327,1.0,merged,contributor,BrunoB81HK,2024-11-01T19:49:35Z,2024-11-15T21:00:30Z,A.1,B.2
+rosdistro,ros,dep: `libwebp-tools`,https://github.com/ros/rosdistro/pull/43326,2.0,merged,contributor,130s,2024-11-01T17:13:50Z,2024-11-15T19:00:14Z,A.1,B.1
+rosdistro,ros,python3-expiringdict (rosdep),https://github.com/ros/rosdistro/pull/43261,1.0,merged,contributor,reinzor,2024-10-24T12:56:40Z,2024-11-06T14:55:55Z,A.1,No modifications found
+rosdistro,ros,Fix xtensor key for Debian and Ubuntu.,https://github.com/ros/rosdistro/pull/43254,0.0,merged,contributor,clalancette,2024-10-22T14:37:18Z,2024-11-06T15:52:22Z,A.2,B.1
+rosdistro,ros,python3-piexif: added python3 dependency,https://github.com/ros/rosdistro/pull/43253,2.0,merged,contributor,rafa-martin,2024-10-21T13:00:59Z,2024-11-05T16:22:38Z,A.1,A.2
+rosdistro,ros,Add pytest-order,https://github.com/ros/rosdistro/pull/43190,2.0,merged,contributor,ruffsl,2024-10-15T02:28:30Z,2024-10-30T16:17:31Z,A.1,B.1
+rosdistro,ros,Add dh_python to rosdep/base.yaml,https://github.com/ros/rosdistro/pull/43178,2.0,merged,contributor,frankkusters,2024-10-14T15:18:49Z,2024-11-04T03:27:35Z,A.1,No modifications found
+rosdistro,ros,opencv-contrib-python added to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/43173,3.0,merged,contributor,pep248,2024-10-14T13:21:37Z,2024-11-21T05:29:52Z,A.1,No modifications found
+rosdistro,ros,Add python3-bloom to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/43171,0.0,merged,contributor,frankkusters,2024-10-14T11:06:22Z,2024-10-15T15:54:02Z,A.1,No modifications found
+rosdistro,ros,Add clangd to rosdep/base.yaml,https://github.com/ros/rosdistro/pull/43167,0.0,merged,contributor,eshjordan,2024-10-12T15:50:31Z,2024-10-17T23:17:19Z,"A.2, A.1",B.1
+rosdistro,ros,nixos: Add missing packages,https://github.com/ros/rosdistro/pull/43023,1.0,merged,contributor,kjeremy,2024-10-02T15:23:14Z,2024-10-03T16:56:54Z,A.2,B.1
+rosdistro,ros,rosdep: add some NixOS keys,https://github.com/ros/rosdistro/pull/43013,0.0,merged,contributor,okvik,2024-10-01T12:26:04Z,2024-10-03T14:40:19Z,A.2,No modifications found
+rosdistro,ros,rosdep: add python3-ikpy-pip,https://github.com/ros/rosdistro/pull/42870,0.0,merged,contributor,severin-lemaignan,2024-09-16T13:38:16Z,2024-09-23T23:17:23Z,A.1,No modifications found
+rosdistro,ros,nixos: protobuf-compiler-grpc provided by grpc,https://github.com/ros/rosdistro/pull/42841,0.0,merged,contributor,kjeremy,2024-09-13T20:45:56Z,2024-09-23T23:18:06Z,A.2,No modifications found
+rosdistro,ros,nixos: libgpiod-dev needs to point to libgpiod_1,https://github.com/ros/rosdistro/pull/42824,0.0,merged,contributor,kjeremy,2024-09-12T21:09:42Z,2024-09-23T23:18:34Z,B.1,No modifications found
+rosdistro,ros,added python3 noisereduce,https://github.com/ros/rosdistro/pull/42823,0.0,merged,contributor,rafa-martin,2024-09-12T18:52:35Z,2024-09-25T15:15:34Z,A.1,lint
+rosdistro,ros,Add python3-owslib to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/42683,1.0,merged,contributor,hmakelin,2024-09-02T09:38:46Z,2024-09-06T15:04:53Z,A.1,"A.2, B.1"
+rosdistro,ros,Add a bunch of nixos packages,https://github.com/ros/rosdistro/pull/42667,0.0,merged,contributor,kjeremy,2024-08-30T17:40:11Z,2024-09-03T15:11:42Z,A.2,No modifications found
+rosdistro,ros,fix Fedora/RHEL rosdep for `libudev-devel`,https://github.com/ros/rosdistro/pull/42617,0.0,merged,contributor,Grvzard,2024-08-29T06:13:40Z,2024-09-03T15:11:08Z,B.1,No modifications found
+rosdistro,ros,add protobuf-c-compiler package,https://github.com/ros/rosdistro/pull/42562,5.0,closed_without_merge,contributor,hakuturu583,2024-08-23T16:46:49Z,2024-09-23T23:19:30Z,A.1,No modifications found
+rosdistro,ros,Add python3-easyocr,https://github.com/ros/rosdistro/pull/42504,4.0,closed_without_merge,contributor,Plexiglas,2024-08-20T11:14:55Z,2024-09-21T06:20:58Z,A.1,No modifications found
+rosdistro,ros,rosdep: openpyxl,https://github.com/ros/rosdistro/pull/42483,1.0,merged,contributor,130s,2024-08-19T19:32:37Z,2024-08-27T16:41:31Z,A.1,A.2
+rosdistro,ros,Add python3-minimalmodbus-pip,https://github.com/ros/rosdistro/pull/42464,1.0,merged,contributor,kousheekc,2024-08-16T22:08:19Z,2024-08-20T13:33:37Z,A.1,No modifications found
+rosdistro,ros,add python3-pyotp,https://github.com/ros/rosdistro/pull/42428,1.0,merged,contributor,lennewbrook,2024-08-13T08:51:37Z,2024-09-25T15:18:19Z,A.1,A.2
+rosdistro,ros,Add python3-pyopt-pip,https://github.com/ros/rosdistro/pull/42415,2.0,closed_without_merge,contributor,lennewbrook,2024-08-12T14:32:25Z,2024-08-13T08:12:41Z,A.1,No modifications found
+rosdistro,ros,Add PySide6 to rosdep keys,https://github.com/ros/rosdistro/pull/42353,12.0,merged,contributor,samyarsadat,2024-08-08T16:16:19Z,2024-10-04T19:53:58Z,A.1,B.2
+rosdistro,ros,"adding python3-requests-toolbelt, python3-imutils-pip and python3-simplekml",https://github.com/ros/rosdistro/pull/42352,2.0,merged,contributor,denseishin,2024-08-08T15:16:03Z,2024-08-12T15:41:31Z,"A.2, A.1",lint
+rosdistro,ros,adding python3-nep-pip,https://github.com/ros/rosdistro/pull/42333,0.0,merged,contributor,simeoncapy,2024-08-06T07:43:32Z,2024-08-07T05:24:18Z,A.1,No modifications found
+rosdistro,ros,Add `python3-smbus2`,https://github.com/ros/rosdistro/pull/42315,0.0,merged,contributor,InvincibleRMC,2024-08-03T19:35:36Z,2024-08-08T09:45:13Z,A.1,A.2
+rosdistro,ros,Add python3-antlr4 to python.yaml ,https://github.com/ros/rosdistro/pull/42280,1.0,merged,contributor,fred-labs,2024-07-30T14:21:25Z,2024-07-31T02:06:59Z,A.1,"A.2, B.1"
+rosdistro,ros,Fix many of the arch linux packages in base.yaml,https://github.com/ros/rosdistro/pull/42206,2.0,merged,contributor,hikmet517,2024-07-25T13:57:24Z,2024-07-31T01:57:20Z,"A.2, B.1",B.1
+rosdistro,ros,Add PyRoboSim to python.yaml,https://github.com/ros/rosdistro/pull/42205,2.0,merged,contributor,sea-bass,2024-07-25T01:28:05Z,2024-07-28T18:46:50Z,A.1,No modifications found
+rosdistro,ros,Add python-transforms3d-pip For All Ubuntu Versions,https://github.com/ros/rosdistro/pull/42168,2.0,merged,contributor,danthony06,2024-07-22T22:32:30Z,2024-07-23T19:59:19Z,A.2,No modifications found
+rosdistro,ros,Add `tkintermapview` pip dependency to python.yaml,https://github.com/ros/rosdistro/pull/42144,1.0,merged,contributor,jack-obrien,2024-07-22T02:41:00Z,2024-07-23T23:45:12Z,A.1,lint
+rosdistro,ros,fix debian : vcstool package name,https://github.com/ros/rosdistro/pull/42102,4.0,closed_without_merge,contributor,mosfet80,2024-07-16T12:50:10Z,2024-12-05T20:26:50Z,B.1,No modifications found
+rosdistro,ros,fix debian bullseye package name,https://github.com/ros/rosdistro/pull/42075,2.0,closed_without_merge,contributor,mosfet80,2024-07-15T07:41:13Z,2024-07-15T14:47:46Z,B.1,No modifications found
+rosdistro,ros, Add `luma.core` and `luma.oled` pip dependencies to python.yaml,https://github.com/ros/rosdistro/pull/42073,5.0,closed_without_merge,contributor,SPGC,2024-07-13T18:23:43Z,2024-08-20T15:52:44Z,A.1,No modifications found
+rosdistro,ros,Add missing nixos rules,https://github.com/ros/rosdistro/pull/41981,3.0,merged,contributor,bjsowa,2024-07-08T10:29:26Z,2024-07-17T02:54:17Z,"A.2, B.1",B.1
+rosdistro,ros,Add tinkerforge pip,https://github.com/ros/rosdistro/pull/41979,1.0,merged,contributor,BenKlee,2024-07-08T09:34:34Z,2024-07-24T16:59:19Z,A.1,lint
+rosdistro,ros,Add python3-pyqt6.qtmultimedia,https://github.com/ros/rosdistro/pull/41977,2.0,merged,contributor,NoahMollerstuen,2024-07-05T22:33:38Z,2024-07-31T01:52:30Z,A.1,lint
+rosdistro,ros,Add pyqtdarktheme pip,https://github.com/ros/rosdistro/pull/41961,0.0,merged,contributor,InvincibleRMC,2024-07-03T14:27:32Z,2024-07-10T22:59:49Z,A.1,lint
+rosdistro,ros,Add Mavproxy pip,https://github.com/ros/rosdistro/pull/41960,0.0,merged,contributor,InvincibleRMC,2024-07-03T13:20:10Z,2024-07-10T23:03:51Z,A.1,lint
+rosdistro,ros,Add python3-pytest-xvfb Dependency to ROSDEP,https://github.com/ros/rosdistro/pull/41947,0.0,merged,contributor,InvincibleRMC,2024-07-03T01:30:18Z,2024-07-10T22:54:45Z,A.1,B.1
+rosdistro,ros,Add PyQt6 to older Ubuntu versions with Pip,https://github.com/ros/rosdistro/pull/41946,5.0,closed_without_merge,contributor,InvincibleRMC,2024-07-03T01:05:01Z,2024-07-10T17:07:57Z,B.1,No modifications found
+rosdistro,ros,Add python3-urwid as rosdep key,https://github.com/ros/rosdistro/pull/41887,1.0,merged,contributor,bvsam,2024-06-29T21:35:13Z,2024-07-10T23:42:40Z,A.1,A.2
+rosdistro,ros,Add python3-opencv-pip to obtain the newest version possible,https://github.com/ros/rosdistro/pull/41870,4.0,closed_without_merge,contributor,KozaMateusz,2024-06-28T08:29:27Z,2024-07-23T20:16:23Z,A.1,No modifications found
+rosdistro,ros,Add python3-nest-asyncio,https://github.com/ros/rosdistro/pull/41741,4.0,merged,contributor,StefanFabian,2024-06-19T10:53:35Z,2024-06-24T04:20:04Z,A.1,"A.2, B.1"
+rosdistro,ros,Add python3-openpyxl,https://github.com/ros/rosdistro/pull/41664,3.0,closed_without_merge,contributor,SimoneNardi,2024-06-17T11:28:03Z,2024-07-29T15:49:41Z,A.1,No modifications found
+rosdistro,ros,Add in liboctomap-dev key.,https://github.com/ros/rosdistro/pull/41623,0.0,merged,contributor,clalancette,2024-06-14T16:47:53Z,2024-06-24T15:11:46Z,"A.1, B.2",No modifications found
+rosdistro,ros,Add python3-dataclasses-json in rosdep/python.yaml,https://github.com/ros/rosdistro/pull/41599,2.0,merged,contributor,patrickKXMD,2024-06-12T09:14:50Z,2024-06-14T18:40:42Z,A.1,"B.2, B.1, A.2"
+rosdistro,ros,Set clang-format key to clang-tools-extra on RHEL,https://github.com/ros/rosdistro/pull/41591,1.0,merged,contributor,christophebedard,2024-06-11T15:48:51Z,2024-06-11T16:56:44Z,B.1,"A.2, B.1"
+rosdistro,ros,feat: add python3-pygnssutils-pip to python.yaml,https://github.com/ros/rosdistro/pull/41578,1.0,merged,contributor,chbroecker,2024-06-10T15:35:12Z,2024-06-11T19:38:47Z,A.1,No modifications found
+rosdistro,ros,Add libvorbis-dev to base.yaml,https://github.com/ros/rosdistro/pull/41577,0.0,merged,contributor,ardabbour,2024-06-10T09:05:52Z,2024-06-11T19:35:00Z,A.1,"A.2, B.1"
+rosdistro,ros,Add matio-devel for RHEL 9,https://github.com/ros/rosdistro/pull/41550,1.0,merged,contributor,wxmerkt,2024-06-07T14:34:14Z,2024-06-12T13:57:23Z,B.1,B.1
+rosdistro,ros,Add libflatbuffers to rosdep/base.yaml,https://github.com/ros/rosdistro/pull/41519,1.0,merged,contributor,frankkusters,2024-06-06T13:07:20Z,2024-06-12T12:21:49Z,A.1,B.1
+rosdistro,ros,Update python.yaml for flask packages for OpenEmbedded,https://github.com/ros/rosdistro/pull/41466,2.0,merged,contributor,grahas,2024-06-03T20:09:29Z,2024-06-12T00:37:58Z,A.2,No modifications found
+rosdistro,ros,Added customtkinter pip dependency to python.yaml,https://github.com/ros/rosdistro/pull/41445,2.0,merged,contributor,alaa7alnajjar,2024-06-01T09:53:06Z,2024-06-12T00:38:21Z,A.1,No modifications found
+rosdistro,ros,Add `python3-icecream` as a python dependency,https://github.com/ros/rosdistro/pull/41432,3.0,merged,contributor,arjo129,2024-05-31T07:14:24Z,2024-06-07T19:41:28Z,A.1,A.2
+rosdistro,ros,Add cppzmq-dev to the libzmq3-dev key,https://github.com/ros/rosdistro/pull/41413,3.0,merged,contributor,azeey,2024-05-30T15:11:07Z,2024-05-31T18:31:57Z,B.1,No modifications found
+rosdistro,ros,Add xvfb entry for rhel,https://github.com/ros/rosdistro/pull/41390,0.0,merged,contributor,azeey,2024-05-29T19:27:57Z,2024-05-29T20:35:17Z,A.2,No modifications found
+rosdistro,ros,add supervision pip dependency to python.yaml,https://github.com/ros/rosdistro/pull/41307,0.0,merged,contributor,Zarnack,2024-05-22T14:24:19Z,2024-06-06T15:41:15Z,A.1,lint
+rosdistro,ros,add kornia pip dependency to python.yaml,https://github.com/ros/rosdistro/pull/41305,0.0,merged,contributor,Zarnack,2024-05-22T13:28:42Z,2024-05-28T21:38:25Z,A.1,lint
+rosdistro,ros,Add pyFirmata to Rosdep,https://github.com/ros/rosdistro/pull/41304,1.0,merged,contributor,StarDylan,2024-05-22T03:54:36Z,2024-05-28T22:04:34Z,A.1,B.1
+rosdistro,ros,Add python3-asn1tools to rosdep,https://github.com/ros/rosdistro/pull/41262,0.0,merged,contributor,chrimohr,2024-05-20T14:32:28Z,2024-05-28T22:05:45Z,A.1,lint
+rosdistro,ros,Add PyXB-X,https://github.com/ros/rosdistro/pull/41254,1.0,merged,contributor,Ryanf55,2024-05-19T21:50:30Z,2024-05-21T14:57:11Z,A.1,lint
+rosdistro,ros,quick2wire-api,https://github.com/ros/rosdistro/pull/41219,2.0,merged,contributor,robot-dan,2024-05-16T12:21:56Z,2024-05-17T14:22:19Z,A.1,lint
+rosdistro,ros,Add python3-pil-imagetk in rosdep/python.yaml,https://github.com/ros/rosdistro/pull/41129,4.0,merged,contributor,rkoyama1623,2024-05-11T12:28:03Z,2024-05-14T14:32:19Z,A.1,A.2
+rosdistro,ros,Run `clean_rosdep_yaml.py` on rosdep YAML files,https://github.com/ros/rosdistro/pull/41118,1.0,closed_without_merge,contributor,amalnanavati,2024-05-09T16:34:48Z,2024-05-09T16:48:15Z,ERROR,No modifications found
+rosdistro,ros,Add `yourdfpy` to Python rosdeps,https://github.com/ros/rosdistro/pull/41102,0.0,merged,contributor,amalnanavati,2024-05-08T18:48:35Z,2024-05-14T18:32:33Z,A.1,A.2
+rosdistro,ros,json-stream,https://github.com/ros/rosdistro/pull/41063,1.0,merged,contributor,iam-shanmukha,2024-05-06T09:00:18Z,2024-05-07T14:53:39Z,A.1,lint
+rosdistro,ros,libevent,https://github.com/ros/rosdistro/pull/41062,0.0,merged,contributor,christianrauch,2024-05-05T11:41:18Z,2024-05-05T14:31:32Z,A.1,No modifications found
+rosdistro,ros,URGENT: Fix broken gtkmm entry,https://github.com/ros/rosdistro/pull/41059,5.0,merged,contributor,rhaschke,2024-05-04T15:04:04Z,2024-05-04T16:13:21Z,No classification found,No modifications found
+rosdistro,ros,[rosdep] [catkin-lint] [debian/ubuntu] Use catkin-lint instead of python3-catkin-lint package,https://github.com/ros/rosdistro/pull/41004,3.0,merged,contributor,mikaelarguedas,2024-04-29T21:33:13Z,2024-05-07T15:01:12Z,B.1,No modifications found
+rosdistro,ros,Add libblosc-dev,https://github.com/ros/rosdistro/pull/40865,3.0,merged,contributor,Timple,2024-04-26T08:31:34Z,2024-05-03T17:52:11Z,A.1,A.2
+rosdistro,ros,Add missing nixos rules,https://github.com/ros/rosdistro/pull/40861,3.0,merged,contributor,bjsowa,2024-04-26T01:34:04Z,2024-05-03T17:58:31Z,A.2,A.2
+rosdistro,ros,Bump libpcl* to 1.14 on Ubuntu Noble,https://github.com/ros/rosdistro/pull/40834,15.0,merged,contributor,sloretz,2024-04-25T02:50:01Z,2024-04-25T13:03:11Z,"A.2, B.1",No modifications found
+rosdistro,ros,Fix graphicsmagick dep in gentoo,https://github.com/ros/rosdistro/pull/40823,1.0,merged,contributor,gentoo90,2024-04-24T19:35:56Z,2024-05-03T18:29:15Z,B.1,No modifications found
+rosdistro,ros,Feature/add python distro,https://github.com/ros/rosdistro/pull/40809,4.0,merged,contributor,hridaybavle,2024-04-24T09:40:50Z,2024-05-07T15:40:11Z,A.1,lint
+rosdistro,ros,"Add libgtkmm3, a C++ binder for GTK3",https://github.com/ros/rosdistro/pull/40772,0.0,merged,contributor,5730289021-NN,2024-04-23T03:10:56Z,2024-05-03T18:27:09Z,A.1,lint
+rosdistro,ros,Add PyQt6,https://github.com/ros/rosdistro/pull/40750,6.0,merged,contributor,peterdavidfagan,2024-04-22T11:34:57Z,2024-05-14T14:33:21Z,A.1,B.2
+rosdistro,ros,Add dm-env,https://github.com/ros/rosdistro/pull/40747,10.0,merged,contributor,peterdavidfagan,2024-04-22T11:23:37Z,2024-05-03T18:26:03Z,A.1,A.2
+rosdistro,ros,Add lidar_s_graphs to humble and iron distributions,https://github.com/ros/rosdistro/pull/40685,3.0,closed_without_merge,contributor,hridaybavle,2024-04-19T14:54:13Z,2024-04-24T00:24:32Z,No classification found,No modifications found
+rosdistro,ros,Add python3-typeshed,https://github.com/ros/rosdistro/pull/40651,5.0,merged,contributor,InvincibleRMC,2024-04-17T03:06:58Z,2024-04-19T18:31:43Z,A.1,"B.2, A.2, B.1"
+rosdistro,ros,add libmysql++3v5 and libmysql++-dev in 'rosdep/base.yml',https://github.com/ros/rosdistro/pull/40646,0.0,merged,contributor,rafa-martin,2024-04-16T18:43:32Z,2024-04-19T21:42:47Z,A.1,A.2
+rosdistro,ros,Added support for rqt for Arch Linux,https://github.com/ros/rosdistro/pull/40604,3.0,closed_without_merge,contributor,enfff,2024-04-16T00:12:39Z,2024-04-16T00:29:31Z,A.2,No modifications found
+rosdistro,ros,Add OpenTelemetry and Adafruit ServoKit Libraries to Rosdep,https://github.com/ros/rosdistro/pull/40599,4.0,merged,contributor,proffalken,2024-04-15T12:38:12Z,2024-05-03T18:24:47Z,A.1,lint
+rosdistro,ros,Add do-mpc pip package to python.yaml for debian and ubuntu,https://github.com/ros/rosdistro/pull/40593,1.0,merged,contributor,KozaMateusz,2024-04-14T19:56:56Z,2024-04-16T22:41:55Z,A.1,No modifications found
+rosdistro,ros,Add python3-pymongo-pip and python3-motor-pip keys for debian and ubuntu,https://github.com/ros/rosdistro/pull/40564,1.0,merged,contributor,wilml,2024-04-12T18:52:31Z,2024-04-16T22:39:42Z,A.1,No modifications found
+rosdistro,ros,Add pyads python lib,https://github.com/ros/rosdistro/pull/40552,0.0,merged,contributor,ghost,2024-04-11T09:56:34Z,2024-04-16T22:36:34Z,A.1,No modifications found
+rosdistro,ros,add toppra pip dependency to python.yaml,https://github.com/ros/rosdistro/pull/40543,0.0,merged,contributor,kbrameld,2024-04-10T20:45:54Z,2024-04-17T18:51:54Z,A.1,lint
+rosdistro,ros,Add python3-pynput apt package for debian and ubuntu,https://github.com/ros/rosdistro/pull/40529,0.0,merged,contributor,dnikitop,2024-04-09T19:45:19Z,2024-04-11T13:58:26Z,A.1,A.2
+rosdistro,ros,Add robin-map-dev,https://github.com/ros/rosdistro/pull/40469,3.0,closed_without_merge,contributor,ruffsl,2024-04-04T17:50:30Z,2024-04-07T01:03:52Z,A.1,No modifications found
+rosdistro,ros,Add robin-map-dev,https://github.com/ros/rosdistro/pull/40464,2.0,merged,contributor,nachovizzo,2024-04-04T09:38:38Z,2024-04-09T12:20:16Z,A.1,B.1
+rosdistro,ros,Add more libboost and libxtensor keys for noble,https://github.com/ros/rosdistro/pull/40419,8.0,merged,contributor,ruffsl,2024-03-30T14:27:08Z,2024-04-07T01:10:34Z,A.2,No modifications found
+rosdistro,ros,Add in a RHEL key for ruby.,https://github.com/ros/rosdistro/pull/40414,1.0,merged,contributor,clalancette,2024-03-29T16:21:17Z,2024-03-29T19:18:12Z,No classification found,No modifications found
+rosdistro,ros,Gentoo has moved some packages to different categories,https://github.com/ros/rosdistro/pull/40318,0.0,merged,contributor,gentoo90,2024-03-23T19:49:57Z,2024-03-29T17:54:41Z,"A.2, B.1",B.1
+rosdistro,ros,Update `zziplib` key for Ubuntu Noble,https://github.com/ros/rosdistro/pull/40304,0.0,merged,contributor,azeey,2024-03-21T21:15:57Z,2024-03-25T15:38:40Z,B.1,B.1
+rosdistro,ros,Add `glslang-dev` key,https://github.com/ros/rosdistro/pull/40285,1.0,merged,contributor,azeey,2024-03-20T22:09:17Z,2024-03-21T14:54:20Z,A.1,A.2
+rosdistro,ros,Add glslc key,https://github.com/ros/rosdistro/pull/40284,1.0,merged,contributor,azeey,2024-03-20T19:37:02Z,2024-03-21T15:33:55Z,A.1,"A.2, B.1"
+rosdistro,ros,Add `libshaderc-dev` key,https://github.com/ros/rosdistro/pull/40283,1.0,merged,contributor,azeey,2024-03-20T19:33:47Z,2024-03-21T15:39:34Z,A.1,"A.2, B.1"
+rosdistro,ros,Add libx11-xcb-dev key,https://github.com/ros/rosdistro/pull/40281,1.0,merged,contributor,azeey,2024-03-20T19:02:19Z,2024-03-21T14:51:00Z,A.1,A.2
+rosdistro,ros,Update the wxwidgets key for Ubuntu Noble.,https://github.com/ros/rosdistro/pull/40275,7.0,merged,contributor,clalancette,2024-03-20T13:19:34Z,2024-03-21T17:50:07Z,B.1,No modifications found
+rosdistro,ros,libgstreamer-plugins-bad1.0-dev in 'rosdep/base.yml',https://github.com/ros/rosdistro/pull/40264,2.0,merged,contributor,fbe555,2024-03-19T17:46:17Z,2024-03-29T22:14:18Z,A.1,No modifications found
+rosdistro,ros,libsoup2.4-dev in 'rosdep/base.yml',https://github.com/ros/rosdistro/pull/40241,1.0,merged,contributor,fbe555,2024-03-18T13:29:24Z,2024-03-29T22:14:32Z,A.1,lint
+rosdistro,ros,Fix rosdep keys for wxwidgets in modern Ubuntu/Debian,https://github.com/ros/rosdistro/pull/40227,2.0,closed_without_merge,contributor,jlblancoc,2024-03-16T00:17:30Z,2024-03-20T17:15:22Z,B.1,No modifications found
+rosdistro,ros,fix: typo on yoctopuce python package,https://github.com/ros/rosdistro/pull/40213,1.0,merged,contributor,nikosmitrop1995,2024-03-15T05:40:55Z,2024-03-15T22:25:14Z,No classification found,No modifications found
+rosdistro,ros,Update individual libpcl-* keys.,https://github.com/ros/rosdistro/pull/40208,1.0,merged,contributor,clalancette,2024-03-14T19:05:51Z,2024-03-15T14:10:35Z,A.2,No modifications found
+rosdistro,ros,add python3-orjson key to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/40201,2.0,merged,contributor,gulbudakt,2024-03-14T15:29:34Z,2024-04-04T13:17:27Z,A.1,A.2
+rosdistro,ros,feat: add yoctopuce pip to python.yaml,https://github.com/ros/rosdistro/pull/40170,0.0,merged,contributor,nikosmitrop1995,2024-03-11T12:20:22Z,2024-03-14T16:48:53Z,A.1,lint
+rosdistro,ros,Add python3-pyzbar-pip,https://github.com/ros/rosdistro/pull/40144,3.0,closed_without_merge,contributor,MatthijsBurgh,2024-03-08T12:54:28Z,2024-04-10T06:30:46Z,A.1,No modifications found
+rosdistro,ros,Add python3-smbus rule for RHEL,https://github.com/ros/rosdistro/pull/40105,1.0,merged,contributor,cottsay,2024-03-06T19:29:48Z,2024-03-07T00:26:14Z,A.2,A.2
+rosdistro,ros,Add in rosdep key for nlohmann-json-dev for noble.,https://github.com/ros/rosdistro/pull/40101,0.0,merged,contributor,clalancette,2024-03-06T18:35:02Z,2024-03-07T15:07:19Z,No classification found,No modifications found
+rosdistro,ros,rosdep: adding dependencies for openembedded,https://github.com/ros/rosdistro/pull/40012,6.0,merged,contributor,ghost,2024-02-27T17:16:16Z,2024-03-05T16:08:17Z,A.2,No modifications found
+rosdistro,ros,Add `scikit-spatial` to python rosdeps,https://github.com/ros/rosdistro/pull/39906,1.0,merged,contributor,amalnanavati,2024-02-15T01:36:23Z,2024-02-20T14:01:17Z,A.1,No modifications found
+rosdistro,ros,Add `overrides` to python rosdeps,https://github.com/ros/rosdistro/pull/39905,3.0,merged,contributor,amalnanavati,2024-02-15T00:46:54Z,2024-02-20T14:07:56Z,A.1,A.2
+rosdistro,ros,add libepoxy,https://github.com/ros/rosdistro/pull/39902,0.0,merged,contributor,christianrauch,2024-02-14T20:13:22Z,2024-02-20T14:08:27Z,A.1,B.1
+rosdistro,ros,Add ros2-easy-test pip key to rosdep.,https://github.com/ros/rosdistro/pull/39892,17.0,closed_without_merge,contributor,vik748,2024-02-13T20:06:42Z,2024-04-24T00:15:53Z,A.1,No modifications found
+rosdistro,ros,Add rosdep key for playsound alpine,https://github.com/ros/rosdistro/pull/39868,0.0,merged,contributor,RomainL972,2024-02-11T00:50:13Z,2024-02-13T14:08:27Z,A.2,lint
+rosdistro,ros,Add sqlite-utils pip source,https://github.com/ros/rosdistro/pull/39858,0.0,merged,contributor,ghost,2024-02-08T17:26:03Z,2024-02-09T19:10:24Z,A.1,No modifications found
+rosdistro,ros,fix: rename libqt5-charts key to libqt5-charts-dev to match the other Qt5 -dev packages,https://github.com/ros/rosdistro/pull/39791,2.0,merged,contributor,esteve,2024-02-05T09:46:54Z,2024-02-07T17:29:15Z,A.1,lint
+rosdistro,ros,Add Gazebo Harmonic Keys for Ubuntu Focal and Jammy,https://github.com/ros/rosdistro/pull/39772,1.0,closed_without_merge,contributor,Ryanf55,2024-02-03T20:46:44Z,2024-02-03T21:24:56Z,A.1,No modifications found
+rosdistro,ros,Add rosdep keys for lsb-release,https://github.com/ros/rosdistro/pull/39768,4.0,merged,contributor,j-rivero,2024-02-02T16:57:08Z,2024-03-04T14:55:22Z,A.1,"A.2, B.1"
+rosdistro,ros,fix compatibility to debian bookworm,https://github.com/ros/rosdistro/pull/39763,10.0,closed_without_merge,contributor,sprhawk,2024-02-02T06:11:39Z,2024-05-07T14:36:53Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add libopus to base.yml,https://github.com/ros/rosdistro/pull/39712,1.0,merged,contributor,vicmassy,2024-01-25T12:10:12Z,2024-01-26T16:31:03Z,A.1,"A.2, B.1"
+rosdistro,ros,feat(rosdep): add libqt5charts5-dev,https://github.com/ros/rosdistro/pull/39705,1.0,merged,contributor,satoshi-ota,2024-01-25T05:44:38Z,2024-01-30T15:25:36Z,A.1,No modifications found
+rosdistro,ros,Add google-cloud-secret-manager,https://github.com/ros/rosdistro/pull/39702,0.0,merged,contributor,safijari,2024-01-24T20:34:15Z,2024-01-30T15:24:43Z,A.1,lint
+rosdistro,ros,Add python3-ruff-pip,https://github.com/ros/rosdistro/pull/39543,0.0,merged,contributor,Yamboy1,2024-01-14T22:08:57Z,2024-01-16T16:08:57Z,A.1,No modifications found
+rosdistro,ros,Add Gazebo Garden packages for Gentoo,https://github.com/ros/rosdistro/pull/39512,9.0,merged,contributor,gentoo90,2024-01-10T23:04:15Z,2024-03-01T19:08:40Z,A.1,"A.2, B.1"
+rosdistro,ros,Add `python-ifaddr`,https://github.com/ros/rosdistro/pull/39511,2.0,closed_without_merge,contributor,lalten,2024-01-10T21:07:17Z,2024-01-17T08:27:26Z,A.1,No modifications found
+rosdistro,ros,Added linux-isolate-process rosdep key,https://github.com/ros/rosdistro/pull/39418,4.0,closed_without_merge,contributor,adityapande-1995,2024-01-03T02:13:26Z,2024-01-09T19:47:15Z,A.1,No modifications found
+rosdistro,ros,fix python3-psycopg2 for jammy,https://github.com/ros/rosdistro/pull/39400,0.0,merged,contributor,l-schilling,2024-01-02T14:56:39Z,2024-01-05T00:13:55Z,A.1,"A.2, B.1"
+rosdistro,ros,feat: add darknet,https://github.com/ros/rosdistro/pull/39399,5.0,merged,contributor,wep21,2024-01-01T14:32:55Z,2024-01-09T13:46:36Z,A.1,No modifications found
+rosdistro,ros,Magladko rosdep base qtwebengine5 dev,https://github.com/ros/rosdistro/pull/39395,1.0,merged,contributor,magladko,2023-12-30T21:45:11Z,2024-01-02T16:36:04Z,A.1,"A.2, B.1"
+rosdistro,ros,add ethtool,https://github.com/ros/rosdistro/pull/39306,1.0,merged,contributor,belem2050,2023-12-20T13:38:14Z,2023-12-27T17:00:22Z,A.1,A.2
+rosdistro,ros,Added python3-build,https://github.com/ros/rosdistro/pull/39236,4.0,merged,contributor,m-elwin,2023-12-15T17:58:21Z,2023-12-26T13:50:40Z,A.1,A.2
+rosdistro,ros,python3-mypy: change Ubuntu rule to use pip,https://github.com/ros/rosdistro/pull/39226,1.0,closed_without_merge,contributor,Wojcik98,2023-12-15T09:25:15Z,2023-12-15T19:42:37Z,B.1,No modifications found
+rosdistro,ros,"Revert ""Remove the python-omniorb key.""",https://github.com/ros/rosdistro/pull/39223,3.0,merged,contributor,k-okada,2023-12-15T06:07:13Z,2023-12-21T18:52:17Z,No classification found,No modifications found
+rosdistro,ros,rosdep: nixos: Add OpenCV cxxdev output,https://github.com/ros/rosdistro/pull/39203,2.0,merged,contributor,hacker1024,2023-12-12T23:23:22Z,2023-12-16T01:49:55Z,B.1,No modifications found
+rosdistro,ros,Switch the RHEL-9 python3-qt5-bindings key to SIP.,https://github.com/ros/rosdistro/pull/39172,1.0,merged,contributor,clalancette,2023-12-07T22:22:59Z,2023-12-08T19:07:28Z,B.1,No modifications found
+rosdistro,ros,Update python.yaml - Add Kaitaistruct python runtime,https://github.com/ros/rosdistro/pull/39116,3.0,closed_without_merge,contributor,crytpy,2023-12-01T00:49:07Z,2023-12-26T13:45:34Z,A.1,No modifications found
+rosdistro,ros,"python-omniorb is not available on debian, use omniorb, see https://packages.debian.org/search?suite=all&section=all&arch=any&searchon=names&keywords=omniidl",https://github.com/ros/rosdistro/pull/39111,2.0,closed_without_merge,contributor,k-okada,2023-11-30T14:43:30Z,2023-12-08T15:47:09Z,B.1,No modifications found
+rosdistro,ros,Add rosdep key for python3-flask-restful,https://github.com/ros/rosdistro/pull/39063,1.0,closed_without_merge,contributor,waldgaenger,2023-11-22T21:24:01Z,2023-12-08T15:44:30Z,A.1,No modifications found
+rosdistro,ros,rosdep: nixos: Add pyqt5-dev-tools,https://github.com/ros/rosdistro/pull/39049,0.0,merged,contributor,hacker1024,2023-11-22T04:15:19Z,2023-12-01T19:17:33Z,A.2,No modifications found
+rosdistro,ros,rosdep: nixos: Add transforms3d packages,https://github.com/ros/rosdistro/pull/39010,1.0,merged,contributor,hacker1024,2023-11-17T03:43:28Z,2023-12-01T19:24:26Z,A.2,lint
+rosdistro,ros,Add rosdep key for python3-pyinotify,https://github.com/ros/rosdistro/pull/38933,4.0,merged,contributor,emersonknapp,2023-11-11T08:14:46Z,2023-12-01T18:58:09Z,A.1,A.2
+rosdistro,ros,Add fonts-roboto entry,https://github.com/ros/rosdistro/pull/38924,2.0,merged,contributor,Joecey,2023-11-09T13:29:30Z,2023-11-30T18:02:49Z,A.1,A.2
+rosdistro,ros,Add pep8-naming,https://github.com/ros/rosdistro/pull/38858,2.0,merged,contributor,augustelalande,2023-11-05T15:31:29Z,2023-11-10T15:09:21Z,A.1,B.2
+rosdistro,ros,Add xtensor rule for RHEL 9 and fix Fedora rule,https://github.com/ros/rosdistro/pull/38843,0.0,merged,contributor,cottsay,2023-11-01T19:04:49Z,2023-11-01T20:59:13Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add python-pip-rapidfuzz to python.yaml,https://github.com/ros/rosdistro/pull/38821,1.0,merged,contributor,laurence-diack-pk,2023-10-29T21:55:07Z,2023-11-08T17:01:43Z,A.1,No modifications found
+rosdistro,ros,add libsodium-dev,https://github.com/ros/rosdistro/pull/38816,1.0,merged,contributor,fbaygul,2023-10-26T07:51:59Z,2023-11-03T04:59:44Z,A.1,A.2
+rosdistro,ros,Adding moonraker-api,https://github.com/ros/rosdistro/pull/38801,0.0,merged,contributor,ralphieraccoon,2023-10-24T15:33:03Z,2023-11-08T17:04:50Z,A.1,B.1
+rosdistro,ros,Add uvloop to python rosdep index,https://github.com/ros/rosdistro/pull/38754,1.0,merged,contributor,nachovizzo,2023-10-11T23:53:23Z,2023-10-13T06:30:34Z,A.1,B.1
+rosdistro,ros,Adding python-gsmmodem-new,https://github.com/ros/rosdistro/pull/38658,6.0,closed_without_merge,contributor,DavidD121,2023-09-29T19:37:09Z,2023-11-28T19:58:55Z,A.1,No modifications found
+rosdistro,ros,Add some missing gentoo packages and fix wrong names for the existing ones,https://github.com/ros/rosdistro/pull/38577,0.0,merged,contributor,gentoo90,2023-09-18T20:50:12Z,2023-09-26T06:19:00Z,"A.2, B.1",No modifications found
+rosdistro,ros,added libpcsclite1,https://github.com/ros/rosdistro/pull/38546,0.0,merged,contributor,YuuchanShimi,2023-09-14T13:11:20Z,2023-09-19T19:22:36Z,A.1,A.2
+rosdistro,ros,added pcscd to rosdep list,https://github.com/ros/rosdistro/pull/38543,0.0,merged,contributor,YuuchanShimi,2023-09-14T07:29:15Z,2023-09-19T19:22:10Z,A.1,B.1
+rosdistro,ros,Update a number of flake8 keys.,https://github.com/ros/rosdistro/pull/38540,0.0,merged,contributor,clalancette,2023-09-13T21:49:04Z,2023-09-15T12:27:03Z,A.2,B.1
+rosdistro,ros,nixos: Use generic python3Packages instead of specific python versions,https://github.com/ros/rosdistro/pull/38539,3.0,merged,contributor,kjeremy,2023-09-13T16:07:57Z,2023-09-14T16:53:31Z,No classification found,No modifications found
+rosdistro,ros,rosdep: Add libfyaml-dev,https://github.com/ros/rosdistro/pull/38406,2.0,merged,contributor,wentasah,2023-09-03T07:20:17Z,2023-09-12T16:06:21Z,A.1,A.2
+rosdistro,ros,Add tiled rosdep,https://github.com/ros/rosdistro/pull/38383,3.0,merged,contributor,Vuwij,2023-08-31T08:44:13Z,2023-11-08T16:04:42Z,A.1,A.2
+rosdistro,ros,Add entries of python module to use hidapi,https://github.com/ros/rosdistro/pull/38360,5.0,merged,contributor,rkoyama1623,2023-08-28T12:09:29Z,2023-09-21T15:12:59Z,A.1,A.2
+rosdistro,ros,Add flake8-black rosdep rule,https://github.com/ros/rosdistro/pull/38353,1.0,merged,contributor,emersonknapp,2023-08-28T04:39:43Z,2023-08-28T20:06:20Z,A.1,No modifications found
+rosdistro,ros,[rosdep] Add hddtemp for ubuntu trusty and xenial,https://github.com/ros/rosdistro/pull/38274,1.0,closed_without_merge,contributor,pazeshun,2023-08-21T11:14:22Z,2023-08-22T01:37:00Z,B.1,No modifications found
+rosdistro,ros,feat: add 'gymnasium-robotics' pip package,https://github.com/ros/rosdistro/pull/38244,12.0,merged,contributor,rickstaa,2023-08-14T19:59:28Z,2023-08-29T13:10:43Z,A.1,B.1
+rosdistro,ros,feat: add 'pandas' pip install,https://github.com/ros/rosdistro/pull/38243,7.0,closed_without_merge,contributor,rickstaa,2023-08-14T19:35:35Z,2023-08-23T16:18:15Z,A.1,No modifications found
+rosdistro,ros,feat: add 'numpy' pip install,https://github.com/ros/rosdistro/pull/38242,3.0,closed_without_merge,contributor,rickstaa,2023-08-14T19:22:46Z,2023-08-23T16:18:24Z,A.1,No modifications found
+rosdistro,ros,Add ffmpeg development package (ffmpeg-dev),https://github.com/ros/rosdistro/pull/38239,2.0,merged,contributor,oysstu,2023-08-14T10:46:09Z,2023-08-28T20:05:52Z,A.1,A.2
+rosdistro,ros,feat: add pip oct2py to rosdep,https://github.com/ros/rosdistro/pull/38229,1.0,merged,contributor,Podesta,2023-08-13T12:44:29Z,2023-08-23T20:20:05Z,A.1,No modifications found
+rosdistro,ros,feat: add gnu octave to rosdep,https://github.com/ros/rosdistro/pull/38228,0.0,merged,contributor,Podesta,2023-08-13T12:09:39Z,2023-08-21T06:27:27Z,A.1,No modifications found
+rosdistro,ros,Add tshark base dependency,https://github.com/ros/rosdistro/pull/38203,0.0,merged,contributor,russkel,2023-08-10T06:08:36Z,2023-08-11T18:35:36Z,A.1,No modifications found
+rosdistro,ros,add libqmi-glib-dev package to base.yaml,https://github.com/ros/rosdistro/pull/38202,2.0,merged,contributor,ToshikiNakamura0412,2023-08-10T04:04:46Z,2023-08-30T05:57:32Z,A.1,A.2
+rosdistro,ros,Add python3-waitress,https://github.com/ros/rosdistro/pull/38185,0.0,merged,contributor,MatthijsBurgh,2023-08-09T07:30:38Z,2023-08-10T17:02:55Z,A.1,A.2
+rosdistro,ros,adding python3-nmcli-pip to python,https://github.com/ros/rosdistro/pull/38180,4.0,merged,contributor,ARK3r,2023-08-08T17:45:55Z,2023-08-21T06:22:59Z,A.1,lint
+rosdistro,ros,rosdep: nixos: Add xtensor and libopencv-imgproc-dev library package,https://github.com/ros/rosdistro/pull/38178,0.0,merged,contributor,muellerbernd,2023-08-08T12:37:02Z,2023-08-08T17:48:51Z,A.2,lint
+rosdistro,ros,Please add python3-attrs to rosdep,https://github.com/ros/rosdistro/pull/38148,1.0,merged,contributor,SubaruArai,2023-08-04T08:41:07Z,2023-08-07T15:04:13Z,A.1,A.2
+rosdistro,ros,Add in a set of pyside2 rosdep keys.,https://github.com/ros/rosdistro/pull/38142,0.0,merged,contributor,clalancette,2023-08-03T21:32:44Z,2023-08-05T13:53:48Z,A.1,lint
+rosdistro,ros,rosdep: nixos: Add qt5-svg library package,https://github.com/ros/rosdistro/pull/38136,4.0,merged,contributor,hacker1024,2023-08-03T13:37:40Z,2023-08-04T16:43:36Z,A.2,lint
+rosdistro,ros,add python3-mccabe entry,https://github.com/ros/rosdistro/pull/38133,1.0,merged,contributor,knorth55,2023-08-03T10:13:25Z,2023-08-04T16:44:03Z,A.1,"A.2, B.1"
+rosdistro,ros,add python3-sqlmodel-pip to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/38119,3.0,merged,contributor,SubaruArai,2023-08-02T06:22:43Z,2023-08-04T16:47:32Z,A.1,B.2
+rosdistro,ros,Add catch2 to rosdep rules,https://github.com/ros/rosdistro/pull/38088,1.0,merged,contributor,tylerjw,2023-07-28T20:42:57Z,2023-08-08T17:53:13Z,A.1,"A.2, B.1"
+rosdistro,ros,added ccid distro packages to base.yaml,https://github.com/ros/rosdistro/pull/38066,1.0,merged,contributor,YuuchanShimi,2023-07-25T10:05:28Z,2023-08-29T17:47:24Z,A.1,A.2
+rosdistro,ros,Added Draco to base.yaml,https://github.com/ros/rosdistro/pull/38056,3.0,merged,contributor,ahcorde,2023-07-24T15:37:00Z,2023-07-27T07:46:20Z,A.1,A.2
+rosdistro,ros,Add alpine pcsclite,https://github.com/ros/rosdistro/pull/38007,1.0,closed_without_merge,contributor,YuuchanShimi,2023-07-18T09:55:20Z,2023-07-18T09:57:47Z,"A.1, B.2, A.2, B.1",No modifications found
+rosdistro,ros,Add python3-insightface-pip,https://github.com/ros/rosdistro/pull/37908,1.0,merged,contributor,SimoneNardi,2023-07-11T09:13:46Z,2023-07-12T18:40:18Z,A.1,No modifications found
+rosdistro,ros,"Add gz-math7, gz-rendering7, and gz-common5",https://github.com/ros/rosdistro/pull/37887,2.0,closed_without_merge,contributor,Jack-ReframeSystems,2023-07-07T11:39:44Z,2023-07-15T01:25:12Z,A.1,No modifications found
+rosdistro,ros,Add cpp-httplib,https://github.com/ros/rosdistro/pull/37826,5.0,merged,contributor,Ryanf55,2023-06-29T21:52:15Z,2023-06-30T17:05:06Z,A.1,A.2
+rosdistro,ros,Add liblttng-ctl-dev,https://github.com/ros/rosdistro/pull/37824,4.0,merged,contributor,christophebedard,2023-06-29T21:15:12Z,2023-07-05T16:43:45Z,A.1,A.2
+rosdistro,ros,add python3-influxdb,https://github.com/ros/rosdistro/pull/37767,1.0,closed_without_merge,contributor,k-okada,2023-06-23T03:12:48Z,2023-06-23T06:27:54Z,No classification found,No modifications found
+rosdistro,ros,added onvif_zeep with pip for ubuntu,https://github.com/ros/rosdistro/pull/37728,3.0,merged,contributor,ARK3r,2023-06-19T16:28:12Z,2023-06-29T17:11:47Z,A.1,No modifications found
+rosdistro,ros,Add helyos_agent_sdk to rosdep database,https://github.com/ros/rosdistro/pull/37726,0.0,merged,contributor,jkkolb,2023-06-19T15:01:05Z,2023-07-05T16:46:08Z,A.1,No modifications found
+rosdistro,ros,http_relay: 1.0.1-1 in 'noetic/distribution.yaml' [bloom],https://github.com/ros/rosdistro/pull/37717,39.0,closed_without_merge,contributor,peci1,2023-06-19T09:20:38Z,2024-11-18T20:06:58Z,A.1,No modifications found
+rosdistro,ros,add python-qpsolvers-pip to rosdep database,https://github.com/ros/rosdistro/pull/37702,0.0,merged,contributor,Qrpucp,2023-06-16T17:15:35Z,2023-06-28T11:37:29Z,A.1,lint
+rosdistro,ros,Update libtool for debian in base.yaml,https://github.com/ros/rosdistro/pull/37661,1.0,merged,contributor,hellantos,2023-06-14T19:37:25Z,2023-06-28T11:38:39Z,B.1,lint
+rosdistro,ros,Add zsh to rosdep/base.yaml,https://github.com/ros/rosdistro/pull/37651,2.0,merged,contributor,frankkusters,2023-06-14T12:04:57Z,2023-07-05T16:45:30Z,A.1,A.2
+rosdistro,ros,feat: add  pip MyST-Parser  pip dependency,https://github.com/ros/rosdistro/pull/37626,0.0,merged,contributor,rickstaa,2023-06-13T11:18:39Z,2023-06-27T19:54:31Z,A.1,lint
+rosdistro,ros,Add in a libqt5-svg key.,https://github.com/ros/rosdistro/pull/37580,1.0,merged,contributor,clalancette,2023-06-09T15:13:18Z,2023-06-09T18:50:49Z,A.1,A.2
+rosdistro,ros,Add fanucpy,https://github.com/ros/rosdistro/pull/37549,1.0,merged,contributor,juhannc,2023-06-08T08:01:49Z,2023-06-09T19:02:02Z,A.1,lint
+rosdistro,ros,"rosdep: pylint3 unavailable on Fedora, Ubuntu 20.04 onward",https://github.com/ros/rosdistro/pull/37509,2.0,merged,contributor,130s,2023-06-07T08:42:32Z,2023-06-26T20:36:28Z,B.1,B.1
+rosdistro,ros,Add torch and torchvision to python.yaml,https://github.com/ros/rosdistro/pull/37485,0.0,merged,contributor,V02460,2023-06-06T13:44:57Z,2023-06-07T20:40:10Z,A.1,lint
+rosdistro,ros,adding include-what-you-use library to cygwin,https://github.com/ros/rosdistro/pull/37409,3.0,closed_without_merge,contributor,mosfet80,2023-05-30T15:23:43Z,2023-06-27T19:32:01Z,A.2,No modifications found
+rosdistro,ros,Update python3-tqdm in python.yaml,https://github.com/ros/rosdistro/pull/37335,4.0,closed_without_merge,contributor,belorenz,2023-05-23T09:44:09Z,2023-06-06T14:38:45Z,B.1,No modifications found
+rosdistro,ros,add debian bullseye dependency in base.yaml,https://github.com/ros/rosdistro/pull/37308,1.0,merged,contributor,mosfet80,2023-05-22T09:37:52Z,2023-05-23T02:51:33Z,A.2,A.2
+rosdistro,ros,Add natsort to python.yaml,https://github.com/ros/rosdistro/pull/37254,1.0,merged,contributor,JafarAbdi,2023-05-17T08:49:59Z,2023-05-22T17:17:59Z,A.1,A.2
+rosdistro,ros,Adding dlib,https://github.com/ros/rosdistro/pull/37230,1.0,closed_without_merge,contributor,CursedRock17,2023-05-13T03:03:38Z,2023-05-15T18:09:04Z,A.2,No modifications found
+rosdistro,ros,Add exiv2 for image metadata,https://github.com/ros/rosdistro/pull/37226,2.0,merged,contributor,Ryanf55,2023-05-13T01:15:31Z,2023-05-16T18:37:48Z,A.1,"A.2, B.1"
+rosdistro,ros,Add rosdep key for 'semgrep',https://github.com/ros/rosdistro/pull/37218,0.0,merged,contributor,florcabral,2023-05-11T18:52:26Z,2023-06-06T14:37:12Z,A.1,lint
+rosdistro,ros,Adding Cairo to osx,https://github.com/ros/rosdistro/pull/37179,3.0,closed_without_merge,contributor,CursedRock17,2023-05-11T02:39:13Z,2023-06-27T19:30:07Z,A.2,No modifications found
+rosdistro,ros,Add python3-bidict to rosdep,https://github.com/ros/rosdistro/pull/37171,2.0,merged,contributor,mattcocking,2023-05-10T13:17:58Z,2023-05-17T15:33:45Z,A.1,B.1
+rosdistro,ros,Add chromedriver entry to base.yaml,https://github.com/ros/rosdistro/pull/37167,1.0,merged,contributor,sktometometo,2023-05-10T04:05:56Z,2023-05-31T21:16:51Z,A.1,A.2
+rosdistro,ros,add python3-grip key,https://github.com/ros/rosdistro/pull/37158,0.0,merged,contributor,knorth55,2023-05-09T12:58:42Z,2023-05-31T20:15:06Z,A.1,B.2
+rosdistro,ros,add libnanopb,https://github.com/ros/rosdistro/pull/37139,1.0,merged,contributor,Svastits,2023-05-05T11:49:44Z,2023-05-18T17:38:29Z,A.1,A.2
+rosdistro,ros,Add rodep key for libgrpc,https://github.com/ros/rosdistro/pull/37138,1.0,merged,contributor,mintar,2023-05-05T10:21:25Z,2023-05-09T12:53:47Z,A.1,A.2
+rosdistro,ros,add stress-ng key,https://github.com/ros/rosdistro/pull/37095,2.0,merged,contributor,knorth55,2023-05-01T05:19:37Z,2023-05-03T18:39:25Z,A.1,A.2
+rosdistro,ros,add sysbench key,https://github.com/ros/rosdistro/pull/37094,1.0,merged,contributor,knorth55,2023-05-01T05:12:48Z,2023-05-03T18:39:55Z,A.1,A.2
+rosdistro,ros,Added xlsxwriter python3,https://github.com/ros/rosdistro/pull/37014,2.0,merged,contributor,njanirudh-ubica,2023-04-28T07:40:24Z,2023-05-03T12:55:41Z,A.1,A.2
+rosdistro,ros,Adding flatbuffers,https://github.com/ros/rosdistro/pull/36970,1.0,merged,contributor,ct2034,2023-04-26T13:00:47Z,2023-05-03T18:42:47Z,A.1,"B.2, A.2, B.1"
+rosdistro,ros,Add autoconf-archive to rosdep base.yaml,https://github.com/ros/rosdistro/pull/36948,1.0,merged,contributor,Kotochleb,2023-04-25T15:12:58Z,2023-05-03T21:12:59Z,A.1,A.2
+rosdistro,ros,Adding the Carla install to python.yaml,https://github.com/ros/rosdistro/pull/36941,3.0,merged,contributor,CursedRock17,2023-04-25T03:57:36Z,2023-05-03T12:51:48Z,A.2,No modifications found
+rosdistro,ros,rosdep: add some openeuler support.,https://github.com/ros/rosdistro/pull/36933,3.0,closed_without_merge,contributor,Z572,2023-04-24T10:21:49Z,2023-05-15T17:04:05Z,A.2,No modifications found
+rosdistro,ros,Updates to python-attrs after cleanup introduced an oddity.,https://github.com/ros/rosdistro/pull/36893,0.0,merged,contributor,nuclearsandwich,2023-04-18T03:01:41Z,2023-05-03T12:56:57Z,No classification found,No modifications found
+rosdistro,ros,revert rpi package #36889,https://github.com/ros/rosdistro/pull/36891,2.0,merged,contributor,rafal-gorecki,2023-04-17T20:37:13Z,2023-04-18T19:16:45Z,A.1,No modifications found
+rosdistro,ros,Fix `python-attrs-pip` for Ubuntu,https://github.com/ros/rosdistro/pull/36888,4.0,closed_without_merge,contributor,zultron,2023-04-17T17:33:10Z,2023-05-03T13:17:01Z,A.2,No modifications found
+rosdistro,ros,[rosdep] add ubuntu-sounds entry,https://github.com/ros/rosdistro/pull/36857,3.0,closed_without_merge,contributor,sktometometo,2023-04-14T09:42:14Z,2023-05-11T16:40:05Z,A.1,No modifications found
+rosdistro,ros,Adding gpgme to OSX,https://github.com/ros/rosdistro/pull/36840,0.0,merged,contributor,CursedRock17,2023-04-13T03:56:22Z,2023-05-15T17:02:14Z,A.2,No modifications found
+rosdistro,ros,Add python3-tikzplotlib-pip,https://github.com/ros/rosdistro/pull/36802,2.0,merged,contributor,Wojcik98,2023-04-12T09:33:22Z,2023-04-18T14:40:53Z,A.1,No modifications found
+rosdistro,ros,Add python3-rmsd-pip,https://github.com/ros/rosdistro/pull/36801,3.0,merged,contributor,Wojcik98,2023-04-12T09:17:12Z,2023-04-18T14:40:12Z,A.1,No modifications found
+rosdistro,ros,Adding python3_mock to osx,https://github.com/ros/rosdistro/pull/36798,1.0,merged,contributor,CursedRock17,2023-04-12T01:10:08Z,2023-04-23T08:08:50Z,A.2,No modifications found
+rosdistro,ros,Add rosdep rules for python3-fpdf2-pip,https://github.com/ros/rosdistro/pull/36762,3.0,merged,contributor,Goldob,2023-04-11T14:39:30Z,2023-05-03T20:12:40Z,A.1,No modifications found
+rosdistro,ros,Cleanup rosdep rules for long EOL Ubuntu and Debian distros,https://github.com/ros/rosdistro/pull/36755,2.0,merged,contributor,tfoote,2023-04-11T07:16:11Z,2023-04-14T19:16:04Z,No classification found,No modifications found
+rosdistro,ros,Adding libdw to osx,https://github.com/ros/rosdistro/pull/36753,2.0,merged,contributor,CursedRock17,2023-04-11T05:16:53Z,2023-05-15T17:01:31Z,A.2,lint
+rosdistro,ros,Added range-v3 to OSX,https://github.com/ros/rosdistro/pull/36752,0.0,merged,contributor,CursedRock17,2023-04-11T04:31:23Z,2023-05-03T21:12:09Z,A.2,lint
+rosdistro,ros,Added python3-typeguard to OSX,https://github.com/ros/rosdistro/pull/36751,1.0,merged,contributor,CursedRock17,2023-04-11T03:55:52Z,2023-04-18T14:42:45Z,A.2,lint
+rosdistro,ros,Adding fmt on osx,https://github.com/ros/rosdistro/pull/36750,2.0,merged,contributor,CursedRock17,2023-04-11T03:31:17Z,2023-05-15T17:00:17Z,A.2,lint
+rosdistro,ros,Adding Python3 to OSX,https://github.com/ros/rosdistro/pull/36747,1.0,merged,contributor,CursedRock17,2023-04-10T20:40:50Z,2023-05-15T16:54:21Z,A.2,lint
+rosdistro,ros,Add debian bookworm packages,https://github.com/ros/rosdistro/pull/36714,2.0,merged,contributor,mosfet80,2023-04-06T07:35:48Z,2023-05-15T16:57:40Z,A.2,A.2
+rosdistro,ros,Add more dependencies of ceres-solver for Fedora/RHEL,https://github.com/ros/rosdistro/pull/36704,0.0,merged,contributor,cottsay,2023-04-05T00:05:32Z,2023-04-06T14:23:51Z,B.1,No modifications found
+rosdistro,ros,Add clang to python3-qt5-bindings rule for RHEL 9,https://github.com/ros/rosdistro/pull/36612,1.0,merged,contributor,cottsay,2023-03-27T19:34:31Z,2023-03-28T15:13:26Z,B.1,No modifications found
+rosdistro,ros,Adding libqwt-qt5-dev key for RHEL 8 and 9,https://github.com/ros/rosdistro/pull/36603,0.0,merged,contributor,ayrton04,2023-03-27T10:37:18Z,2023-03-27T18:55:39Z,A.2,lint
+rosdistro,ros,Adding python3-ntplib in rhel 8,https://github.com/ros/rosdistro/pull/36591,4.0,closed_without_merge,contributor,ct2034,2023-03-24T14:25:34Z,2023-03-26T16:33:45Z,B.1,No modifications found
+rosdistro,ros,[python.yaml] add pip package pypdf,https://github.com/ros/rosdistro/pull/36590,4.0,merged,contributor,tlipps,2023-03-24T14:16:44Z,2023-04-04T15:09:50Z,A.1,B.2
+rosdistro,ros,add lilypond to rosdep/base.yaml,https://github.com/ros/rosdistro/pull/36561,4.0,merged,contributor,Juphex,2023-03-22T16:22:22Z,2023-03-31T00:25:44Z,A.1,A.2
+rosdistro,ros,Use PySide/Shiboken for RHEL 9 instead of PyQt/sip,https://github.com/ros/rosdistro/pull/36497,0.0,merged,contributor,cottsay,2023-03-16T21:37:26Z,2023-03-17T17:19:47Z,B.1,B.1
+rosdistro,ros,Add libvtk9-dev rule,https://github.com/ros/rosdistro/pull/36474,0.0,merged,contributor,sloretz,2023-03-14T23:05:50Z,2023-03-16T18:21:06Z,A.1,No modifications found
+rosdistro,ros,Update python-bottle definition for ubuntu focal,https://github.com/ros/rosdistro/pull/36469,1.0,merged,contributor,jibweb,2023-03-14T14:10:30Z,2023-03-16T18:16:56Z,B.1,lint
+rosdistro,ros,Add matio entry for RHEL,https://github.com/ros/rosdistro/pull/36451,4.0,merged,contributor,wxmerkt,2023-03-13T22:14:29Z,2023-03-13T22:37:24Z,A.2,B.1
+rosdistro,ros,Segno has to be added as a pip package for focal and bionic,https://github.com/ros/rosdistro/pull/36417,2.0,merged,contributor,gv11181989,2023-03-08T08:28:50Z,2023-03-13T17:57:20Z,A.2,No modifications found
+rosdistro,ros,Add base rules for paho-mqtt-c and paho-mqtt-cpp,https://github.com/ros/rosdistro/pull/36406,2.0,merged,contributor,lreiher,2023-03-06T20:28:30Z,2023-05-16T14:27:22Z,A.1,lint
+rosdistro,ros,Add python3-ultralytics-pip,https://github.com/ros/rosdistro/pull/36324,0.0,merged,contributor,martinandrovich,2023-02-27T12:37:48Z,2023-03-06T18:28:01Z,A.1,lint
+rosdistro,ros,Add several rules for Debian Bookworm,https://github.com/ros/rosdistro/pull/36300,3.0,merged,contributor,cottsay,2023-02-24T18:49:16Z,2023-02-24T21:51:02Z,A.2,lint
+rosdistro,ros,Adding python3-ntplib,https://github.com/ros/rosdistro/pull/36290,0.0,merged,contributor,ct2034,2023-02-24T11:24:02Z,2023-03-06T18:56:13Z,A.1,B.1
+rosdistro,ros,Add python3-construct rule for RHEL,https://github.com/ros/rosdistro/pull/36262,0.0,merged,contributor,cottsay,2023-02-22T00:32:53Z,2023-03-06T18:25:38Z,A.2,No modifications found
+rosdistro,ros,Add gz-transport-12 for Ubuntu,https://github.com/ros/rosdistro/pull/36242,4.0,closed_without_merge,contributor,Ryanf55,2023-02-20T15:35:37Z,2023-02-23T05:49:23Z,A.1,No modifications found
+rosdistro,ros,Add apa102-pi in 'rosdep/python.yaml',https://github.com/ros/rosdistro/pull/36222,1.0,merged,contributor,Kotochleb,2023-02-17T12:29:09Z,2023-02-21T13:59:36Z,A.1,No modifications found
+rosdistro,ros,add libsimde-dev into base yaml,https://github.com/ros/rosdistro/pull/36216,7.0,merged,contributor,wep21,2023-02-16T16:14:57Z,2023-02-17T16:59:43Z,A.1,lint
+rosdistro,ros,"Revert ""Add apa102-pi in 'rosdep/python.yaml'""",https://github.com/ros/rosdistro/pull/36206,0.0,merged,contributor,mjcarroll,2023-02-15T20:37:43Z,2023-02-15T20:51:08Z,No classification found,No modifications found
+rosdistro,ros,Adding rosdep rule for python3-pymap3d,https://github.com/ros/rosdistro/pull/36164,4.0,merged,contributor,pariaspe,2023-02-14T15:37:42Z,2023-02-21T13:57:28Z,"A.1, B.2","B.2, A.2, B.1"
+rosdistro,ros,Ubuntu jammy entry for python3-udev,https://github.com/ros/rosdistro/pull/36076,7.0,merged,contributor,boilerbots,2023-02-09T01:39:46Z,2023-02-21T13:56:25Z,No classification found,No modifications found
+rosdistro,ros,Add python3-sshtunnel,https://github.com/ros/rosdistro/pull/36071,5.0,merged,contributor,tlipps,2023-02-08T16:05:32Z,2023-02-10T18:09:03Z,A.1,"B.2, A.2, B.1"
+rosdistro,ros,Added python3-open3d via .deb package,https://github.com/ros/rosdistro/pull/36052,1.0,merged,contributor,esteve,2023-02-07T12:35:28Z,2023-02-10T18:12:58Z,A.1,No modifications found
+rosdistro,ros,Add apa102-pi in 'rosdep/python.yaml',https://github.com/ros/rosdistro/pull/36045,3.0,merged,contributor,Kotochleb,2023-02-06T13:12:28Z,2023-02-15T20:08:26Z,No classification found,No modifications found
+rosdistro,ros,Add python3-inject-pip alias,https://github.com/ros/rosdistro/pull/36031,0.0,merged,contributor,igor-markovic,2023-02-02T04:28:00Z,2023-02-15T13:18:56Z,No classification found,No modifications found
+rosdistro,ros,rosdep: python3-catkin-sphinx: Add Buster APT version,https://github.com/ros/rosdistro/pull/36030,2.0,merged,contributor,peci1,2023-02-02T01:02:14Z,2023-02-10T03:13:01Z,B.2,No modifications found
+rosdistro,ros,rosdep: catkin_sphinx: Fix rosdep pip keys,https://github.com/ros/rosdistro/pull/36029,1.0,closed_without_merge,contributor,peci1,2023-02-02T00:50:51Z,2023-02-02T00:53:57Z,B.1,No modifications found
+rosdistro,ros,add rosdep package libadolc-dev,https://github.com/ros/rosdistro/pull/36016,2.0,merged,contributor,yakunouyang,2023-02-01T12:08:05Z,2023-02-21T13:56:00Z,A.1,A.2
+rosdistro,ros,[rosdep] add paramiko-pip,https://github.com/ros/rosdistro/pull/35984,1.0,closed_without_merge,contributor,pgehring,2023-01-30T13:11:46Z,2023-01-30T18:36:26Z,A.1,No modifications found
+rosdistro,ros,added python3-gtsam-pip to rosdep python,https://github.com/ros/rosdistro/pull/35940,2.0,closed_without_merge,contributor,mklpiening,2023-01-25T12:48:22Z,2023-02-22T14:14:03Z,A.1,No modifications found
+rosdistro,ros,"Add python3-catkin-sphinx, stop offering the python2 version on focal+",https://github.com/ros/rosdistro/pull/35931,3.0,merged,contributor,peci1,2023-01-24T05:04:35Z,2023-01-31T15:59:03Z,A.1,A.2
+rosdistro,ros,Add rosdep keys for latest gz support libs,https://github.com/ros/rosdistro/pull/35930,1.0,closed_without_merge,contributor,TrevorGibson-SR,2023-01-24T01:52:02Z,2023-02-02T19:24:04Z,A.1,No modifications found
+rosdistro,ros,feature: add pyjwt to python.yaml,https://github.com/ros/rosdistro/pull/35908,4.0,closed_without_merge,contributor,ChrisPaliqaw,2023-01-22T17:44:21Z,2023-03-30T18:20:10Z,A.1,No modifications found
+rosdistro,ros,Adding nanoflann lib to rosdep now that it is available,https://github.com/ros/rosdistro/pull/35852,10.0,merged,contributor,SteveMacenski,2023-01-14T00:35:48Z,2023-01-30T13:50:18Z,A.1,B.1
+rosdistro,ros,Added package python-mistune,https://github.com/ros/rosdistro/pull/35838,1.0,merged,contributor,peci1,2023-01-12T04:52:48Z,2023-01-18T14:26:11Z,A.1,No modifications found
+rosdistro,ros,rosdep: Added m2r package,https://github.com/ros/rosdistro/pull/35827,13.0,merged,contributor,peci1,2023-01-11T15:03:57Z,2023-06-05T14:52:18Z,A.1,"B.2, B.1"
+rosdistro,ros,python3-cbor2: in rosdep/python.yaml,https://github.com/ros/rosdistro/pull/35815,1.0,merged,contributor,azymohliad,2023-01-10T16:23:08Z,2023-01-26T01:25:45Z,A.1,B.2
+rosdistro,ros,Add libboost-coroutine(-dev) to rosdep,https://github.com/ros/rosdistro/pull/35789,2.0,merged,contributor,BartKeulen,2023-01-09T09:54:53Z,2023-02-21T13:54:07Z,A.1,"A.2, B.1"
+rosdistro,ros,Added openai python,https://github.com/ros/rosdistro/pull/35708,2.0,merged,contributor,davesarmoury,2022-12-28T20:38:57Z,2023-01-18T15:09:09Z,A.1,lint
+rosdistro,ros,Add python3-parse,https://github.com/ros/rosdistro/pull/35688,7.0,merged,contributor,ggorjup,2022-12-21T11:09:15Z,2023-01-04T13:43:37Z,A.1,A.2
+rosdistro,ros,Add python3-reportlab key,https://github.com/ros/rosdistro/pull/35671,2.0,merged,contributor,MatthijsBurgh,2022-12-19T15:36:23Z,2022-12-22T13:43:52Z,A.1,"A.2, B.1"
+rosdistro,ros,Add python3-transformers-pip,https://github.com/ros/rosdistro/pull/35657,1.0,merged,contributor,greinet,2022-12-15T09:50:29Z,2023-01-06T23:17:59Z,A.1,lint
+rosdistro,ros,Add transforms3d for Jammy,https://github.com/ros/rosdistro/pull/35597,0.0,merged,contributor,vatanaksoytezer,2022-12-09T19:55:42Z,2022-12-12T15:59:22Z,No classification found,No modifications found
+rosdistro,ros,add python3-qrcode key to python.yaml,https://github.com/ros/rosdistro/pull/35519,0.0,merged,contributor,p-panagiotidis,2022-12-02T08:34:35Z,2022-12-07T15:09:04Z,A.1,"A.2, B.1"
+rosdistro,ros,python3-deprecated added to rosdep dependencies,https://github.com/ros/rosdistro/pull/35491,1.0,merged,contributor,gv11181989,2022-12-01T09:25:51Z,2023-01-18T18:41:04Z,A.1,A.2
+rosdistro,ros,Add python3-flake8-import-order rules for RHEL,https://github.com/ros/rosdistro/pull/35489,1.0,merged,contributor,cottsay,2022-11-30T23:53:09Z,2022-12-07T00:46:27Z,A.2,No modifications found
+rosdistro,ros,Add several python3 packages,https://github.com/ros/rosdistro/pull/35458,1.0,merged,contributor,fbaygul,2022-11-29T15:03:41Z,2022-11-30T23:56:20Z,A.1,"A.2, B.1"
+rosdistro,ros,Add intel-opencl-icd,https://github.com/ros/rosdistro/pull/35453,1.0,merged,contributor,5730289021-NN,2022-11-29T09:26:44Z,2022-12-21T23:24:23Z,A.1,"A.2, B.1"
+rosdistro,ros,Add geojson and kml2geojson pip packages,https://github.com/ros/rosdistro/pull/35438,0.0,merged,contributor,igor-markovic,2022-11-28T02:53:14Z,2022-11-29T22:01:25Z,A.1,B.2
+rosdistro,ros,Add python3-libgpiod,https://github.com/ros/rosdistro/pull/35420,1.0,merged,contributor,mjbogusz,2022-11-25T12:18:21Z,2022-11-29T21:59:56Z,A.1,B.1
+rosdistro,ros,Add libmbedtls-dev,https://github.com/ros/rosdistro/pull/35387,1.0,merged,contributor,5730289021-NN,2022-11-22T08:40:41Z,2022-11-22T18:29:59Z,A.1,No modifications found
+rosdistro,ros,Add socat entry for rhel,https://github.com/ros/rosdistro/pull/35374,1.0,merged,contributor,fmauch,2022-11-19T20:43:44Z,2022-11-22T17:57:58Z,A.2,No modifications found
+rosdistro,ros,Add spconv python package rosdep keys,https://github.com/ros/rosdistro/pull/35337,5.0,closed_without_merge,contributor,JWhitleyWork,2022-11-15T23:31:29Z,2023-01-24T14:36:24Z,A.1,No modifications found
+rosdistro,ros,Add python3-graphviz to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/35326,1.0,merged,contributor,frankkusters,2022-11-15T14:37:34Z,2022-11-16T17:44:23Z,"A.1, B.2","A.2, B.1"
+rosdistro,ros,rosdep: added dependencies for openembedded:,https://github.com/ros/rosdistro/pull/35302,5.0,merged,contributor,DasRoteSkelett,2022-11-14T10:49:39Z,2022-11-16T17:41:02Z,A.2,No modifications found
+rosdistro,ros,add modular pcl packages for ubuntu and debian,https://github.com/ros/rosdistro/pull/35289,9.0,merged,contributor,Aposhian,2022-11-11T21:08:02Z,2022-11-29T13:22:00Z,A.1,"A.2, B.1"
+rosdistro,ros,add ubuntu focal to python-yaml deps,https://github.com/ros/rosdistro/pull/35284,4.0,merged,contributor,ufrhaidar,2022-11-11T01:35:31Z,2022-11-18T10:11:12Z,A.2,"B.2, B.1"
+rosdistro,ros,Add rosdep keys for flake8 plugins in Jammy.,https://github.com/ros/rosdistro/pull/35197,0.0,merged,contributor,nuclearsandwich,2022-11-04T22:20:20Z,2022-11-10T20:28:18Z,A.1,"A.2, B.1"
+rosdistro,ros,add gentoo package for libatomic,https://github.com/ros/rosdistro/pull/35193,0.0,merged,contributor,tomkimsour,2022-11-04T07:42:58Z,2022-11-08T01:15:38Z,A.2,B.1
+rosdistro,ros,Add more fine-grained libpcl-* packages (in addition to ...,https://github.com/ros/rosdistro/pull/35137,10.0,closed_without_merge,contributor,mvieth,2022-11-02T16:20:42Z,2022-11-22T13:45:03Z,A.1,No modifications found
+rosdistro,ros,Added Python bindings for MARISA (trie implementation),https://github.com/ros/rosdistro/pull/35110,0.0,merged,contributor,peci1,2022-10-31T14:44:09Z,2022-11-03T03:26:57Z,A.1,No modifications found
+rosdistro,ros,"Adding rosros to noetic and foxy, and to rosdep/python",https://github.com/ros/rosdistro/pull/35107,1.0,closed_without_merge,contributor,suurjaak,2022-10-30T19:26:26Z,2022-11-29T21:40:54Z,A.1,No modifications found
+rosdistro,ros,Add python-box,https://github.com/ros/rosdistro/pull/35106,4.0,merged,contributor,RFRIEDM-Trimble,2022-10-30T14:28:10Z,2022-11-03T03:28:33Z,A.1,"A.2, B.1"
+rosdistro,ros,"Add Cycler, Easydict, Kiwisolver, THOP, Fonttools and Typing-extensions ",https://github.com/ros/rosdistro/pull/35007,1.0,merged,contributor,usamex,2022-10-21T10:38:47Z,2022-10-24T18:21:57Z,A.1,A.2
+rosdistro,ros,update Libdc1394-dev for newer Ubuntu releases,https://github.com/ros/rosdistro/pull/34978,1.0,merged,contributor,FranekStark,2022-10-17T16:09:06Z,2022-10-20T13:25:26Z,B.1,lint
+rosdistro,ros,Added python3-munkres,https://github.com/ros/rosdistro/pull/34963,2.0,merged,contributor,belorenz,2022-10-14T13:17:38Z,2022-11-23T02:15:52Z,A.1,A.2
+rosdistro,ros,Add python3-ezdxf rule for Fedora,https://github.com/ros/rosdistro/pull/34956,1.0,merged,contributor,cottsay,2022-10-13T18:53:56Z,2022-10-17T15:13:46Z,A.2,No modifications found
+rosdistro,ros,Add mono-complete rule for Fedora,https://github.com/ros/rosdistro/pull/34952,2.0,merged,contributor,cottsay,2022-10-13T18:39:31Z,2022-10-17T15:15:51Z,A.2,No modifications found
+rosdistro,ros,Add libuv-dev rule for Fedroa,https://github.com/ros/rosdistro/pull/34947,1.0,closed_without_merge,contributor,cottsay,2022-10-13T18:31:22Z,2022-10-18T01:15:20Z,A.2,No modifications found
+rosdistro,ros,Add python3-fabric-pip to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/34904,2.0,closed_without_merge,contributor,airballking,2022-10-11T12:27:14Z,2022-11-15T21:58:30Z,A.1,No modifications found
+rosdistro,ros,libtiff-dev exists in the generic on all supported platforms,https://github.com/ros/rosdistro/pull/34886,1.0,merged,contributor,tfoote,2022-10-11T01:21:56Z,2022-10-11T21:08:51Z,No classification found,No modifications found
+rosdistro,ros,Add apt pkg libespeak-ng1,https://github.com/ros/rosdistro/pull/34853,0.0,merged,contributor,gStewartAtUpower,2022-10-06T19:01:26Z,2022-10-11T11:36:10Z,A.1,A.2
+rosdistro,ros,Add python-dev rules for RHEL,https://github.com/ros/rosdistro/pull/34831,0.0,merged,contributor,cottsay,2022-10-05T20:06:19Z,2022-10-11T11:35:16Z,A.2,No modifications found
+rosdistro,ros,Add python3-ruamel.yaml rules for Fedora and RHEL,https://github.com/ros/rosdistro/pull/34818,0.0,merged,contributor,cottsay,2022-10-05T17:55:02Z,2022-10-11T18:19:50Z,A.2,No modifications found
+rosdistro,ros,Add python3-rosinstall-generator rules for Fedora and RHEL,https://github.com/ros/rosdistro/pull/34817,0.0,merged,contributor,cottsay,2022-10-05T17:52:06Z,2022-10-17T15:04:26Z,A.2,No modifications found
+rosdistro,ros,range-v3 for rhel,https://github.com/ros/rosdistro/pull/34797,6.0,merged,contributor,tylerjw,2022-10-04T21:17:30Z,2022-10-05T15:55:36Z,A.2,No modifications found
+rosdistro,ros,nixos: Add missing packages,https://github.com/ros/rosdistro/pull/34796,0.0,merged,contributor,kjeremy,2022-10-04T20:22:12Z,2022-10-11T11:32:00Z,A.2,B.1
+rosdistro,ros,Add python3 ujson to ubuntu focal,https://github.com/ros/rosdistro/pull/34786,1.0,merged,contributor,jknofe,2022-10-04T12:44:14Z,2022-10-06T14:21:08Z,A.1,A.2
+rosdistro,ros,Add python3-pystemd rules for Fedora and RHEL,https://github.com/ros/rosdistro/pull/34772,1.0,merged,contributor,cottsay,2022-10-03T23:06:26Z,2022-10-05T14:02:06Z,A.2,No modifications found
+rosdistro,ros,Added python3-rich-pip,https://github.com/ros/rosdistro/pull/34756,0.0,closed_without_merge,contributor,asasine,2022-10-03T21:35:17Z,2022-10-04T19:15:17Z,A.1,No modifications found
+rosdistro,ros,Add psutil-pip,https://github.com/ros/rosdistro/pull/34739,2.0,closed_without_merge,contributor,igor-markovic,2022-10-03T04:41:31Z,2022-10-03T13:26:05Z,A.1,No modifications found
+rosdistro,ros,Add pip packages that mycroft requires to python.yaml,https://github.com/ros/rosdistro/pull/34703,0.0,merged,contributor,gStewartAtUpower,2022-09-30T01:56:31Z,2022-10-03T12:53:21Z,A.1,B.2
+rosdistro,ros,Add python3-mako rule,https://github.com/ros/rosdistro/pull/34616,3.0,merged,contributor,zflat,2022-09-22T16:52:49Z,2022-09-29T23:43:58Z,A.1,"A.2, B.1"
+rosdistro,ros,Update base.yaml for debian:bullseye,https://github.com/ros/rosdistro/pull/34571,3.0,closed_without_merge,contributor,mosfet80,2022-09-15T13:07:13Z,2022-09-19T17:19:45Z,A.2,No modifications found
+rosdistro,ros,Add jax and jaxlib mapping,https://github.com/ros/rosdistro/pull/34558,4.0,closed_without_merge,contributor,halejo-as,2022-09-14T12:16:42Z,2022-11-15T21:56:20Z,A.1,No modifications found
+rosdistro,ros,add python-flask-sqlalchemy key to python.yaml,https://github.com/ros/rosdistro/pull/34462,0.0,merged,contributor,p-panagiotidis,2022-09-13T11:38:03Z,2022-09-20T22:26:58Z,A.1,A.2
+rosdistro,ros,Closes #34332,https://github.com/ros/rosdistro/pull/34443,1.0,merged,contributor,DLu,2022-09-12T14:03:00Z,2022-09-20T22:16:11Z,A.2,B.1
+rosdistro,ros,Add python3-git for rhel,https://github.com/ros/rosdistro/pull/34442,3.0,merged,contributor,DLu,2022-09-12T13:59:03Z,2022-09-20T22:16:46Z,A.2,B.1
+rosdistro,ros,Update cookiecutter for jammy and bionic python3,https://github.com/ros/rosdistro/pull/34433,5.0,merged,contributor,JafarAbdi,2022-09-12T08:55:00Z,2022-10-13T00:37:05Z,A.1,"A.2, B.1"
+rosdistro,ros,"Add aravis-0.8 for ubuntu 22.04 ""jammy""",https://github.com/ros/rosdistro/pull/34313,0.0,merged,contributor,shawndooley,2022-09-02T14:51:29Z,2022-09-07T18:34:13Z,A.2,B.1
+rosdistro,ros,Add typeguard-pip to python.yaml,https://github.com/ros/rosdistro/pull/34293,0.0,merged,contributor,InigoMoreno,2022-09-01T10:28:54Z,2022-09-07T18:34:46Z,A.1,lint
+rosdistro,ros,adding xsimd to rosdistro,https://github.com/ros/rosdistro/pull/34273,8.0,merged,contributor,SteveMacenski,2022-08-30T22:26:50Z,2022-09-07T20:37:28Z,A.1,A.2
+rosdistro,ros,Add libnl-route-3 to libnl-3,https://github.com/ros/rosdistro/pull/34254,3.0,merged,contributor,Nkyoku,2022-08-30T03:17:56Z,2022-09-01T00:50:03Z,B.1,A.2
+rosdistro,ros,add colcon-meson,https://github.com/ros/rosdistro/pull/34253,14.0,merged,contributor,christianrauch,2022-08-29T20:22:07Z,2022-10-04T01:40:34Z,A.1,B.2
+rosdistro,ros,Update sparsehash os,https://github.com/ros/rosdistro/pull/34250,5.0,merged,contributor,DangitBen,2022-08-29T17:37:31Z,2022-08-30T02:59:25Z,No classification found,No modifications found
+rosdistro,ros,Add qtpy for rhel,https://github.com/ros/rosdistro/pull/34247,0.0,merged,contributor,hellantos,2022-08-29T16:01:29Z,2022-09-26T12:57:44Z,A.2,"A.2, B.1"
+rosdistro,ros,Add python3 pyqt5 package,https://github.com/ros/rosdistro/pull/34246,0.0,merged,contributor,hellantos,2022-08-29T15:41:10Z,2022-09-28T16:41:01Z,A.1,A.2
+rosdistro,ros,Add python3 pyside2 key,https://github.com/ros/rosdistro/pull/34243,4.0,merged,contributor,hellantos,2022-08-29T14:55:45Z,2022-09-10T00:27:50Z,A.1,"A.2, B.1"
+rosdistro,ros,add python3-breathe dep,https://github.com/ros/rosdistro/pull/34205,0.0,merged,contributor,giusebar,2022-08-24T10:19:46Z,2022-08-25T17:47:52Z,A.1,A.2
+rosdistro,ros,[dep]Adding libao-dev,https://github.com/ros/rosdistro/pull/34204,0.0,merged,contributor,KanayaNakamura,2022-08-24T07:23:56Z,2022-08-25T17:48:47Z,A.1,A.2
+rosdistro,ros,Add sparkfun_ublox_gps,https://github.com/ros/rosdistro/pull/34200,0.0,merged,contributor,willcbaker,2022-08-23T17:57:43Z,2022-08-25T13:00:28Z,A.1,No modifications found
+rosdistro,ros,Add gz keys for Gazebo Citadel and Fortress,https://github.com/ros/rosdistro/pull/34177,5.0,merged,contributor,chapulina,2022-08-17T22:37:19Z,2022-09-02T22:50:36Z,A.1,No modifications found
+rosdistro,ros,Added K4A mapping for Azure Kinect SDK debian packages,https://github.com/ros/rosdistro/pull/34170,2.0,closed_without_merge,contributor,progtologist,2022-08-16T17:13:27Z,2022-08-16T17:45:11Z,A.1,No modifications found
+rosdistro,ros,Added statistics and sbp modules,https://github.com/ros/rosdistro/pull/34093,0.0,merged,contributor,jacksongeritz,2022-08-09T01:40:06Z,2022-08-12T22:11:45Z,A.1,lint
+rosdistro,ros,add python-gobject,https://github.com/ros/rosdistro/pull/33996,2.0,merged,contributor,k-okada,2022-07-28T14:24:08Z,2022-08-11T19:01:23Z,A.1,"A.2, B.1"
+rosdistro,ros,Adding python3 bitstring,https://github.com/ros/rosdistro/pull/33988,1.0,merged,contributor,mr337,2022-07-27T20:25:41Z,2022-08-10T20:33:59Z,A.1,B.1
+rosdistro,ros,python3-typeguard,https://github.com/ros/rosdistro/pull/33894,0.0,merged,contributor,tylerjw,2022-07-18T19:01:46Z,2022-07-26T19:04:03Z,A.1,A.2
+rosdistro,ros,nixos: use pythonPackages.pybind11 instead of pybind11,https://github.com/ros/rosdistro/pull/33877,1.0,merged,contributor,lopsided98,2022-07-17T04:02:50Z,2022-07-21T17:57:47Z,B.1,No modifications found
+rosdistro,ros,Update libjsoncpp version for Ubuntu Jammy in rosdep/base.yaml,https://github.com/ros/rosdistro/pull/33824,0.0,merged,contributor,ksuszka,2022-07-12T09:31:02Z,2022-07-14T00:51:30Z,B.1,lint
+rosdistro,ros,add freetype-dev,https://github.com/ros/rosdistro/pull/33810,0.0,merged,contributor,ijnek,2022-07-10T03:25:28Z,2022-07-13T16:11:30Z,A.1,B.1
+rosdistro,ros,fix python-dateutil for ubuntu jammy,https://github.com/ros/rosdistro/pull/33791,3.0,merged,contributor,Scout22,2022-07-06T16:27:57Z,2022-08-01T18:09:24Z,A.1,"A.2, B.1"
+rosdistro,ros,Adds  liblmdb-dev and librtaudio-dev entries to rosdep,https://github.com/ros/rosdistro/pull/33788,0.0,merged,contributor,marioney,2022-07-06T12:41:26Z,2022-07-07T23:36:33Z,A.1,A.2
+rosdistro,ros,Add python3-river-pip,https://github.com/ros/rosdistro/pull/33783,0.0,merged,contributor,amasciotta,2022-07-05T10:15:24Z,2022-07-07T23:37:41Z,A.1,No modifications found
+rosdistro,ros,Add aiortc,https://github.com/ros/rosdistro/pull/33726,0.0,merged,contributor,Interpause,2022-06-28T08:21:53Z,2022-07-14T23:59:47Z,A.1,B.2
+rosdistro,ros,add: python-multimethod,https://github.com/ros/rosdistro/pull/33717,0.0,merged,contributor,hsgwa,2022-06-27T09:37:45Z,2022-06-30T13:09:53Z,A.1,lint
+rosdistro,ros,Add libabsl-dev for nixos,https://github.com/ros/rosdistro/pull/33699,0.0,merged,contributor,kjeremy,2022-06-24T18:28:50Z,2022-06-27T17:12:54Z,A.2,No modifications found
+rosdistro,ros,add: python-colorcet,https://github.com/ros/rosdistro/pull/33681,0.0,merged,contributor,hsgwa,2022-06-24T06:30:58Z,2022-07-01T13:31:48Z,A.1,B.2
+rosdistro,ros,Add robodk-pip,https://github.com/ros/rosdistro/pull/33679,0.0,merged,contributor,rshanor,2022-06-23T23:53:56Z,2022-06-30T12:48:28Z,A.1,lint
+rosdistro,ros,Add and update Archlinux keys.,https://github.com/ros/rosdistro/pull/33678,0.0,merged,contributor,nuclearsandwich,2022-06-23T22:11:45Z,2022-06-30T18:29:36Z,"A.2, B.1",B.1
+rosdistro,ros,Added arch references for clang,https://github.com/ros/rosdistro/pull/33516,3.0,merged,contributor,Souritra-Garai,2022-06-09T15:19:15Z,2022-06-30T16:31:52Z,A.2,lint
+rosdistro,ros,add libopen3d-dev,https://github.com/ros/rosdistro/pull/33405,0.0,merged,contributor,wep21,2022-05-29T06:03:39Z,2022-06-01T17:20:28Z,A.1,lint
+rosdistro,ros,Add libfreeimage keys.,https://github.com/ros/rosdistro/pull/33403,1.0,merged,contributor,clalancette,2022-05-27T16:02:22Z,2022-06-01T17:22:10Z,A.1,A.2
+rosdistro,ros,Add RHEL 8 rule for python3-scp,https://github.com/ros/rosdistro/pull/33266,0.0,merged,contributor,cottsay,2022-05-18T04:02:06Z,2022-05-20T22:50:10Z,A.2,No modifications found
+rosdistro,ros,[emoji] Add pip emoji package,https://github.com/ros/rosdistro/pull/33248,3.0,merged,contributor,tkmtnt7000,2022-05-17T13:52:37Z,2022-05-20T22:04:58Z,A.1,B.2
+rosdistro,ros,add flite key in rosdep/base.yaml,https://github.com/ros/rosdistro/pull/33225,0.0,merged,contributor,knorth55,2022-05-14T09:40:49Z,2022-05-20T22:04:07Z,A.1,A.2
+rosdistro,ros,rosdep keys used by noetic on Ubuntu 22.04,https://github.com/ros/rosdistro/pull/33110,5.0,merged,contributor,dreuter,2022-05-09T16:22:59Z,2022-05-23T16:43:27Z,"A.2, B.1","A.2, B.1"
+rosdistro,ros,Please add the following dependency to the rosdep database.,https://github.com/ros/rosdistro/pull/33106,2.0,merged,contributor,jspricke,2022-05-09T09:11:28Z,2022-05-17T01:31:02Z,A.1,A.2
+rosdistro,ros,Add in a rosdep key for python3-transforms3d.,https://github.com/ros/rosdistro/pull/33091,4.0,merged,contributor,clalancette,2022-05-06T13:11:15Z,2022-05-17T17:49:19Z,"A.1, B.2","B.2, A.2, B.1"
+rosdistro,ros,Feature/python scipy debian,https://github.com/ros/rosdistro/pull/33070,4.0,closed_without_merge,contributor,RFRIEDM-Trimble,2022-05-05T03:12:38Z,2022-05-07T04:21:49Z,No classification found,No modifications found
+rosdistro,ros,"Add python3 google-auth-*-pip, python3-oauth2client",https://github.com/ros/rosdistro/pull/33017,7.0,merged,contributor,mqcmd196,2022-05-03T08:11:37Z,2022-08-11T19:05:30Z,A.1,"B.2, A.2"
+rosdistro,ros,Add odrive pip package,https://github.com/ros/rosdistro/pull/32910,2.0,merged,contributor,igor-markovic,2022-04-27T01:58:10Z,2022-05-02T22:24:17Z,A.1,No modifications found
+rosdistro,ros,Add python3-sysv-ipc package,https://github.com/ros/rosdistro/pull/32898,1.0,merged,contributor,meganetaaan,2022-04-26T06:19:05Z,2022-05-03T19:01:55Z,A.1,B.2
+rosdistro,ros,[google-cloud-pubsub] add pip google cloud pubsub package,https://github.com/ros/rosdistro/pull/32897,0.0,merged,contributor,mqcmd196,2022-04-26T05:35:39Z,2022-04-28T16:57:35Z,A.1,No modifications found
+rosdistro,ros,"add python3-kivy, python3-marshmallow-dataclass-pip and python3-tables to to rosdep/python.yaml",https://github.com/ros/rosdistro/pull/32876,2.0,merged,contributor,3473f,2022-04-25T12:36:25Z,2022-04-29T22:49:28Z,A.1,B.2
+rosdistro,ros,Ignition Fortress rosdep keys for Jammy,https://github.com/ros/rosdistro/pull/32838,1.0,merged,contributor,chapulina,2022-04-21T00:15:18Z,2022-04-22T19:40:33Z,"A.2, A.1",lint
+rosdistro,ros,Add python3 jsonschema rosdep,https://github.com/ros/rosdistro/pull/32810,1.0,No classification found,contributor,marcoag,2022-04-20T09:46:23Z,2022-04-22T23:17:23Z,A.2,No modifications found
+rosdistro,ros,add rosdep key: pickleDB,https://github.com/ros/rosdistro/pull/32792,0.0,merged,contributor,zhtroy,2022-04-18T08:22:22Z,2022-04-22T22:51:32Z,A.1,lint
+rosdistro,ros,rosdep keys to build ignition from source on Ubuntu Jammy,https://github.com/ros/rosdistro/pull/32787,3.0,closed_without_merge,contributor,ijnek,2022-04-16T09:14:18Z,2022-04-25T12:17:07Z,A.2,No modifications found
+rosdistro,ros,Add python3-pysnmp,https://github.com/ros/rosdistro/pull/32780,0.0,merged,contributor,ghost,2022-04-14T16:59:15Z,2022-04-19T17:09:05Z,A.1,A.2
+rosdistro,ros,add python3-jmespath key to python.yaml,https://github.com/ros/rosdistro/pull/32748,0.0,merged,contributor,skalkoto,2022-04-13T11:52:20Z,2022-04-14T14:59:13Z,A.1,No modifications found
+rosdistro,ros,[dep] python*-elasticsearch,https://github.com/ros/rosdistro/pull/32702,0.0,merged,contributor,130s,2022-04-08T14:50:31Z,2022-04-14T14:33:17Z,A.1,B.1
+rosdistro,ros,newly added python3-pre-commit-pip,https://github.com/ros/rosdistro/pull/32698,6.0,merged,contributor,SubaruArai,2022-04-08T02:03:18Z,2022-04-12T09:27:54Z,A.1,B.2
+rosdistro,ros,Add pylatexenc-pip rosdep key,https://github.com/ros/rosdistro/pull/32683,4.0,merged,contributor,wxmerkt,2022-04-06T21:24:46Z,2022-04-14T14:37:18Z,A.1,B.2
+rosdistro,ros,add openhsi to the rosdistro,https://github.com/ros/rosdistro/pull/32533,0.0,merged,contributor,hakuturu583,2022-03-26T14:02:48Z,2022-04-04T20:29:53Z,A.1,B.1
+rosdistro,ros,arch: add missing deps for ros_core distro,https://github.com/ros/rosdistro/pull/32532,0.0,merged,contributor,russkel,2022-03-26T04:20:11Z,2022-03-30T12:10:54Z,A.2,No modifications found
+rosdistro,ros,add pytyhon3.8-venv package,https://github.com/ros/rosdistro/pull/32509,2.0,closed_without_merge,contributor,k-okada,2022-03-24T10:28:12Z,2022-03-29T14:29:21Z,A.1,No modifications found
+rosdistro,ros,add python3-transitions rosdep key,https://github.com/ros/rosdistro/pull/32508,5.0,merged,contributor,zhtroy,2022-03-24T06:58:07Z,2022-04-12T01:10:43Z,A.1,lint
+rosdistro,ros,adding xtensor to rosdep,https://github.com/ros/rosdistro/pull/32499,5.0,merged,contributor,SteveMacenski,2022-03-21T20:37:42Z,2022-03-23T20:57:51Z,A.1,B.1
+rosdistro,ros,Add Gazebo classic rosdep keys for Jammy,https://github.com/ros/rosdistro/pull/32481,5.0,merged,contributor,chapulina,2022-03-18T16:16:04Z,2022-03-25T13:53:19Z,"A.2, A.1",A.2
+rosdistro,ros,Update gurumdds rosdep key for jammy,https://github.com/ros/rosdistro/pull/32470,3.0,merged,contributor,YoungJin-gurum,2022-03-17T03:38:12Z,2022-05-02T16:53:29Z,A.2,lint
+rosdistro,ros,Add bluerobotics-ping-pip,https://github.com/ros/rosdistro/pull/32469,0.0,merged,contributor,Rezenders,2022-03-16T16:34:47Z,2022-03-30T12:00:52Z,A.1,A.2
+rosdistro,ros,Add python3-nlopt to python.yaml,https://github.com/ros/rosdistro/pull/32430,0.0,merged,contributor,knzo25,2022-03-10T10:09:35Z,2022-03-23T18:18:12Z,A.1,B.1
+rosdistro,ros,Added python-munkres-pip to python.yaml,https://github.com/ros/rosdistro/pull/32428,3.0,closed_without_merge,contributor,belorenz,2022-03-09T11:53:56Z,2022-04-14T14:38:25Z,A.1,No modifications found
+rosdistro,ros,Add python3-pyside2-pip to python.yaml,https://github.com/ros/rosdistro/pull/32418,2.0,closed_without_merge,contributor,knzo25,2022-03-08T04:58:46Z,2022-03-08T08:46:24Z,A.1,No modifications found
+rosdistro,ros,add rosdep key for python3-schema,https://github.com/ros/rosdistro/pull/32384,4.0,merged,contributor,bbferka,2022-03-03T22:44:43Z,2022-03-14T19:00:46Z,A.1,A.2
+rosdistro,ros,"add libgazebo-dev for bullseye, jammy",https://github.com/ros/rosdistro/pull/32308,6.0,closed_without_merge,contributor,wep21,2022-02-27T20:19:45Z,2022-03-01T16:50:04Z,A.1,No modifications found
+rosdistro,ros,Add onnxruntime and onnxruntime-gpu pip targets,https://github.com/ros/rosdistro/pull/32307,0.0,merged,contributor,MatthijsBurgh,2022-02-26T09:06:39Z,2022-03-01T14:42:16Z,A.1,No modifications found
+rosdistro,ros,"fix: update libgmock-dev key for bullseye, jammy",https://github.com/ros/rosdistro/pull/32306,0.0,merged,contributor,wep21,2022-02-26T09:04:59Z,2022-03-02T21:31:17Z,A.2,B.1
+rosdistro,ros,Add python3-numba,https://github.com/ros/rosdistro/pull/32274,1.0,merged,contributor,garb4ge,2022-02-23T08:01:23Z,2022-02-23T20:55:58Z,A.1,lint
+rosdistro,ros,"Add python3-moderngl-pip, python3-scipy-pip, python3-objloader-pip",https://github.com/ros/rosdistro/pull/32272,2.0,closed_without_merge,contributor,bcbuckles,2022-02-22T16:52:39Z,2022-03-23T18:13:09Z,A.1,No modifications found
+rosdistro,ros,Add gnome-terminal to base.yaml,https://github.com/ros/rosdistro/pull/32259,0.0,merged,contributor,sktometometo,2022-02-21T10:39:06Z,2022-02-23T18:19:49Z,A.1,A.2
+rosdistro,ros,Add a new rosdep key for abseil.,https://github.com/ros/rosdistro/pull/32226,1.0,merged,contributor,clalancette,2022-02-17T20:58:37Z,2022-02-22T19:02:54Z,A.1,A.2
+rosdistro,ros,Adding python3-socketio rosdep rule,https://github.com/ros/rosdistro/pull/32175,1.0,merged,contributor,marcoag,2022-02-15T14:00:36Z,2022-02-23T18:27:32Z,A.1,"A.2, B.1"
+rosdistro,ros,Use python3-scipy on ROS Noetic/Debian Buster,https://github.com/ros/rosdistro/pull/32113,1.0,closed_without_merge,contributor,rgov,2022-02-09T18:57:17Z,2022-02-10T21:40:30Z,B.1,No modifications found
+rosdistro,ros,Add python3-wrapt to python.yaml,https://github.com/ros/rosdistro/pull/32091,2.0,merged,contributor,knzo25,2022-02-08T03:31:22Z,2022-02-10T21:12:45Z,A.1,A.2
+rosdistro,ros,Add rti-connext-dds-6.0.1 which is now in the ROS bootstrap repositories,https://github.com/ros/rosdistro/pull/32045,1.0,merged,contributor,nuclearsandwich,2022-02-04T21:19:12Z,2022-02-07T17:10:22Z,A.1,No modifications found
+rosdistro,ros,Add python-modbus-pip to python.yaml ,https://github.com/ros/rosdistro/pull/32010,4.0,merged,contributor,tgaspar,2022-02-02T11:58:33Z,2022-02-15T00:46:00Z,A.1,lint
+rosdistro,ros,Add rhino3dm pypi package,https://github.com/ros/rosdistro/pull/32006,2.0,closed_without_merge,contributor,Gaspard-Bourgeois,2022-02-01T14:24:06Z,2022-02-22T22:09:52Z,A.1,No modifications found
+rosdistro,ros,Add python3-xdot,https://github.com/ros/rosdistro/pull/32004,0.0,merged,contributor,Timple,2022-02-01T10:52:28Z,2022-02-08T21:56:11Z,A.1,A.2
+rosdistro,ros,Add python3-gi-cairo,https://github.com/ros/rosdistro/pull/32002,1.0,merged,contributor,Timple,2022-02-01T10:28:58Z,2022-02-04T20:13:11Z,A.1,A.2
+rosdistro,ros,extend rosdep rule for open3d pip package in python.yaml,https://github.com/ros/rosdistro/pull/31995,9.0,merged,contributor,bbferka,2022-01-31T22:10:29Z,2022-02-23T18:14:20Z,B.1,B.1
+rosdistro,ros,Add python3-pyside2.qtquick to python.yaml,https://github.com/ros/rosdistro/pull/31932,4.0,merged,contributor,knzo25,2022-01-27T08:56:39Z,2022-02-08T21:52:05Z,A.1,A.2
+rosdistro,ros,Add python3-geographiclib to python.yaml,https://github.com/ros/rosdistro/pull/31929,1.0,merged,contributor,xydesa,2022-01-26T18:10:14Z,2022-02-02T16:22:57Z,A.1,A.2
+rosdistro,ros,Add webargs and Flask-JWT-Extended,https://github.com/ros/rosdistro/pull/31735,0.0,merged,contributor,ardabbour,2022-01-11T16:48:25Z,2022-01-20T18:32:32Z,A.1,B.2
+rosdistro,ros,Update wxwidgets key.,https://github.com/ros/rosdistro/pull/31699,3.0,merged,contributor,nuclearsandwich,2022-01-06T23:43:31Z,2022-01-20T18:38:53Z,"A.2, B.1",B.1
+rosdistro,ros,Update gurumdds rosdep keys.,https://github.com/ros/rosdistro/pull/31697,1.0,merged,contributor,nuclearsandwich,2022-01-06T23:33:17Z,2022-01-07T16:06:47Z,A.1,No modifications found
+rosdistro,ros,Update openvdb rosdep key version for Buster,https://github.com/ros/rosdistro/pull/31654,0.0,merged,contributor,SteveMacenski,2022-01-03T20:16:52Z,2022-01-05T16:00:28Z,"A.2, B.1",A.2
+rosdistro,ros,Add pip Installation for fastapi and uvicorn,https://github.com/ros/rosdistro/pull/31624,4.0,merged,contributor,youliangtan,2021-12-29T04:46:18Z,2022-03-01T14:55:18Z,A.1,B.2
+rosdistro,ros,Add python3-googleapi Rule,https://github.com/ros/rosdistro/pull/31623,3.0,merged,contributor,connoranderson,2021-12-29T04:36:00Z,2022-01-12T17:55:08Z,A.2,"A.2, B.1"
+rosdistro,ros,Update python-googleapi Version,https://github.com/ros/rosdistro/pull/31621,2.0,closed_without_merge,contributor,connoranderson,2021-12-29T00:06:07Z,2021-12-29T01:51:28Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add Pip Installation Option for Networkx,https://github.com/ros/rosdistro/pull/31620,2.0,closed_without_merge,contributor,connoranderson,2021-12-28T23:39:24Z,2022-01-07T15:41:06Z,A.1,No modifications found
+rosdistro,ros,Add RHEL 8 rule for lcov,https://github.com/ros/rosdistro/pull/31615,0.0,merged,contributor,cottsay,2021-12-27T23:29:08Z,2022-01-05T16:09:48Z,A.2,No modifications found
+rosdistro,ros,Parse Alpine package alias names in rosdep_repo_check,https://github.com/ros/rosdistro/pull/31565,11.0,merged,contributor,at-wat,2021-12-23T08:29:22Z,2022-06-24T17:51:58Z,No classification found,No modifications found
+rosdistro,ros,Add tesseract-ocr-jpn language package,https://github.com/ros/rosdistro/pull/31564,0.0,merged,contributor,iory,2021-12-23T08:01:17Z,2021-12-24T05:43:36Z,A.1,A.2
+rosdistro,ros,Update rosdep_repo_check targets.,https://github.com/ros/rosdistro/pull/31563,1.0,merged,contributor,nuclearsandwich,2021-12-23T04:53:47Z,2021-12-24T18:53:07Z,No classification found,No modifications found
+rosdistro,ros,Updates to libpcl keys,https://github.com/ros/rosdistro/pull/31561,1.0,merged,contributor,nuclearsandwich,2021-12-23T04:24:12Z,2022-01-06T23:35:42Z,"A.2, B.1",lint
+rosdistro,ros,Update gazebo keys.,https://github.com/ros/rosdistro/pull/31560,3.0,closed_without_merge,contributor,nuclearsandwich,2021-12-23T04:08:08Z,2022-04-13T21:59:54Z,"A.2, B.1",No modifications found
+rosdistro,ros,Update boost keys for Debian and Ubuntu.,https://github.com/ros/rosdistro/pull/31559,1.0,merged,contributor,nuclearsandwich,2021-12-23T04:01:07Z,2022-01-06T23:18:30Z,"A.2, B.1",A.2
+rosdistro,ros,Update python-numpy key.,https://github.com/ros/rosdistro/pull/31552,2.0,merged,contributor,nuclearsandwich,2021-12-22T19:51:39Z,2021-12-23T04:51:04Z,No classification found,No modifications found
+rosdistro,ros,Add python-staticmap-pip and python3-staticmap-pip to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/31527,2.0,merged,contributor,sktometometo,2021-12-21T11:34:54Z,2022-01-28T01:27:24Z,A.1,lint
+rosdistro,ros,Rosdep rule for pytz package in Python 3: python3-tz.,https://github.com/ros/rosdistro/pull/31523,2.0,merged,contributor,airballking,2021-12-20T20:24:01Z,2022-01-05T16:21:20Z,A.1,A.2
+rosdistro,ros,ply for python3 (distribution packages),https://github.com/ros/rosdistro/pull/31512,3.0,merged,contributor,christianrauch,2021-12-18T19:09:43Z,2022-01-05T16:22:57Z,A.1,A.2
+rosdistro,ros,add msr-tools dep,https://github.com/ros/rosdistro/pull/31511,1.0,merged,contributor,turniphead,2021-12-17T23:31:19Z,2022-01-05T16:23:36Z,A.1,A.2
+rosdistro,ros,Adding OpenVDB to rhel for Galactic release of STVL,https://github.com/ros/rosdistro/pull/31488,5.0,merged,contributor,SteveMacenski,2021-12-15T20:15:05Z,2021-12-15T23:14:46Z,A.2,B.1
+rosdistro,ros,feat: update python3-ifcfg key,https://github.com/ros/rosdistro/pull/31482,2.0,closed_without_merge,contributor,wep21,2021-12-15T17:27:02Z,2022-01-06T11:37:58Z,A.2,No modifications found
+rosdistro,ros,Add nuscenes-devkit,https://github.com/ros/rosdistro/pull/31455,2.0,merged,contributor,wep21,2021-12-13T04:19:28Z,2021-12-15T15:14:40Z,A.1,lint
+rosdistro,ros,Add qml-module-qt-labs-settings,https://github.com/ros/rosdistro/pull/31454,5.0,merged,contributor,wep21,2021-12-13T02:54:53Z,2021-12-16T18:28:19Z,A.1,No modifications found
+rosdistro,ros,Add qml-module-qt-labs-folderlistmodel,https://github.com/ros/rosdistro/pull/31453,2.0,merged,contributor,wep21,2021-12-13T02:52:49Z,2021-12-15T15:13:35Z,A.1,No modifications found
+rosdistro,ros,Add python3-pyqt5.qtquick,https://github.com/ros/rosdistro/pull/31452,2.0,merged,contributor,wep21,2021-12-13T02:44:36Z,2021-12-15T15:06:23Z,A.1,No modifications found
+rosdistro,ros,add python-rdflib on ubuntu focal,https://github.com/ros/rosdistro/pull/31444,2.0,closed_without_merge,contributor,McModknower,2021-12-11T16:57:05Z,2021-12-29T17:31:06Z,B.1,No modifications found
+rosdistro,ros,add python-dt-apriltags-pip dependency for ubuntu,https://github.com/ros/rosdistro/pull/31432,0.0,merged,contributor,turniphead,2021-12-09T20:05:41Z,2021-12-15T14:57:21Z,A.1,A.2
+rosdistro,ros,Add python3-dubins-pip,https://github.com/ros/rosdistro/pull/31412,4.0,merged,contributor,teddyort,2021-12-08T00:25:23Z,2021-12-21T19:01:44Z,A.1,A.2
+rosdistro,ros,"Add pip keys for: cvxpy, gurobipy, glpk",https://github.com/ros/rosdistro/pull/31402,3.0,merged,contributor,wxmerkt,2021-12-07T13:52:37Z,2021-12-16T18:31:33Z,A.1,No modifications found
+rosdistro,ros,add gnutls,https://github.com/ros/rosdistro/pull/31394,7.0,merged,contributor,christianrauch,2021-12-06T23:43:26Z,2021-12-10T16:46:50Z,A.1,lint
+rosdistro,ros,add meson,https://github.com/ros/rosdistro/pull/31392,19.0,merged,contributor,christianrauch,2021-12-06T22:52:59Z,2021-12-29T17:48:52Z,A.1,lint
+rosdistro,ros,added python3-pytrinamic-pip to /rosdep/python.yaml,https://github.com/ros/rosdistro/pull/31348,1.0,merged,contributor,eugenkaltenegger,2021-12-01T17:05:58Z,2021-12-09T18:46:30Z,A.1,A.2
+rosdistro,ros,"Add rules for libcurl{,-dev}",https://github.com/ros/rosdistro/pull/31301,0.0,merged,contributor,cottsay,2021-11-25T02:50:23Z,2021-11-30T18:40:46Z,A.1,No modifications found
+rosdistro,ros,Misc fixes for Fedora rules,https://github.com/ros/rosdistro/pull/31300,0.0,merged,contributor,cottsay,2021-11-24T19:19:28Z,2021-12-08T17:38:10Z,B.1,No modifications found
+rosdistro,ros,Clean up missing RHEL packages,https://github.com/ros/rosdistro/pull/31293,1.0,merged,contributor,cottsay,2021-11-23T20:53:17Z,2021-12-07T17:28:49Z,"A.2, B.1",lint
+rosdistro,ros,Clean up RHEL and Fedora rules (Round 1),https://github.com/ros/rosdistro/pull/31292,1.0,closed_without_merge,contributor,cottsay,2021-11-23T18:33:43Z,2021-11-23T18:59:33Z,B.1,No modifications found
+rosdistro,ros,add libcamera,https://github.com/ros/rosdistro/pull/31273,9.0,closed_without_merge,contributor,christianrauch,2021-11-18T23:04:44Z,2021-12-10T22:04:02Z,A.1,No modifications found
+rosdistro,ros,[rosdep] add python3-sila2lib-pip,https://github.com/ros/rosdistro/pull/31263,0.0,merged,contributor,fmessmer,2021-11-18T16:37:39Z,2021-12-01T18:10:12Z,A.1,A.2
+rosdistro,ros,[dep] deepdiff-pip for Python3,https://github.com/ros/rosdistro/pull/31204,1.0,merged,contributor,130s,2021-11-12T14:47:21Z,2021-11-22T19:58:07Z,A.1,"A.2, B.1, B.2"
+rosdistro,ros,Add python3-qwt,https://github.com/ros/rosdistro/pull/31201,0.0,merged,contributor,mabelzhang,2021-11-12T09:37:45Z,2021-11-24T03:36:16Z,A.1,lint
+rosdistro,ros,Added libtins-dev as rosdep key,https://github.com/ros/rosdistro/pull/31154,0.0,merged,contributor,frapit,2021-11-08T09:49:09Z,2021-11-11T13:57:19Z,A.1,A.2
+rosdistro,ros,add libext2fs-dev package,https://github.com/ros/rosdistro/pull/31151,1.0,merged,contributor,amfern,2021-11-08T08:37:55Z,2021-11-11T13:56:32Z,A.1,lint
+rosdistro,ros,"add python-google api bionic, focal support",https://github.com/ros/rosdistro/pull/31124,0.0,merged,contributor,mqcmd196,2021-11-04T08:50:22Z,2021-12-09T16:25:50Z,"A.2, A.1",A.2
+rosdistro,ros,Add pigpiod,https://github.com/ros/rosdistro/pull/31111,2.0,closed_without_merge,contributor,felixdivo,2021-11-02T18:04:32Z,2021-11-11T13:53:15Z,A.1,No modifications found
+rosdistro,ros,rosdep: add python-igraph to rosdep pip,https://github.com/ros/rosdistro/pull/31038,1.0,closed_without_merge,contributor,duaneenorris,2021-10-22T15:36:53Z,2021-11-03T14:29:21Z,A.1,No modifications found
+rosdistro,ros,Added rosdep rule for libmsgsl-dev,https://github.com/ros/rosdistro/pull/31013,0.0,merged,contributor,Yuki-cpp,2021-10-19T06:49:54Z,2021-10-30T00:16:00Z,A.1,A.2
+rosdistro,ros,Rpi gpio python3 support,https://github.com/ros/rosdistro/pull/31004,1.0,closed_without_merge,contributor,greg-burgess,2021-10-18T15:20:44Z,2021-11-11T13:47:48Z,A.1,No modifications found
+rosdistro,ros,Add rosdep rules for python3-fiona,https://github.com/ros/rosdistro/pull/30990,0.0,merged,contributor,cottsay,2021-10-14T20:42:44Z,2021-11-02T00:04:21Z,A.1,No modifications found
+rosdistro,ros,Fix some macOS dependencies,https://github.com/ros/rosdistro/pull/30975,5.0,merged,contributor,kneep,2021-10-13T03:54:44Z,2021-11-11T13:47:02Z,"A.2, B.1",A.2
+rosdistro,ros,add pylibdmtx,https://github.com/ros/rosdistro/pull/30967,2.0,merged,contributor,alexMilmore,2021-10-11T10:55:59Z,2021-12-07T23:34:05Z,A.1,"B.2, B.1"
+rosdistro,ros,Add python3-funcsigs to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/30940,0.0,merged,contributor,InigoMoreno,2021-10-07T15:11:33Z,2021-10-11T17:30:55Z,A.1,B.1
+rosdistro,ros,add aravis-tools to rosdep,https://github.com/ros/rosdistro/pull/30935,0.0,merged,contributor,sgermanserrano,2021-10-07T08:40:13Z,2021-10-27T17:17:08Z,B.1,B.1
+rosdistro,ros,[dep] systemd,https://github.com/ros/rosdistro/pull/30901,4.0,merged,contributor,130s,2021-10-01T17:41:42Z,2021-10-27T16:38:29Z,A.1,A.2
+rosdistro,ros,Add rosdep key for libboost-numpy-dev,https://github.com/ros/rosdistro/pull/30871,1.0,merged,contributor,Earthwings,2021-09-27T10:07:50Z,2021-09-29T02:23:53Z,A.1,No modifications found
+rosdistro,ros,base.yaml add e2fsprogs,https://github.com/ros/rosdistro/pull/30769,4.0,merged,contributor,amfern,2021-09-13T08:55:46Z,2021-10-07T13:03:59Z,A.1,B.1
+rosdistro,ros,Adding python2 and 3 J1939 library,https://github.com/ros/rosdistro/pull/30763,2.0,merged,contributor,mr337,2021-09-11T20:00:48Z,2021-09-24T16:29:05Z,A.1,lint
+rosdistro,ros,Add  libwebsockets-dev to base.yaml,https://github.com/ros/rosdistro/pull/30761,0.0,merged,contributor,ardabbour,2021-09-10T07:08:44Z,2021-09-21T18:34:41Z,A.1,A.2
+rosdistro,ros,Add python3-pytest-asyncio to rosdep,https://github.com/ros/rosdistro/pull/30756,0.0,merged,contributor,ivanpauno,2021-09-09T19:26:31Z,2021-09-10T05:28:57Z,A.1,B.1
+rosdistro,ros,Add python3 falcon,https://github.com/ros/rosdistro/pull/30751,3.0,merged,contributor,fmauch,2021-09-09T12:29:52Z,2021-09-13T08:19:11Z,A.1,lint
+rosdistro,ros,rosdep: add libmnl-dev,https://github.com/ros/rosdistro/pull/30680,2.0,merged,contributor,yotabits,2021-09-02T10:34:31Z,2021-09-09T17:27:27Z,A.1,A.2
+rosdistro,ros,rosdep: add rhel package for clang,https://github.com/ros/rosdistro/pull/30612,0.0,merged,contributor,JEnoch,2021-08-31T10:27:48Z,2021-09-03T23:07:50Z,A.2,lint
+rosdistro,ros,nixos: Add python3-pip,https://github.com/ros/rosdistro/pull/30590,1.0,merged,contributor,kjeremy,2021-08-28T17:11:13Z,2021-09-02T17:06:50Z,A.2,lint
+rosdistro,ros,nixos: Add some missing packages,https://github.com/ros/rosdistro/pull/30589,7.0,merged,contributor,kjeremy,2021-08-28T17:08:34Z,2021-09-02T16:14:02Z,A.2,No modifications found
+rosdistro,ros,add libqt5-serialport-dev key to provide build headers,https://github.com/ros/rosdistro/pull/30586,4.0,merged,contributor,zflat,2021-08-27T21:11:07Z,2021-09-02T16:09:18Z,"A.2, A.1",A.2
+rosdistro,ros,Add fil_finder to python.yaml,https://github.com/ros/rosdistro/pull/30577,0.0,merged,contributor,bullerbeck,2021-08-26T08:32:33Z,2021-09-03T22:02:01Z,A.1,lint
+rosdistro,ros,Add weasyprint to python.yaml,https://github.com/ros/rosdistro/pull/30576,1.0,merged,contributor,bullerbeck,2021-08-26T08:06:01Z,2021-09-03T22:01:38Z,A.1,lint
+rosdistro,ros,Add astropy to python.yaml,https://github.com/ros/rosdistro/pull/30575,1.0,merged,contributor,bullerbeck,2021-08-26T07:53:08Z,2021-09-03T22:00:57Z,A.1,lint
+rosdistro,ros,Add filetype to python.yaml,https://github.com/ros/rosdistro/pull/30574,2.0,merged,contributor,bullerbeck,2021-08-26T07:40:20Z,2021-09-06T13:17:49Z,A.1,lint
+rosdistro,ros,Adding python3 support for RPi.GPIO,https://github.com/ros/rosdistro/pull/30565,6.0,closed_without_merge,contributor,greg-burgess,2021-08-24T21:18:56Z,2021-10-07T12:58:16Z,A.1,No modifications found
+rosdistro,ros,Add python3-sounddevice-pip to rosdep,https://github.com/ros/rosdistro/pull/30505,0.0,merged,contributor,mykolasjuraitis,2021-08-18T11:32:40Z,2021-08-31T19:45:56Z,A.1,lint
+rosdistro,ros,Add rqt_paramedit to documentation index for melodic,https://github.com/ros/rosdistro/pull/30475,0.0,merged,contributor,dornhege,2021-08-12T14:12:38Z,2021-08-25T17:53:00Z,No classification found,No modifications found
+rosdistro,ros,Add python3-mediapipe-pip,https://github.com/ros/rosdistro/pull/30474,4.0,merged,contributor,viktorlorentz,2021-08-12T13:21:42Z,2021-09-02T16:04:54Z,A.1,lint
+rosdistro,ros,Add python3-spidev-pip to rosdep,https://github.com/ros/rosdistro/pull/30455,2.0,merged,contributor,RyanHir,2021-08-10T23:00:07Z,2021-08-14T00:14:00Z,A.1,No modifications found
+rosdistro,ros,Add python3-gpiozero to rosdep,https://github.com/ros/rosdistro/pull/30454,2.0,merged,contributor,RyanHir,2021-08-10T18:26:18Z,2021-08-14T00:38:46Z,A.1,B.1
+rosdistro,ros,Added dcraw for most common distributions,https://github.com/ros/rosdistro/pull/30451,0.0,merged,contributor,mbFARO,2021-08-10T12:14:57Z,2021-08-16T20:30:42Z,A.1,A.2
+rosdistro,ros,python3-pyproj-pip: add dep,https://github.com/ros/rosdistro/pull/30436,1.0,closed_without_merge,contributor,russkel,2021-08-09T01:53:00Z,2021-08-11T00:12:51Z,A.1,No modifications found
+rosdistro,ros,add v4l-utils rhel key,https://github.com/ros/rosdistro/pull/30435,6.0,merged,contributor,flynneva,2021-08-08T15:49:45Z,2021-08-14T01:57:10Z,A.2,B.1
+rosdistro,ros,Add python-monotonic,https://github.com/ros/rosdistro/pull/30409,8.0,merged,contributor,Timple,2021-08-05T07:42:57Z,2021-08-25T14:27:44Z,A.1,A.2
+rosdistro,ros,[dep] inxi,https://github.com/ros/rosdistro/pull/30395,2.0,merged,contributor,130s,2021-08-03T20:01:17Z,2021-08-06T02:05:14Z,A.1,A.2
+rosdistro,ros,Add python3-gdal rosdep rule.,https://github.com/ros/rosdistro/pull/30394,0.0,merged,contributor,rolker,2021-08-03T16:27:03Z,2021-09-29T21:29:17Z,A.1,A.2
+rosdistro,ros,[python] Adding python3 of pynmea2,https://github.com/ros/rosdistro/pull/30358,2.0,merged,contributor,mr337,2021-07-30T17:58:28Z,2021-08-25T17:30:39Z,A.1,"B.2, B.1"
+rosdistro,ros,[Python] Voluptous Python 3,https://github.com/ros/rosdistro/pull/30345,7.0,merged,contributor,mr337,2021-07-28T23:21:28Z,2021-08-11T16:24:15Z,A.1,"A.2, B.1"
+rosdistro,ros,added yolov5 to rosdep python.yaml,https://github.com/ros/rosdistro/pull/30319,0.0,merged,contributor,chrissisura,2021-07-23T12:23:46Z,2021-07-26T19:40:01Z,A.1,No modifications found
+rosdistro,ros,Added python3-smbus rosdep,https://github.com/ros/rosdistro/pull/30314,1.0,merged,contributor,rohbotics,2021-07-22T22:59:52Z,2021-07-27T17:02:57Z,A.1,B.1
+rosdistro,ros,Add roslibpy-pip,https://github.com/ros/rosdistro/pull/30310,0.0,merged,contributor,F1iX,2021-07-22T13:41:54Z,2021-07-26T19:49:13Z,A.1,No modifications found
+rosdistro,ros,Feature/python3 simplejpeg,https://github.com/ros/rosdistro/pull/30308,1.0,merged,contributor,hakuturu583,2021-07-22T06:51:02Z,2021-08-11T15:24:57Z,A.1,lint
+rosdistro,ros,Add focal entry to python-gdal rosdep rule.,https://github.com/ros/rosdistro/pull/30211,1.0,closed_without_merge,contributor,rolker,2021-07-14T16:52:38Z,2021-07-27T18:46:12Z,A.2,No modifications found
+rosdistro,ros,Added python3 joblib as a rosdep,https://github.com/ros/rosdistro/pull/30170,2.0,merged,contributor,rohbotics,2021-07-12T20:57:19Z,2021-07-14T00:34:16Z,A.1,A.2
+rosdistro,ros,rosdep: add opencascade,https://github.com/ros/rosdistro/pull/30112,2.0,merged,contributor,malban,2021-07-05T03:41:48Z,2021-07-06T15:20:03Z,A.1,A.2
+rosdistro,ros,Update python-gdal key for focal and bullseye.,https://github.com/ros/rosdistro/pull/30056,0.0,merged,contributor,nuclearsandwich,2021-06-29T15:06:33Z,2021-06-30T15:39:00Z,No classification found,No modifications found
+rosdistro,ros,python-gdal key not found in ubuntu 20.04 error,https://github.com/ros/rosdistro/pull/30038,3.0,closed_without_merge,contributor,knorth55,2021-06-26T13:27:59Z,2021-06-29T15:37:50Z,No classification found,No modifications found
+rosdistro,ros,alpine: deps for galactic - patch 1,https://github.com/ros/rosdistro/pull/30037,4.0,merged,contributor,russkel,2021-06-26T13:22:53Z,2021-07-20T18:48:06Z,A.2,No modifications found
+rosdistro,ros,add python3-gdown-pip,https://github.com/ros/rosdistro/pull/30036,3.0,merged,contributor,knorth55,2021-06-26T12:51:07Z,2021-06-30T16:35:49Z,A.1,No modifications found
+rosdistro,ros,add python3-chainer-pip key,https://github.com/ros/rosdistro/pull/30035,2.0,merged,contributor,knorth55,2021-06-26T12:48:26Z,2021-06-30T15:37:37Z,A.1,No modifications found
+rosdistro,ros,add python3-fcn-pip key,https://github.com/ros/rosdistro/pull/30034,3.0,merged,contributor,knorth55,2021-06-26T12:43:33Z,2021-06-30T15:37:12Z,A.1,No modifications found
+rosdistro,ros,[rosdep] Add rhel key for subversion,https://github.com/ros/rosdistro/pull/30023,0.0,merged,contributor,JWhitleyWork,2021-06-24T17:13:32Z,2021-06-25T04:36:34Z,A.2,No modifications found
+rosdistro,ros,rosdep: add python3-smc-pip,https://github.com/ros/rosdistro/pull/30012,2.0,merged,contributor,XDGFX,2021-06-23T14:49:56Z,2021-06-24T13:28:25Z,A.1,No modifications found
+rosdistro,ros,add python3-prompt-toolkit to rosdep,https://github.com/ros/rosdistro/pull/29994,3.0,merged,contributor,ipa-fez,2021-06-22T11:59:49Z,2021-06-29T15:40:34Z,A.1,B.1
+rosdistro,ros,Remove gentoo pip rosdep entries,https://github.com/ros/rosdistro/pull/29948,1.0,merged,contributor,mabelzhang,2021-06-17T18:01:44Z,2021-06-22T16:36:29Z,No classification found,No modifications found
+rosdistro,ros,python.yaml updates for openSUSE (1 of 11),https://github.com/ros/rosdistro/pull/29935,0.0,merged,contributor,neotinker,2021-06-17T07:03:26Z,2021-06-29T17:35:57Z,"A.2, B.1",No modifications found
+rosdistro,ros,Added libfl.,https://github.com/ros/rosdistro/pull/29862,1.0,merged,contributor,kogut,2021-06-11T19:17:51Z,2021-06-16T19:08:26Z,A.1,"A.2, B.1"
+rosdistro,ros,rosdep: add python3-pydbus package,https://github.com/ros/rosdistro/pull/29822,1.0,merged,contributor,dandedrick,2021-06-09T15:07:20Z,2021-06-18T18:44:11Z,A.1,A.2
+rosdistro,ros,Add python3 pyftpdlib,https://github.com/ros/rosdistro/pull/29821,1.0,merged,contributor,fmessmer,2021-06-09T15:06:45Z,2021-06-18T23:59:07Z,A.1,A.2
+rosdistro,ros,Add vulkan keys for RHEL 8,https://github.com/ros/rosdistro/pull/29809,1.0,merged,contributor,JWhitleyWork,2021-06-08T20:02:54Z,2021-06-14T18:10:44Z,A.2,B.1
+rosdistro,ros,Add spirv-headers and spirv-tools keys for rhel,https://github.com/ros/rosdistro/pull/29808,1.0,merged,contributor,JWhitleyWork,2021-06-08T18:53:23Z,2021-06-14T18:10:19Z,A.2,B.1
+rosdistro,ros,Add python-absl-py-pip to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/29805,0.0,merged,contributor,ykawamura96,2021-06-08T16:26:15Z,2021-06-16T19:05:46Z,A.1,lint
+rosdistro,ros,Add rosdep rules for git-lfs package,https://github.com/ros/rosdistro/pull/29778,1.0,merged,contributor,708yamaguchi,2021-06-05T06:06:15Z,2021-06-16T23:57:17Z,A.1,B.1
+rosdistro,ros,rosdep: nixos: use SIP 4,https://github.com/ros/rosdistro/pull/29721,0.0,merged,contributor,lopsided98,2021-05-30T18:29:29Z,2021-06-05T03:58:37Z,B.1,No modifications found
+rosdistro,ros,Add python3-networkmanager to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/29703,1.0,merged,contributor,furushchev,2021-05-28T06:42:03Z,2021-06-23T14:33:36Z,A.1,A.2
+rosdistro,ros,base.yaml updates for openSUSE (5 of 6),https://github.com/ros/rosdistro/pull/29663,1.0,merged,contributor,neotinker,2021-05-25T14:36:23Z,2021-06-05T00:33:47Z,"A.2, B.1","A.2, B.1"
+rosdistro,ros,base.yaml updates for openSUSE (4 of 6),https://github.com/ros/rosdistro/pull/29642,0.0,merged,contributor,neotinker,2021-05-24T14:43:56Z,2021-05-25T04:13:21Z,"A.2, B.1",No modifications found
+rosdistro,ros,base.yaml updates for openSUSE (3 of 6),https://github.com/ros/rosdistro/pull/29641,2.0,merged,contributor,neotinker,2021-05-24T14:36:33Z,2021-05-25T02:57:34Z,"A.2, B.1",No modifications found
+rosdistro,ros,base.yaml updates for openSUSE (2 of 6),https://github.com/ros/rosdistro/pull/29640,0.0,merged,contributor,neotinker,2021-05-24T14:28:42Z,2021-05-25T02:44:48Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add mpfr,https://github.com/ros/rosdistro/pull/29620,1.0,merged,contributor,tomlankhorst,2021-05-21T08:03:43Z,2021-05-25T04:11:45Z,A.1,A.2
+rosdistro,ros,Add glpk,https://github.com/ros/rosdistro/pull/29619,1.0,merged,contributor,tomlankhorst,2021-05-21T07:57:26Z,2021-05-25T04:11:24Z,A.1,A.2
+rosdistro,ros,Add virtualserialports to python.yaml,https://github.com/ros/rosdistro/pull/29587,3.0,merged,contributor,ggaessler,2021-05-20T09:15:06Z,2021-06-17T16:14:32Z,A.1,B.1
+rosdistro,ros,Update default gazebo version on debian buster to 11,https://github.com/ros/rosdistro/pull/29578,3.0,merged,contributor,StefanFabian,2021-05-19T16:07:34Z,2021-05-20T17:53:48Z,B.1,No modifications found
+rosdistro,ros,add haproxy to rosdep/base.yaml,https://github.com/ros/rosdistro/pull/29571,2.0,merged,contributor,mqcmd196,2021-05-19T02:09:32Z,2021-05-20T06:49:58Z,A.1,A.2
+rosdistro,ros,rosdep: OpenEmbedded updates,https://github.com/ros/rosdistro/pull/29534,5.0,merged,contributor,shr-project,2021-05-15T12:35:29Z,2021-06-23T14:03:08Z,A.2,No modifications found
+rosdistro,ros,Add python3-mlflow to rosdep,https://github.com/ros/rosdistro/pull/29514,2.0,merged,contributor,n-meunier,2021-05-13T00:59:10Z,2021-05-21T20:33:44Z,A.1,B.2
+rosdistro,ros,Add flake8 plugins to python.yaml,https://github.com/ros/rosdistro/pull/29508,2.0,merged,contributor,kenji-miyake,2021-05-12T15:55:44Z,2021-05-14T18:07:04Z,A.1,No modifications found
+rosdistro,ros,nixos: replace deprecated aliases,https://github.com/ros/rosdistro/pull/29496,2.0,merged,contributor,lopsided98,2021-05-12T00:50:16Z,2021-05-20T18:13:38Z,B.1,lint
+rosdistro,ros,base.yaml updates for openSUSE  (1 of 6),https://github.com/ros/rosdistro/pull/29494,3.0,merged,contributor,neotinker,2021-05-11T16:30:57Z,2021-05-21T21:34:58Z,"A.2, B.1",No modifications found
+rosdistro,ros,Gstreamer,https://github.com/ros/rosdistro/pull/29459,2.0,merged,contributor,neotinker,2021-05-07T14:50:22Z,2021-05-11T16:10:36Z,A.2,B.1
+rosdistro,ros,Boost for OpenSUSE,https://github.com/ros/rosdistro/pull/29458,2.0,merged,contributor,neotinker,2021-05-07T14:48:52Z,2021-05-11T14:40:51Z,"A.2, B.1",No modifications found
+rosdistro,ros,Adds pygit2 python package rule,https://github.com/ros/rosdistro/pull/29431,0.0,merged,contributor,rickstaa,2021-05-05T16:17:47Z,2021-05-07T21:12:01Z,A.1,"A.2, B.1"
+rosdistro,ros,[rosdep] Adding jupyros,https://github.com/ros/rosdistro/pull/29426,1.0,merged,contributor,FSund,2021-05-05T09:36:56Z,2021-05-07T21:28:44Z,A.1,lint
+rosdistro,ros,[rosdep] Adding aio-pika to rosdep,https://github.com/ros/rosdistro/pull/29423,2.0,merged,contributor,FSund,2021-05-05T09:26:20Z,2021-05-07T21:29:17Z,A.1,lint
+rosdistro,ros,Add stable baselines,https://github.com/ros/rosdistro/pull/29404,2.0,closed_without_merge,contributor,rickstaa,2021-05-04T13:01:21Z,2021-05-05T07:46:01Z,A.1,No modifications found
+rosdistro,ros,Add python3-pyside2.qtuitools,https://github.com/ros/rosdistro/pull/29381,1.0,merged,contributor,lFatality,2021-05-02T18:29:43Z,2021-05-04T20:30:26Z,A.1,B.1
+rosdistro,ros,Fix opende rule for Fedora,https://github.com/ros/rosdistro/pull/29380,0.0,merged,contributor,cottsay,2021-05-02T17:31:16Z,2021-05-04T17:56:45Z,B.1,No modifications found
+rosdistro,ros,add pip package environs in 'rosdep/python.yaml',https://github.com/ros/rosdistro/pull/29356,2.0,merged,contributor,yanrayw,2021-04-28T04:09:49Z,2021-05-04T17:43:01Z,A.1,A.2
+rosdistro,ros,Update python.yaml added python-is-python3,https://github.com/ros/rosdistro/pull/29318,1.0,merged,contributor,belorenz,2021-04-27T13:32:27Z,2021-05-04T17:46:51Z,A.1,B.1
+rosdistro,ros,Fix libav rosdep on Ubuntu,https://github.com/ros/rosdistro/pull/29316,0.0,merged,contributor,peci1,2021-04-27T12:45:25Z,2021-05-04T17:48:16Z,B.1,B.1
+rosdistro,ros,add python3 dependency,https://github.com/ros/rosdistro/pull/29257,9.0,closed_without_merge,contributor,christian-rauch,2021-04-22T10:34:02Z,2021-05-05T14:07:29Z,A.1,No modifications found
+rosdistro,ros,add python-albumentations-pip,https://github.com/ros/rosdistro/pull/29187,4.0,merged,contributor,fmessmer,2021-04-16T13:12:29Z,2021-05-04T18:21:52Z,A.1,lint
+rosdistro,ros,add websocket and environs of pip packages in 'rosdep/python3.yaml',https://github.com/ros/rosdistro/pull/29186,2.0,closed_without_merge,contributor,yanrayw,2021-04-16T10:16:53Z,2021-04-28T02:08:29Z,No classification found,No modifications found
+rosdistro,ros,add python3-lgsvl-lib in 'rosdep/python3.yaml',https://github.com/ros/rosdistro/pull/29134,2.0,closed_without_merge,contributor,yanrayw,2021-04-14T02:55:13Z,2021-04-16T02:02:53Z,A.1,No modifications found
+rosdistro,ros,Update python.yaml,https://github.com/ros/rosdistro/pull/29123,2.0,merged,contributor,PhilippSchmaelzle,2021-04-13T13:43:42Z,2021-04-21T14:12:35Z,A.1,A.2
+rosdistro,ros,Add python3-flask-cors and python3-flask-socketio ,https://github.com/ros/rosdistro/pull/29086,0.0,merged,contributor,youliangtan,2021-04-12T09:05:15Z,2021-04-14T19:29:29Z,A.1,"B.2, B.1"
+rosdistro,ros,Add libgpiod-dev key.,https://github.com/ros/rosdistro/pull/29081,1.0,merged,contributor,jpace121,2021-04-10T23:37:46Z,2021-04-21T14:11:31Z,A.1,B.1
+rosdistro,ros,Add many Nix/NixOS packages.,https://github.com/ros/rosdistro/pull/29070,2.0,merged,contributor,lopsided98,2021-04-10T04:26:07Z,2021-05-04T18:21:22Z,A.2,No modifications found
+rosdistro,ros,adding python3-bidict as rosdep key,https://github.com/ros/rosdistro/pull/29062,3.0,closed_without_merge,contributor,crthilakraj,2021-04-09T09:27:14Z,2021-05-19T05:08:20Z,A.1,No modifications found
+rosdistro,ros,Add rosdep rule for 'libatomic',https://github.com/ros/rosdistro/pull/29030,0.0,merged,contributor,cottsay,2021-04-08T00:19:37Z,2021-04-08T00:32:56Z,A.1,No modifications found
+rosdistro,ros,Adding python3-junitparser as a rosdep key,https://github.com/ros/rosdistro/pull/29019,1.0,merged,contributor,danthony06,2021-04-06T23:25:19Z,2021-04-14T19:54:17Z,A.1,B.1
+rosdistro,ros,rosdep: OpenEmbedded updates,https://github.com/ros/rosdistro/pull/28952,2.0,merged,contributor,shr-project,2021-04-05T12:20:16Z,2021-05-05T13:48:04Z,"A.2, B.1",A.2
+rosdistro,ros,[rosdep] Adding setpriv for Ubuntu Bionic and Debian Stretch.,https://github.com/ros/rosdistro/pull/28939,4.0,merged,contributor,tonybaltovski,2021-04-03T02:53:35Z,2021-05-11T15:01:56Z,B.1,B.1
+rosdistro,ros,[dep] Add python3-colcon-common-extensions,https://github.com/ros/rosdistro/pull/28923,2.0,merged,contributor,130s,2021-04-01T04:31:17Z,2021-04-14T20:05:01Z,A.1,lint
+rosdistro,ros,Mechanism to check rosdep rules against package repositories,https://github.com/ros/rosdistro/pull/28902,3.0,merged,contributor,cottsay,2021-03-30T17:34:58Z,2021-05-27T23:04:49Z,No classification found,No modifications found
+rosdistro,ros,Adding meshio to rosdep,https://github.com/ros/rosdistro/pull/28854,0.0,merged,contributor,FSund,2021-03-26T07:14:10Z,2021-03-31T22:11:41Z,A.1,A.2
+rosdistro,ros,added smbus2 python key,https://github.com/ros/rosdistro/pull/28830,2.0,merged,contributor,prat1kbhujbal,2021-03-25T12:19:11Z,2021-04-08T19:34:36Z,A.1,lint
+rosdistro,ros,Adding python3-seaborn for Ubuntu focal,https://github.com/ros/rosdistro/pull/28817,7.0,merged,contributor,tylernewnoise,2021-03-24T14:10:43Z,2021-03-31T22:54:54Z,"A.1, B.1","A.2, B.1"
+rosdistro,ros,Update libcoin80-dev system dependency for noetic,https://github.com/ros/rosdistro/pull/28802,3.0,merged,contributor,fspindle,2021-03-23T08:19:17Z,2021-03-26T00:00:51Z,B.1,A.2
+rosdistro,ros,opendds,https://github.com/ros/rosdistro/pull/28797,4.0,closed_without_merge,contributor,adamsj-ros,2021-03-22T18:47:36Z,2021-04-21T14:00:41Z,No classification found,No modifications found
+rosdistro,ros,Adding python3-evdev rosdep,https://github.com/ros/rosdistro/pull/28794,1.0,merged,contributor,jstiefel,2021-03-22T16:32:25Z,2021-03-31T22:18:13Z,A.1,"A.2, B.1"
+rosdistro,ros,Added python package smbus2,https://github.com/ros/rosdistro/pull/28782,2.0,closed_without_merge,contributor,maarufvazifdar,2021-03-22T12:22:05Z,2021-04-01T04:48:39Z,A.1,No modifications found
+rosdistro,ros,Add space to please yamllint,https://github.com/ros/rosdistro/pull/28749,1.0,merged,contributor,mikepurvis,2021-03-19T15:59:56Z,2021-03-23T22:52:32Z,No classification found,No modifications found
+rosdistro,ros,Add python3-semver,https://github.com/ros/rosdistro/pull/28676,6.0,merged,contributor,aaronplusone,2021-03-17T19:45:39Z,2021-03-23T23:05:12Z,A.1,No modifications found
+rosdistro,ros,Add pydantic pip package to rosdep,https://github.com/ros/rosdistro/pull/28642,4.0,merged,contributor,ipa-fez,2021-03-15T10:16:09Z,2021-03-24T20:16:38Z,A.1,"A.2, B.1"
+rosdistro,ros,Adding python-spidev to rosdep,https://github.com/ros/rosdistro/pull/28603,0.0,merged,contributor,mhtechdev,2021-03-12T13:50:10Z,2021-03-20T01:07:03Z,A.1,lint
+rosdistro,ros,Added simple-pid pip package,https://github.com/ros/rosdistro/pull/28599,0.0,merged,contributor,joel-mb,2021-03-12T10:53:36Z,2021-03-22T20:17:42Z,A.1,A.2
+rosdistro,ros,Add python3-pyside2.qtopengl for Ubuntu focal,https://github.com/ros/rosdistro/pull/28563,1.0,merged,contributor,raultron,2021-03-11T14:16:55Z,2021-03-23T23:50:06Z,A.1,A.2
+rosdistro,ros,Require libXext-devel for sip on RHEL,https://github.com/ros/rosdistro/pull/28547,2.0,merged,contributor,cottsay,2021-03-10T19:47:41Z,2021-03-11T00:26:48Z,B.1,No modifications found
+rosdistro,ros,Added Pyrr Maths Library,https://github.com/ros/rosdistro/pull/28514,1.0,closed_without_merge,contributor,belorenz,2021-03-09T10:43:10Z,2021-03-09T13:42:21Z,A.1,No modifications found
+rosdistro,ros,add python3-bluez rosdep key,https://github.com/ros/rosdistro/pull/28495,0.0,merged,contributor,mikaelarguedas,2021-03-06T10:28:24Z,2021-03-10T17:01:36Z,A.1,B.1
+rosdistro,ros,Use apt packages for python-more-itertools,https://github.com/ros/rosdistro/pull/28473,0.0,merged,contributor,Timple,2021-03-04T07:34:50Z,2021-03-23T22:49:22Z,"A.1, B.2","B.2, A.2, B.1"
+rosdistro,ros,Added pyrr(python3-pyrr) at python.yaml,https://github.com/ros/rosdistro/pull/28461,2.0,merged,contributor,blaine141,2021-03-03T03:10:52Z,2021-03-09T17:16:17Z,A.1,lint
+rosdistro,ros,Opensuse leap,https://github.com/ros/rosdistro/pull/28385,7.0,closed_without_merge,contributor,neotinker,2021-02-22T21:17:35Z,2021-04-21T13:58:45Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add rosdep rules for python-crcmod and python3-crcmod,https://github.com/ros/rosdistro/pull/28338,1.0,merged,contributor,matthew-reynolds,2021-02-17T20:27:49Z,2021-02-26T14:50:38Z,A.1,lint
+rosdistro,ros,Adds rosdep definition for python3-contextlib2,https://github.com/ros/rosdistro/pull/28320,2.0,closed_without_merge,contributor,mgrrx,2021-02-12T21:09:40Z,2021-03-15T18:47:03Z,A.1,No modifications found
+rosdistro,ros,Add rosdep rules for python3-yappi,https://github.com/ros/rosdistro/pull/28318,3.0,merged,contributor,mgrrx,2021-02-12T20:47:16Z,2021-03-23T01:28:34Z,A.1,B.1
+rosdistro,ros,Fix RHEL rule for python3-pytest-mock,https://github.com/ros/rosdistro/pull/28312,0.0,merged,contributor,cottsay,2021-02-12T19:11:36Z,2021-02-12T19:15:11Z,B.1,No modifications found
+rosdistro,ros,add flask socketio,https://github.com/ros/rosdistro/pull/28309,1.0,closed_without_merge,contributor,tiffca,2021-02-12T12:16:57Z,2021-02-14T14:27:55Z,A.1,No modifications found
+rosdistro,ros,Add rosdep rules for python decorator,https://github.com/ros/rosdistro/pull/28296,1.0,merged,contributor,mgrrx,2021-02-11T09:02:51Z,2021-02-16T06:35:11Z,A.1,A.2
+rosdistro,ros,Drop cwiid rules for Fedora,https://github.com/ros/rosdistro/pull/28294,0.0,merged,contributor,cottsay,2021-02-11T02:57:18Z,2021-02-23T20:49:43Z,No classification found,No modifications found
+rosdistro,ros,Fix boost-python rules for Fedora,https://github.com/ros/rosdistro/pull/28293,3.0,merged,contributor,cottsay,2021-02-11T02:35:25Z,2021-02-23T20:49:07Z,B.1,No modifications found
+rosdistro,ros,Add RHEL rule for libudev-dev,https://github.com/ros/rosdistro/pull/28289,0.0,merged,contributor,cottsay,2021-02-10T22:38:33Z,2021-02-11T18:22:18Z,A.2,No modifications found
+rosdistro,ros,add python-tensorboard-pip,https://github.com/ros/rosdistro/pull/28286,5.0,merged,contributor,MatthijsBurgh,2021-02-10T19:31:22Z,2021-02-24T13:39:19Z,A.1,No modifications found
+rosdistro,ros,Add libuvc-dev,https://github.com/ros/rosdistro/pull/28285,3.0,merged,contributor,vincentrou,2021-02-10T15:42:07Z,2021-02-16T06:32:48Z,A.1,A.2
+rosdistro,ros,Add rosdep key for python3-ezdxf,https://github.com/ros/rosdistro/pull/28283,1.0,merged,contributor,rluqueb,2021-02-10T12:18:58Z,2021-02-16T06:58:34Z,A.1,"A.2, B.1"
+rosdistro,ros,python3-psycopg2 for ubuntu focal,https://github.com/ros/rosdistro/pull/28282,4.0,merged,contributor,tylernewnoise,2021-02-10T12:09:26Z,2021-02-11T18:17:21Z,B.1,B.1
+rosdistro,ros,Added python packages gputil and jetson-stats,https://github.com/ros/rosdistro/pull/28280,1.0,merged,contributor,maarufvazifdar,2021-02-10T05:47:15Z,2021-02-11T17:31:53Z,A.1,A.2
+rosdistro,ros,"Add RHEL rules for libboost-python, libboost-python-dev",https://github.com/ros/rosdistro/pull/28279,2.0,merged,contributor,cottsay,2021-02-10T01:44:37Z,2021-02-11T18:18:07Z,A.2,No modifications found
+rosdistro,ros,Add RHEL rule for python3-requests,https://github.com/ros/rosdistro/pull/28277,0.0,merged,contributor,cottsay,2021-02-09T20:10:01Z,2021-02-10T19:54:52Z,A.2,No modifications found
+rosdistro,ros,Add RHEL rule for python3-pytest-mock,https://github.com/ros/rosdistro/pull/28275,0.0,merged,contributor,cottsay,2021-02-09T19:59:46Z,2021-02-10T19:55:01Z,A.2,No modifications found
+rosdistro,ros,Python3 version of Keras and Tensorflow pip targets,https://github.com/ros/rosdistro/pull/28264,4.0,closed_without_merge,contributor,MatthijsBurgh,2021-02-08T12:15:45Z,2021-03-04T09:00:18Z,A.1,No modifications found
+rosdistro,ros,Add python-nose rosdep entry for ubuntu focal,https://github.com/ros/rosdistro/pull/28160,1.0,merged,contributor,stwirth,2021-01-28T17:31:09Z,2021-02-01T19:57:51Z,A.2,A.2
+rosdistro,ros,"Update ruby rosdep key facets for Focal, and add new keys metaruby and utilrb",https://github.com/ros/rosdistro/pull/28155,4.0,merged,contributor,meyerj,2021-01-27T22:15:31Z,2021-02-24T13:37:05Z,No classification found,No modifications found
+rosdistro,ros,add key for GStreamer plugins for GL,https://github.com/ros/rosdistro/pull/28148,2.0,merged,contributor,zflat,2021-01-27T15:31:07Z,2021-02-01T20:29:27Z,A.1,B.1
+rosdistro,ros,add python-mechanize-pip,https://github.com/ros/rosdistro/pull/28067,3.0,closed_without_merge,contributor,fmessmer,2021-01-23T12:20:09Z,2021-01-29T17:49:50Z,A.1,No modifications found
+rosdistro,ros,add embree to rosdep,https://github.com/ros/rosdistro/pull/28065,0.0,merged,contributor,hakuturu583,2021-01-23T09:38:58Z,2021-01-26T12:37:56Z,A.1,B.1
+rosdistro,ros,update rosdep python-construct,https://github.com/ros/rosdistro/pull/28056,0.0,merged,contributor,fmessmer,2021-01-22T07:19:28Z,2021-01-22T21:51:10Z,"A.2, A.1",A.2
+rosdistro,ros,rosdep: add python3-bitarray,https://github.com/ros/rosdistro/pull/28053,1.0,merged,contributor,mgruhler,2021-01-21T11:11:31Z,2021-01-22T21:51:48Z,A.1,No modifications found
+rosdistro,ros,"[rosdep] python3: watchdog, tabulate, jsonschema, flask",https://github.com/ros/rosdistro/pull/28036,0.0,merged,contributor,pjreed,2021-01-18T22:01:17Z,2021-01-20T16:24:08Z,A.1,No modifications found
+rosdistro,ros,[rosdep] python3-dbus,https://github.com/ros/rosdistro/pull/28034,0.0,merged,contributor,reinzor,2021-01-18T11:23:49Z,2021-01-20T16:22:59Z,A.1,No modifications found
+rosdistro,ros,Add rules for python3-importlib-resources,https://github.com/ros/rosdistro/pull/28001,1.0,merged,contributor,cottsay,2021-01-14T23:19:32Z,2021-01-15T19:58:48Z,A.1,B.1
+rosdistro,ros,rosdep: add qtpy as qtpy-pip,https://github.com/ros/rosdistro/pull/27990,0.0,merged,contributor,chikuta,2021-01-14T14:26:33Z,2021-02-03T21:46:18Z,A.1,A.2
+rosdistro,ros,[rosdep] python3-numpy-stl,https://github.com/ros/rosdistro/pull/27986,1.0,merged,contributor,reinzor,2021-01-14T13:13:26Z,2021-01-29T01:43:34Z,A.1,B.1
+rosdistro,ros,[rosdep] file,https://github.com/ros/rosdistro/pull/27984,0.0,merged,contributor,reinzor,2021-01-14T10:53:38Z,2021-01-20T16:41:26Z,A.1,No modifications found
+rosdistro,ros,rosdep: add ansible-runner as python-ansible-runner-pip,https://github.com/ros/rosdistro/pull/27976,0.0,merged,contributor,hocjordan,2021-01-14T04:21:58Z,2021-01-20T16:15:14Z,A.1,lint
+rosdistro,ros,libmpg123-dev,https://github.com/ros/rosdistro/pull/27970,2.0,merged,contributor,reinzor,2021-01-13T10:20:43Z,2021-01-20T16:42:07Z,A.1,B.1
+rosdistro,ros,Add castxml,https://github.com/ros/rosdistro/pull/27964,2.0,merged,contributor,MatthijsBurgh,2021-01-12T19:01:46Z,2021-01-20T16:11:36Z,A.1,B.1
+rosdistro,ros,Add python3-cffi rosdep key,https://github.com/ros/rosdistro/pull/27930,0.0,merged,contributor,sloretz,2021-01-08T02:01:05Z,2021-01-20T16:09:41Z,A.1,A.2
+rosdistro,ros,Add libqt5serialport5-dev,https://github.com/ros/rosdistro/pull/27892,2.0,closed_without_merge,contributor,carebare47,2021-01-04T18:23:31Z,2021-02-24T13:29:56Z,A.1,No modifications found
+rosdistro,ros,Rosdep rule for python3-sympy,https://github.com/ros/rosdistro/pull/27881,1.0,merged,contributor,jonbinney,2021-01-04T00:35:57Z,2021-01-19T14:51:01Z,A.1,A.2
+rosdistro,ros,Add pystemd,https://github.com/ros/rosdistro/pull/27852,5.0,merged,contributor,Timple,2020-12-28T13:59:24Z,2021-02-06T03:07:28Z,A.1,"B.2, B.1"
+rosdistro,ros,rosdep: update OpenEmbedded mapping for python*-websocket and add python-pyudev,https://github.com/ros/rosdistro/pull/27826,2.0,merged,contributor,shr-project,2020-12-22T17:10:24Z,2021-01-13T14:13:01Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add rosdep rules for python3-websockets package,https://github.com/ros/rosdistro/pull/27819,0.0,merged,contributor,Goldob,2020-12-20T11:46:27Z,2020-12-30T22:15:32Z,A.1,A.2
+rosdistro,ros,Adding fcl key to solve issues with version 0.6,https://github.com/ros/rosdistro/pull/27789,10.0,closed_without_merge,contributor,marcoag,2020-12-17T10:57:10Z,2021-01-15T18:48:27Z,A.1,No modifications found
+rosdistro,ros,Add pathlib2 to python yaml,https://github.com/ros/rosdistro/pull/27782,3.0,merged,contributor,tsaoyu,2020-12-17T02:43:18Z,2021-01-20T17:51:47Z,A.1,"A.2, B.1"
+rosdistro,ros,[dep] Add python3-sh,https://github.com/ros/rosdistro/pull/27780,0.0,merged,contributor,130s,2020-12-16T11:13:05Z,2020-12-17T18:43:13Z,A.1,No modifications found
+rosdistro,ros,Added python3-git,https://github.com/ros/rosdistro/pull/27776,3.0,closed_without_merge,contributor,StefanFabian,2020-12-16T09:40:40Z,2020-12-17T19:44:16Z,A.1,No modifications found
+rosdistro,ros,update vtk dependencies,https://github.com/ros/rosdistro/pull/27768,8.0,merged,contributor,spuetz,2020-12-14T19:09:27Z,2021-02-03T19:22:48Z,B.1,B.1
+rosdistro,ros,add opencv-contrib-python package for pip,https://github.com/ros/rosdistro/pull/27719,5.0,closed_without_merge,contributor,hocjordan,2020-12-10T10:46:55Z,2021-01-13T14:10:59Z,A.1,No modifications found
+rosdistro,ros,add flask-restplus from pip,https://github.com/ros/rosdistro/pull/27702,4.0,merged,contributor,Minipada,2020-12-09T15:07:51Z,2020-12-17T18:54:34Z,A.1,lint
+rosdistro,ros,[dep] python3-git.,https://github.com/ros/rosdistro/pull/27641,1.0,merged,contributor,130s,2020-12-07T20:39:06Z,2020-12-30T22:06:56Z,"A.1, B.1",B.1
+rosdistro,ros,rosdep: update and add new OpenEmbedded mappings,https://github.com/ros/rosdistro/pull/27623,7.0,merged,contributor,shr-project,2020-12-05T15:58:08Z,2020-12-11T20:13:15Z,"A.2, B.1","A.2, B.1"
+rosdistro,ros,[dep] gpg-agent,https://github.com/ros/rosdistro/pull/27597,1.0,merged,contributor,130s,2020-12-04T17:04:46Z,2021-02-24T13:29:12Z,A.1,B.1
+rosdistro,ros,Added pyquaternion pip package to python.yaml for ubuntu and debian,https://github.com/ros/rosdistro/pull/27595,3.0,closed_without_merge,contributor,fbottarel,2020-12-04T15:23:57Z,2020-12-08T14:14:09Z,A.1,No modifications found
+rosdistro,ros,add python3-pypng,https://github.com/ros/rosdistro/pull/27583,0.0,merged,contributor,fmessmer,2020-12-03T14:45:38Z,2020-12-08T18:59:08Z,A.1,B.1
+rosdistro,ros,add python-xmlschema-pip package,https://github.com/ros/rosdistro/pull/27580,2.0,merged,contributor,hakuturu583,2020-12-03T04:38:16Z,2020-12-04T17:27:39Z,A.1,B.2
+rosdistro,ros,add python3-xmltodict-pip package,https://github.com/ros/rosdistro/pull/27499,3.0,merged,contributor,hakuturu583,2020-11-26T06:30:44Z,2020-12-02T13:48:48Z,A.1,"A.2, B.1"
+rosdistro,ros,Feature/python3 bs4,https://github.com/ros/rosdistro/pull/27498,2.0,merged,contributor,hakuturu583,2020-11-26T06:06:44Z,2020-12-01T20:48:03Z,A.1,B.1
+rosdistro,ros,Xmlschema,https://github.com/ros/rosdistro/pull/27496,2.0,closed_without_merge,contributor,hakuturu583,2020-11-26T04:03:05Z,2020-12-03T04:34:28Z,A.1,No modifications found
+rosdistro,ros,Add rosdep key for python3 thriftpy,https://github.com/ros/rosdistro/pull/27488,1.0,merged,contributor,rluqueb,2020-11-25T09:35:56Z,2020-12-02T19:22:02Z,A.1,B.2
+rosdistro,ros,Add touchegg to rosdep base.yaml,https://github.com/ros/rosdistro/pull/27395,1.0,merged,contributor,708yamaguchi,2020-11-20T12:30:20Z,2020-11-30T15:51:34Z,A.1,No modifications found
+rosdistro,ros,adding qt4-linguist-tools rosdep key,https://github.com/ros/rosdistro/pull/27390,3.0,merged,contributor,zflat,2020-11-19T19:52:04Z,2020-12-11T20:15:27Z,A.1,B.1
+rosdistro,ros,rosdep: add libcgroup-dev,https://github.com/ros/rosdistro/pull/27278,1.0,merged,contributor,dandedrick,2020-11-09T17:51:28Z,2020-11-11T01:25:58Z,A.1,No modifications found
+rosdistro,ros,Add 'conan' rosdep key to be resolved using pip,https://github.com/ros/rosdistro/pull/27243,2.0,merged,contributor,miguelprada,2020-11-04T12:59:25Z,2020-11-10T16:20:48Z,A.1,lint
+rosdistro,ros,Add libgmock-dev to Buster & Focal.,https://github.com/ros/rosdistro/pull/27195,8.0,merged,contributor,MichaelGrupp,2020-10-30T10:56:22Z,2021-01-20T15:59:31Z,A.1,A.2
+rosdistro,ros,Add python3-cantools-pip,https://github.com/ros/rosdistro/pull/27189,4.0,merged,contributor,sebgiles,2020-10-29T16:01:42Z,2020-10-31T00:16:45Z,A.1,No modifications found
+rosdistro,ros,Add cython3 entry,https://github.com/ros/rosdistro/pull/27038,2.0,merged,contributor,ptenbrock,2020-10-19T17:32:04Z,2020-10-20T17:28:40Z,A.1,A.2
+rosdistro,ros,add python3-influxdb-client-pip,https://github.com/ros/rosdistro/pull/27037,1.0,merged,contributor,jstiefel,2020-10-19T16:38:36Z,2020-10-20T14:22:45Z,A.1,lint
+rosdistro,ros,add python3-mechanize,https://github.com/ros/rosdistro/pull/27017,1.0,merged,contributor,fmessmer,2020-10-17T16:05:36Z,2020-10-20T17:28:33Z,A.1,B.1
+rosdistro,ros,Add gpac to rosdep/base.yaml,https://github.com/ros/rosdistro/pull/26953,4.0,merged,contributor,furushchev,2020-10-14T05:44:12Z,2020-10-15T12:14:19Z,A.1,A.2
+rosdistro,ros,Add siphon to python.yaml,https://github.com/ros/rosdistro/pull/26942,0.0,merged,contributor,tdenewiler,2020-10-13T18:55:21Z,2020-10-15T12:16:55Z,A.1,No modifications found
+rosdistro,ros,Add netcdf4 to python.yaml,https://github.com/ros/rosdistro/pull/26939,0.0,merged,contributor,tdenewiler,2020-10-13T18:45:12Z,2020-10-15T12:16:40Z,A.1,No modifications found
+rosdistro,ros,Added libqt5-websockets-dev,https://github.com/ros/rosdistro/pull/26922,3.0,merged,contributor,facontidavide,2020-10-12T18:43:27Z,2020-10-15T12:16:23Z,A.1,A.2
+rosdistro,ros,add xmlschema to rosdistro,https://github.com/ros/rosdistro/pull/26913,2.0,closed_without_merge,contributor,hakuturu583,2020-10-12T01:02:26Z,2020-10-20T17:28:54Z,A.1,No modifications found
+rosdistro,ros,Add whichcraft python package,https://github.com/ros/rosdistro/pull/26826,0.0,merged,contributor,bjsowa,2020-10-06T11:28:45Z,2020-10-08T09:14:11Z,A.1,No modifications found
+rosdistro,ros,base: add libtiff-dev for focal,https://github.com/ros/rosdistro/pull/26814,0.0,merged,contributor,russkel,2020-10-06T04:21:22Z,2020-10-06T23:27:26Z,A.2,No modifications found
+rosdistro,ros,python-matplotlib for focal,https://github.com/ros/rosdistro/pull/26795,1.0,closed_without_merge,contributor,fmessmer,2020-10-02T12:18:27Z,2020-10-03T09:45:34Z,A.2,No modifications found
+rosdistro,ros,Added python3-numpy package for Ubuntu Focal,https://github.com/ros/rosdistro/pull/26792,2.0,closed_without_merge,contributor,gstavrinos,2020-10-02T10:04:20Z,2020-10-02T21:26:41Z,A.2,No modifications found
+rosdistro,ros,Add yamllint for focal and others,https://github.com/ros/rosdistro/pull/26779,0.0,merged,contributor,Rayman,2020-10-01T14:05:27Z,2020-10-07T16:45:25Z,A.2,lint
+rosdistro,ros,add python3-docopt,https://github.com/ros/rosdistro/pull/26778,0.0,merged,contributor,jschleicher,2020-10-01T13:57:28Z,2020-10-07T16:44:54Z,A.1,A.2
+rosdistro,ros,add python3-h5py,https://github.com/ros/rosdistro/pull/26769,2.0,merged,contributor,k-okada,2020-10-01T05:13:00Z,2020-10-02T20:33:21Z,A.1,lint
+rosdistro,ros,add python-progressbar for focal,https://github.com/ros/rosdistro/pull/26768,3.0,merged,contributor,floweisshardt,2020-09-30T21:20:43Z,2020-10-09T22:13:57Z,A.1,A.2
+rosdistro,ros,Added base rule for gphoto2 CLI under Ubuntu.,https://github.com/ros/rosdistro/pull/26754,1.0,merged,contributor,airballking,2020-09-29T18:54:04Z,2020-10-06T19:54:49Z,A.1,A.2
+rosdistro,ros,[dep] Add wireshark,https://github.com/ros/rosdistro/pull/26699,1.0,merged,contributor,130s,2020-09-25T20:19:58Z,2020-09-30T23:07:12Z,A.1,B.1
+rosdistro,ros,[dep] Add AWS CLI,https://github.com/ros/rosdistro/pull/26694,1.0,merged,contributor,130s,2020-09-25T15:59:22Z,2020-09-26T04:29:40Z,A.1,No modifications found
+rosdistro,ros,add key for python-twilio-pip,https://github.com/ros/rosdistro/pull/26683,2.0,merged,contributor,fmessmer,2020-09-24T08:20:03Z,2020-10-05T13:37:27Z,A.1,B.2
+rosdistro,ros,python3-catkin-lint is valid for debian buster,https://github.com/ros/rosdistro/pull/26619,4.0,merged,contributor,erelson,2020-09-21T02:48:39Z,2020-09-28T13:13:12Z,B.1,No modifications found
+rosdistro,ros,add aravis and aravis-dev packages to rosdep,https://github.com/ros/rosdistro/pull/26586,0.0,merged,contributor,Dominik-FKIE,2020-09-17T12:38:57Z,2020-09-22T15:09:44Z,A.1,No modifications found
+rosdistro,ros,added rosdep rule for fastnumbers pip package,https://github.com/ros/rosdistro/pull/26574,1.0,merged,contributor,niomate,2020-09-16T13:43:25Z,2020-10-06T19:29:47Z,A.1,lint
+rosdistro,ros,Add python3-distro,https://github.com/ros/rosdistro/pull/26570,0.0,merged,contributor,ruffsl,2020-09-16T03:19:08Z,2020-09-21T18:58:44Z,A.1,No modifications found
+rosdistro,ros,add xmlplain package to rosdep,https://github.com/ros/rosdistro/pull/26551,2.0,merged,contributor,taikitanaka3,2020-09-14T00:48:29Z,2020-09-21T18:47:16Z,A.1,lint
+rosdistro,ros,rosdep install - support for additional python dependencies (Ubuntu Focal),https://github.com/ros/rosdistro/pull/26505,1.0,closed_without_merge,contributor,up201305618,2020-09-09T14:14:51Z,2020-10-06T23:23:40Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add pip version of the `typing` python module,https://github.com/ros/rosdistro/pull/26504,2.0,merged,contributor,LoyVanBeek,2020-09-09T09:18:38Z,2020-09-14T17:21:32Z,A.1,No modifications found
+rosdistro,ros,[rosdep/base] Added rosdep keys for individual pcl packages,https://github.com/ros/rosdistro/pull/26448,3.0,closed_without_merge,contributor,YoshuaNava,2020-09-03T16:31:45Z,2020-10-12T13:26:21Z,A.1,No modifications found
+rosdistro,ros,adds libnlopt-cxx-dev,https://github.com/ros/rosdistro/pull/26446,2.0,merged,contributor,mgruhler,2020-09-03T13:43:11Z,2020-09-14T12:45:39Z,A.1,No modifications found
+rosdistro,ros,Add rosdep key for python3-pyosmium,https://github.com/ros/rosdistro/pull/26328,1.0,merged,contributor,tdenewiler,2020-08-26T23:07:45Z,2020-09-11T17:08:26Z,A.1,A.2
+rosdistro,ros,Update python-dev for focal,https://github.com/ros/rosdistro/pull/26325,0.0,merged,contributor,paulbovbel,2020-08-26T19:49:22Z,2020-08-28T09:20:02Z,B.1,B.1
+rosdistro,ros,Add rosdep rules for mockito,https://github.com/ros/rosdistro/pull/26308,0.0,merged,contributor,jacobperron,2020-08-25T21:14:00Z,2020-08-27T19:18:44Z,A.1,A.2
+rosdistro,ros,adding graphql client library as pip to rosdep,https://github.com/ros/rosdistro/pull/26226,1.0,merged,contributor,bbferka,2020-08-18T13:45:35Z,2020-08-26T23:00:05Z,A.1,lint
+rosdistro,ros,Add jupyter-nbconvert,https://github.com/ros/rosdistro/pull/26215,1.0,merged,contributor,azazdeaz,2020-08-17T13:34:43Z,2020-08-20T04:20:22Z,A.1,"A.2, B.1"
+rosdistro,ros,Add Python3 versions for geopy and toml,https://github.com/ros/rosdistro/pull/26188,0.0,merged,contributor,fraxker,2020-08-13T21:48:59Z,2020-08-14T18:03:04Z,A.1,No modifications found
+rosdistro,ros,Added gettext-base rule,https://github.com/ros/rosdistro/pull/26143,2.0,merged,contributor,crthilakraj,2020-08-10T17:02:30Z,2020-08-27T19:14:00Z,A.1,A.2
+rosdistro,ros,[rosdep] add python3 keys for pymodbus and urllib3,https://github.com/ros/rosdistro/pull/26056,0.0,merged,contributor,mikaelarguedas,2020-08-05T13:05:37Z,2020-08-14T18:04:21Z,A.1,B.1
+rosdistro,ros,"add libboost-{math,timer,serialization} keys",https://github.com/ros/rosdistro/pull/25995,1.0,merged,contributor,mikaelarguedas,2020-07-30T06:32:47Z,2020-08-14T18:04:48Z,"A.2, A.1, B.1",No modifications found
+rosdistro,ros,Add pyqtgraph to rosdep,https://github.com/ros/rosdistro/pull/25988,1.0,merged,contributor,bjin2364,2020-07-29T15:35:27Z,2020-08-10T21:29:14Z,A.1,A.2
+rosdistro,ros,Libcxxtools,https://github.com/ros/rosdistro/pull/25975,5.0,closed_without_merge,contributor,Vuwij,2020-07-29T00:58:34Z,2020-09-22T17:43:49Z,A.1,No modifications found
+rosdistro,ros,Fix libzmq3-dev rule for Fedora/RHEL,https://github.com/ros/rosdistro/pull/25933,0.0,merged,contributor,cottsay,2020-07-25T00:07:15Z,2020-08-06T17:15:51Z,B.1,No modifications found
+rosdistro,ros,Add wxpython for ROS noetic,https://github.com/ros/rosdistro/pull/25920,2.0,merged,contributor,Timple,2020-07-24T10:10:52Z,2020-08-07T14:10:20Z,A.1,A.2
+rosdistro,ros,[rosdep] Add gurumdds-2.6.,https://github.com/ros/rosdistro/pull/25900,0.0,merged,contributor,nuclearsandwich,2020-07-23T00:20:58Z,2020-07-23T21:58:53Z,A.1,No modifications found
+rosdistro,ros,PyPy sense-hat sense-emu x Raspberry Pi Sense HAT,https://github.com/ros/rosdistro/pull/25892,0.0,merged,contributor,allxone,2020-07-22T12:27:37Z,2020-07-23T19:13:06Z,A.1,lint
+rosdistro,ros,rosdep for python-httplib on new distributions,https://github.com/ros/rosdistro/pull/25863,2.0,merged,contributor,mistoll,2020-07-20T18:40:04Z,2020-07-23T15:42:08Z,"A.2, A.1",No modifications found
+rosdistro,ros,"Add ""Include What You Use (IWYU)""",https://github.com/ros/rosdistro/pull/25761,4.0,merged,contributor,Levi-Armstrong,2020-07-10T19:39:23Z,2020-07-16T00:03:10Z,A.1,A.2
+rosdistro,ros,Added boston dynamic sdks,https://github.com/ros/rosdistro/pull/25757,4.0,merged,contributor,dniewinski,2020-07-10T17:48:44Z,2020-08-13T17:52:27Z,A.1,B.1
+rosdistro,ros,Add lcm to rosdep rules,https://github.com/ros/rosdistro/pull/25736,0.0,merged,contributor,kmhallen,2020-07-09T16:40:23Z,2020-07-23T15:44:59Z,A.1,lint
+rosdistro,ros,Add libpqxx rosdeps for focal,https://github.com/ros/rosdistro/pull/25718,0.0,merged,contributor,nickswalker,2020-07-08T19:23:39Z,2020-07-23T15:45:44Z,"A.2, B.1","A.2, B.1"
+rosdistro,ros,Add connexion to python.yaml,https://github.com/ros/rosdistro/pull/25689,2.0,merged,contributor,mbeutelspacher,2020-07-07T10:57:59Z,2020-07-16T00:02:08Z,A.1,lint
+rosdistro,ros,Add zmq for Ubuntu 20.04,https://github.com/ros/rosdistro/pull/25641,1.0,closed_without_merge,contributor,5i0770,2020-07-01T12:53:56Z,2020-07-22T20:27:17Z,B.1,No modifications found
+rosdistro,ros,Add additional python3 keys,https://github.com/ros/rosdistro/pull/25617,0.0,merged,contributor,k-okada,2020-06-28T08:58:50Z,2020-07-06T15:12:53Z,"A.2, A.1",lint
+rosdistro,ros,Pip installed scipy for  rosdep,https://github.com/ros/rosdistro/pull/25615,5.0,closed_without_merge,contributor,bjin2364,2020-06-27T16:05:26Z,2020-07-13T14:03:19Z,A.1,No modifications found
+rosdistro,ros,Add python3 rosdep for msgpack,https://github.com/ros/rosdistro/pull/25610,0.0,merged,contributor,bjin2364,2020-06-26T20:12:02Z,2020-07-22T20:25:10Z,A.1,B.1
+rosdistro,ros,"Add python rosdep for grpcio, grpcio-reflection and parameterized",https://github.com/ros/rosdistro/pull/25596,0.0,merged,contributor,f-fl0,2020-06-25T03:04:42Z,2020-07-23T15:46:49Z,A.1,B.2
+rosdistro,ros,Update python.yaml add pyswarms,https://github.com/ros/rosdistro/pull/25556,0.0,merged,contributor,shonigmann,2020-06-22T19:39:11Z,2020-06-30T14:12:32Z,A.1,A.2
+rosdistro,ros,Update rules for focal that are needed by rospilot package,https://github.com/ros/rosdistro/pull/25547,3.0,closed_without_merge,contributor,cberner,2020-06-21T01:42:03Z,2020-07-07T03:47:23Z,No classification found,No modifications found
+rosdistro,ros,Add python3 key for importlib-metadata.,https://github.com/ros/rosdistro/pull/25541,0.0,merged,contributor,clalancette,2020-06-19T20:05:35Z,2020-06-22T15:43:40Z,A.1,A.2
+rosdistro,ros,Add python3-collada,https://github.com/ros/rosdistro/pull/25533,3.0,merged,contributor,DavidMansolino,2020-06-19T07:28:43Z,2020-06-30T13:38:28Z,A.1,B.1
+rosdistro,ros,Added rosdep rule to for python package pycpd under Ubuntu.,https://github.com/ros/rosdistro/pull/25503,4.0,merged,contributor,airballking,2020-06-17T11:18:48Z,2020-06-30T13:55:44Z,A.1,lint
+rosdistro,ros,[dep] Update python*-rosinstall-generator.,https://github.com/ros/rosdistro/pull/25482,0.0,merged,contributor,130s,2020-06-16T08:30:14Z,2020-07-22T21:07:27Z,"A.2, A.1, B.1",B.1
+rosdistro,ros,add rosdep key for geomag,https://github.com/ros/rosdistro/pull/25474,0.0,merged,contributor,tdenewiler,2020-06-15T16:48:05Z,2020-08-17T18:05:35Z,A.1,lint
+rosdistro,ros,Add wildcard libjsoncpp rosdep for Ubuntu,https://github.com/ros/rosdistro/pull/25418,2.0,merged,contributor,pjreed,2020-06-11T13:25:36Z,2020-06-12T13:44:46Z,A.2,No modifications found
+rosdistro,ros,Add rosdep key for python3-catkin-lint,https://github.com/ros/rosdistro/pull/25416,2.0,closed_without_merge,contributor,Rayman,2020-06-11T09:49:22Z,2020-06-12T14:14:15Z,A.1,No modifications found
+rosdistro,ros,add rosdep key for pika-pip,https://github.com/ros/rosdistro/pull/25395,2.0,closed_without_merge,contributor,tdenewiler,2020-06-10T15:00:03Z,2020-06-15T15:11:30Z,A.1,No modifications found
+rosdistro,ros,Added yapf3 for ubuntu focal to python.yaml,https://github.com/ros/rosdistro/pull/25394,2.0,closed_without_merge,contributor,belorenz,2020-06-10T13:52:08Z,2020-07-21T13:55:55Z,A.1,No modifications found
+rosdistro,ros,add rosdep key for python3-simplejson,https://github.com/ros/rosdistro/pull/25377,1.0,merged,contributor,tdenewiler,2020-06-08T19:46:25Z,2020-06-16T13:07:58Z,A.1,No modifications found
+rosdistro,ros,add rosdep focal key for libjsoncpp,https://github.com/ros/rosdistro/pull/25376,1.0,closed_without_merge,contributor,tdenewiler,2020-06-08T19:28:56Z,2020-06-12T13:45:07Z,"A.2, B.1",No modifications found
+rosdistro,ros,add rosdep focal key for python-websocket,https://github.com/ros/rosdistro/pull/25372,1.0,closed_without_merge,contributor,tdenewiler,2020-06-08T19:12:31Z,2020-06-09T15:12:56Z,A.2,No modifications found
+rosdistro,ros,add rosdep key for python3-tilestache,https://github.com/ros/rosdistro/pull/25370,0.0,merged,contributor,tdenewiler,2020-06-08T18:49:22Z,2020-06-15T15:27:04Z,A.1,No modifications found
+rosdistro,ros,add rosdep key for python3-shapely,https://github.com/ros/rosdistro/pull/25369,0.0,merged,contributor,tdenewiler,2020-06-08T18:16:38Z,2020-06-15T15:25:39Z,A.1,A.2
+rosdistro,ros,added python3-jsonpickle for ubuntu focal / ros noetic,https://github.com/ros/rosdistro/pull/25296,1.0,merged,contributor,hikinggrass,2020-06-03T13:29:55Z,2020-06-04T13:06:47Z,A.1,lint
+rosdistro,ros,add rosdep key for python-pyassimp3,https://github.com/ros/rosdistro/pull/25263,3.0,merged,contributor,mikeferguson,2020-06-02T15:26:47Z,2020-06-09T19:18:56Z,A.1,B.1
+rosdistro,ros,add libopenvdb -> libopenvdb6.2 for ubuntu focal,https://github.com/ros/rosdistro/pull/25257,1.0,merged,contributor,doisyg,2020-06-01T21:03:54Z,2020-06-09T09:41:56Z,A.2,lint
+rosdistro,ros,Add rosdep rule for python3-argcomplete,https://github.com/ros/rosdistro/pull/25204,1.0,merged,contributor,kyrofa,2020-05-29T20:20:14Z,2020-06-01T14:08:47Z,A.1,B.1
+rosdistro,ros,Update pyhton.yaml. Add python-pypcd-pip.,https://github.com/ros/rosdistro/pull/25192,0.0,merged,contributor,ilozano80,2020-05-29T14:30:50Z,2020-06-09T09:43:28Z,A.1,No modifications found
+rosdistro,ros,Add python3-usb rosdep entry,https://github.com/ros/rosdistro/pull/25173,7.0,merged,contributor,jonbinney,2020-05-29T01:55:47Z,2020-06-02T14:36:37Z,A.1,A.2
+rosdistro,ros,Add rosdep key 'python3-interpreter',https://github.com/ros/rosdistro/pull/25170,3.0,merged,contributor,cottsay,2020-05-28T22:37:40Z,2020-06-02T14:42:10Z,A.1,No modifications found
+rosdistro,ros,add focal / libcollada-dom,https://github.com/ros/rosdistro/pull/25140,0.0,merged,contributor,k-okada,2020-05-28T10:01:23Z,2020-06-15T17:28:05Z,A.2,lint
+rosdistro,ros,Simplify python-sip,https://github.com/ros/rosdistro/pull/25120,1.0,merged,contributor,MatthijsBurgh,2020-05-27T16:00:45Z,2020-06-22T13:07:27Z,"A.2, B.1",B.1
+rosdistro,ros,Add python-opencv-pip,https://github.com/ros/rosdistro/pull/25113,2.0,closed_without_merge,contributor,MatthijsBurgh,2020-05-27T09:52:47Z,2020-06-30T12:46:10Z,A.1,No modifications found
+rosdistro,ros,add wxpython for bullseye/focal,https://github.com/ros/rosdistro/pull/25075,4.0,merged,contributor,k-okada,2020-05-26T04:44:44Z,2020-08-07T14:32:57Z,A.2,A.2
+rosdistro,ros,Python3 catkin lint,https://github.com/ros/rosdistro/pull/25055,3.0,merged,contributor,reinzor,2020-05-25T10:41:37Z,2020-06-15T18:41:43Z,A.1,"A.2, B.1"
+rosdistro,ros,Python3 markdown,https://github.com/ros/rosdistro/pull/25054,2.0,merged,contributor,reinzor,2020-05-25T09:51:24Z,2020-06-01T18:09:09Z,A.1,No modifications found
+rosdistro,ros,Python3 networkx,https://github.com/ros/rosdistro/pull/25053,2.0,merged,contributor,reinzor,2020-05-25T09:46:53Z,2020-05-29T13:40:28Z,A.1,No modifications found
+rosdistro,ros,Added bullet extras for debian and ubuntu,https://github.com/ros/rosdistro/pull/24982,1.0,merged,contributor,BryceStevenWilley,2020-05-20T17:37:51Z,2020-05-26T13:07:18Z,A.1,A.2
+rosdistro,ros,Replace the pip python-rtree dependency for the apt package,https://github.com/ros/rosdistro/pull/24964,4.0,closed_without_merge,contributor,musamarcusso,2020-05-19T10:32:46Z,2020-08-11T19:39:45Z,B.1,No modifications found
+rosdistro,ros,rosdep: MQTT C++ development package,https://github.com/ros/rosdistro/pull/24954,6.0,merged,contributor,sevenbill,2020-05-19T01:32:47Z,2020-08-17T22:03:04Z,A.1,A.2
+rosdistro,ros,rosdep: add Ignition Citadel,https://github.com/ros/rosdistro/pull/24934,5.0,merged,contributor,chapulina,2020-05-16T01:43:49Z,2020-06-17T21:27:12Z,"A.2, A.1",lint
+rosdistro,ros,Added libglew-dev for ubuntu:focal to the rosdep base rules,https://github.com/ros/rosdistro/pull/24916,1.0,merged,contributor,suddrey-qut,2020-05-14T23:23:01Z,2020-05-19T00:42:43Z,"A.2, B.1",lint
+rosdistro,ros,add rule for python3-rdflib,https://github.com/ros/rosdistro/pull/24802,0.0,merged,contributor,emmanuelkring,2020-05-09T15:27:52Z,2020-05-12T00:28:39Z,A.1,A.2
+rosdistro,ros,Fix libvlc rosdep key in Ubuntu/Debian,https://github.com/ros/rosdistro/pull/24773,0.0,merged,contributor,pjreed,2020-05-08T00:50:47Z,2020-05-14T21:35:43Z,B.1,B.1
+rosdistro,ros,rosdep: added python3-docutils,https://github.com/ros/rosdistro/pull/24762,1.0,merged,contributor,atiderko,2020-05-06T19:46:20Z,2020-05-14T21:18:34Z,A.1,A.2
+rosdistro,ros,rosdep: add key for Python3 scikit-image (skimage),https://github.com/ros/rosdistro/pull/24743,2.0,merged,contributor,JulianKu,2020-05-06T16:20:03Z,2020-05-19T00:43:40Z,A.1,lint
+rosdistro,ros,rosdep: added python3-grpc-tools and python3-grpcio,https://github.com/ros/rosdistro/pull/24742,1.0,merged,contributor,atiderko,2020-05-06T14:19:31Z,2020-05-16T00:04:30Z,A.1,lint
+rosdistro,ros,rosdep: added python3-ruamel.yaml,https://github.com/ros/rosdistro/pull/24741,1.0,merged,contributor,atiderko,2020-05-06T14:05:52Z,2020-05-16T00:07:07Z,A.2,lint
+rosdistro,ros,Add rosdep Python 3 keys for scikit-learn (sklearn) and tqdm,https://github.com/ros/rosdistro/pull/24725,0.0,merged,contributor,JulianKu,2020-05-05T12:51:14Z,2020-05-16T00:00:49Z,A.1,lint
+rosdistro,ros,rosdep: Added libopencv-imgproc-dev,https://github.com/ros/rosdistro/pull/24699,0.0,merged,contributor,yotabits,2020-05-03T11:58:53Z,2020-05-09T20:14:27Z,A.1,A.2
+rosdistro,ros,Add several RHEL base rules,https://github.com/ros/rosdistro/pull/24692,2.0,merged,contributor,cottsay,2020-05-01T21:51:06Z,2020-05-05T00:06:53Z,A.2,No modifications found
+rosdistro,ros,add 8 new packages,https://github.com/ros/rosdistro/pull/24685,5.0,merged,contributor,incebellipipo,2020-05-01T17:28:24Z,2020-05-16T00:06:38Z,A.1,lint
+rosdistro,ros,Add RHEL rules for 4 Python packages,https://github.com/ros/rosdistro/pull/24677,2.0,merged,contributor,cottsay,2020-05-01T01:42:40Z,2020-05-11T18:02:20Z,A.2,No modifications found
+rosdistro,ros,[rosdep] Add python-influxdb,https://github.com/ros/rosdistro/pull/24627,2.0,merged,contributor,garaemon,2020-04-28T09:29:45Z,2020-05-01T12:50:05Z,A.1,lint
+rosdistro,ros,Splitting scipy into python- and python3-.,https://github.com/ros/rosdistro/pull/24623,1.0,merged,contributor,JWhitleyWork,2020-04-28T05:48:00Z,2020-05-01T12:47:42Z,"A.2, A.1, B.1",B.1
+rosdistro,ros,Add RHEL 8 rules from PowerTools repo,https://github.com/ros/rosdistro/pull/24539,0.0,merged,contributor,cottsay,2020-04-23T02:03:06Z,2020-05-11T19:14:25Z,"A.2, B.1",B.1
+rosdistro,ros,Add libbluetooth key.,https://github.com/ros/rosdistro/pull/24527,1.0,merged,contributor,clalancette,2020-04-21T16:21:22Z,2020-04-23T04:45:13Z,A.1,No modifications found
+rosdistro,ros,[rosdep] add python-rpi.gpio-pip key,https://github.com/ros/rosdistro/pull/24526,2.0,merged,contributor,mikaelarguedas,2020-04-21T10:58:25Z,2020-05-14T20:53:59Z,A.1,No modifications found
+rosdistro,ros,Added clang-tidy on Ubuntu Bionic,https://github.com/ros/rosdistro/pull/24525,0.0,closed_without_merge,contributor,pablogs9,2020-04-21T09:08:37Z,2020-04-22T13:50:53Z,A.2,No modifications found
+rosdistro,ros,Add python-serial entry for focal,https://github.com/ros/rosdistro/pull/24474,1.0,closed_without_merge,contributor,garyservin,2020-04-15T03:28:29Z,2020-05-12T14:01:07Z,A.2,No modifications found
+rosdistro,ros,Use ogre version 1.12 on focal,https://github.com/ros/rosdistro/pull/24448,37.0,closed_without_merge,contributor,simonschmeisser,2020-04-11T22:29:44Z,2020-05-11T18:38:05Z,A.2,No modifications found
+rosdistro,ros,add libedit support,https://github.com/ros/rosdistro/pull/24447,5.0,merged,contributor,ahoarau,2020-04-11T17:09:37Z,2020-04-27T22:20:01Z,A.1,lint
+rosdistro,ros,add nlohmann-json to rosdistro,https://github.com/ros/rosdistro/pull/24432,4.0,merged,contributor,hakuturu583,2020-04-10T08:06:06Z,2020-05-12T14:00:16Z,A.1,"A.2, B.1"
+rosdistro,ros,[dep] Add some exfat* tools.,https://github.com/ros/rosdistro/pull/24423,0.0,merged,contributor,130s,2020-04-08T14:05:45Z,2020-04-13T18:24:26Z,A.1,B.1
+rosdistro,ros,Add python-sexpdata to rosdep,https://github.com/ros/rosdistro/pull/24421,9.0,merged,contributor,Affonso-Gui,2020-04-08T07:00:00Z,2020-04-28T12:30:02Z,A.1,"B.2, A.2, B.1"
+rosdistro,ros,Add new dependencies for MacOS X,https://github.com/ros/rosdistro/pull/24416,2.0,merged,contributor,jpardeiro,2020-04-07T18:26:13Z,2020-04-10T13:02:57Z,A.2,No modifications found
+rosdistro,ros,add rosdep for pigz (parallel gzip),https://github.com/ros/rosdistro/pull/24414,4.0,merged,contributor,mikeferguson,2020-04-07T17:34:01Z,2020-04-08T16:36:41Z,A.1,A.2
+rosdistro,ros,Add pyrealsense2 and open3d pip packages for ubuntu/fedora/debian,https://github.com/ros/rosdistro/pull/24346,1.0,merged,contributor,luisrayas3,2020-04-03T19:26:47Z,2020-04-13T18:21:42Z,A.1,lint
+rosdistro,ros,add python-cvxopt package,https://github.com/ros/rosdistro/pull/24340,3.0,merged,contributor,ClementRolinat,2020-04-03T15:49:22Z,2020-04-07T12:20:11Z,A.1,A.2
+rosdistro,ros,"Add libpcl-dev, libpcl-all-dev for Focal",https://github.com/ros/rosdistro/pull/24331,5.0,merged,contributor,rotu,2020-04-02T17:31:19Z,2020-04-03T13:05:10Z,A.2,A.2
+rosdistro,ros,rosdep/base.yaml:  Fix `libqt4` mapping for Debian,https://github.com/ros/rosdistro/pull/24294,2.0,merged,contributor,zultron,2020-03-31T08:02:14Z,2020-03-31T14:20:00Z,B.1,No modifications found
+rosdistro,ros,Added python3-requests to bionic,https://github.com/ros/rosdistro/pull/24292,2.0,merged,contributor,klintan,2020-03-31T05:32:32Z,2020-04-10T00:36:13Z,A.1,lint
+rosdistro,ros,Add python3-pytest-cov,https://github.com/ros/rosdistro/pull/24276,0.0,merged,contributor,christophebedard,2020-03-28T20:17:04Z,2020-03-31T06:24:17Z,A.1,A.2
+rosdistro,ros,Add a rosdep rule for libopenal-soft,https://github.com/ros/rosdistro/pull/24275,1.0,merged,contributor,sktometometo,2020-03-28T14:58:34Z,2020-04-02T17:46:28Z,A.1,B.1
+rosdistro,ros,add focal version for some base packages,https://github.com/ros/rosdistro/pull/24193,1.0,merged,contributor,flixr,2020-03-22T17:48:33Z,2020-03-30T13:15:57Z,A.2,No modifications found
+rosdistro,ros,Add gstreamer1.0-rtsp and libgstrtspserver-1.0 packages,https://github.com/ros/rosdistro/pull/24171,1.0,merged,contributor,mortenfyhn,2020-03-19T09:02:03Z,2020-03-31T15:26:29Z,A.1,lint
+rosdistro,ros,fix package name for libboost-python,https://github.com/ros/rosdistro/pull/24164,3.0,merged,contributor,mikaelarguedas,2020-03-18T17:14:52Z,2020-03-24T15:46:34Z,B.1,No modifications found
+rosdistro,ros,"Add libqglviewer-qt5, libqglviewer-qt5-dev",https://github.com/ros/rosdistro/pull/24097,1.0,merged,contributor,wxmerkt,2020-03-16T19:51:45Z,2020-03-23T00:00:18Z,A.1,lint
+rosdistro,ros,[Gentoo] Remove dev-python/rosdep,https://github.com/ros/rosdistro/pull/24096,4.0,merged,contributor,allenh1,2020-03-16T15:13:32Z,2020-03-17T23:10:31Z,B.1,No modifications found
+rosdistro,ros,Add commonly used QML modules.,https://github.com/ros/rosdistro/pull/24074,2.0,merged,contributor,StefanFabian,2020-03-13T09:40:31Z,2020-03-30T13:10:08Z,A.1,A.2
+rosdistro,ros,Add python3-pykdl for Fedora 32+,https://github.com/ros/rosdistro/pull/24054,0.0,merged,contributor,sloretz,2020-03-11T23:51:47Z,2020-03-12T18:34:56Z,A.2,No modifications found
+rosdistro,ros,Added rosdep entry for libnewmat10-dev,https://github.com/ros/rosdistro/pull/24023,1.0,merged,contributor,marioney,2020-03-10T16:55:13Z,2020-03-12T18:35:59Z,A.1,No modifications found
+rosdistro,ros,Add python-pathlib in rosdep/python.yaml,https://github.com/ros/rosdistro/pull/24019,3.0,merged,contributor,Rezenders,2020-03-10T13:13:43Z,2020-03-12T14:01:21Z,A.1,A.2
+rosdistro,ros,Add qtbase5-private-dev,https://github.com/ros/rosdistro/pull/24005,2.0,merged,contributor,wxmerkt,2020-03-09T12:48:38Z,2020-03-12T13:23:55Z,A.1,A.2
+rosdistro,ros,Add all libboost-* keys to gentoo,https://github.com/ros/rosdistro/pull/23996,2.0,merged,contributor,awesomebytes,2020-03-08T04:03:12Z,2020-03-12T13:35:54Z,A.2,No modifications found
+rosdistro,ros,pyquaternion: 0.9.6-4 in 'kinetic/distribution.yaml' [bloom] replaces rosdep python-pyquaterion-pip,https://github.com/ros/rosdistro/pull/23993,4.0,merged,contributor,Achllle,2020-03-07T00:20:20Z,2020-03-12T21:36:05Z,"A.1, B.2",No modifications found
+rosdistro,ros,Add triangle key,https://github.com/ros/rosdistro/pull/23973,3.0,merged,contributor,JulianKu,2020-03-05T16:43:23Z,2020-03-20T00:08:29Z,A.1,lint
+rosdistro,ros,Add rosdep rule for range-v3 library,https://github.com/ros/rosdistro/pull/23967,1.0,merged,contributor,miguelprada,2020-03-05T10:39:39Z,2020-03-09T15:44:12Z,A.1,B.1
+rosdistro,ros,Added ed key,https://github.com/ros/rosdistro/pull/23966,0.0,merged,contributor,pablogs9,2020-03-05T09:32:36Z,2020-03-06T16:11:16Z,A.1,No modifications found
+rosdistro,ros,Added software-properties-common to rosdep,https://github.com/ros/rosdistro/pull/23950,3.0,closed_without_merge,contributor,pablogs9,2020-03-04T09:54:46Z,2020-03-10T11:58:44Z,A.1,No modifications found
+rosdistro,ros,Added west key,https://github.com/ros/rosdistro/pull/23934,3.0,merged,contributor,pablogs9,2020-03-03T11:13:01Z,2020-03-04T16:16:56Z,A.1,lint
+rosdistro,ros,[rosdep] boost 1.71 for ubuntu focal,https://github.com/ros/rosdistro/pull/23911,2.0,merged,contributor,mikaelarguedas,2020-02-29T10:54:01Z,2020-03-04T16:56:35Z,B.1,No modifications found
+rosdistro,ros,Update Boost python rules,https://github.com/ros/rosdistro/pull/23844,4.0,merged,contributor,mikaelarguedas,2020-02-21T23:33:57Z,2020-02-29T20:23:03Z,"A.1, B.1",B.1
+rosdistro,ros,Add rosdep rules for orocos kdl and orocos bfl,https://github.com/ros/rosdistro/pull/23841,5.0,merged,contributor,tfoote,2020-02-21T19:41:36Z,2020-03-09T22:54:18Z,A.1,lint
+rosdistro,ros,Add rafcon-pip,https://github.com/ros/rosdistro/pull/23793,0.0,merged,contributor,nickswalker,2020-02-17T18:33:57Z,2020-03-10T01:21:22Z,A.1,lint
+rosdistro,ros,Add python3-retrying rosdep key,https://github.com/ros/rosdistro/pull/23730,1.0,merged,contributor,dabonnie,2020-02-10T22:51:51Z,2020-02-12T19:45:03Z,A.1,No modifications found
+rosdistro,ros,Add pcg-gazebo to rosdep list,https://github.com/ros/rosdistro/pull/23706,0.0,merged,contributor,musamarcusso,2020-02-07T14:29:34Z,2020-02-24T13:49:03Z,A.1,lint
+rosdistro,ros,Add libkml and python-kml rosdep keys,https://github.com/ros/rosdistro/pull/23682,1.0,merged,contributor,pjreed,2020-02-04T16:46:09Z,2020-02-04T23:20:13Z,A.1,B.1
+rosdistro,ros,add libcdd-dev key,https://github.com/ros/rosdistro/pull/23663,2.0,merged,contributor,Naoki-Hiraoka,2020-02-01T10:26:32Z,2020-02-04T23:21:17Z,A.1,No modifications found
+rosdistro,ros,add libogre package,https://github.com/ros/rosdistro/pull/23656,1.0,merged,contributor,simonschmeisser,2020-01-30T11:37:03Z,2020-02-10T14:26:38Z,A.1,No modifications found
+rosdistro,ros,Added openocd key,https://github.com/ros/rosdistro/pull/23646,4.0,merged,contributor,pablogs9,2020-01-29T08:15:58Z,2020-02-06T03:52:09Z,A.1,No modifications found
+rosdistro,ros,Add rosdep entry for Carla,https://github.com/ros/rosdistro/pull/23639,3.0,closed_without_merge,contributor,vimalrajliya,2020-01-28T13:26:03Z,2020-02-13T15:56:22Z,A.1,No modifications found
+rosdistro,ros,add and fix boost rules,https://github.com/ros/rosdistro/pull/23624,12.0,merged,contributor,mikaelarguedas,2020-01-27T10:39:19Z,2020-02-06T00:06:18Z,"A.2, A.1, B.1",B.1
+rosdistro,ros,add libboost-dev key,https://github.com/ros/rosdistro/pull/23622,2.0,merged,contributor,mikaelarguedas,2020-01-26T15:04:52Z,2020-02-05T00:37:03Z,A.1,No modifications found
+rosdistro,ros,add libboost-regex-dev key,https://github.com/ros/rosdistro/pull/23620,1.0,merged,contributor,mikaelarguedas,2020-01-26T13:15:27Z,2020-01-28T03:59:52Z,A.1,B.1
+rosdistro,ros,Add python3-distutils key,https://github.com/ros/rosdistro/pull/23532,0.0,merged,contributor,sloretz,2020-01-16T23:56:20Z,2020-01-22T19:42:11Z,A.1,B.1
+rosdistro,ros,Add google-glog and lua52 for Arch Linux,https://github.com/ros/rosdistro/pull/23528,3.0,merged,contributor,jhbruhn,2020-01-16T18:40:43Z,2020-01-30T13:28:44Z,A.2,B.1
+rosdistro,ros,Add python3-kitchen rosdep key,https://github.com/ros/rosdistro/pull/23525,0.0,merged,contributor,sloretz,2020-01-16T01:04:48Z,2020-01-22T19:45:22Z,A.1,B.1
+rosdistro,ros,add key for python-fcl-pip,https://github.com/ros/rosdistro/pull/23497,0.0,merged,contributor,furushchev,2020-01-13T03:05:08Z,2020-01-22T19:49:19Z,A.1,No modifications found
+rosdistro,ros,Add openai gym to rosdep/python.yaml,https://github.com/ros/rosdistro/pull/23470,1.0,merged,contributor,gerd2s,2020-01-10T03:13:09Z,2020-01-22T19:44:58Z,A.1,No modifications found
+rosdistro,ros,Feature/libgrpc,https://github.com/ros/rosdistro/pull/23437,5.0,closed_without_merge,contributor,hakuturu583,2020-01-08T02:43:33Z,2020-02-14T16:10:34Z,A.1,No modifications found
+rosdistro,ros,"add libgpgme-dev, log4cxx, lz4 for Focal",https://github.com/ros/rosdistro/pull/23401,0.0,merged,contributor,dirk-thomas,2020-01-03T22:35:30Z,2020-01-03T23:03:49Z,A.2,No modifications found
+rosdistro,ros,Add python3-asyncssh rosdep,https://github.com/ros/rosdistro/pull/23352,0.0,merged,contributor,pjreed,2019-12-20T21:59:09Z,2019-12-31T01:53:08Z,A.1,B.1
+rosdistro,ros,Add fmt to base.yaml,https://github.com/ros/rosdistro/pull/23346,3.0,merged,contributor,kenji-miyake,2019-12-20T05:00:54Z,2020-01-03T00:01:58Z,A.1,No modifications found
+rosdistro,ros,Add python3-hypothesis,https://github.com/ros/rosdistro/pull/23334,0.0,merged,contributor,felixdivo,2019-12-18T19:12:56Z,2019-12-19T21:09:35Z,A.1,No modifications found
+rosdistro,ros,Add python-can on Python 3,https://github.com/ros/rosdistro/pull/23307,2.0,merged,contributor,felixdivo,2019-12-15T11:41:49Z,2019-12-31T01:47:30Z,A.1,lint
+rosdistro,ros,Add python3-parameterized key for rclpy test,https://github.com/ros/rosdistro/pull/23197,1.0,closed_without_merge,contributor,Barry-Xu-2018,2019-12-03T02:08:09Z,2019-12-04T04:02:36Z,A.1,No modifications found
+rosdistro,ros,Add Python 3 entry for imageio,https://github.com/ros/rosdistro/pull/23169,1.0,merged,contributor,sgvandijk,2019-11-27T10:23:22Z,2019-12-05T15:08:31Z,A.1,B.1
+rosdistro,ros,Add benchmark to rosdep,https://github.com/ros/rosdistro/pull/23163,3.0,merged,contributor,efernandez,2019-11-26T16:48:46Z,2019-12-09T20:50:23Z,A.1,B.1
+rosdistro,ros,[dep] Add rsyslog.,https://github.com/ros/rosdistro/pull/23141,1.0,merged,contributor,130s,2019-11-24T02:07:41Z,2019-12-17T15:25:46Z,A.1,No modifications found
+rosdistro,ros,Urdfdom dep,https://github.com/ros/rosdistro/pull/23137,0.0,merged,contributor,concavegit,2019-11-23T21:42:24Z,2019-12-05T14:53:29Z,A.2,No modifications found
+rosdistro,ros,"Added Qt5 Multimedia, Quick and Qml",https://github.com/ros/rosdistro/pull/23131,0.0,merged,contributor,StefanFabian,2019-11-23T11:10:37Z,2019-12-05T14:48:41Z,A.1,No modifications found
+rosdistro,ros,"added boost chrono, iostreams and thread ",https://github.com/ros/rosdistro/pull/23117,1.0,merged,contributor,imerino95,2019-11-21T13:33:35Z,2019-11-22T23:51:59Z,A.1,A.2
+rosdistro,ros,wireless-tools,https://github.com/ros/rosdistro/pull/23060,2.0,merged,contributor,reinzor,2019-11-18T16:42:23Z,2019-11-27T14:16:57Z,A.1,No modifications found
+rosdistro,ros,Add objectpath dependency,https://github.com/ros/rosdistro/pull/22959,1.0,merged,contributor,joseluis12,2019-11-11T15:46:59Z,2019-12-04T13:43:12Z,A.1,No modifications found
+rosdistro,ros,Add the <objectpath> dependency to python rosdep yaml file,https://github.com/ros/rosdistro/pull/22918,1.0,closed_without_merge,contributor,joseluis12,2019-11-08T15:55:09Z,2019-11-11T15:39:00Z,A.1,No modifications found
+rosdistro,ros,Add python-setproctitle,https://github.com/ros/rosdistro/pull/22822,1.0,merged,contributor,rickstaa,2019-10-28T11:59:10Z,2019-11-23T10:02:16Z,A.1,lint
+rosdistro,ros,Add python-pylibfreenect2,https://github.com/ros/rosdistro/pull/22819,1.0,closed_without_merge,contributor,rickstaa,2019-10-28T11:55:36Z,2019-11-16T15:35:32Z,A.1,No modifications found
+rosdistro,ros,Add python-astor-pip,https://github.com/ros/rosdistro/pull/22735,1.0,merged,contributor,MatthijsBurgh,2019-10-23T11:00:21Z,2019-10-30T16:51:08Z,A.1,No modifications found
+rosdistro,ros,Added Qt5 XML module and image formats plugin,https://github.com/ros/rosdistro/pull/22725,1.0,merged,contributor,StefanFabian,2019-10-22T11:37:00Z,2019-11-27T14:12:12Z,A.1,No modifications found
+rosdistro,ros,Add python3-babeltrace rules for RHEL and Fedora,https://github.com/ros/rosdistro/pull/22723,3.0,closed_without_merge,contributor,cottsay,2019-10-21T20:14:58Z,2019-10-23T16:57:57Z,A.2,No modifications found
+rosdistro,ros,Add rosdep rules for python-mysql.connector,https://github.com/ros/rosdistro/pull/22659,1.0,closed_without_merge,contributor,skalkoto,2019-10-14T07:17:22Z,2019-12-04T13:41:27Z,A.1,No modifications found
+rosdistro,ros,Add python3-networkmanager,https://github.com/ros/rosdistro/pull/22638,1.0,closed_without_merge,contributor,cevans87,2019-10-11T18:20:10Z,2019-11-25T13:37:24Z,B.1,No modifications found
+rosdistro,ros,Add python3-pyaudio,https://github.com/ros/rosdistro/pull/22623,1.0,merged,contributor,timrobotson,2019-10-10T20:39:04Z,2019-10-23T13:50:29Z,A.1,No modifications found
+rosdistro,ros,add python-jsonpickle,https://github.com/ros/rosdistro/pull/22264,0.0,merged,contributor,benmaidel,2019-09-17T09:10:46Z,2019-09-18T15:12:33Z,A.1,B.1
+rosdistro,ros,Use a virtual package to install java on Fedora,https://github.com/ros/rosdistro/pull/22129,9.0,merged,contributor,cottsay,2019-08-30T21:15:56Z,2020-03-10T20:26:20Z,"A.2, B.1",No modifications found
+rosdistro,ros,Condense java rule for Fedora,https://github.com/ros/rosdistro/pull/22118,3.0,closed_without_merge,contributor,cottsay,2019-08-29T20:08:16Z,2019-09-05T12:15:16Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add python3-qt5-bindings rule for RHEL,https://github.com/ros/rosdistro/pull/22028,4.0,merged,contributor,cottsay,2019-08-16T05:51:49Z,2019-09-03T12:25:45Z,A.2,No modifications found
+rosdistro,ros,add qttools5-dev to the rosdistro base.yaml file,https://github.com/ros/rosdistro/pull/22022,2.0,merged,contributor,SamLyuubc,2019-08-15T17:55:07Z,2019-08-15T21:02:19Z,A.1,A.2
+rosdistro,ros,add pycryptodome,https://github.com/ros/rosdistro/pull/22011,4.0,merged,contributor,dirk-thomas,2019-08-14T16:44:14Z,2019-08-14T17:44:29Z,A.1,A.2
+rosdistro,ros,Add apparmor,https://github.com/ros/rosdistro/pull/21906,3.0,merged,contributor,ruffsl,2019-08-02T18:16:37Z,2019-10-22T15:31:11Z,A.1,B.1
+rosdistro,ros,Add some RHEL rules for existing keys,https://github.com/ros/rosdistro/pull/21847,1.0,merged,contributor,cottsay,2019-07-26T18:52:05Z,2019-08-01T01:04:47Z,A.2,No modifications found
+rosdistro,ros,ipython for bionic,https://github.com/ros/rosdistro/pull/21791,3.0,merged,contributor,floweisshardt,2019-07-19T07:08:53Z,2019-07-25T23:14:07Z,"A.2, B.1",lint
+rosdistro,ros,Adds unittest2,https://github.com/ros/rosdistro/pull/21680,3.0,merged,contributor,tgaspar,2019-07-03T19:11:17Z,2019-07-10T18:39:54Z,A.1,No modifications found
+rosdistro,ros,Add rule for python3-lttng,https://github.com/ros/rosdistro/pull/21613,0.0,merged,contributor,christophebedard,2019-06-25T12:50:00Z,2019-06-26T00:00:54Z,A.1,No modifications found
+rosdistro,ros,Adding boost-python rosdep key.,https://github.com/ros/rosdistro/pull/21570,4.0,merged,contributor,JWhitleyWork,2019-06-17T18:02:58Z,2019-06-26T23:02:33Z,A.1,lint
+rosdistro,ros,add pugixml to base.yaml,https://github.com/ros/rosdistro/pull/21509,5.0,merged,contributor,mitsudome-r,2019-06-11T04:52:47Z,2019-06-20T13:25:18Z,A.1,No modifications found
+rosdistro,ros,add cupy to the rosdistro,https://github.com/ros/rosdistro/pull/21484,4.0,closed_without_merge,contributor,hakuturu583,2019-06-07T11:57:12Z,2019-07-16T12:55:11Z,A.1,No modifications found
+rosdistro,ros,Add RHEL rule for python3-catkin-pkg-modules,https://github.com/ros/rosdistro/pull/21462,0.0,merged,contributor,cottsay,2019-06-04T19:58:57Z,2019-06-06T16:02:01Z,A.2,No modifications found
+rosdistro,ros,Added geoalchemy2,https://github.com/ros/rosdistro/pull/21457,2.0,closed_without_merge,contributor,agyoungs,2019-06-04T17:37:26Z,2019-07-16T12:54:02Z,A.1,No modifications found
+rosdistro,ros,Update python.yaml - Add python vtk for bionic,https://github.com/ros/rosdistro/pull/21439,0.0,merged,contributor,reinzor,2019-06-03T12:00:21Z,2019-06-21T17:03:34Z,A.2,No modifications found
+rosdistro,ros,Add installation of librealsense2,https://github.com/ros/rosdistro/pull/21430,4.0,closed_without_merge,contributor,doronhi,2019-06-02T11:20:26Z,2019-06-16T03:45:26Z,A.1,No modifications found
+rosdistro,ros,Adding libompl-dev for MoveIt2,https://github.com/ros/rosdistro/pull/21414,0.0,closed_without_merge,contributor,mlautman,2019-05-30T21:59:57Z,2019-07-12T17:48:47Z,A.1,No modifications found
+rosdistro,ros,Update python.yaml,https://github.com/ros/rosdistro/pull/21378,1.0,closed_without_merge,contributor,fannibal,2019-05-29T14:14:46Z,2019-07-16T12:52:38Z,A.1,No modifications found
+rosdistro,ros,Add pyosmium,https://github.com/ros/rosdistro/pull/21343,3.0,closed_without_merge,contributor,grecim,2019-05-23T20:33:34Z,2019-06-21T13:29:17Z,A.1,No modifications found
+rosdistro,ros,Unclutter: Hits mouse cursor when idle,https://github.com/ros/rosdistro/pull/21335,2.0,merged,contributor,Vuwij,2019-05-23T06:01:40Z,2019-05-29T11:54:01Z,A.1,No modifications found
+rosdistro,ros,Add boost-python3-devel 'boost' rule for Fedora,https://github.com/ros/rosdistro/pull/21333,0.0,merged,contributor,cottsay,2019-05-22T17:25:39Z,2019-06-26T16:52:06Z,B.1,No modifications found
+rosdistro,ros,Add autograd-pip to Python,https://github.com/ros/rosdistro/pull/21332,1.0,merged,contributor,wxmerkt,2019-05-22T16:38:58Z,2019-05-28T18:09:02Z,A.1,A.2
+rosdistro,ros,Define which sources are valid for rosdep keys,https://github.com/ros/rosdistro/pull/21252,7.0,merged,contributor,tfoote,2019-05-17T01:32:41Z,2019-07-09T20:09:41Z,No classification found,No modifications found
+rosdistro,ros,add libqt5multimedia5-plugins,https://github.com/ros/rosdistro/pull/21244,7.0,merged,contributor,fmessmer,2019-05-16T13:12:15Z,2019-05-17T16:00:13Z,A.1,A.2
+rosdistro,ros,[dep] Add pymodbustcp.,https://github.com/ros/rosdistro/pull/21239,2.0,merged,contributor,130s,2019-05-15T23:54:17Z,2019-05-28T12:35:21Z,A.1,lint
+rosdistro,ros,Add pymavlink package definition for Debian,https://github.com/ros/rosdistro/pull/21235,1.0,merged,contributor,sfalexrog,2019-05-15T14:28:26Z,2019-05-15T16:58:50Z,A.2,No modifications found
+rosdistro,ros,Fix gfortran rule for Fedora,https://github.com/ros/rosdistro/pull/21229,0.0,merged,contributor,cottsay,2019-05-14T20:42:02Z,2019-05-15T14:08:13Z,B.1,No modifications found
+rosdistro,ros,Add pynput pip lib,https://github.com/ros/rosdistro/pull/21224,0.0,merged,contributor,vincentrou,2019-05-14T09:31:46Z,2019-05-15T14:18:32Z,A.1,No modifications found
+rosdistro,ros,Added some packages,https://github.com/ros/rosdistro/pull/21222,0.0,merged,contributor,Vuwij,2019-05-14T05:22:54Z,2019-05-15T14:19:45Z,A.1,A.2
+rosdistro,ros,Added uavcan-pip.,https://github.com/ros/rosdistro/pull/21219,1.0,merged,contributor,tonybaltovski,2019-05-13T14:01:44Z,2019-05-15T14:17:39Z,A.1,No modifications found
+rosdistro,ros,Include boost-python2-devel in boost dep for Fedora 29+,https://github.com/ros/rosdistro/pull/21216,0.0,merged,contributor,cottsay,2019-05-10T21:22:28Z,2019-05-15T16:01:26Z,B.1,No modifications found
+rosdistro,ros,Add zip lib,https://github.com/ros/rosdistro/pull/21210,0.0,merged,contributor,BMarchi,2019-05-10T13:41:57Z,2019-05-28T12:34:32Z,A.1,A.2
+rosdistro,ros,Add libavdevice-dev lib,https://github.com/ros/rosdistro/pull/21209,0.0,merged,contributor,BMarchi,2019-05-10T13:38:09Z,2019-05-28T22:53:32Z,A.1,No modifications found
+rosdistro,ros,Add libboost-filesystem-dev,https://github.com/ros/rosdistro/pull/21207,1.0,merged,contributor,BMarchi,2019-05-10T13:31:35Z,2019-06-04T08:04:37Z,A.1,A.2
+rosdistro,ros,Add libzip-dev lib,https://github.com/ros/rosdistro/pull/21206,0.0,merged,contributor,BMarchi,2019-05-10T13:23:45Z,2019-05-20T23:58:07Z,A.1,A.2
+rosdistro,ros,Add mesa-utils,https://github.com/ros/rosdistro/pull/21205,2.0,merged,contributor,BMarchi,2019-05-10T13:15:03Z,2019-05-28T22:51:16Z,A.1,A.2
+rosdistro,ros,Add pylint3,https://github.com/ros/rosdistro/pull/21204,0.0,merged,contributor,BMarchi,2019-05-10T13:11:41Z,2019-05-28T12:16:06Z,A.1,A.2
+rosdistro,ros,Add python-pycodestyle,https://github.com/ros/rosdistro/pull/21203,1.0,merged,contributor,BMarchi,2019-05-10T13:06:10Z,2019-05-17T17:27:41Z,A.1,A.2
+rosdistro,ros,Add python3-pycodestyle,https://github.com/ros/rosdistro/pull/21202,1.0,merged,contributor,BMarchi,2019-05-10T13:03:29Z,2019-05-17T17:28:31Z,A.1,A.2
+rosdistro,ros,Add ruby ronn,https://github.com/ros/rosdistro/pull/21201,5.0,merged,contributor,BMarchi,2019-05-10T13:02:57Z,2019-05-21T20:17:53Z,No classification found,No modifications found
+rosdistro,ros,add carla Python API to the depends,https://github.com/ros/rosdistro/pull/21105,1.0,merged,contributor,hakuturu583,2019-05-07T02:39:51Z,2019-05-14T18:18:01Z,A.1,No modifications found
+rosdistro,ros,Add libmodbus5 to base.yaml,https://github.com/ros/rosdistro/pull/21104,2.0,merged,contributor,yotabits,2019-05-07T01:15:16Z,2019-05-08T23:38:50Z,A.1,A.2
+rosdistro,ros,alpine: add first round of ROS2 dependencies,https://github.com/ros/rosdistro/pull/21095,15.0,merged,contributor,russkel,2019-05-06T14:52:32Z,2019-05-17T01:34:16Z,A.2,No modifications found
+rosdistro,ros,[rosdep] qttools5-dev-tools,https://github.com/ros/rosdistro/pull/21034,0.0,merged,contributor,stonier,2019-04-26T15:46:23Z,2019-04-26T17:46:36Z,A.1,No modifications found
+rosdistro,ros,Add python-pycurl python rosdep,https://github.com/ros/rosdistro/pull/21024,1.0,merged,contributor,yotabits,2019-04-26T02:49:23Z,2019-04-30T08:44:22Z,A.1,A.2
+rosdistro,ros,Added python dependency to oyaml pip package,https://github.com/ros/rosdistro/pull/21020,2.0,merged,contributor,yotabits,2019-04-25T08:03:26Z,2019-04-26T02:57:33Z,A.1,No modifications found
+rosdistro,ros,Added UC Berkeley AUTOLAB dependencies to python.yaml,https://github.com/ros/rosdistro/pull/20999,1.0,merged,contributor,visatish,2019-04-23T04:04:00Z,2019-04-23T19:17:34Z,A.1,lint
+rosdistro,ros,Add potrace to rosdistro,https://github.com/ros/rosdistro/pull/20998,0.0,merged,contributor,mvollrath,2019-04-23T01:56:15Z,2019-04-24T07:05:20Z,A.1,A.2
+rosdistro,ros,Add gperf ,https://github.com/ros/rosdistro/pull/20955,2.0,merged,contributor,iluetkeb,2019-04-18T07:25:43Z,2019-04-25T00:31:26Z,A.1,A.2
+rosdistro,ros,make python-tk more symmetric on fedora,https://github.com/ros/rosdistro/pull/20946,0.0,merged,contributor,tfoote,2019-04-16T21:24:39Z,2019-04-16T23:26:38Z,B.1,B.1
+rosdistro,ros,Add python3-tk rosdep key,https://github.com/ros/rosdistro/pull/20944,0.0,merged,contributor,tfoote,2019-04-16T05:31:30Z,2019-04-16T21:22:41Z,A.1,A.2
+rosdistro,ros,rosdep/python: add python-bitarray,https://github.com/ros/rosdistro/pull/20788,1.0,merged,contributor,mgruhler,2019-04-03T12:48:37Z,2019-04-08T18:59:43Z,A.1,B.1
+rosdistro,ros,Add frozendict,https://github.com/ros/rosdistro/pull/20781,2.0,merged,contributor,DaikiMaekawa,2019-04-02T09:14:13Z,2019-04-03T20:37:47Z,A.1,A.2
+rosdistro,ros,Python3-pip,https://github.com/ros/rosdistro/pull/20779,2.0,merged,contributor,Vuwij,2019-04-01T06:43:21Z,2019-04-03T20:39:08Z,A.1,lint
+rosdistro,ros,Initial OpenEmbedded support for rosdistro,https://github.com/ros/rosdistro/pull/20763,6.0,merged,contributor,andre-rosa,2019-03-30T18:59:23Z,2019-05-02T20:30:14Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add qtdeclarative5-controls-plugin,https://github.com/ros/rosdistro/pull/20747,1.0,closed_without_merge,contributor,furushchev,2019-03-29T02:09:07Z,2019-05-28T12:12:20Z,A.1,No modifications found
+rosdistro,ros,add lark-parser for debian via pip,https://github.com/ros/rosdistro/pull/20666,6.0,closed_without_merge,contributor,christianrauch,2019-03-23T01:30:45Z,2019-09-13T18:07:19Z,A.2,No modifications found
+rosdistro,ros,Modernized libflann ubuntu rule.,https://github.com/ros/rosdistro/pull/20643,1.0,merged,contributor,peci1,2019-03-20T13:38:32Z,2019-03-25T14:44:34Z,"A.2, B.1",B.1
+rosdistro,ros,update python-selenium-pip,https://github.com/ros/rosdistro/pull/20642,0.0,merged,contributor,k-okada,2019-03-20T11:05:11Z,2019-03-26T01:10:29Z,A.2,A.2
+rosdistro,ros,rosdep: add python-typing,https://github.com/ros/rosdistro/pull/20608,1.0,merged,contributor,peci1,2019-03-19T15:11:12Z,2019-03-19T19:26:50Z,A.1,No modifications found
+rosdistro,ros,Entry for boost-program-options and boost-random,https://github.com/ros/rosdistro/pull/20590,2.0,merged,contributor,norro,2019-03-18T13:58:51Z,2019-04-02T13:51:07Z,"A.2, A.1",B.1
+rosdistro,ros,add python-backoff,https://github.com/ros/rosdistro/pull/20586,2.0,merged,contributor,tprasadtp,2019-03-17T15:57:52Z,2019-04-03T08:47:02Z,A.1,B.1
+rosdistro,ros,Added python-imageio,https://github.com/ros/rosdistro/pull/20492,3.0,merged,contributor,peci1,2019-03-07T00:48:08Z,2019-03-08T19:41:31Z,A.1,lint
+rosdistro,ros,[dep] Add imgaug-pip.,https://github.com/ros/rosdistro/pull/20491,1.0,merged,contributor,130s,2019-03-07T00:16:38Z,2019-03-07T21:19:34Z,A.1,No modifications found
+rosdistro,ros,Ffmpeg or libav,https://github.com/ros/rosdistro/pull/20475,1.0,closed_without_merge,contributor,peci1,2019-03-05T23:45:47Z,2019-03-06T08:57:20Z,"A.2, A.1, B.1",No modifications found
+rosdistro,ros,add python-pulsectl-pip,https://github.com/ros/rosdistro/pull/20466,1.0,merged,contributor,fmessmer,2019-03-05T17:07:18Z,2019-03-05T21:22:41Z,A.1,No modifications found
+rosdistro,ros,Add libclang-dev,https://github.com/ros/rosdistro/pull/20461,2.0,merged,contributor,gavanderhoorn,2019-03-05T09:33:19Z,2019-03-05T20:59:31Z,A.1,A.2
+rosdistro,ros,add python-webrtcvad-pip,https://github.com/ros/rosdistro/pull/20438,1.0,merged,contributor,benmaidel,2019-03-04T14:46:12Z,2019-03-04T19:58:51Z,A.1,No modifications found
+rosdistro,ros,Add 'cccc' key.,https://github.com/ros/rosdistro/pull/20426,4.0,merged,contributor,gavanderhoorn,2019-03-03T18:28:41Z,2019-03-04T21:14:57Z,A.1,No modifications found
+rosdistro,ros,rosdep: add websocketpp,https://github.com/ros/rosdistro/pull/20339,3.0,merged,contributor,vzts,2019-02-19T08:40:29Z,2019-02-21T23:30:36Z,A.1,B.1
+rosdistro,ros,Condense python-imaging rules for Fedora,https://github.com/ros/rosdistro/pull/20298,8.0,merged,contributor,cottsay,2019-02-13T18:30:03Z,2019-02-22T01:51:54Z,"A.2, B.1",No modifications found
+rosdistro,ros,Add speech-dispatcher,https://github.com/ros/rosdistro/pull/20099,1.0,merged,contributor,tfoote,2019-01-28T23:49:12Z,2019-01-29T00:41:58Z,A.1,No modifications found
+rosdistro,ros,Add python-geocoder-pip,https://github.com/ros/rosdistro/pull/20002,8.0,merged,contributor,Timple,2019-01-21T14:18:52Z,2019-02-26T13:43:48Z,A.1,No modifications found
+rosdistro,ros,Some frameworks for django,https://github.com/ros/rosdistro/pull/19994,0.0,merged,contributor,Vuwij,2019-01-21T06:15:27Z,2019-01-22T22:52:58Z,A.1,No modifications found
+rosdistro,ros,Add ninja-build rosdep key,https://github.com/ros/rosdistro/pull/19976,0.0,merged,contributor,roehling,2019-01-17T11:34:53Z,2019-01-17T22:42:35Z,A.1,No modifications found
+rosdistro,ros,add libopencv-contrib-dev to rosdep,https://github.com/ros/rosdistro/pull/19965,3.0,merged,contributor,samuelba,2019-01-16T14:10:28Z,2019-01-17T22:40:52Z,A.1,No modifications found
+rosdistro,ros,rosdep: add golang-1.10-go specific rule,https://github.com/ros/rosdistro/pull/19950,5.0,closed_without_merge,contributor,Vuwij,2019-01-15T11:11:06Z,2019-01-17T00:14:19Z,A.1,No modifications found
+rosdistro,ros,Added numpy-quaternion to python.yaml ,https://github.com/ros/rosdistro/pull/19944,2.0,merged,contributor,tgaspar,2019-01-15T10:19:10Z,2019-01-17T22:45:49Z,A.1,No modifications found
+rosdistro,ros,Added pip packages: breathe and exhale,https://github.com/ros/rosdistro/pull/19914,3.0,merged,contributor,veimox,2019-01-10T10:59:35Z,2019-01-17T22:48:41Z,A.1,No modifications found
+rosdistro,ros,convert underscore to dash in pip package names,https://github.com/ros/rosdistro/pull/18126,30.0,closed_without_merge,contributor,mikaelarguedas,2018-06-06T00:40:00Z,2020-06-02T14:44:23Z,B.1,No modifications found
+rosdistro,ros,Move some packages from python2 to python3,https://github.com/ros/rosdistro/pull/16109,8.0,closed_without_merge,contributor,patrickelectric,2017-10-17T00:36:08Z,2019-11-25T13:32:44Z,No classification found,No modifications found

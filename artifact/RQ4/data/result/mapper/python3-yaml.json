@@ -1,0 +1,286 @@
+{
+  "arch": [
+    {
+      "name": "python-yaml",
+      "bin_name": "python-yaml",
+      "src_name": "python-yaml",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python bindings for YAML, using fast libYAML library",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "PyYAML-debugsource",
+      "bin_name": "PyYAML-debugsource",
+      "src_name": "PyYAML",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "YAML parser and emitter for Python",
+      "confidence": 1.0
+    },
+    {
+      "name": "PyYAML-debuginfo",
+      "bin_name": "PyYAML-debuginfo",
+      "src_name": "PyYAML",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "YAML parser and emitter for Python",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pyyaml",
+      "bin_name": "python3-pyyaml",
+      "src_name": "PyYAML",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "YAML parser and emitter for Python",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-yaml-pyc",
+      "bin_name": "py3-yaml-pyc",
+      "src_name": "py3-yaml",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-yaml",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-yaml",
+      "bin_name": "py3-yaml",
+      "src_name": "py3-yaml",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python3 bindings for YAML",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-yaml",
+      "bin_name": "python3-yaml",
+      "src_name": "pyyaml",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "PyYAML-debugsource",
+      "bin_name": "PyYAML-debugsource",
+      "src_name": "PyYAML",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "YAML parser and emitter for Python",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-python3-pyyaml",
+      "bin_name": "mingw64-python3-pyyaml",
+      "src_name": "mingw-python-pyyaml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python pyyaml library",
+      "confidence": 1.0
+    },
+    {
+      "name": "PyYAML-debuginfo",
+      "bin_name": "PyYAML-debuginfo",
+      "src_name": "PyYAML",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "YAML parser and emitter for Python",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pyyaml",
+      "bin_name": "python3-pyyaml",
+      "src_name": "PyYAML",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "YAML parser and emitter for Python",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-python3-pyyaml",
+      "bin_name": "mingw32-python3-pyyaml",
+      "src_name": "mingw-python-pyyaml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python pyyaml library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "mingw32-python3-pyyaml",
+      "bin_name": "mingw32-python3-pyyaml",
+      "src_name": "mingw-python-pyyaml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python pyyaml library",
+      "confidence": 1.0
+    },
+    {
+      "name": "PyYAML-debuginfo",
+      "bin_name": "PyYAML-debuginfo",
+      "src_name": "PyYAML",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "YAML parser and emitter for Python",
+      "confidence": 1.0
+    },
+    {
+      "name": "PyYAML-debugsource",
+      "bin_name": "PyYAML-debugsource",
+      "src_name": "PyYAML",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "YAML parser and emitter for Python",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-python3-pyyaml",
+      "bin_name": "mingw64-python3-pyyaml",
+      "src_name": "mingw-python-pyyaml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python pyyaml library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pyyaml",
+      "bin_name": "python3-pyyaml",
+      "src_name": "PyYAML",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "YAML parser and emitter for Python",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "PyYAML",
+      "bin_name": "PyYAML",
+      "src_name": "PyYAML",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "YAML parser and emitter for Python",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-yaml",
+      "bin_name": "python3-yaml",
+      "src_name": "pyyaml",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-yaml",
+      "bin_name": "python3-yaml",
+      "src_name": "pyyaml",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-yaml",
+      "bin_name": "python3-yaml",
+      "src_name": "pyyaml",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-yaml-dbg",
+      "bin_name": "python3-yaml-dbg",
+      "src_name": "pyyaml",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-yaml",
+      "bin_name": "python-yaml",
+      "src_name": "pyyaml",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-yaml-dbg",
+      "bin_name": "python-yaml-dbg",
+      "src_name": "pyyaml",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

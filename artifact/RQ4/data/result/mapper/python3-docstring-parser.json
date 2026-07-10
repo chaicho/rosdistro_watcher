@@ -1,0 +1,15 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "python3-docstring-parser",
+      "bin_name": "python3-docstring-parser",
+      "src_name": "docstring-parser",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

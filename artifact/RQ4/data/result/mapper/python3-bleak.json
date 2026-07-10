@@ -1,0 +1,50 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "python3-bleak",
+      "bin_name": "python3-bleak",
+      "src_name": "bleak",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-bleak-doc",
+      "bin_name": "python-bleak-doc",
+      "src_name": "bleak",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python-bleak-doc",
+      "bin_name": "python-bleak-doc",
+      "src_name": "bleak",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-bleak",
+      "bin_name": "python3-bleak",
+      "src_name": "bleak",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

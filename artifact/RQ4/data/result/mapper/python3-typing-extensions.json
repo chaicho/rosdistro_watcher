@@ -1,0 +1,143 @@
+{
+  "alpine_edge": [
+    {
+      "name": "py3-typing-extensions-pyc",
+      "bin_name": "py3-typing-extensions-pyc",
+      "src_name": "py3-typing-extensions",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-typing-extensions",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-typing-extensions",
+      "bin_name": "py3-typing-extensions",
+      "src_name": "py3-typing-extensions",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Backported and Experimental Type Hints for Python 3.5+",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-typing_extensions",
+      "bin_name": "python-typing_extensions",
+      "src_name": "python-typing_extensions",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Backported and Experimental Type Hints for Python 3.8+",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-typing-extensions",
+      "bin_name": "python3-typing-extensions",
+      "src_name": "python-typing-extensions",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-typing-extensions",
+      "bin_name": "python3-typing-extensions",
+      "src_name": "python-typing-extensions",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Backported and Experimental Type Hints for Python",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-typing-extensions",
+      "bin_name": "python3-typing-extensions",
+      "src_name": "python-typing-extensions",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python Typing Extensions",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-typing-extensions",
+      "bin_name": "python3-typing-extensions",
+      "src_name": "python-typing-extensions",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Backported and Experimental Type Hints for Python",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "typing-extensions",
+      "bin_name": "typing-extensions",
+      "src_name": "typing-extensions",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "Backported and Experimental Type Hints for Python 3.9+",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-typing-extensions",
+      "bin_name": "python3-typing-extensions",
+      "src_name": "python-typing-extensions",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-typing-extensions",
+      "bin_name": "python3-typing-extensions",
+      "src_name": "python-typing-extensions",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-typing-extensions",
+      "bin_name": "python3-typing-extensions",
+      "src_name": "python-typing-extensions",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

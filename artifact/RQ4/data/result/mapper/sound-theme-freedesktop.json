@@ -1,0 +1,119 @@
+{
+  "rhel_9": [
+    {
+      "name": "sound-theme-freedesktop",
+      "bin_name": "sound-theme-freedesktop",
+      "src_name": "sound-theme-freedesktop",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "freedesktop.org sound theme",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "sound-theme-freedesktop",
+      "bin_name": "sound-theme-freedesktop",
+      "src_name": "sound-theme-freedesktop",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Desktop sound theme from Freedesktop",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "sound-theme-freedesktop",
+      "bin_name": "sound-theme-freedesktop",
+      "src_name": "sound-theme-freedesktop",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Freedesktop sound theme",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "sound-theme-freedesktop",
+      "bin_name": "sound-theme-freedesktop",
+      "src_name": "sound-theme-freedesktop",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "sound-theme-freedesktop",
+      "bin_name": "sound-theme-freedesktop",
+      "src_name": "sound-theme-freedesktop",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "freedesktop.org sound theme",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "sound-theme-freedesktop",
+      "bin_name": "sound-theme-freedesktop",
+      "src_name": "sound-theme-freedesktop",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "freedesktop.org sound theme",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "sound-theme-freedesktop",
+      "bin_name": "sound-theme-freedesktop",
+      "src_name": "sound-theme-freedesktop",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "sound-theme-freedesktop",
+      "bin_name": "sound-theme-freedesktop",
+      "src_name": "sound-theme-freedesktop",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "sound-theme-freedesktop",
+      "bin_name": "sound-theme-freedesktop",
+      "src_name": "sound-theme-freedesktop",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

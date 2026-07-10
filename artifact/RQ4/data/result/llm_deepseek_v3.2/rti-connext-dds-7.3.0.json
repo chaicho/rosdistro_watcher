@@ -1,0 +1,132 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "rti-connext-dds-7.3.0-ros",
+      "bin_name": "rti-connext-dds-7.3.0-ros",
+      "src_name": "rti-connext-dds-7.3.0-ros",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "7.3.0.0-5-4bullseye",
+      "description": "RTI Connext 7.3.0 for ROS 2 RTI Connext is the world's leading architecture for developing intelligent distributed systems. . This package contains all files required to build and run the RTI Connext RMW for ROS 2.",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "rti-connext-dds",
+      "bin_name": "rti-connext-dds",
+      "src_name": null,
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for rti-connext-dds-7.3.0-ros",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "ros-humble-rmw-connext-cpp",
+      "bin_name": "ros-humble-rmw-connext-cpp",
+      "src_name": null,
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for rti-connext-dds-7.3.0-ros",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "ros-humble-rmw-connext-cpp",
+      "bin_name": "ros-humble-rmw-connext-cpp",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for rti-connext-dds-7.3.0-ros",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "ros-humble-rmw-connext-cpp",
+      "bin_name": "ros-humble-rmw-connext-cpp",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for rti-connext-dds-7.3.0-ros",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "ros-humble-rmw-connext-cpp",
+      "bin_name": "ros-humble-rmw-connext-cpp",
+      "src_name": null,
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for rti-connext-dds-7.3.0-ros",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "ros-foxy-rmw-connext-cpp",
+      "bin_name": "ros-foxy-rmw-connext-cpp",
+      "src_name": null,
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for rti-connext-dds-7.3.0-ros",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "ros-humble-rmw-connext-cpp",
+      "bin_name": "ros-humble-rmw-connext-cpp",
+      "src_name": null,
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for rti-connext-dds-7.3.0-ros",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "ros-foxy-rmw-connext-cpp",
+      "bin_name": "ros-foxy-rmw-connext-cpp",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for rti-connext-dds-7.3.0-ros",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "ros-humble-rmw-connext-cpp",
+      "bin_name": "ros-humble-rmw-connext-cpp",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for rti-connext-dds-7.3.0-ros",
+      "confidence": 1.0
+    }
+  ]
+}

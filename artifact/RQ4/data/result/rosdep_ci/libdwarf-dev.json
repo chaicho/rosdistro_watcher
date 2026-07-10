@@ -1,0 +1,132 @@
+{
+  "alpine_edge": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "libdwarf",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "2.1.0-r0",
+      "description": "Found by rosdep CI (exact) in alpine edge",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils (20210528-1)",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "20210528-1+b1",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libdwarf-devel",
+      "bin_name": "libdwarf-devel",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "1:2.1.0-3.fc43",
+      "description": "Found by rosdep CI (suggested) in fedora 42",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libdwarf-devel",
+      "bin_name": "libdwarf-devel",
+      "src_name": "libdwarf",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "1:2.1.0-3.fc43",
+      "description": "Found by rosdep CI (suggested) in fedora 43",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "libdwarf-devel",
+      "bin_name": "libdwarf-devel",
+      "src_name": "libdwarf",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": "x86_64",
+      "version": "20161124-lp152.3.9",
+      "description": "Found by rosdep CI (suggested) in opensuse 15.2",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "libdwarf-devel",
+      "bin_name": "libdwarf-devel",
+      "src_name": "libdwarf",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": "x86_64",
+      "version": "1:0.3.4-1.el9.1",
+      "description": "Found by rosdep CI (suggested) in rhel 8",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "libdwarf-devel",
+      "bin_name": "libdwarf-devel",
+      "src_name": "libdwarf",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "1:0.3.4-1.el9.1",
+      "description": "Found by rosdep CI (suggested) in rhel 9",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "20200114-1",
+      "description": "Found by rosdep CI (exact) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "20210528-1",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libdwarf-dev",
+      "bin_name": "libdwarf-dev",
+      "src_name": "dwarfutils",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "20210528-1build2",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "fedora_43": [
+    {
+      "name": "libadwaita-devel",
+      "bin_name": "libadwaita-devel",
+      "src_name": "libadwaita",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "1.8.1-1.fc43",
+      "description": "Development files for libadwaita",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "gtk2-theming-engine-adwaita-32bit",
+      "bin_name": "gtk2-theming-engine-adwaita-32bit",
+      "src_name": "gnome-themes-standard",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "3.22.3-lp152.5.1",
+      "description": "Adwaita GTK+ Theming Engine",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "libadwaita-1.so=0-64",
+      "bin_name": "libadwaita",
+      "src_name": "libadwaita",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "1:1.8.3-1",
+      "description": "Building blocks for modern adaptive GNOME applications",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "libadwaita-devel",
+      "bin_name": "libadwaita-devel",
+      "src_name": "libadwaita",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "1.4.2-2.el9",
+      "description": "Development files for libadwaita",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libadwaita-devel",
+      "bin_name": "libadwaita-devel",
+      "src_name": "libadwaita",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "1.7.0-1.fc42",
+      "description": "Development files for libadwaita",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libadwaita-1-dev",
+      "bin_name": "libadwaita-1-dev",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "1.1.0-1ubuntu2",
+      "description": "Development files for libadwaita",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "libadwaita-dev",
+      "bin_name": "libadwaita-dev",
+      "src_name": "libadwaita",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "1.9.1-r0",
+      "description": "Building blocks for modern GNOME applications (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libadwaita-1-dev",
+      "bin_name": "libadwaita-1-dev",
+      "src_name": "libadwaita-1",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "1.5.0-1ubuntu2",
+      "description": "Development files for libadwaita",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "adwaita-gtk2-theme",
+      "bin_name": "adwaita-gtk2-theme",
+      "src_name": "gnome-themes-standard",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "3.22.3-4.el8",
+      "description": "Adwaita gtk2 theme",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "gnome-themes-extra",
+      "bin_name": "gnome-themes-extra",
+      "src_name": "gnome-themes-extra",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "3.28-1ubuntu1",
+      "description": "Adwaita GTK+ 2 theme — engine",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libadwaita-1-dev",
+      "bin_name": "libadwaita-1-dev",
+      "src_name": "libadwaita-1",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "1.2.2-1",
+      "description": "Development files for libadwaita",
+      "confidence": 1.0
+    }
+  ]
+}

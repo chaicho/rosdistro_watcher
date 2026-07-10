@@ -1,0 +1,106 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "qml6-module-qt5compat-graphicaleffects",
+      "bin_name": "qml6-module-qt5compat-graphicaleffects",
+      "src_name": "qt6-5compat",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "6.4.2-4build3",
+      "description": "Qt 6 Qt5Compat QML module",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "qt6-qt5compat",
+      "bin_name": "qt6-qt5compat",
+      "src_name": null,
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for qml6-module-qt5compat-graphicaleffects",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "qt6-5compat",
+      "bin_name": "qt6-5compat",
+      "src_name": null,
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for qml6-module-qt5compat-graphicaleffects",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "qml6-module-qt5compat-graphicaleffects",
+      "bin_name": "qml6-module-qt5compat-graphicaleffects",
+      "src_name": null,
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for qml6-module-qt5compat-graphicaleffects",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "qt6-qt5compat-qml",
+      "bin_name": "qt6-qt5compat-qml",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for qml6-module-qt5compat-graphicaleffects",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "qt6-qt5compat-qml",
+      "bin_name": "qt6-qt5compat-qml",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for qml6-module-qt5compat-graphicaleffects",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "qt6-qt5compat",
+      "bin_name": "qt6-qt5compat",
+      "src_name": null,
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for qml6-module-qt5compat-graphicaleffects",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "qml6-module-qt5compat-graphicaleffects",
+      "bin_name": "qml6-module-qt5compat-graphicaleffects",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for qml6-module-qt5compat-graphicaleffects",
+      "confidence": 1.0
+    }
+  ]
+}

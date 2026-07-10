@@ -1,0 +1,67 @@
+{
+  "fedora_42": [
+    {
+      "name": "python3-docstring-parser",
+      "bin_name": "python3-docstring-parser",
+      "src_name": "python-docstring-parser",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "0.16-2.fc42",
+      "description": "Found by rosdep CI (exact) in fedora 42",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-docstring-parser",
+      "bin_name": "python3-docstring-parser",
+      "src_name": "python-docstring-parser",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "0.17.0-3.fc43",
+      "description": "Found by rosdep CI (exact) in fedora 43",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-docstring-parser",
+      "bin_name": "python3-docstring-parser",
+      "src_name": "docstring-parser",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "0.15-3",
+      "description": "Found by rosdep CI (suggested) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-docstring-parser",
+      "bin_name": "python3-docstring-parser",
+      "src_name": "docstring-parser",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "0.15-3",
+      "description": "Found by rosdep CI (suggested) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-docstring-parser",
+      "bin_name": "python3-docstring-parser",
+      "src_name": "docstring-parser",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "0.15-3",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

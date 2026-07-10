@@ -1,0 +1,482 @@
+{
+  "rhel_9": [
+    {
+      "name": "gobject-introspection-debugsource",
+      "bin_name": "gobject-introspection-debugsource",
+      "src_name": "gobject-introspection",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection-debuginfo",
+      "bin_name": "gobject-introspection-debuginfo",
+      "src_name": "gobject-introspection",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection-devel",
+      "bin_name": "gobject-introspection-devel",
+      "src_name": "gobject-introspection",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection",
+      "bin_name": "gobject-introspection",
+      "src_name": "gobject-introspection",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "gobject-introspection-doc",
+      "bin_name": "gobject-introspection-doc",
+      "src_name": "gobject-introspection",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries (documentation)",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection-dev",
+      "bin_name": "gobject-introspection-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries (development files)",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection",
+      "bin_name": "gobject-introspection",
+      "src_name": "gobject-introspection",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "libgirepository",
+      "bin_name": "libgirepository",
+      "src_name": "gobject-introspection",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries - runtime library",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection",
+      "bin_name": "gobject-introspection",
+      "src_name": "gobject-introspection",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection-runtime",
+      "bin_name": "gobject-introspection-runtime",
+      "src_name": "gobject-introspection",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries - runtime",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository-1.0-1",
+      "bin_name": "libgirepository-1.0-1",
+      "src_name": "gobject-introspection",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection",
+      "bin_name": "gobject-introspection",
+      "src_name": "gobject-introspection",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository1.0-doc",
+      "bin_name": "libgirepository1.0-doc",
+      "src_name": "gobject-introspection",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-freedesktop",
+      "bin_name": "gir1.2-freedesktop",
+      "src_name": "gobject-introspection",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-glib-2.0",
+      "bin_name": "gir1.2-glib-2.0",
+      "src_name": "gobject-introspection",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "gobject-introspection-devel",
+      "bin_name": "gobject-introspection-devel",
+      "src_name": "gobject-introspection",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection",
+      "bin_name": "gobject-introspection",
+      "src_name": "gobject-introspection",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "gobject-introspection-devel",
+      "bin_name": "gobject-introspection-devel",
+      "src_name": "gobject-introspection",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection",
+      "bin_name": "gobject-introspection",
+      "src_name": "gobject-introspection",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Introspection system for GObject-based libraries",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "gir1.2-glib-2.0",
+      "bin_name": "gir1.2-glib-2.0",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection",
+      "bin_name": "gobject-introspection",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-freedesktop",
+      "bin_name": "gir1.2-freedesktop",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository-1.0-1",
+      "bin_name": "libgirepository-1.0-1",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository1.0-doc",
+      "bin_name": "libgirepository1.0-doc",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository-1.0-1",
+      "bin_name": "libgirepository-1.0-1",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-glib-2.0",
+      "bin_name": "gir1.2-glib-2.0",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection",
+      "bin_name": "gobject-introspection",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository1.0-doc",
+      "bin_name": "libgirepository1.0-doc",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-freedesktop",
+      "bin_name": "gir1.2-freedesktop",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository-1.0-dev",
+      "bin_name": "libgirepository-1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-girepository-2.0",
+      "bin_name": "gir1.2-girepository-2.0",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection-bin",
+      "bin_name": "gobject-introspection-bin",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository-1.0-1",
+      "bin_name": "libgirepository-1.0-1",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gobject-introspection",
+      "bin_name": "gobject-introspection",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-freedesktop",
+      "bin_name": "gir1.2-freedesktop",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-freedesktop-dev",
+      "bin_name": "gir1.2-freedesktop-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "gir1.2-girepository-2.0-dev",
+      "bin_name": "gir1.2-girepository-2.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libgirepository1.0-doc",
+      "bin_name": "libgirepository1.0-doc",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": "pytest-dependency",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.5.1-5",
+      "description": "Manages dependencies of pytest test cases (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-pytest-dependency",
+      "bin_name": "py3-pytest-dependency",
+      "src_name": null,
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pytest-dependency",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-pytest-dependency",
+      "bin_name": "python-pytest-dependency",
+      "src_name": null,
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pytest-dependency",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": null,
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pytest-dependency",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pytest-dependency",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pytest-dependency",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "pytest-dependency",
+      "bin_name": "pytest-dependency",
+      "src_name": null,
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pytest-dependency",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-pytest-dependency",
+      "confidence": 1.0
+    }
+  ]
+}

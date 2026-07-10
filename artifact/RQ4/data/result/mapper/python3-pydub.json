@@ -1,0 +1,80 @@
+{
+  "arch": [
+    {
+      "name": "python-pydub",
+      "bin_name": "python-pydub",
+      "src_name": "python-pydub",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Manipulate audio with a simple and easy high level interface",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-pydub",
+      "bin_name": "python3-pydub",
+      "src_name": "python-pydub",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "pydub",
+      "bin_name": "pydub",
+      "src_name": "pydub",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "Manipulate audio with an simple and easy high level interface",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-pydub",
+      "bin_name": "python3-pydub",
+      "src_name": "python-pydub",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-pydub",
+      "bin_name": "python3-pydub",
+      "src_name": "python-pydub",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-pydub",
+      "bin_name": "python3-pydub",
+      "src_name": "python-pydub",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

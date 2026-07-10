@@ -1,0 +1,15 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "rti-connext-dds-7.3.0-ros",
+      "bin_name": "rti-connext-dds-7.3.0-ros",
+      "src_name": "rti-connext-dds-7.3.0-ros",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "7.3.0.0-5-4bullseye",
+      "description": "RTI Connext 7.3.0 for ROS 2 RTI Connext is the world's leading architecture for developing intelligent distributed systems. . This package contains all files required to build and run the RTI Connext RMW for ROS 2.",
+      "confidence": 1.0
+    }
+  ]
+}

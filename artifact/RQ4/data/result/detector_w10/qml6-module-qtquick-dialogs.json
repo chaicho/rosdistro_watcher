@@ -1,0 +1,119 @@
+{
+  "alpine_edge": [
+    {
+      "name": "qt6-qtdeclarative",
+      "bin_name": "qt6-qtdeclarative",
+      "src_name": "qt6-qtdeclarative",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "6.11.1-r1",
+      "description": "Classes for QML and JavaScript languages",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "qt6-qtdeclarative",
+      "bin_name": "qt6-qtdeclarative",
+      "src_name": "qt6-qtdeclarative",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "6.6.2-1.el9",
+      "description": "Qt6 - QtDeclarative component",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "qml6-module-qtquick-dialogs",
+      "bin_name": "qml6-module-qtquick-dialogs",
+      "src_name": "qt6-declarative",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "6.2.4+dfsg-3ubuntu1",
+      "description": "Qt 6 Quick Dialogs QML module",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "qml6-module-qtquick-dialogs",
+      "bin_name": "qml6-module-qtquick-dialogs",
+      "src_name": "qt6-declarative",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "6.4.2+dfsg-4build3",
+      "description": "Qt 6 Quick Dialogs QML module",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "qt6-qtdeclarative",
+      "bin_name": "qt6-qtdeclarative",
+      "src_name": "qt6-qtdeclarative",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "6.8.2-1.fc42",
+      "description": "Qt6 - QtDeclarative component",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "qml6-module-qtquick-dialogs",
+      "bin_name": "qml6-module-qtquick-dialogs",
+      "src_name": "qt6-declarative",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "6.4.2+dfsg-1",
+      "description": "Qt 6 Quick Dialogs QML module",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "qt6-declarative",
+      "bin_name": "qt6-declarative",
+      "src_name": "qt6-declarative",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "6.10.1-2",
+      "description": "Classes for QML and JavaScript languages",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "qt6-qtdeclarative",
+      "bin_name": "qt6-qtdeclarative",
+      "src_name": "qt6-qtdeclarative",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "6.9.2-1.fc43",
+      "description": "Qt6 - QtDeclarative component",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "qml-module-qtquick-dialogs",
+      "bin_name": "qml-module-qtquick-dialogs",
+      "src_name": "qtquickcontrols-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "",
+      "description": "Qt 5 Dialogs QML module",
+      "confidence": 1.0
+    }
+  ]
+}

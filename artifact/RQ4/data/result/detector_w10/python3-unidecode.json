@@ -1,0 +1,158 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "unidecode",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "1.3.6-1",
+      "description": "ASCII transliterations of Unicode text (Python 3 module)",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "python-unidecode",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "1.3.4-8.el9",
+      "description": "US-ASCII transliterations of Unicode text",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "python-unidecode",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "1.3.4-8.el8",
+      "description": "US-ASCII transliterations of Unicode text",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "python-unidecode",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "1.3.8-4.fc42",
+      "description": "US-ASCII transliterations of Unicode text",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "python-unidecode",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "1.4.0-3.fc43",
+      "description": "US-ASCII transliterations of Unicode text",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "unidecode",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "1.3.8-1",
+      "description": "ASCII transliterations of Unicode text (Python 3 module)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "unidecode",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "1.1.1-3build1",
+      "description": "ASCII transliterations of Unicode text (Python 3 module)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-unidecode",
+      "bin_name": "python-unidecode",
+      "src_name": "python-unidecode",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "1.4.0-3",
+      "description": "ASCII transliterations of Unicode text",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "unidecode",
+      "bin_name": "unidecode",
+      "src_name": "unidecode",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "1.4.0",
+      "description": "ASCII transliterations of Unicode text",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-unidecode",
+      "bin_name": "py3-unidecode",
+      "src_name": "py3-unidecode",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "1.4.0-r1",
+      "description": "Python3 ASCII transliterations of Unicode text",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python2-Unidecode",
+      "bin_name": "python2-Unidecode",
+      "src_name": "python-Unidecode",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "1.1.1-lp152.1.1",
+      "description": "ASCII transliterations of Unicode text",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "unidecode",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "1.3.3-1",
+      "description": "ASCII transliterations of Unicode text (Python 3 module)",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+# Keep the Docker build context focused on reproducible source and artifact data.
+*
+
+!Dockerfile
+!.dockerignore
+!docker/
+!docker/**
+!artifact/
+!artifact/**
+!rosdep/
+!rosdep/**
+!rosdep_auditor/
+!rosdep_auditor/**
+!README.md
+!LICENSE.md
+!STATUS.md
+!REQUIREMENTS.md
+**/__pycache__/
+**/.pytest_cache/
+**/*.egg-info/
+**/.DS_Store
+**/*.pyc
+**/*.pyo
+CLAUDE.md
+
+# Local/generated data that is too large or environment-specific for image builds.
+rosdep_cache/
+logs/
+logs copy/
+temp/
+datas/
+dependency_rule_inspector/
+*.log
+*.out
+nohup.out

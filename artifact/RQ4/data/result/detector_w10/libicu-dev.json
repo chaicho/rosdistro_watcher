@@ -1,0 +1,158 @@
+{
+  "arch": [
+    {
+      "name": "libicuio.so=78-64",
+      "bin_name": "icu",
+      "src_name": "icu",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "78.2-1",
+      "description": "International Components for Unicode library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "76.1-4.fc42",
+      "description": "Development files for International Components for Unicode",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "60.3-2.el8_1",
+      "description": "Development files for International Components for Unicode",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "67.1-10.el9_6",
+      "description": "Development files for International Components for Unicode",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "icu",
+      "bin_name": "icu",
+      "src_name": "icu",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.0.1",
+      "description": "Integrated Cognitive User Assistance",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "icu-dev",
+      "bin_name": "icu-dev",
+      "src_name": "icu",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "78.1-r0",
+      "description": "International Components for Unicode library (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "72.1-3+deb12u1",
+      "description": "Development files for International Components for Unicode",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "77.1-1.fc43",
+      "description": "Development files for International Components for Unicode",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "65.1-lp152.2.1",
+      "description": "Development files for the ICU library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "66.1-2ubuntu2",
+      "description": "Development files for International Components for Unicode",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "74.2-1ubuntu3",
+      "description": "Development files for International Components for Unicode",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "70.1-2",
+      "description": "Development files for International Components for Unicode",
+      "confidence": 1.0
+    }
+  ]
+}

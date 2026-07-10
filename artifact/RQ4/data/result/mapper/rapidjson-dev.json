@@ -1,0 +1,207 @@
+{
+  "rhel_9": [
+    {
+      "name": "rapidjson-devel",
+      "bin_name": "rapidjson-devel",
+      "src_name": "rapidjson",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Fast JSON parser and generator for C++",
+      "confidence": 1.0
+    },
+    {
+      "name": "rapidjson-doc",
+      "bin_name": "rapidjson-doc",
+      "src_name": "rapidjson",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Fast JSON parser and generator for C++",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "rapidjson",
+      "bin_name": "rapidjson",
+      "src_name": "rapidjson",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Fast JSON parser/generator for C++ with both SAX/DOM style API",
+      "confidence": 1.0
+    },
+    {
+      "name": "rapidjson-dev",
+      "bin_name": "rapidjson-dev",
+      "src_name": "rapidjson",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Fast JSON parser/generator for C++ with both SAX/DOM style API (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "rapidjson",
+      "bin_name": "rapidjson",
+      "src_name": "rapidjson",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Fast JSON parser/generator for C++ with both SAX/DOM style API",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "rapidjson-dev",
+      "bin_name": "rapidjson-dev",
+      "src_name": "rapidjson",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rapidjson-doc",
+      "bin_name": "rapidjson-doc",
+      "src_name": "rapidjson",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "rapidjson-doc",
+      "bin_name": "rapidjson-doc",
+      "src_name": "rapidjson",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Fast JSON parser and generator for C++",
+      "confidence": 1.0
+    },
+    {
+      "name": "rapidjson-devel",
+      "bin_name": "rapidjson-devel",
+      "src_name": "rapidjson",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Fast JSON parser and generator for C++",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "rapidjson-devel",
+      "bin_name": "rapidjson-devel",
+      "src_name": "rapidjson",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Fast JSON parser and generator for C++",
+      "confidence": 1.0
+    },
+    {
+      "name": "rapidjson-doc",
+      "bin_name": "rapidjson-doc",
+      "src_name": "rapidjson",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Fast JSON parser and generator for C++",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "rapidjson-doc",
+      "bin_name": "rapidjson-doc",
+      "src_name": "rapidjson",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rapidjson-dev",
+      "bin_name": "rapidjson-dev",
+      "src_name": "rapidjson",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "rapidjson-doc",
+      "bin_name": "rapidjson-doc",
+      "src_name": "rapidjson",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rapidjson-dev",
+      "bin_name": "rapidjson-dev",
+      "src_name": "rapidjson",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "rapidjson-dev",
+      "bin_name": "rapidjson-dev",
+      "src_name": "rapidjson",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "rapidjson-doc",
+      "bin_name": "rapidjson-doc",
+      "src_name": "rapidjson",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

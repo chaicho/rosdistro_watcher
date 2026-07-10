@@ -1,0 +1,482 @@
+{
+  "rhel_9": [
+    {
+      "name": "zstd",
+      "bin_name": "zstd",
+      "src_name": "zstd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd-devel",
+      "bin_name": "libzstd-devel",
+      "src_name": "zstd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd-debuginfo",
+      "bin_name": "zstd-debuginfo",
+      "src_name": "zstd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd",
+      "bin_name": "libzstd",
+      "src_name": "zstd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd-static",
+      "bin_name": "libzstd-static",
+      "src_name": "zstd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd-debugsource",
+      "bin_name": "zstd-debugsource",
+      "src_name": "zstd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "zstd-doc",
+      "bin_name": "zstd-doc",
+      "src_name": "zstd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstandard - Fast real-time compression algorithm (documentation)",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd-static",
+      "bin_name": "zstd-static",
+      "src_name": "zstd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstandard - Fast real-time compression algorithm (static library)",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd-frugal",
+      "bin_name": "zstd-frugal",
+      "src_name": "zstd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstandard - Fast real-time compression algorithm (frugal cli)",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd-libs",
+      "bin_name": "zstd-libs",
+      "src_name": "zstd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstandard - Fast real-time compression algorithm (libraries)",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd",
+      "bin_name": "zstd",
+      "src_name": "zstd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd-dev",
+      "bin_name": "zstd-dev",
+      "src_name": "zstd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstandard - Fast real-time compression algorithm (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "lib32-zstd",
+      "bin_name": "lib32-zstd",
+      "src_name": "lib32-zstd",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstandard - Fast real-time compression algorithm (32-bit)",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd",
+      "bin_name": "zstd",
+      "src_name": "zstd",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libzstd1",
+      "bin_name": "libzstd1",
+      "src_name": "libzstd",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd",
+      "bin_name": "zstd",
+      "src_name": "libzstd",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd1-udeb",
+      "bin_name": "libzstd1-udeb",
+      "src_name": "libzstd",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd-dev",
+      "bin_name": "libzstd-dev",
+      "src_name": "libzstd",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "zstd",
+      "bin_name": "zstd",
+      "src_name": "zstd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-zstd",
+      "bin_name": "mingw64-zstd",
+      "src_name": "mingw-zstd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows zstd library",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd",
+      "bin_name": "libzstd",
+      "src_name": "zstd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd-static",
+      "bin_name": "libzstd-static",
+      "src_name": "zstd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-zstd",
+      "bin_name": "mingw32-zstd",
+      "src_name": "mingw-zstd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows zstd library",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd-devel",
+      "bin_name": "libzstd-devel",
+      "src_name": "zstd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "mingw32-zstd",
+      "bin_name": "mingw32-zstd",
+      "src_name": "mingw-zstd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows zstd library",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd",
+      "bin_name": "zstd",
+      "src_name": "zstd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd-devel",
+      "bin_name": "libzstd-devel",
+      "src_name": "zstd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-zstd",
+      "bin_name": "mingw64-zstd",
+      "src_name": "mingw-zstd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows zstd library",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd",
+      "bin_name": "libzstd",
+      "src_name": "zstd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd-static",
+      "bin_name": "libzstd-static",
+      "src_name": "zstd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Zstd compression library",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libzstd1",
+      "bin_name": "libzstd1",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd",
+      "bin_name": "zstd",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd1-udeb",
+      "bin_name": "libzstd1-udeb",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd-dev",
+      "bin_name": "libzstd-dev",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "zstd",
+      "bin_name": "zstd",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd1-udeb",
+      "bin_name": "libzstd1-udeb",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd-dev",
+      "bin_name": "libzstd-dev",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd1",
+      "bin_name": "libzstd1",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libzstd-dev",
+      "bin_name": "libzstd-dev",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd1",
+      "bin_name": "libzstd1",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "zstd",
+      "bin_name": "zstd",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libzstd1-udeb",
+      "bin_name": "libzstd1-udeb",
+      "src_name": "libzstd",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

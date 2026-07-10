@@ -1,0 +1,145 @@
+{
+  "ubuntu_focal": [
+    {
+      "name": "libqt5widgets5",
+      "bin_name": "libqt5widgets5",
+      "src_name": "qtbase-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "5.12.8+dfsg-0ubuntu1",
+      "description": "Qt 5 widgets module",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "qt5-qtbase-gui",
+      "bin_name": "qt5-qtbase-gui",
+      "src_name": "qt5-qtbase",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "5.15.16-2.fc42",
+      "description": "Qt5 GUI-related libraries",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libqt5widgets5",
+      "bin_name": "libqt5widgets5",
+      "src_name": "qtbase-opensource-src",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "5.15.8+dfsg-11+deb12u3",
+      "description": "Qt 5 widgets module",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libqt5widgets5t64",
+      "bin_name": "libqt5widgets5t64",
+      "src_name": "qtbase-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "5.15.13+dfsg-1ubuntu1",
+      "description": "Qt 5 widgets module",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "qt5-qtbase-gui",
+      "bin_name": "qt5-qtbase-gui",
+      "src_name": "qt5-qtbase",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "5.15.3-7.el8",
+      "description": "Qt5 GUI-related libraries",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "qt5-qtbase-x11",
+      "bin_name": "qt5-qtbase-x11",
+      "src_name": "qt5-qtbase",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "5.15.18_git20251101-r0",
+      "description": "Qt5 GUI-related libraries",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libqt5widgets5",
+      "bin_name": "libqt5widgets5",
+      "src_name": "qtbase-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "5.15.3+dfsg-2",
+      "description": "Qt 5 widgets module",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "qt5-base",
+      "bin_name": "qt5-base",
+      "src_name": "qt5-base",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "5.15.18+kde+r109-2",
+      "description": "A cross-platform application and UI framework",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "libQt5Widgets5",
+      "bin_name": "libQt5Widgets5",
+      "src_name": "libqt5-qtbase",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "5.12.7-lp152.2.3",
+      "description": "Qt 5 Widgets Library",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "qt5-qtbase-gui",
+      "bin_name": "qt5-qtbase-gui",
+      "src_name": "qt5-qtbase",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "5.15.9-11.el9_6",
+      "description": "Qt5 GUI-related libraries",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "qt5-qtbase-gui",
+      "bin_name": "qt5-qtbase-gui",
+      "src_name": "qt5-qtbase",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "5.15.17-5.fc43",
+      "description": "Qt5 GUI-related libraries",
+      "confidence": 1.0
+    }
+  ]
+}

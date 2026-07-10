@@ -1,0 +1,429 @@
+{
+  "rhel_9": [
+    {
+      "name": "python3-lxml",
+      "bin_name": "python3-lxml",
+      "src_name": "python-lxml",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-lxml-debuginfo",
+      "bin_name": "python-lxml-debuginfo",
+      "src_name": "python-lxml",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-lxml-debugsource",
+      "bin_name": "python-lxml-debugsource",
+      "src_name": "python-lxml",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-lxml-pyc",
+      "bin_name": "py3-lxml-pyc",
+      "src_name": "py3-lxml",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-lxml",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-lxml",
+      "bin_name": "py3-lxml",
+      "src_name": "py3-lxml",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python3 LXML Library",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-lxml",
+      "bin_name": "python-lxml",
+      "src_name": "python-lxml",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python binding for the libxml2 and libxslt libraries",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-lxml-docs",
+      "bin_name": "python-lxml-docs",
+      "src_name": "python-lxml",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python binding for the libxml2 and libxslt libraries (docs)",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-lxml",
+      "bin_name": "python3-lxml",
+      "src_name": "lxml",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-lxml-doc",
+      "bin_name": "python-lxml-doc",
+      "src_name": "lxml",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python-lxml-debuginfo",
+      "bin_name": "python-lxml-debuginfo",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-lxml-debugsource",
+      "bin_name": "python-lxml-debugsource",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml",
+      "bin_name": "python3-lxml",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml+html5",
+      "bin_name": "python3-lxml+html5",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml+cssselect",
+      "bin_name": "python3-lxml+cssselect",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml+html_clean",
+      "bin_name": "python3-lxml+html_clean",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-python3-lxml",
+      "bin_name": "mingw64-python3-lxml",
+      "src_name": "mingw-python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python lxml library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml+htmlsoup",
+      "bin_name": "python3-lxml+htmlsoup",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-python3-lxml",
+      "bin_name": "mingw32-python3-lxml",
+      "src_name": "mingw-python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python lxml library",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-lxml+htmlsoup",
+      "bin_name": "python3-lxml+htmlsoup",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-lxml-debugsource",
+      "bin_name": "python-lxml-debugsource",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml",
+      "bin_name": "python3-lxml",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-python3-lxml",
+      "bin_name": "mingw32-python3-lxml",
+      "src_name": "mingw-python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python lxml library",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-lxml-debuginfo",
+      "bin_name": "python-lxml-debuginfo",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml+html5",
+      "bin_name": "python3-lxml+html5",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml+html_clean",
+      "bin_name": "python3-lxml+html_clean",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml+cssselect",
+      "bin_name": "python3-lxml+cssselect",
+      "src_name": "python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "XML processing library combining libxml2/libxslt with the ElementTree API",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-python3-lxml",
+      "bin_name": "mingw64-python3-lxml",
+      "src_name": "mingw-python-lxml",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW Windows Python lxml library",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "lxml",
+      "bin_name": "lxml",
+      "src_name": "lxml",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API.",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python-lxml-doc",
+      "bin_name": "python-lxml-doc",
+      "src_name": "lxml",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml",
+      "bin_name": "python3-lxml",
+      "src_name": "lxml",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python-lxml-doc",
+      "bin_name": "python-lxml-doc",
+      "src_name": "lxml",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml",
+      "bin_name": "python3-lxml",
+      "src_name": "lxml",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python-lxml-dbg",
+      "bin_name": "python-lxml-dbg",
+      "src_name": "lxml",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml",
+      "bin_name": "python3-lxml",
+      "src_name": "lxml",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-lxml",
+      "bin_name": "python-lxml",
+      "src_name": "lxml",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-lxml-dbg",
+      "bin_name": "python3-lxml-dbg",
+      "src_name": "lxml",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-lxml-doc",
+      "bin_name": "python-lxml-doc",
+      "src_name": "lxml",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

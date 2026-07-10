@@ -1,0 +1,37 @@
+{
+  "detector_w07": {
+    "packages": 112,
+    "entries": 1143,
+    "files": 112
+  },
+  "rosdep_ci": {
+    "packages": 112,
+    "entries": 706,
+    "files": 112
+  },
+  "mapper": {
+    "packages": 107,
+    "entries": 110652,
+    "files": 107
+  },
+  "llm_gemini_3_pro": {
+    "packages": 112,
+    "entries": 1151,
+    "files": 112
+  },
+  "llm_claude_opus_4_5": {
+    "packages": 110,
+    "entries": 984,
+    "files": 110
+  },
+  "llm_deepseek_v3.2": {
+    "packages": 112,
+    "entries": 1160,
+    "files": 112
+  },
+  "llm_glm_4.7": {
+    "packages": 112,
+    "entries": 1121,
+    "files": 112
+  }
+}

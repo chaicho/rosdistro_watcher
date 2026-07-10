@@ -1,0 +1,145 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": "libiio",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.25-4build2",
+      "description": "libiio development files",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": null,
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libiio-dev",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "libiio",
+      "bin_name": "libiio",
+      "src_name": null,
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libiio-dev",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": null,
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libiio-dev",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libiio-devel",
+      "bin_name": "libiio-devel",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libiio-dev",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libiio-devel",
+      "bin_name": "libiio-devel",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libiio-dev",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "libiio-devel",
+      "bin_name": "libiio-devel",
+      "src_name": null,
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libiio-dev",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "libiio-devel",
+      "bin_name": "libiio-devel",
+      "src_name": null,
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libiio-dev",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "libiio-devel",
+      "bin_name": "libiio-devel",
+      "src_name": null,
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libiio-dev",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libiio-dev",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libiio-dev",
+      "bin_name": "libiio-dev",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for libiio-dev",
+      "confidence": 1.0
+    }
+  ]
+}

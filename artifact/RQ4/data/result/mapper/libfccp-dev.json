@@ -1,0 +1,54 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "libfccp-dev",
+      "bin_name": "libfccp-dev",
+      "src_name": "fast-cpp-csv-parser",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libfccp-dev",
+      "bin_name": "libfccp-dev",
+      "src_name": "fast-cpp-csv-parser",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libfccp-dev",
+      "bin_name": "libfccp-dev",
+      "src_name": "fast-cpp-csv-parser",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libfccp-dev",
+      "bin_name": "libfccp-dev",
+      "src_name": "fast-cpp-csv-parser",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

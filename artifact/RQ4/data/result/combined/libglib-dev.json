@@ -1,0 +1,2745 @@
+{
+  "rosdep_key": "libglib-dev",
+  "status": "completed",
+  "baseline_package": [
+    [
+      "libglib2.0-dev-bin",
+      "ubuntu",
+      "noble"
+    ],
+    [
+      "libglib2.0-dev",
+      "ubuntu",
+      "noble"
+    ]
+  ],
+  "primary_package": [
+    [
+      "libglib2.0-dev-bin",
+      "ubuntu",
+      "noble"
+    ],
+    [
+      "libglib2.0-dev",
+      "ubuntu",
+      "noble"
+    ]
+  ],
+  "detector_w07_result": {
+    "ubuntu_jammy": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": "2.72.1-1",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": "2.72.1-1",
+        "description": "Development utilities for the GLib library",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": "2.74.6-2+deb12u8",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": "2.74.6-2+deb12u8",
+        "description": "Development utilities for the GLib library",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": "2.64.2-1~fakesync1",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": "2.64.2-1~fakesync1",
+        "description": "Development utilities for the GLib library",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2-devel",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": "2.86.3-2",
+        "description": "Low level core library - development tools",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib-2.0.so=0-64",
+        "bin_name": "glib2",
+        "src_name": "glib2",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": "2.86.3-2",
+        "description": "Low level core library",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": "2.86.0-2.fc43",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": "2.84.0-1.fc42",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2",
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": "2.62.5-lp152.1.14",
+        "description": "Development files for glib, a general-purpose utility library",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2",
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": "2.56.4-162.el8",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "glib-dev",
+        "bin_name": "glib-dev",
+        "src_name": "glib",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": "2.88.1-r2",
+        "description": "Low-level core library that forms the basis for projects such as GTK and GNOME (development files)",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.80.0-6ubuntu1",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.80.0-6ubuntu1",
+        "description": "Development utilities for the GLib library",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": "2.68.4-18.el9_7",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      }
+    ],
+    "pypi": [
+      {
+        "name": "glib",
+        "bin_name": "glib",
+        "src_name": "glib",
+        "repo_name": "pypi",
+        "repo_version": "",
+        "arch": null,
+        "version": "1.0.0",
+        "description": "A python graphics library that piggy-backs off of pyqt5",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_glm_4.7_result": {
+    "ubuntu_noble": [
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.80.0-6ubuntu1",
+        "description": "Development utilities for the GLib library",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.80.0-6ubuntu1",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "glib-dev",
+        "bin_name": "glib-dev",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "glib2",
+        "bin_name": "glib2",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_gemini_3_pro_result": {
+    "ubuntu_noble": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.80.0-6ubuntu1",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "glib-dev",
+        "bin_name": "glib-dev",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "glib2",
+        "bin_name": "glib2",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_claude_opus_4_5_result": {
+    "ubuntu_noble": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.80.0-6ubuntu1",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.80.0-6ubuntu1",
+        "description": "Development utilities for the GLib library",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "glib-dev",
+        "bin_name": "glib-dev",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "glib2",
+        "bin_name": "glib2",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_deepseek_v3.2_result": {
+    "ubuntu_noble": [
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.80.0-6ubuntu1",
+        "description": "Development utilities for the GLib library",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.80.0-6ubuntu1",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "glib2-dev",
+        "bin_name": "glib2-dev",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib-dev",
+        "bin_name": "glib-dev",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "glib2",
+        "bin_name": "glib2",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev-bin",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for libglib2.0-dev",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "mapper_result": {
+    "fedora_42": [
+      {
+        "name": "mingw32-glib2",
+        "bin_name": "mingw32-glib2",
+        "src_name": "mingw-glib2",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-tests",
+        "bin_name": "glib2-tests",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2",
+        "bin_name": "glib2",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib-devel",
+        "bin_name": "glib-devel",
+        "src_name": "glib",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "mingw64-glib2-static",
+        "bin_name": "mingw64-glib2-static",
+        "src_name": "mingw-glib2",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib",
+        "bin_name": "glib",
+        "src_name": "glib",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-static",
+        "bin_name": "glib2-static",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "mingw64-glib2",
+        "bin_name": "mingw64-glib2",
+        "src_name": "mingw-glib2",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      },
+      {
+        "name": "mingw32-glib2-static",
+        "bin_name": "mingw32-glib2-static",
+        "src_name": "mingw-glib2",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-doc",
+        "bin_name": "glib2-doc",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "glib",
+        "bin_name": "glib",
+        "src_name": "glib",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "mingw64-glib2",
+        "bin_name": "mingw64-glib2",
+        "src_name": "mingw-glib2",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-static",
+        "bin_name": "glib2-static",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "mingw32-glib2-static",
+        "bin_name": "mingw32-glib2-static",
+        "src_name": "mingw-glib2",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-doc",
+        "bin_name": "glib2-doc",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "mingw32-glib2",
+        "bin_name": "mingw32-glib2",
+        "src_name": "mingw-glib2",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-tests",
+        "bin_name": "glib2-tests",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib-devel",
+        "bin_name": "glib-devel",
+        "src_name": "glib",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2",
+        "bin_name": "glib2",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "mingw64-glib2-static",
+        "bin_name": "mingw64-glib2-static",
+        "src_name": "mingw-glib2",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "glib-lang",
+        "bin_name": "glib-lang",
+        "src_name": "glib",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Languages for package glib",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib-dev",
+        "bin_name": "glib-dev",
+        "src_name": "glib",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Low-level core library that forms the basis for projects such as GTK and GNOME (development files)",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib-static",
+        "bin_name": "glib-static",
+        "src_name": "glib",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Low-level core library that forms the basis for projects such as GTK and GNOME (static library)",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib-bash-completion",
+        "bin_name": "glib-bash-completion",
+        "src_name": "glib",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Bash completions for glib",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib",
+        "bin_name": "glib",
+        "src_name": "glib",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Low-level core library that forms the basis for projects such as GTK and GNOME",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib-dbg",
+        "bin_name": "glib-dbg",
+        "src_name": "glib",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Low-level core library that forms the basis for projects such as GTK and GNOME (debug symbols)",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib-doc",
+        "bin_name": "glib-doc",
+        "src_name": "glib",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Low-level core library that forms the basis for projects such as GTK and GNOME (documentation)",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "lib32-glib2",
+        "bin_name": "lib32-glib2",
+        "src_name": "lib32-glib2",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Low level core library - 32-bit",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-docs",
+        "bin_name": "glib2-docs",
+        "src_name": "glib2",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Low level core library - documentation",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2",
+        "bin_name": "glib2",
+        "src_name": "glib2",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Low level core library",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Low level core library - development tools",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "glib2-static",
+        "bin_name": "glib2-static",
+        "src_name": "glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-debuginfo",
+        "bin_name": "glib2-debuginfo",
+        "src_name": "glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "mingw32-glib2-static",
+        "bin_name": "mingw32-glib2-static",
+        "src_name": "mingw-glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-tests",
+        "bin_name": "glib2-tests",
+        "src_name": "glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-doc",
+        "bin_name": "glib2-doc",
+        "src_name": "glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "mingw32-glib2",
+        "bin_name": "mingw32-glib2",
+        "src_name": "mingw-glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-debugsource",
+        "bin_name": "glib2-debugsource",
+        "src_name": "glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2",
+        "bin_name": "glib2",
+        "src_name": "glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      },
+      {
+        "name": "mingw64-glib2",
+        "bin_name": "mingw64-glib2",
+        "src_name": "mingw-glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      },
+      {
+        "name": "mingw64-glib2-static",
+        "bin_name": "mingw64-glib2-static",
+        "src_name": "mingw-glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "MinGW Windows GLib2 library",
+        "confidence": 1.0
+      },
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "libglib2.0-0",
+        "bin_name": "libglib2.0-0",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-udeb",
+        "bin_name": "libglib2.0-udeb",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-doc",
+        "bin_name": "libglib2.0-doc",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-bin",
+        "bin_name": "libglib2.0-bin",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-data",
+        "bin_name": "libglib2.0-data",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-tests",
+        "bin_name": "libglib2.0-tests",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-doc",
+        "bin_name": "libglib2.0-doc",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-tests",
+        "bin_name": "libglib2.0-tests",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-0",
+        "bin_name": "libglib2.0-0",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-bin",
+        "bin_name": "libglib2.0-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-data",
+        "bin_name": "libglib2.0-data",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libgio-fam",
+        "bin_name": "libgio-fam",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-udeb",
+        "bin_name": "libglib2.0-udeb",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "libglib2.0-udeb",
+        "bin_name": "libglib2.0-udeb",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-tests",
+        "bin_name": "libglib2.0-tests",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-0",
+        "bin_name": "libglib2.0-0",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-bin",
+        "bin_name": "libglib2.0-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-doc",
+        "bin_name": "libglib2.0-doc",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-data",
+        "bin_name": "libglib2.0-data",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "libglib2.0-0t64",
+        "bin_name": "libglib2.0-0t64",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-bin",
+        "bin_name": "libglib2.0-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "gir1.2-glib-2.0-dev",
+        "bin_name": "gir1.2-glib-2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-data",
+        "bin_name": "libglib2.0-data",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "gir1.2-girepository-3.0",
+        "bin_name": "gir1.2-girepository-3.0",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-udeb",
+        "bin_name": "libglib2.0-udeb",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "gir1.2-girepository-3.0-dev",
+        "bin_name": "gir1.2-girepository-3.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-tests",
+        "bin_name": "libglib2.0-tests",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-0",
+        "bin_name": "libglib2.0-0",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libgirepository-2.0-0",
+        "bin_name": "libgirepository-2.0-0",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-doc",
+        "bin_name": "libglib2.0-doc",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "libgirepository-2.0-dev",
+        "bin_name": "libgirepository-2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "gir1.2-glib-2.0",
+        "bin_name": "gir1.2-glib-2.0",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "rosdep_ci_result": {
+    "debian_bookworm": [
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "2.74.6-2+deb12u8",
+        "description": "Found by rosdep CI (exact) in debian bookworm",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "2.74.6-2+deb12u8",
+        "description": "Found by rosdep CI (exact) in debian bookworm",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "2.64.2-1~fakesync1",
+        "description": "Found by rosdep CI (exact) in ubuntu focal",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "2.64.2-1~fakesync1",
+        "description": "Found by rosdep CI (exact) in ubuntu focal",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "2.72.1-1",
+        "description": "Found by rosdep CI (exact) in ubuntu jammy",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "2.72.1-1",
+        "description": "Found by rosdep CI (exact) in ubuntu jammy",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "2.80.0-6ubuntu1",
+        "description": "Found by rosdep CI (exact) in ubuntu noble",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "2.80.0-6ubuntu1",
+        "description": "Found by rosdep CI (exact) in ubuntu noble",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "rosdep_result": {
+    "fedora_42": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": "2.84.0-1.fc42",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "glib2-devel",
+        "bin_name": "glib2-devel",
+        "src_name": "glib2",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": "2.86.0-2.fc43",
+        "description": "A library of handy utility functions",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": "2.64.2-1~fakesync1",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": "2.64.2-1~fakesync1",
+        "description": "Development utilities for the GLib library",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": "2.72.1-1",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": "2.72.1-1",
+        "description": "Development utilities for the GLib library",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.80.0-6ubuntu1",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.80.0-6ubuntu1",
+        "description": "Development utilities for the GLib library",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "glib2",
+        "bin_name": "glib2",
+        "src_name": "glib2",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": "2.86.3-2",
+        "description": "Low level core library",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "libglib2.0-dev",
+        "bin_name": "libglib2.0-dev",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": "2.74.6-2+deb12u8",
+        "description": "Development files for the GLib library",
+        "confidence": 1.0
+      },
+      {
+        "name": "libglib2.0-dev-bin",
+        "bin_name": "libglib2.0-dev-bin",
+        "src_name": "glib2.0",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": "2.74.6-2+deb12u8",
+        "description": "Development utilities for the GLib library",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "comparison_summary": {
+    "repositories_found": {
+      "rosdep": [
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "detector_w07": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "pypi",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_glm_4.7": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_gemini_3_pro": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_claude_opus_4_5": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_deepseek_v3.2": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "mapper": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "rosdep_ci": [
+        "debian_bookworm",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ]
+    },
+    "package_counts": {
+      "rosdep": 11,
+      "detector_w07": 17,
+      "llm_glm_4.7": 15,
+      "llm_gemini_3_pro": 11,
+      "llm_claude_opus_4_5": 15,
+      "llm_deepseek_v3.2": 16,
+      "mapper": 84,
+      "rosdep_ci": 8
+    },
+    "common_repositories": [
+      "debian_bookworm",
+      "ubuntu_focal",
+      "ubuntu_jammy",
+      "ubuntu_noble"
+    ],
+    "accuracy_metrics": {
+      "detector_w07": {
+        "precision": 0.5833333333333334,
+        "recall": 1.0,
+        "f1_score": 0.7368421052631579
+      },
+      "llm_glm_4.7": {
+        "precision": 0.6363636363636364,
+        "recall": 1.0,
+        "f1_score": 0.7777777777777778
+      },
+      "llm_gemini_3_pro": {
+        "precision": 0.6363636363636364,
+        "recall": 1.0,
+        "f1_score": 0.7777777777777778
+      },
+      "llm_claude_opus_4_5": {
+        "precision": 0.6363636363636364,
+        "recall": 1.0,
+        "f1_score": 0.7777777777777778
+      },
+      "llm_deepseek_v3.2": {
+        "precision": 0.6363636363636364,
+        "recall": 1.0,
+        "f1_score": 0.7777777777777778
+      },
+      "mapper": {
+        "precision": 0.7777777777777778,
+        "recall": 1.0,
+        "f1_score": 0.8750000000000001
+      },
+      "rosdep_ci": {
+        "precision": 1.0,
+        "recall": 0.5714285714285714,
+        "f1_score": 0.7272727272727273
+      }
+    },
+    "unique_to_detector_w07": [
+      "pypi"
+    ],
+    "unique_to_llm_glm_4.7": [],
+    "unique_to_llm_gemini_3_pro": [],
+    "unique_to_llm_claude_opus_4_5": [],
+    "unique_to_llm_deepseek_v3.2": [],
+    "unique_to_mapper": [],
+    "unique_to_rosdep_ci": []
+  },
+  "detailed_package_comparison": {
+    "rosdep_key": "libglib-dev",
+    "platform_binname_analysis": {
+      "fedora_42": {
+        "platform": "fedora_42",
+        "ground_truth_binnames": [
+          "glib2-devel"
+        ],
+        "detector_w07_binnames": [
+          "glib2-devel"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "glib2-devel"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "glib2-devel"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "glib2-devel"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "glib2-devel"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "glib",
+          "glib-devel",
+          "glib2",
+          "glib2-devel",
+          "glib2-doc",
+          "glib2-static",
+          "glib2-tests",
+          "mingw32-glib2",
+          "mingw32-glib2-static",
+          "mingw64-glib2",
+          "mingw64-glib2-static"
+        ],
+        "mapper_total_packages": 11,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [],
+        "rosdep_ci_match_result": "no_match",
+        "rosdep_ci_found_count": 0,
+        "rosdep_ci_total_packages": 0
+      },
+      "fedora_43": {
+        "platform": "fedora_43",
+        "ground_truth_binnames": [
+          "glib2-devel"
+        ],
+        "detector_w07_binnames": [
+          "glib2-devel"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "glib2-devel"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "glib2-devel"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "glib2-devel"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "glib2-devel"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "glib",
+          "glib-devel",
+          "glib2",
+          "glib2-devel",
+          "glib2-doc",
+          "glib2-static",
+          "glib2-tests",
+          "mingw32-glib2",
+          "mingw32-glib2-static",
+          "mingw64-glib2",
+          "mingw64-glib2-static"
+        ],
+        "mapper_total_packages": 11,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [],
+        "rosdep_ci_match_result": "no_match",
+        "rosdep_ci_found_count": 0,
+        "rosdep_ci_total_packages": 0
+      },
+      "ubuntu_focal": {
+        "platform": "ubuntu_focal",
+        "ground_truth_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "detector_w07_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "detector_w07_total_packages": 2,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 2,
+        "llm_glm_4.7_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_glm_4.7_total_packages": 2,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 2,
+        "llm_gemini_3_pro_binnames": [
+          "libglib2.0-dev"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "partial_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_claude_opus_4_5_total_packages": 2,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 2,
+        "llm_deepseek_v3.2_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_deepseek_v3.2_total_packages": 2,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 2,
+        "mapper_binnames": [
+          "libgio-fam",
+          "libglib2.0-0",
+          "libglib2.0-bin",
+          "libglib2.0-data",
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin",
+          "libglib2.0-doc",
+          "libglib2.0-tests",
+          "libglib2.0-udeb"
+        ],
+        "mapper_total_packages": 9,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 2,
+        "rosdep_ci_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "rosdep_ci_total_packages": 2,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 2
+      },
+      "ubuntu_jammy": {
+        "platform": "ubuntu_jammy",
+        "ground_truth_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "detector_w07_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "detector_w07_total_packages": 2,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 2,
+        "llm_glm_4.7_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_glm_4.7_total_packages": 2,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 2,
+        "llm_gemini_3_pro_binnames": [
+          "libglib2.0-dev"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "partial_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_claude_opus_4_5_total_packages": 2,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 2,
+        "llm_deepseek_v3.2_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_deepseek_v3.2_total_packages": 2,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 2,
+        "mapper_binnames": [
+          "libglib2.0-0",
+          "libglib2.0-bin",
+          "libglib2.0-data",
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin",
+          "libglib2.0-doc",
+          "libglib2.0-tests",
+          "libglib2.0-udeb"
+        ],
+        "mapper_total_packages": 8,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 2,
+        "rosdep_ci_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "rosdep_ci_total_packages": 2,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 2
+      },
+      "ubuntu_noble": {
+        "platform": "ubuntu_noble",
+        "ground_truth_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "detector_w07_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "detector_w07_total_packages": 2,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 2,
+        "llm_glm_4.7_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_glm_4.7_total_packages": 2,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 2,
+        "llm_gemini_3_pro_binnames": [
+          "libglib2.0-dev"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "partial_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_claude_opus_4_5_total_packages": 2,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 2,
+        "llm_deepseek_v3.2_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_deepseek_v3.2_total_packages": 2,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 2,
+        "mapper_binnames": [
+          "gir1.2-girepository-3.0",
+          "gir1.2-girepository-3.0-dev",
+          "gir1.2-glib-2.0",
+          "gir1.2-glib-2.0-dev",
+          "libgirepository-2.0-0",
+          "libgirepository-2.0-dev",
+          "libglib2.0-0",
+          "libglib2.0-0t64",
+          "libglib2.0-bin",
+          "libglib2.0-data",
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin",
+          "libglib2.0-doc",
+          "libglib2.0-tests",
+          "libglib2.0-udeb"
+        ],
+        "mapper_total_packages": 15,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 2,
+        "rosdep_ci_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "rosdep_ci_total_packages": 2,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 2
+      },
+      "arch": {
+        "platform": "arch",
+        "ground_truth_binnames": [
+          "glib2"
+        ],
+        "detector_w07_binnames": [
+          "glib2",
+          "glib2-devel"
+        ],
+        "detector_w07_total_packages": 2,
+        "detector_w07_match_result": "partial_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "glib2"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "glib2"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "glib2"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "glib2"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "glib2",
+          "glib2-devel",
+          "glib2-docs",
+          "lib32-glib2"
+        ],
+        "mapper_total_packages": 4,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [],
+        "rosdep_ci_match_result": "no_match",
+        "rosdep_ci_found_count": 0,
+        "rosdep_ci_total_packages": 0
+      },
+      "debian_bookworm": {
+        "platform": "debian_bookworm",
+        "ground_truth_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "detector_w07_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "detector_w07_total_packages": 2,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 2,
+        "llm_glm_4.7_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_glm_4.7_total_packages": 2,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 2,
+        "llm_gemini_3_pro_binnames": [
+          "libglib2.0-dev"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "partial_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_claude_opus_4_5_total_packages": 2,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 2,
+        "llm_deepseek_v3.2_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "llm_deepseek_v3.2_total_packages": 2,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 2,
+        "mapper_binnames": [
+          "libglib2.0-0",
+          "libglib2.0-bin",
+          "libglib2.0-data",
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin",
+          "libglib2.0-doc",
+          "libglib2.0-tests",
+          "libglib2.0-udeb"
+        ],
+        "mapper_total_packages": 8,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 2,
+        "rosdep_ci_binnames": [
+          "libglib2.0-dev",
+          "libglib2.0-dev-bin"
+        ],
+        "rosdep_ci_total_packages": 2,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 2
+      }
+    },
+    "summary": {
+      "total_ground_truth_platforms": 7,
+      "detector_w07_exact_matches": 6,
+      "detector_w07_partial_matches": 1,
+      "detector_w07_no_matches": 0,
+      "llm_glm_4.7_exact_matches": 7,
+      "llm_glm_4.7_partial_matches": 0,
+      "llm_glm_4.7_no_matches": 0,
+      "llm_gemini_3_pro_exact_matches": 3,
+      "llm_gemini_3_pro_partial_matches": 4,
+      "llm_gemini_3_pro_no_matches": 0,
+      "llm_claude_opus_4_5_exact_matches": 7,
+      "llm_claude_opus_4_5_partial_matches": 0,
+      "llm_claude_opus_4_5_no_matches": 0,
+      "llm_deepseek_v3.2_exact_matches": 7,
+      "llm_deepseek_v3.2_partial_matches": 0,
+      "llm_deepseek_v3.2_no_matches": 0,
+      "mapper_exact_matches": 0,
+      "mapper_partial_matches": 7,
+      "mapper_no_matches": 0,
+      "rosdep_ci_exact_matches": 4,
+      "rosdep_ci_partial_matches": 0,
+      "rosdep_ci_no_matches": 3
+    },
+    "status": "completed"
+  }
+}

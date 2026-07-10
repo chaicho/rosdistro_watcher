@@ -1,0 +1,132 @@
+{
+  "alpine_edge": [
+    {
+      "name": "icu-dev",
+      "bin_name": "icu-dev",
+      "src_name": "icu",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "78.1-r0",
+      "description": "Found by rosdep CI (suggested) in alpine edge",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "72.1-3+deb12u1",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "77.1-1.fc43",
+      "description": "Found by rosdep CI (suggested) in fedora 42",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "77.1-1.fc43",
+      "description": "Found by rosdep CI (suggested) in fedora 43",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": "x86_64",
+      "version": "65.1-lp152.2.1",
+      "description": "Found by rosdep CI (suggested) in opensuse 15.2",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": "x86_64",
+      "version": "67.1-10.el9_6",
+      "description": "Found by rosdep CI (suggested) in rhel 8",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "libicu-devel",
+      "bin_name": "libicu-devel",
+      "src_name": "icu",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "67.1-10.el9_6",
+      "description": "Found by rosdep CI (suggested) in rhel 9",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "66.1-2ubuntu2",
+      "description": "Found by rosdep CI (exact) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "70.1-2",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libicu-dev",
+      "bin_name": "libicu-dev",
+      "src_name": "icu",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "74.2-1ubuntu3",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

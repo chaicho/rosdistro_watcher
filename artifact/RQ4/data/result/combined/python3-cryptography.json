@@ -1,0 +1,2071 @@
+{
+  "rosdep_key": "python3-cryptography",
+  "status": "completed",
+  "baseline_package": [
+    [
+      "python3-cryptography",
+      "ubuntu",
+      "noble"
+    ]
+  ],
+  "primary_package": [
+    [
+      "python3-cryptography",
+      "ubuntu",
+      "noble"
+    ]
+  ],
+  "detector_w07_result": {
+    "fedora_43": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": "45.0.4-4.fc43",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": "2.8-lp152.1.3",
+        "description": "Python library which exposes cryptographic recipes and primitives",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": "36.0.1-5.el9_6",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": "3.2.1-7.el8_9",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": "38.0.4-3+deb12u1",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ],
+    "pypi": [
+      {
+        "name": "cryptography",
+        "bin_name": "cryptography",
+        "src_name": "cryptography",
+        "repo_name": "pypi",
+        "repo_version": "",
+        "arch": null,
+        "version": "46.0.4",
+        "description": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": "44.0.0-3.fc42",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-cryptography",
+        "bin_name": "python-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": "46.0.3-2",
+        "description": "A package designed to expose cryptographic recipes and primitives to Python developers",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "41.0.7-4build3",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "py3-cryptography",
+        "bin_name": "py3-cryptography",
+        "src_name": "py3-cryptography",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": "47.0.0-r0",
+        "description": "Cryptographic recipes and primitives for Python",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": "2.8-3",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": "3.4.8-1ubuntu2",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_glm_4.7_result": {
+    "ubuntu_noble": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "41.0.7-4build3",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "py3-cryptography",
+        "bin_name": "py3-cryptography",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-cryptography",
+        "bin_name": "python-cryptography",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "pypi": [
+      {
+        "name": "cryptography",
+        "bin_name": "cryptography",
+        "src_name": null,
+        "repo_name": "pypi",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_gemini_3_pro_result": {
+    "ubuntu_noble": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "41.0.7-4build3",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "py3-cryptography",
+        "bin_name": "py3-cryptography",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-cryptography",
+        "bin_name": "python-cryptography",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "pypi": [
+      {
+        "name": "cryptography",
+        "bin_name": "cryptography",
+        "src_name": null,
+        "repo_name": "pypi",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_claude_opus_4_5_result": {
+    "ubuntu_noble": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "41.0.7-4build3",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "py3-cryptography",
+        "bin_name": "py3-cryptography",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-cryptography",
+        "bin_name": "python-cryptography",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "pypi": [
+      {
+        "name": "cryptography",
+        "bin_name": "cryptography",
+        "src_name": null,
+        "repo_name": "pypi",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_deepseek_v3.2_result": {
+    "ubuntu_noble": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "41.0.7-4build3",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "py3-cryptography",
+        "bin_name": "py3-cryptography",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-cryptography",
+        "bin_name": "python-cryptography",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "pypi": [
+      {
+        "name": "cryptography",
+        "bin_name": "cryptography",
+        "src_name": null,
+        "repo_name": "pypi",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for python3-cryptography",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "mapper_result": {
+    "alpine_edge": [
+      {
+        "name": "py3-cryptography",
+        "bin_name": "py3-cryptography",
+        "src_name": "py3-cryptography",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Cryptographic recipes and primitives for Python",
+        "confidence": 1.0
+      },
+      {
+        "name": "py3-cryptography-pyc",
+        "bin_name": "py3-cryptography-pyc",
+        "src_name": "py3-cryptography",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Precompiled Python bytecode for py3-cryptography",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-cryptography",
+        "bin_name": "python-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": "x86_64",
+        "version": "",
+        "description": "A package designed to expose cryptographic recipes and primitives to Python developers",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python-cryptography-debuginfo",
+        "bin_name": "python-cryptography-debuginfo",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      },
+      {
+        "name": "python-cryptography-debugsource",
+        "bin_name": "python-cryptography-debugsource",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python-cryptography-debugsource",
+        "bin_name": "python-cryptography-debugsource",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      },
+      {
+        "name": "python-cryptography-debuginfo",
+        "bin_name": "python-cryptography-debuginfo",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      }
+    ],
+    "pypi": [
+      {
+        "name": "cryptography",
+        "bin_name": "cryptography",
+        "src_name": "cryptography",
+        "repo_name": "pypi",
+        "repo_version": "",
+        "arch": "",
+        "version": "",
+        "description": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "python-cryptography-debugsource",
+        "bin_name": "python-cryptography-debugsource",
+        "src_name": "python-cryptography",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      },
+      {
+        "name": "python-cryptography-debuginfo",
+        "bin_name": "python-cryptography-debuginfo",
+        "src_name": "python-cryptography",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python-cryptography-doc",
+        "bin_name": "python-cryptography-doc",
+        "src_name": "python-cryptography",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "python-cryptography-doc",
+        "bin_name": "python-cryptography-doc",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "python-cryptography",
+        "bin_name": "python-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python-cryptography-doc",
+        "bin_name": "python-cryptography-doc",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "python-cryptography-doc",
+        "bin_name": "python-cryptography-doc",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "rosdep_ci_result": {
+    "debian_bookworm": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "38.0.4-3+deb12u1",
+        "description": "Found by rosdep CI (exact) in debian bookworm",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "44.0.0-3.fc42",
+        "description": "Found by rosdep CI (exact) in fedora 42",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "45.0.4-4.fc43",
+        "description": "Found by rosdep CI (exact) in fedora 43",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": "x86_64",
+        "version": "2.8-lp152.1.3",
+        "description": "Found by rosdep CI (exact) in opensuse 15.2",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": "x86_64",
+        "version": "3.2.1-7.el8_9",
+        "description": "Found by rosdep CI (exact) in rhel 8",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": "x86_64",
+        "version": "36.0.1-5.el9_6",
+        "description": "Found by rosdep CI (exact) in rhel 9",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "2.8-3",
+        "description": "Found by rosdep CI (exact) in ubuntu focal",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "3.4.8-1ubuntu2",
+        "description": "Found by rosdep CI (exact) in ubuntu jammy",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "41.0.7-4build3",
+        "description": "Found by rosdep CI (exact) in ubuntu noble",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "rosdep_result": {
+    "ubuntu_focal": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": "2.8-3",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": "3.4.8-1ubuntu2",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "41.0.7-4build3",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "python-cryptography",
+        "bin_name": "python-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": "46.0.3-2",
+        "description": "A package designed to expose cryptographic recipes and primitives to Python developers",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": "38.0.4-3+deb12u1",
+        "description": "Python library exposing cryptographic recipes and primitives (Python 3)",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "py3-cryptography",
+        "bin_name": "py3-cryptography",
+        "src_name": "py3-cryptography",
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": "47.0.0-r0",
+        "description": "Cryptographic recipes and primitives for Python",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": "44.0.0-3.fc42",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": "45.0.4-4.fc43",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": "3.2.1-7.el8_9",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": "36.0.1-5.el9_6",
+        "description": "PyCA's cryptography library",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "python3-cryptography",
+        "bin_name": "python3-cryptography",
+        "src_name": "python-cryptography",
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": "2.8-lp152.1.3",
+        "description": "Python library which exposes cryptographic recipes and primitives",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "comparison_summary": {
+    "repositories_found": {
+      "rosdep": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "detector_w07": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "pypi",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_glm_4.7": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "pypi",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_gemini_3_pro": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "pypi",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_claude_opus_4_5": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "pypi",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_deepseek_v3.2": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "pypi",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "mapper": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "pypi",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "rosdep_ci": [
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ]
+    },
+    "package_counts": {
+      "rosdep": 11,
+      "detector_w07": 12,
+      "llm_glm_4.7": 12,
+      "llm_gemini_3_pro": 12,
+      "llm_claude_opus_4_5": 12,
+      "llm_deepseek_v3.2": 12,
+      "mapper": 22,
+      "rosdep_ci": 9
+    },
+    "common_repositories": [
+      "debian_bookworm",
+      "fedora_42",
+      "fedora_43",
+      "rhel_9",
+      "ubuntu_focal",
+      "ubuntu_jammy",
+      "ubuntu_noble"
+    ],
+    "accuracy_metrics": {
+      "detector_w07": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "f1_score": 0.9565217391304348
+      },
+      "llm_glm_4.7": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "f1_score": 0.9565217391304348
+      },
+      "llm_gemini_3_pro": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "f1_score": 0.9565217391304348
+      },
+      "llm_claude_opus_4_5": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "f1_score": 0.9565217391304348
+      },
+      "llm_deepseek_v3.2": {
+        "precision": 0.9166666666666666,
+        "recall": 1.0,
+        "f1_score": 0.9565217391304348
+      },
+      "mapper": {
+        "precision": 0.9,
+        "recall": 0.8181818181818182,
+        "f1_score": 0.8571428571428572
+      },
+      "rosdep_ci": {
+        "precision": 1.0,
+        "recall": 0.8181818181818182,
+        "f1_score": 0.9
+      }
+    },
+    "unique_to_detector_w07": [],
+    "unique_to_llm_glm_4.7": [],
+    "unique_to_llm_gemini_3_pro": [],
+    "unique_to_llm_claude_opus_4_5": [],
+    "unique_to_llm_deepseek_v3.2": [],
+    "unique_to_mapper": [],
+    "unique_to_rosdep_ci": []
+  },
+  "detailed_package_comparison": {
+    "rosdep_key": "python3-cryptography",
+    "platform_binname_analysis": {
+      "ubuntu_focal": {
+        "platform": "ubuntu_focal",
+        "ground_truth_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "python-cryptography",
+          "python-cryptography-doc",
+          "python3-cryptography"
+        ],
+        "mapper_total_packages": 3,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-cryptography"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "ubuntu_jammy": {
+        "platform": "ubuntu_jammy",
+        "ground_truth_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "python-cryptography-doc",
+          "python3-cryptography"
+        ],
+        "mapper_total_packages": 2,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-cryptography"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "ubuntu_noble": {
+        "platform": "ubuntu_noble",
+        "ground_truth_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "python-cryptography-doc",
+          "python3-cryptography"
+        ],
+        "mapper_total_packages": 2,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-cryptography"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "arch": {
+        "platform": "arch",
+        "ground_truth_binnames": [
+          "python-cryptography"
+        ],
+        "detector_w07_binnames": [
+          "python-cryptography"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python-cryptography"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python-cryptography"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python-cryptography"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python-cryptography"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "python-cryptography"
+        ],
+        "mapper_total_packages": 1,
+        "mapper_match_result": "exact_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [],
+        "rosdep_ci_match_result": "no_match",
+        "rosdep_ci_found_count": 0,
+        "rosdep_ci_total_packages": 0
+      },
+      "debian_bookworm": {
+        "platform": "debian_bookworm",
+        "ground_truth_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "python-cryptography-doc",
+          "python3-cryptography"
+        ],
+        "mapper_total_packages": 2,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-cryptography"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "alpine_edge": {
+        "platform": "alpine_edge",
+        "ground_truth_binnames": [
+          "py3-cryptography"
+        ],
+        "detector_w07_binnames": [
+          "py3-cryptography"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "py3-cryptography"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "py3-cryptography"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "py3-cryptography"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "py3-cryptography"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "py3-cryptography",
+          "py3-cryptography-pyc"
+        ],
+        "mapper_total_packages": 2,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [],
+        "rosdep_ci_match_result": "no_match",
+        "rosdep_ci_found_count": 0,
+        "rosdep_ci_total_packages": 0
+      },
+      "fedora_42": {
+        "platform": "fedora_42",
+        "ground_truth_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "python-cryptography-debuginfo",
+          "python-cryptography-debugsource",
+          "python3-cryptography"
+        ],
+        "mapper_total_packages": 3,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-cryptography"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "fedora_43": {
+        "platform": "fedora_43",
+        "ground_truth_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "python-cryptography-debuginfo",
+          "python-cryptography-debugsource",
+          "python3-cryptography"
+        ],
+        "mapper_total_packages": 3,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-cryptography"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "rhel_8": {
+        "platform": "rhel_8",
+        "ground_truth_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [],
+        "mapper_match_result": "no_match",
+        "mapper_found_count": 0,
+        "mapper_total_packages": 0,
+        "rosdep_ci_binnames": [
+          "python3-cryptography"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "rhel_9": {
+        "platform": "rhel_9",
+        "ground_truth_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "python-cryptography-debuginfo",
+          "python-cryptography-debugsource",
+          "python3-cryptography"
+        ],
+        "mapper_total_packages": 3,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "python3-cryptography"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "opensuse_15.2": {
+        "platform": "opensuse_15.2",
+        "ground_truth_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_binnames": [
+          "python3-cryptography"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "python3-cryptography"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [],
+        "mapper_match_result": "no_match",
+        "mapper_found_count": 0,
+        "mapper_total_packages": 0,
+        "rosdep_ci_binnames": [
+          "python3-cryptography"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      }
+    },
+    "summary": {
+      "total_ground_truth_platforms": 11,
+      "detector_w07_exact_matches": 11,
+      "detector_w07_partial_matches": 0,
+      "detector_w07_no_matches": 0,
+      "llm_glm_4.7_exact_matches": 11,
+      "llm_glm_4.7_partial_matches": 0,
+      "llm_glm_4.7_no_matches": 0,
+      "llm_gemini_3_pro_exact_matches": 11,
+      "llm_gemini_3_pro_partial_matches": 0,
+      "llm_gemini_3_pro_no_matches": 0,
+      "llm_claude_opus_4_5_exact_matches": 11,
+      "llm_claude_opus_4_5_partial_matches": 0,
+      "llm_claude_opus_4_5_no_matches": 0,
+      "llm_deepseek_v3.2_exact_matches": 11,
+      "llm_deepseek_v3.2_partial_matches": 0,
+      "llm_deepseek_v3.2_no_matches": 0,
+      "mapper_exact_matches": 1,
+      "mapper_partial_matches": 8,
+      "mapper_no_matches": 2,
+      "rosdep_ci_exact_matches": 9,
+      "rosdep_ci_partial_matches": 0,
+      "rosdep_ci_no_matches": 2
+    },
+    "status": "completed"
+  }
+}

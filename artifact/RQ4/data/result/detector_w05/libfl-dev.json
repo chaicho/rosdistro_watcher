@@ -1,0 +1,145 @@
+{
+  "fedora_42": [
+    {
+      "name": "libfl-devel",
+      "bin_name": "libfl-devel",
+      "src_name": "flex",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "2.6.4-19.fc42",
+      "description": "Development files for the flex scanner generator",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libfl-dev",
+      "bin_name": "libfl-dev",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "2.6.4-6.2",
+      "description": "static library for flex (a fast lexical analyzer generator)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libfl-devel",
+      "bin_name": "libfl-devel",
+      "src_name": "flex",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "2.6.4-20.fc43",
+      "description": "Development files for the flex scanner generator",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "flex",
+      "bin_name": "flex",
+      "src_name": "flex",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "2.6.4-5",
+      "description": "A tool for generating text-scanning programs",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "libfl-devel",
+      "bin_name": "libfl-devel",
+      "src_name": "flex",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "2.6.4-lp152.4.105",
+      "description": "Development files for flex",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libfl-dev",
+      "bin_name": "libfl-dev",
+      "src_name": "flex",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "2.6.4-8.2",
+      "description": "static library for flex (a fast lexical analyzer generator)",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "libfl-static",
+      "bin_name": "libfl-static",
+      "src_name": "flex",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "2.6.4-9.el9",
+      "description": "Static libraries for the flex scanner generator",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "flex-devel",
+      "bin_name": "flex-devel",
+      "src_name": "flex",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "2.6.1-9.el8",
+      "description": "Libraries for flex scanner generator",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libfl-dev",
+      "bin_name": "libfl-dev",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "2.6.4-8.2build1",
+      "description": "static library for flex (a fast lexical analyzer generator)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libfl-dev",
+      "bin_name": "libfl-dev",
+      "src_name": "flex",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "2.6.4-8build2",
+      "description": "static library for flex (a fast lexical analyzer generator)",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "flex-dev",
+      "bin_name": "flex-dev",
+      "src_name": "flex",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "",
+      "description": "A tool for generating text-scanning programs (development files)",
+      "confidence": 1.0
+    }
+  ]
+}

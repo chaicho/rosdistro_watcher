@@ -1,0 +1,38 @@
+{
+  "verified_sources": {
+    "detector_w07": {
+      "total_packages": 129,
+      "total_entries": 1185,
+      "verified": 129
+    },
+    "mapper": {
+      "total_packages": 107,
+      "total_entries": 110652,
+      "verified": 107
+    },
+    "rosdep_ci": {
+      "total_packages": 135,
+      "total_entries": 706,
+      "verified": 135
+    }
+  },
+  "total_verified_packages": 371,
+  "llm_results": {
+    "llm_glm_4.7": {
+      "total_packages": 135,
+      "total_entries": 1121
+    },
+    "llm_gemini_3_pro": {
+      "total_packages": 135,
+      "total_entries": 1151
+    },
+    "llm_claude_opus_4_5": {
+      "total_packages": 135,
+      "total_entries": 984
+    },
+    "llm_deepseek_v3.2": {
+      "total_packages": 135,
+      "total_entries": 1160
+    }
+  }
+}

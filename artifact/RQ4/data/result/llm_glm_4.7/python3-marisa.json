@@ -1,0 +1,158 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": "marisa",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.2.6-14ubuntu4",
+      "description": "Python3 bindings for MARISA",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-marisa",
+      "bin_name": "py3-marisa",
+      "src_name": null,
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-marisa",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-marisa",
+      "bin_name": "python-marisa",
+      "src_name": null,
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-marisa",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": null,
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-marisa",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-marisa",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-marisa",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": null,
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-marisa",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "marisa-trie",
+      "bin_name": "marisa-trie",
+      "src_name": null,
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-marisa",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": null,
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-marisa",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": null,
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-marisa",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-marisa",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-marisa",
+      "bin_name": "python3-marisa",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-marisa",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "ubuntu_noble": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": "unidecode",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "1.3.8-1",
+      "description": "ASCII transliterations of Unicode text (Python 3 module)",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-unidecode",
+      "bin_name": "py3-unidecode",
+      "src_name": null,
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-unidecode",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-unidecode",
+      "bin_name": "python-unidecode",
+      "src_name": null,
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-unidecode",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": null,
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-unidecode",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-unidecode",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": null,
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-unidecode",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python3-Unidecode",
+      "bin_name": "python3-Unidecode",
+      "src_name": null,
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-unidecode",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "Unidecode",
+      "bin_name": "Unidecode",
+      "src_name": null,
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-unidecode",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-unidecode",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-unidecode",
+      "bin_name": "python3-unidecode",
+      "src_name": null,
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": null,
+      "description": "LLM selected package for python3-unidecode",
+      "confidence": 1.0
+    }
+  ]
+}

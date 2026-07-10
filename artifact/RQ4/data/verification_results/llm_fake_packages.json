@@ -1,0 +1,977 @@
+[
+  {
+    "package": "atlas",
+    "platform": "alpine_edge",
+    "bin_name": "atlas-dev"
+  },
+  {
+    "package": "atlas",
+    "platform": "arch",
+    "bin_name": "atlas"
+  },
+  {
+    "package": "atlas",
+    "platform": "opensuse_15.2",
+    "bin_name": "libatlas-dev"
+  },
+  {
+    "package": "cbindgen",
+    "platform": "pypi",
+    "bin_name": "cbindgen"
+  },
+  {
+    "package": "gtk4",
+    "platform": "alpine_edge",
+    "bin_name": "gtk4-dev"
+  },
+  {
+    "package": "gtk4",
+    "platform": "opensuse_15.2",
+    "bin_name": "gtk4-devel"
+  },
+  {
+    "package": "gtk4",
+    "platform": "rhel_8",
+    "bin_name": "gtk4-devel"
+  },
+  {
+    "package": "gtk4",
+    "platform": "ros_jammy",
+    "bin_name": "libgtk-4-dev"
+  },
+  {
+    "package": "gtk4",
+    "platform": "ros_noble",
+    "bin_name": "libgtk-4-dev"
+  },
+  {
+    "package": "iwyu",
+    "platform": "fedora_41",
+    "bin_name": "include-what-you-use"
+  },
+  {
+    "package": "iwyu",
+    "platform": "fedora_42",
+    "bin_name": "include-what-you-use"
+  },
+  {
+    "package": "libadwaita-dev",
+    "platform": "arch",
+    "bin_name": "libadwaita-devel"
+  },
+  {
+    "package": "libadwaita-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "libadwaita-devel"
+  },
+  {
+    "package": "libadwaita-dev",
+    "platform": "rhel_8",
+    "bin_name": "libadwaita-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "fedora_41",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "fedora_42",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libfl-dev",
+    "platform": "rhel_9",
+    "bin_name": "flex-devel"
+  },
+  {
+    "package": "libflac-dev",
+    "platform": "ros_jammy",
+    "bin_name": "libflac-dev"
+  },
+  {
+    "package": "libgirepository-dev",
+    "platform": "ros_jammy",
+    "bin_name": "libgirepository1.0-dev"
+  },
+  {
+    "package": "libicu-dev",
+    "platform": "ros_jammy",
+    "bin_name": "libicu-dev"
+  },
+  {
+    "package": "libiio-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "libiio-devel"
+  },
+  {
+    "package": "libiio-dev",
+    "platform": "rhel_8",
+    "bin_name": "libiio-devel"
+  },
+  {
+    "package": "libiio-dev",
+    "platform": "rhel_9",
+    "bin_name": "libiio-devel"
+  },
+  {
+    "package": "libopen3d-dev",
+    "platform": "fedora_41",
+    "bin_name": "open3d-devel"
+  },
+  {
+    "package": "libopen3d-dev",
+    "platform": "fedora_42",
+    "bin_name": "open3d-devel"
+  },
+  {
+    "package": "libopen3d-dev",
+    "platform": "ros_jammy",
+    "bin_name": "libopen3d-dev"
+  },
+  {
+    "package": "libopen3d-dev",
+    "platform": "ubuntu_noble",
+    "bin_name": "libopen3d-dev"
+  },
+  {
+    "package": "libqt5-gui",
+    "platform": "ros_jammy",
+    "bin_name": "libqt5gui5"
+  },
+  {
+    "package": "libqt5-gui",
+    "platform": "ros_noble",
+    "bin_name": "libqt5gui5"
+  },
+  {
+    "package": "libqt5-gui",
+    "platform": "ubuntu_noble",
+    "bin_name": "libqt5gui5"
+  },
+  {
+    "package": "libqt5-qml",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt5Qml5"
+  },
+  {
+    "package": "libqt5-qml",
+    "platform": "ros_jammy",
+    "bin_name": "libqt5qml5"
+  },
+  {
+    "package": "libqt5-quick",
+    "platform": "arch",
+    "bin_name": "qt5-quick"
+  },
+  {
+    "package": "libqt5-quick",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt5Quick5"
+  },
+  {
+    "package": "libqt5-quick",
+    "platform": "ros_jammy",
+    "bin_name": "libqt5quick5"
+  },
+  {
+    "package": "libqt5-widgets",
+    "platform": "ros_jammy",
+    "bin_name": "libqt5-widgets5"
+  },
+  {
+    "package": "libqt5-widgets",
+    "platform": "ubuntu_noble",
+    "bin_name": "libqt5widgets5"
+  },
+  {
+    "package": "libqt5-xml",
+    "platform": "alpine_edge",
+    "bin_name": "qt5-xml"
+  },
+  {
+    "package": "libqt5-xml",
+    "platform": "arch",
+    "bin_name": "qt5-xml"
+  },
+  {
+    "package": "libqt5-xml",
+    "platform": "ros_jammy",
+    "bin_name": "libqt5xml5"
+  },
+  {
+    "package": "libqt5-xml",
+    "platform": "ros_noble",
+    "bin_name": "libqt5xml5"
+  },
+  {
+    "package": "libqt5-xml",
+    "platform": "ubuntu_noble",
+    "bin_name": "libqt5xml5"
+  },
+  {
+    "package": "libqt6-core",
+    "platform": "ros_jammy",
+    "bin_name": "libqt6core6"
+  },
+  {
+    "package": "libqt6-core",
+    "platform": "ubuntu_noble",
+    "bin_name": "libqt6core6"
+  },
+  {
+    "package": "libqt6-multimedia",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt6Multimedia6"
+  },
+  {
+    "package": "libqt6-multimedia",
+    "platform": "ros_jammy",
+    "bin_name": "libqt6multimedia6"
+  },
+  {
+    "package": "libqt6-qml",
+    "platform": "arch",
+    "bin_name": "qt6-qtdeclarative"
+  },
+  {
+    "package": "libqt6-qml",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt6Qml6"
+  },
+  {
+    "package": "libqt6-qml",
+    "platform": "rhel_8",
+    "bin_name": "qt6-qtdeclarative"
+  },
+  {
+    "package": "libqt6-qml",
+    "platform": "ros_jammy",
+    "bin_name": "libqt6qml6"
+  },
+  {
+    "package": "libqt6-quick",
+    "platform": "arch",
+    "bin_name": "qt6-quick"
+  },
+  {
+    "package": "libqt6-quick",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt6Quick6"
+  },
+  {
+    "package": "libqt6-quick",
+    "platform": "ros_jammy",
+    "bin_name": "libqt6quick6"
+  },
+  {
+    "package": "libqt6svg6",
+    "platform": "arch",
+    "bin_name": "qt6-qtsvg"
+  },
+  {
+    "package": "libqt6svg6",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt6Svg6"
+  },
+  {
+    "package": "libqt6svg6",
+    "platform": "ros_jammy",
+    "bin_name": "libqt6svg6"
+  },
+  {
+    "package": "librocksdb-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "rocksdb-devel"
+  },
+  {
+    "package": "libtaskflow-cpp-dev",
+    "platform": "debian_bookworm",
+    "bin_name": "libtaskflow-cpp-dev"
+  },
+  {
+    "package": "libtaskflow-cpp-dev",
+    "platform": "ubuntu_jammy",
+    "bin_name": "libtaskflow-cpp-dev"
+  },
+  {
+    "package": "lua-dev",
+    "platform": "debian_bookworm",
+    "bin_name": "liblua5.1-dev"
+  },
+  {
+    "package": "lua-dev",
+    "platform": "ubuntu_noble",
+    "bin_name": "liblua5.1-dev"
+  },
+  {
+    "package": "opende",
+    "platform": "alpine_edge",
+    "bin_name": "ode-dev"
+  },
+  {
+    "package": "pybind11-dev",
+    "platform": "debian_bookworm",
+    "bin_name": "libpybind11-dev"
+  },
+  {
+    "package": "pybind11-dev",
+    "platform": "rhel_8",
+    "bin_name": "pybind11-devel"
+  },
+  {
+    "package": "python3-attrs",
+    "platform": "debian_bookworm",
+    "bin_name": "python3-attrs"
+  },
+  {
+    "package": "python3-attrs",
+    "platform": "ubuntu_noble",
+    "bin_name": "python3-attrs"
+  },
+  {
+    "package": "python3-awsiotclient-pip",
+    "platform": "awsiotclient",
+    "bin_name": "pypi"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "fedora_42",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-bleak",
+    "platform": "ubuntu_jammy",
+    "bin_name": "python3-bleak"
+  },
+  {
+    "package": "python3-cryptography",
+    "platform": "ros_jammy",
+    "bin_name": "python3-cryptography"
+  },
+  {
+    "package": "python3-cryptography",
+    "platform": "ros_noble",
+    "bin_name": "python3-cryptography"
+  },
+  {
+    "package": "python3-faiss",
+    "platform": "fedora_41",
+    "bin_name": "python3-faiss"
+  },
+  {
+    "package": "python3-faiss",
+    "platform": "fedora_42",
+    "bin_name": "python3-faiss"
+  },
+  {
+    "package": "python3-faiss",
+    "platform": "ros_jammy",
+    "bin_name": "python3-faiss"
+  },
+  {
+    "package": "python3-faiss",
+    "platform": "ubuntu_noble",
+    "bin_name": "python3-faiss"
+  },
+  {
+    "package": "python3-filelock",
+    "platform": "ros_jammy",
+    "bin_name": "python3-filelock"
+  },
+  {
+    "package": "python3-filelock",
+    "platform": "ros_noble",
+    "bin_name": "python3-filelock"
+  },
+  {
+    "package": "python3-httpx",
+    "platform": "ros_jammy",
+    "bin_name": "python3-httpx"
+  },
+  {
+    "package": "python3-marisa",
+    "platform": "ros_jammy",
+    "bin_name": "python3-marisa"
+  },
+  {
+    "package": "python3-mongomock",
+    "platform": "ubuntu_jammy",
+    "bin_name": "python3-mongomock"
+  },
+  {
+    "package": "python3-msgpack-numpy",
+    "platform": "fedora_41",
+    "bin_name": "python3-msgpack_numpy"
+  },
+  {
+    "package": "python3-msgpack-numpy",
+    "platform": "fedora_42",
+    "bin_name": "python3-msgpack_numpy"
+  },
+  {
+    "package": "python3-msgpack-numpy",
+    "platform": "ros_jammy",
+    "bin_name": "python3-msgpack-numpy"
+  },
+  {
+    "package": "python3-msgpack-numpy",
+    "platform": "ros_noble",
+    "bin_name": "python3-msgpack-numpy"
+  },
+  {
+    "package": "python3-open3d",
+    "platform": "alpine_edge",
+    "bin_name": "py3-open3d"
+  },
+  {
+    "package": "python3-open3d",
+    "platform": "arch",
+    "bin_name": "python-open3d"
+  },
+  {
+    "package": "python3-open3d",
+    "platform": "fedora_41",
+    "bin_name": "python3-open3d"
+  },
+  {
+    "package": "python3-open3d",
+    "platform": "fedora_42",
+    "bin_name": "python3-open3d"
+  },
+  {
+    "package": "python3-open3d",
+    "platform": "ros_jammy",
+    "bin_name": "python3-open3d"
+  },
+  {
+    "package": "python3-open3d",
+    "platform": "ros_noble",
+    "bin_name": "python3-open3d"
+  },
+  {
+    "package": "python3-open3d",
+    "platform": "ubuntu_noble",
+    "bin_name": "python3-open3d"
+  },
+  {
+    "package": "python3-platformdirs",
+    "platform": "opensuse_15.2",
+    "bin_name": "python3-platformdirs"
+  },
+  {
+    "package": "python3-platformdirs",
+    "platform": "rhel_8",
+    "bin_name": "python3-platformdirs"
+  },
+  {
+    "package": "python3-platformdirs",
+    "platform": "ros_jammy",
+    "bin_name": "python3-platformdirs"
+  },
+  {
+    "package": "python3-platformdirs",
+    "platform": "ros_noble",
+    "bin_name": "python3-platformdirs"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "alpine_edge",
+    "bin_name": "py3-pydub"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "fedora_41",
+    "bin_name": "python3-pydub"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "fedora_42",
+    "bin_name": "python3-pydub"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "rhel_8",
+    "bin_name": "python3-pydub"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "rhel_9",
+    "bin_name": "python3-pydub"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "ros_jammy",
+    "bin_name": "python3-pydub"
+  },
+  {
+    "package": "python3-pydub",
+    "platform": "ros_noble",
+    "bin_name": "python3-pydub"
+  },
+  {
+    "package": "python3-pyqt6.qtwebengine",
+    "platform": "fedora_41",
+    "bin_name": "python3-qtwebengine"
+  },
+  {
+    "package": "python3-pyqt6.qtwebengine",
+    "platform": "fedora_42",
+    "bin_name": "python3-qtwebengine"
+  },
+  {
+    "package": "python3-pyqt6.qtwebengine",
+    "platform": "ubuntu_jammy",
+    "bin_name": "python3-pyqt6.qtwebengine"
+  },
+  {
+    "package": "python3-redis",
+    "platform": "ros_jammy",
+    "bin_name": "python3-redis"
+  },
+  {
+    "package": "python3-redis",
+    "platform": "ros_noble",
+    "bin_name": "python3-redis"
+  },
+  {
+    "package": "python3-setproctitle",
+    "platform": "ros_jammy",
+    "bin_name": "python3-setproctitle"
+  },
+  {
+    "package": "python3-setproctitle",
+    "platform": "ros_noble",
+    "bin_name": "python3-setproctitle"
+  },
+  {
+    "package": "python3-soundfile",
+    "platform": "fedora_41",
+    "bin_name": "python3-soundfile"
+  },
+  {
+    "package": "python3-soundfile",
+    "platform": "fedora_42",
+    "bin_name": "python3-soundfile"
+  },
+  {
+    "package": "python3-soundfile",
+    "platform": "ros_jammy",
+    "bin_name": "python3-soundfile"
+  },
+  {
+    "package": "python3-toml",
+    "platform": "ros_jammy",
+    "bin_name": "python3-toml"
+  },
+  {
+    "package": "python3-toml",
+    "platform": "ros_noble",
+    "bin_name": "python3-toml"
+  },
+  {
+    "package": "python3-unidecode",
+    "platform": "ros_jammy",
+    "bin_name": "python3-unidecode"
+  },
+  {
+    "package": "python3-unidecode",
+    "platform": "ros_noble",
+    "bin_name": "python3-unidecode"
+  },
+  {
+    "package": "python3-websockets",
+    "platform": "ros_jammy",
+    "bin_name": "python3-websockets"
+  },
+  {
+    "package": "python3-websockets",
+    "platform": "ros_noble",
+    "bin_name": "python3-websockets"
+  },
+  {
+    "package": "python3-wheel",
+    "platform": "ros_jammy",
+    "bin_name": "python3-wheel"
+  },
+  {
+    "package": "python3-wheel",
+    "platform": "ros_noble",
+    "bin_name": "python3-wheel"
+  },
+  {
+    "package": "python3-xlib",
+    "platform": "ros_jammy",
+    "bin_name": "python3-xlib"
+  },
+  {
+    "package": "qml6-module-qt-labs-folderlistmodel",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtdeclarative-devel"
+  },
+  {
+    "package": "qml6-module-qt-labs-platform",
+    "platform": "ros_jammy",
+    "bin_name": "qml6-module-qt-labs-platform"
+  },
+  {
+    "package": "qml6-module-qt-labs-platform",
+    "platform": "ros_noble",
+    "bin_name": "qml6-module-qt-labs-platform"
+  },
+  {
+    "package": "qml6-module-qtcore",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-qtdeclarative-devel"
+  },
+  {
+    "package": "qml6-module-qtpositioning",
+    "platform": "fedora_41",
+    "bin_name": "qt6-qtdeclarative-qtpositioning"
+  },
+  {
+    "package": "qml6-module-qtpositioning",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtdeclarative-qtpositioning"
+  },
+  {
+    "package": "qml6-module-qtpositioning",
+    "platform": "ros_jammy",
+    "bin_name": "qml-module-qtpositioning"
+  },
+  {
+    "package": "qml6-module-qtqml-models",
+    "platform": "ros_jammy",
+    "bin_name": "qml6-module-qtqml-models"
+  },
+  {
+    "package": "qml6-module-qtqml-models",
+    "platform": "ros_noble",
+    "bin_name": "qml6-module-qtqml-models"
+  },
+  {
+    "package": "qml6-module-qtqml-workerscript",
+    "platform": "fedora_41",
+    "bin_name": "qt6-qtdeclarative-worker-script"
+  },
+  {
+    "package": "qml6-module-qtqml-workerscript",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtdeclarative-worker-script"
+  },
+  {
+    "package": "qml6-module-qtqml-workerscript",
+    "platform": "ros_jammy",
+    "bin_name": "qml6-module-qtqml-workerscript"
+  },
+  {
+    "package": "qml6-module-qtqml",
+    "platform": "opensuse_15.2",
+    "bin_name": "qt6-declarative-devel"
+  },
+  {
+    "package": "qml6-module-qtquick-controls",
+    "platform": "fedora_41",
+    "bin_name": "qt6-qtquickcontrols-devel"
+  },
+  {
+    "package": "qml6-module-qtquick-controls",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtquickcontrols-devel"
+  },
+  {
+    "package": "qml6-module-qtquick-controls",
+    "platform": "ros_jammy",
+    "bin_name": "qml6-module-qtquick-controls"
+  },
+  {
+    "package": "qml6-module-qtquick-dialogs",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtquickcontrols2-devel"
+  },
+  {
+    "package": "qml6-module-qtquick-layouts",
+    "platform": "arch",
+    "bin_name": "qt6-qtquick3d"
+  },
+  {
+    "package": "qml6-module-qtquick-layouts",
+    "platform": "fedora_41",
+    "bin_name": "qt6-qtquick1-devel"
+  },
+  {
+    "package": "qml6-module-qtquick-layouts",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtquick1-devel"
+  },
+  {
+    "package": "qml6-module-qtquick-layouts",
+    "platform": "opensuse_15.2",
+    "bin_name": "libqt6quick1"
+  },
+  {
+    "package": "qml6-module-qtquick-layouts",
+    "platform": "ros_jammy",
+    "bin_name": "qml6-module-qtquick-layouts"
+  },
+  {
+    "package": "qml6-module-qtquick-layouts",
+    "platform": "ros_noble",
+    "bin_name": "qml6-module-qtquick-layouts"
+  },
+  {
+    "package": "qml6-module-qtquick-templates",
+    "platform": "fedora_41",
+    "bin_name": "qt6-qtquick1-templates"
+  },
+  {
+    "package": "qml6-module-qtquick-templates",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtquick1-templates"
+  },
+  {
+    "package": "qml6-module-qtquick-window",
+    "platform": "fedora_41",
+    "bin_name": "qt6-qtquick-window-devel"
+  },
+  {
+    "package": "qml6-module-qtquick-window",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtquick-window-devel"
+  },
+  {
+    "package": "qml6-module-qtquick-window",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt6QuickWindow6-devel"
+  },
+  {
+    "package": "qml6-module-qtquick",
+    "platform": "fedora_41",
+    "bin_name": "qt6-qtquick1-devel"
+  },
+  {
+    "package": "qml6-module-qtquick",
+    "platform": "fedora_42",
+    "bin_name": "qt6-qtquick1-devel"
+  },
+  {
+    "package": "qml6-module-qtquick",
+    "platform": "opensuse_15.2",
+    "bin_name": "libQt6Quick6"
+  },
+  {
+    "package": "qml6-module-qtquick",
+    "platform": "ros_jammy",
+    "bin_name": "qml6-module-qtquick"
+  },
+  {
+    "package": "qml6-module-qtquick",
+    "platform": "ros_noble",
+    "bin_name": "qml6-module-qtquick"
+  },
+  {
+    "package": "qt6-5compat-dev",
+    "platform": "debian_bookworm",
+    "bin_name": "libqt6core5compat6-dev"
+  },
+  {
+    "package": "qt6-5compat-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "libqt6-core5compat-devel"
+  },
+  {
+    "package": "qt6-5compat-dev",
+    "platform": "ubuntu_noble",
+    "bin_name": "libqt6core5compat6-dev"
+  },
+  {
+    "package": "qt6-base-dev",
+    "platform": "debian_bookworm",
+    "bin_name": "libqt6core-dev"
+  },
+  {
+    "package": "qt6-base-private-dev",
+    "platform": "alpine_edge",
+    "bin_name": "qt6-base-dev"
+  },
+  {
+    "package": "qt6-base-private-dev",
+    "platform": "debian_bookworm",
+    "bin_name": "libqt6core5-private-dev"
+  },
+  {
+    "package": "qt6-base-private-dev",
+    "platform": "ros_jammy",
+    "bin_name": "libqt6core5-private-dev"
+  },
+  {
+    "package": "qt6-base-private-dev",
+    "platform": "ros_noble",
+    "bin_name": "libqt6core5-private-dev"
+  },
+  {
+    "package": "qt6-declarative-dev",
+    "platform": "alpine_edge",
+    "bin_name": "qt6-declarative-dev"
+  },
+  {
+    "package": "qt6-declarative-dev",
+    "platform": "debian_bookworm",
+    "bin_name": "libqt6declarative-dev"
+  },
+  {
+    "package": "qt6-multimedia-dev",
+    "platform": "debian_bookworm",
+    "bin_name": "libqt6multimedia-dev"
+  },
+  {
+    "package": "qt6-multimedia-dev",
+    "platform": "opensuse_15.2",
+    "bin_name": "libqt6-qtbase-devel"
+  },
+  {
+    "package": "rapidjson-dev",
+    "platform": "debian_bookworm",
+    "bin_name": "librapidjson-dev"
+  },
+  {
+    "package": "rapidjson-dev",
+    "platform": "ubuntu_noble",
+    "bin_name": "librapidjson-dev"
+  },
+  {
+    "package": "rsyslog",
+    "platform": "arch",
+    "bin_name": "rsyslog"
+  },
+  {
+    "package": "rsyslog",
+    "platform": "ros_jammy",
+    "bin_name": "rsyslog"
+  },
+  {
+    "package": "rsyslog",
+    "platform": "ros_noble",
+    "bin_name": "rsyslog"
+  },
+  {
+    "package": "rti-connext-dds-7.3.0",
+    "platform": "ros_jammy",
+    "bin_name": "rti-connext-dds-7.3.0-ros"
+  },
+  {
+    "package": "rti-connext-dds-7.3.0",
+    "platform": "ubuntu_jammy",
+    "bin_name": "ros-jammy-rti-connext-dds-7.3.0"
+  },
+  {
+    "package": "sdformat12",
+    "platform": "debian_bookworm",
+    "bin_name": "libsdformat12-dev"
+  },
+  {
+    "package": "sdformat12",
+    "platform": "ros_noble",
+    "bin_name": "libsdformat13-dev"
+  },
+  {
+    "package": "sdformat12",
+    "platform": "ubuntu_noble",
+    "bin_name": "libsdformat13-dev"
+  },
+  {
+    "package": "sound-theme-freedesktop",
+    "platform": "debian_bookworm",
+    "bin_name": "freedesktop-sound-theme"
+  },
+  {
+    "package": "sound-theme-freedesktop",
+    "platform": "fedora_41",
+    "bin_name": "freedesktop-sound-theme"
+  },
+  {
+    "package": "sound-theme-freedesktop",
+    "platform": "fedora_42",
+    "bin_name": "freedesktop-sound-theme"
+  },
+  {
+    "package": "uhubctl",
+    "platform": "arch",
+    "bin_name": "uhubctl"
+  },
+  {
+    "package": "wx-common",
+    "platform": "alpine_edge",
+    "bin_name": "wxgtk-common"
+  },
+  {
+    "package": "wx-common",
+    "platform": "arch",
+    "bin_name": "wxgtk"
+  },
+  {
+    "package": "wx-common",
+    "platform": "debian_bookworm",
+    "bin_name": "libwxgtk3.0-gtk3-0v5"
+  },
+  {
+    "package": "wx-common",
+    "platform": "fedora_41",
+    "bin_name": "wxGTK3"
+  },
+  {
+    "package": "wx-common",
+    "platform": "fedora_42",
+    "bin_name": "wxGTK3"
+  },
+  {
+    "package": "wx-common",
+    "platform": "opensuse_15.2",
+    "bin_name": "wxwidgets-3_0-0"
+  },
+  {
+    "package": "wx-common",
+    "platform": "ros_jammy",
+    "bin_name": "libwxgtk3.0-gtk3-0v5"
+  },
+  {
+    "package": "wx-common",
+    "platform": "ros_noble",
+    "bin_name": "libwxgtk3.0-gtk3-0v5"
+  },
+  {
+    "package": "wx-common",
+    "platform": "ubuntu_noble",
+    "bin_name": "libwxgtk3.0-gtk3-0v5"
+  },
+  {
+    "package": "wxwidgets",
+    "platform": "debian_bookworm",
+    "bin_name": "libwxgtk3.0-gtk3-dev"
+  },
+  {
+    "package": "wxwidgets",
+    "platform": "fedora_41",
+    "bin_name": "wxGTK3-devel"
+  },
+  {
+    "package": "wxwidgets",
+    "platform": "fedora_42",
+    "bin_name": "wxGTK3-devel"
+  },
+  {
+    "package": "wxwidgets",
+    "platform": "opensuse_15.2",
+    "bin_name": "wxwidgets-gtk3-devel"
+  },
+  {
+    "package": "wxwidgets",
+    "platform": "ubuntu_noble",
+    "bin_name": "libwxgtk3.0-gtk3-dev"
+  }
+]

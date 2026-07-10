@@ -1,0 +1,93 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "rti-connext-dds-7.3.0-ros",
+      "bin_name": "rti-connext-dds-7.3.0-ros",
+      "src_name": "rti-connext-dds-7.3.0-ros",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "7.3.0.0-5-4bullseye",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "ros_focal": [
+    {
+      "name": "rti-connext-dds-7.3.0-ros",
+      "bin_name": "rti-connext-dds-7.3.0-ros",
+      "src_name": "rti-connext-dds-7.3.0-ros",
+      "repo_name": "ros",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "7.3.0.0-5-4bullseye",
+      "description": "Found by rosdep CI (suggested) in ros focal",
+      "confidence": 1.0
+    }
+  ],
+  "ros_jammy": [
+    {
+      "name": "rti-connext-dds-7.3.0-ros",
+      "bin_name": "rti-connext-dds-7.3.0-ros",
+      "src_name": "rti-connext-dds-7.3.0-ros",
+      "repo_name": "ros",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "7.3.0.0-5-4bullseye",
+      "description": "Found by rosdep CI (suggested) in ros jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ros_noble": [
+    {
+      "name": "rti-connext-dds-7.3.0-ros",
+      "bin_name": "rti-connext-dds-7.3.0-ros",
+      "src_name": "rti-connext-dds-7.3.0-ros",
+      "repo_name": "ros",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "7.3.0.0-5-4bullseye",
+      "description": "Found by rosdep CI (exact) in ros noble",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "rti-connext-dds-7.3.0-ros",
+      "bin_name": "rti-connext-dds-7.3.0-ros",
+      "src_name": "rti-connext-dds-7.3.0-ros",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "7.3.0.0-5-4bullseye",
+      "description": "Found by rosdep CI (suggested) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "rti-connext-dds-7.3.0-ros",
+      "bin_name": "rti-connext-dds-7.3.0-ros",
+      "src_name": "rti-connext-dds-7.3.0-ros",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "7.3.0.0-5-4bullseye",
+      "description": "Found by rosdep CI (suggested) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "rti-connext-dds-7.3.0-ros",
+      "bin_name": "rti-connext-dds-7.3.0-ros",
+      "src_name": "rti-connext-dds-7.3.0-ros",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "7.3.0.0-5-4bullseye",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

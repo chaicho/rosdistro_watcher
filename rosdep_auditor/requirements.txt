@@ -1,0 +1,18 @@
+# Core dependencies (pinned to conda rosdep versions)
+PyYAML==6.0.2
+requests==2.32.4
+beautifulsoup4==4.14.3
+unidiff==0.7.5
+
+# Compression support
+zstandard==0.23.0
+brotli==1.2.0
+
+# LLM and machine learning support
+openai==2.14.0
+sentence-transformers==5.1.0
+transformers==4.55.0
+torch==2.8.0
+scikit-learn==1.7.1
+numpy==2.3.2
+pandas==2.3.2

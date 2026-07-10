@@ -1,0 +1,1529 @@
+{
+  "rosdep_key": "rtklib",
+  "status": "completed",
+  "baseline_package": [
+    [
+      "rtklib",
+      "ubuntu",
+      "noble"
+    ]
+  ],
+  "primary_package": [
+    [
+      "rtklib",
+      "ubuntu",
+      "noble"
+    ]
+  ],
+  "detector_w07_result": {
+    "rhel_8": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": "2.4.3.b33-5.el8",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": "2.4.3.b33-16.fc42",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": "2.4.3.b34+dfsg-1",
+        "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": "2.4.3.b33-17.fc43",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": "2.4.3+dfsg1-2.1build1",
+        "description": "Real Time Kinematic and other advanced GPS positioning techniques",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.4.3.b34+dfsg-1build2",
+        "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib (2.4.3.b34+dfsg-1)",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": "2.4.3.b34+dfsg-1+b1",
+        "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_glm_4.7_result": {
+    "ubuntu_noble": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.4.3.b34+dfsg-1build2",
+        "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_gemini_3_pro_result": {
+    "ubuntu_noble": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.4.3.b34+dfsg-1build2",
+        "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_9": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "rhel",
+        "repo_version": "9",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_claude_opus_4_5_result": {
+    "ubuntu_noble": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.4.3.b34+dfsg-1build2",
+        "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "llm_deepseek_v3.2_result": {
+    "ubuntu_noble": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.4.3.b34+dfsg-1build2",
+        "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+        "confidence": 1.0
+      }
+    ],
+    "alpine_edge": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "alpine",
+        "repo_version": "edge",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "arch": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "arch",
+        "repo_version": "",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "opensuse_15.2": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "opensuse",
+        "repo_version": "15.2",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": null,
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": null,
+        "description": "LLM selected package for rtklib",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "mapper_result": {
+    "debian_bookworm": [
+      {
+        "name": "librtklib1",
+        "bin_name": "librtklib1",
+        "src_name": "rtklib",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "librtklib-dev",
+        "bin_name": "librtklib-dev",
+        "src_name": "rtklib",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-doc",
+        "bin_name": "rtklib-doc",
+        "src_name": "rtklib",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-qt",
+        "bin_name": "rtklib-qt",
+        "src_name": "rtklib",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "rtklib-doc",
+        "bin_name": "rtklib-doc",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-devel",
+        "bin_name": "rtklib-devel",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-libs",
+        "bin_name": "rtklib-libs",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-qt",
+        "bin_name": "rtklib-qt",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-qt",
+        "bin_name": "rtklib-qt",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-devel",
+        "bin_name": "rtklib-devel",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-libs",
+        "bin_name": "rtklib-libs",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-doc",
+        "bin_name": "rtklib-doc",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "rtklib-doc",
+        "bin_name": "rtklib-doc",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-qt",
+        "bin_name": "rtklib-qt",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "rtklib-doc",
+        "bin_name": "rtklib-doc",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "librtklib1",
+        "bin_name": "librtklib1",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-qt",
+        "bin_name": "rtklib-qt",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "librtklib-dev",
+        "bin_name": "librtklib-dev",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "librtklib1",
+        "bin_name": "librtklib1",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-qt",
+        "bin_name": "rtklib-qt",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "librtklib-dev",
+        "bin_name": "librtklib-dev",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      },
+      {
+        "name": "rtklib-doc",
+        "bin_name": "rtklib-doc",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "",
+        "description": "unknown",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "rosdep_ci_result": {
+    "debian_bookworm": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib (2.4.3.b34+dfsg-1)",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": "amd64",
+        "version": "2.4.3.b34+dfsg-1+b1",
+        "description": "Found by rosdep CI (exact) in debian bookworm",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": "x86_64",
+        "version": "2.4.3.b33-16.fc42",
+        "description": "Found by rosdep CI (exact) in fedora 42",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": "x86_64",
+        "version": "2.4.3.b33-17.fc43",
+        "description": "Found by rosdep CI (exact) in fedora 43",
+        "confidence": 1.0
+      }
+    ],
+    "rhel_8": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "rhel",
+        "repo_version": "8",
+        "arch": "x86_64",
+        "version": "2.4.3.b33-5.el8",
+        "description": "Found by rosdep CI (exact) in rhel 8",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_focal": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": "amd64",
+        "version": "2.4.3+dfsg1-2.1build1",
+        "description": "Found by rosdep CI (exact) in ubuntu focal",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": "amd64",
+        "version": "2.4.3.b34+dfsg-1",
+        "description": "Found by rosdep CI (exact) in ubuntu jammy",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": "amd64",
+        "version": "2.4.3.b34+dfsg-1build2",
+        "description": "Found by rosdep CI (exact) in ubuntu noble",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "rosdep_result": {
+    "ubuntu_focal": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "focal",
+        "arch": null,
+        "version": "2.4.3+dfsg1-2.1build1",
+        "description": "Real Time Kinematic and other advanced GPS positioning techniques",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_jammy": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "jammy",
+        "arch": null,
+        "version": "2.4.3.b34+dfsg-1",
+        "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+        "confidence": 1.0
+      }
+    ],
+    "ubuntu_noble": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "ubuntu",
+        "repo_version": "noble",
+        "arch": null,
+        "version": "2.4.3.b34+dfsg-1build2",
+        "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_42": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "42",
+        "arch": null,
+        "version": "2.4.3.b33-16.fc42",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      }
+    ],
+    "fedora_43": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib",
+        "repo_name": "fedora",
+        "repo_version": "43",
+        "arch": null,
+        "version": "2.4.3.b33-17.fc43",
+        "description": "Program Package for GNSS Positioning",
+        "confidence": 1.0
+      }
+    ],
+    "debian_bookworm": [
+      {
+        "name": "rtklib",
+        "bin_name": "rtklib",
+        "src_name": "rtklib (2.4.3.b34+dfsg-1)",
+        "repo_name": "debian",
+        "repo_version": "bookworm",
+        "arch": null,
+        "version": "2.4.3.b34+dfsg-1+b1",
+        "description": "RTK and other advanced GNSS positioning techniques -- CLI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "comparison_summary": {
+    "repositories_found": {
+      "rosdep": [
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "detector_w07": [
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "rhel_8",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_glm_4.7": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_gemini_3_pro": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "rhel_8",
+        "rhel_9",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_claude_opus_4_5": [
+        "arch",
+        "debian_bookworm",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "llm_deepseek_v3.2": [
+        "alpine_edge",
+        "arch",
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "opensuse_15.2",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "mapper": [
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ],
+      "rosdep_ci": [
+        "debian_bookworm",
+        "fedora_42",
+        "fedora_43",
+        "rhel_8",
+        "ubuntu_focal",
+        "ubuntu_jammy",
+        "ubuntu_noble"
+      ]
+    },
+    "package_counts": {
+      "rosdep": 6,
+      "detector_w07": 7,
+      "llm_glm_4.7": 11,
+      "llm_gemini_3_pro": 9,
+      "llm_claude_opus_4_5": 5,
+      "llm_deepseek_v3.2": 9,
+      "mapper": 28,
+      "rosdep_ci": 7
+    },
+    "common_repositories": [
+      "debian_bookworm",
+      "ubuntu_jammy",
+      "ubuntu_noble"
+    ],
+    "accuracy_metrics": {
+      "detector_w07": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1_score": 0.923076923076923
+      },
+      "llm_glm_4.7": {
+        "precision": 0.5454545454545454,
+        "recall": 1.0,
+        "f1_score": 0.7058823529411764
+      },
+      "llm_gemini_3_pro": {
+        "precision": 0.5555555555555556,
+        "recall": 0.8333333333333334,
+        "f1_score": 0.6666666666666667
+      },
+      "llm_claude_opus_4_5": {
+        "precision": 0.8,
+        "recall": 0.6666666666666666,
+        "f1_score": 0.7272727272727272
+      },
+      "llm_deepseek_v3.2": {
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1_score": 0.8
+      },
+      "mapper": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+      },
+      "rosdep_ci": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1_score": 0.923076923076923
+      }
+    },
+    "unique_to_detector_w07": [],
+    "unique_to_llm_glm_4.7": [],
+    "unique_to_llm_gemini_3_pro": [],
+    "unique_to_llm_claude_opus_4_5": [],
+    "unique_to_llm_deepseek_v3.2": [],
+    "unique_to_mapper": [],
+    "unique_to_rosdep_ci": []
+  },
+  "detailed_package_comparison": {
+    "rosdep_key": "rtklib",
+    "platform_binname_analysis": {
+      "ubuntu_focal": {
+        "platform": "ubuntu_focal",
+        "ground_truth_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "rtklib"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [],
+        "llm_gemini_3_pro_match_result": "no_match",
+        "llm_gemini_3_pro_found_count": 0,
+        "llm_gemini_3_pro_total_packages": 0,
+        "llm_claude_opus_4_5_binnames": [
+          "rtklib"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "rtklib"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "rtklib",
+          "rtklib-doc",
+          "rtklib-qt"
+        ],
+        "mapper_total_packages": 3,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "rtklib"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "ubuntu_jammy": {
+        "platform": "ubuntu_jammy",
+        "ground_truth_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "rtklib"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "rtklib"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "rtklib"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "rtklib"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "librtklib-dev",
+          "librtklib1",
+          "rtklib",
+          "rtklib-doc",
+          "rtklib-qt"
+        ],
+        "mapper_total_packages": 5,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "rtklib"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "ubuntu_noble": {
+        "platform": "ubuntu_noble",
+        "ground_truth_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "rtklib"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "rtklib"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "rtklib"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "rtklib"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "librtklib-dev",
+          "librtklib1",
+          "rtklib",
+          "rtklib-doc",
+          "rtklib-qt"
+        ],
+        "mapper_total_packages": 5,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "rtklib"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "fedora_42": {
+        "platform": "fedora_42",
+        "ground_truth_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "rtklib"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "rtklib"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [],
+        "llm_claude_opus_4_5_match_result": "no_match",
+        "llm_claude_opus_4_5_found_count": 0,
+        "llm_claude_opus_4_5_total_packages": 0,
+        "llm_deepseek_v3.2_binnames": [
+          "rtklib"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "rtklib",
+          "rtklib-devel",
+          "rtklib-doc",
+          "rtklib-libs",
+          "rtklib-qt"
+        ],
+        "mapper_total_packages": 5,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "rtklib"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "fedora_43": {
+        "platform": "fedora_43",
+        "ground_truth_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "rtklib"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "rtklib"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [],
+        "llm_claude_opus_4_5_match_result": "no_match",
+        "llm_claude_opus_4_5_found_count": 0,
+        "llm_claude_opus_4_5_total_packages": 0,
+        "llm_deepseek_v3.2_binnames": [
+          "rtklib"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "rtklib",
+          "rtklib-devel",
+          "rtklib-doc",
+          "rtklib-libs",
+          "rtklib-qt"
+        ],
+        "mapper_total_packages": 5,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "rtklib"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      },
+      "debian_bookworm": {
+        "platform": "debian_bookworm",
+        "ground_truth_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_binnames": [
+          "rtklib"
+        ],
+        "detector_w07_total_packages": 1,
+        "detector_w07_match_result": "exact_match",
+        "detector_w07_found_count": 1,
+        "llm_glm_4.7_binnames": [
+          "rtklib"
+        ],
+        "llm_glm_4.7_total_packages": 1,
+        "llm_glm_4.7_match_result": "exact_match",
+        "llm_glm_4.7_found_count": 1,
+        "llm_gemini_3_pro_binnames": [
+          "rtklib"
+        ],
+        "llm_gemini_3_pro_total_packages": 1,
+        "llm_gemini_3_pro_match_result": "exact_match",
+        "llm_gemini_3_pro_found_count": 1,
+        "llm_claude_opus_4_5_binnames": [
+          "rtklib"
+        ],
+        "llm_claude_opus_4_5_total_packages": 1,
+        "llm_claude_opus_4_5_match_result": "exact_match",
+        "llm_claude_opus_4_5_found_count": 1,
+        "llm_deepseek_v3.2_binnames": [
+          "rtklib"
+        ],
+        "llm_deepseek_v3.2_total_packages": 1,
+        "llm_deepseek_v3.2_match_result": "exact_match",
+        "llm_deepseek_v3.2_found_count": 1,
+        "mapper_binnames": [
+          "librtklib-dev",
+          "librtklib1",
+          "rtklib",
+          "rtklib-doc",
+          "rtklib-qt"
+        ],
+        "mapper_total_packages": 5,
+        "mapper_match_result": "partial_match",
+        "mapper_found_count": 1,
+        "rosdep_ci_binnames": [
+          "rtklib"
+        ],
+        "rosdep_ci_total_packages": 1,
+        "rosdep_ci_match_result": "exact_match",
+        "rosdep_ci_found_count": 1
+      }
+    },
+    "summary": {
+      "total_ground_truth_platforms": 6,
+      "detector_w07_exact_matches": 6,
+      "detector_w07_partial_matches": 0,
+      "detector_w07_no_matches": 0,
+      "llm_glm_4.7_exact_matches": 6,
+      "llm_glm_4.7_partial_matches": 0,
+      "llm_glm_4.7_no_matches": 0,
+      "llm_gemini_3_pro_exact_matches": 5,
+      "llm_gemini_3_pro_partial_matches": 0,
+      "llm_gemini_3_pro_no_matches": 1,
+      "llm_claude_opus_4_5_exact_matches": 4,
+      "llm_claude_opus_4_5_partial_matches": 0,
+      "llm_claude_opus_4_5_no_matches": 2,
+      "llm_deepseek_v3.2_exact_matches": 6,
+      "llm_deepseek_v3.2_partial_matches": 0,
+      "llm_deepseek_v3.2_no_matches": 0,
+      "mapper_exact_matches": 0,
+      "mapper_partial_matches": 6,
+      "mapper_no_matches": 0,
+      "rosdep_ci_exact_matches": 6,
+      "rosdep_ci_partial_matches": 0,
+      "rosdep_ci_no_matches": 0
+    },
+    "status": "completed"
+  }
+}

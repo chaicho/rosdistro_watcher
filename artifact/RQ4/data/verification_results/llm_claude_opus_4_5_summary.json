@@ -1,0 +1,10 @@
+{
+  "llm_name": "llm_claude_opus_4_5",
+  "total_packages": 110,
+  "total_entries": 984,
+  "verified_entries": 914,
+  "unverified_entries": 70,
+  "fake_packages_count": 70,
+  "verification_rate": "92.9%",
+  "fake_rate": "7.1%"
+}

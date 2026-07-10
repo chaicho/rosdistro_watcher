@@ -1,0 +1,74 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "python-pytest-dependency-doc",
+      "bin_name": "python-pytest-dependency-doc",
+      "src_name": "pytest-dependency",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": "pytest-dependency",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python-pytest-dependency-doc",
+      "bin_name": "python-pytest-dependency-doc",
+      "src_name": "pytest-dependency",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": "pytest-dependency",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python-pytest-dependency-doc",
+      "bin_name": "python-pytest-dependency-doc",
+      "src_name": "pytest-dependency",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pytest-dependency",
+      "bin_name": "python3-pytest-dependency",
+      "src_name": "pytest-dependency",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

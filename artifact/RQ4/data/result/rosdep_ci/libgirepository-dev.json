@@ -1,0 +1,54 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "1.74.0-3",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "1.64.0-2",
+      "description": "Found by rosdep CI (exact) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "1.72.0-1",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libgirepository1.0-dev",
+      "bin_name": "libgirepository1.0-dev",
+      "src_name": "gobject-introspection",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "1.80.1-1",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

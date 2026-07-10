@@ -1,0 +1,836 @@
+pr_url,modified_keys,created_at,closed_at
+https://github.com/ros/rosdistro/pull/42740,pybind11-dev,2024-09-05T19:16:16Z,2024-09-06T15:03:15Z
+https://github.com/ros/rosdistro/pull/42561,"dynamic-edt-3d, octomap, octovis",2024-08-23T14:30:13Z,2024-08-26T15:39:39Z
+https://github.com/ros/rosdistro/pull/32380,python-transitions,2022-03-17T19:40:05Z,2022-03-17T18:01:01Z
+https://github.com/ros/rosdistro/pull/29176,"ignition-common4, ignition-edifice, ignition-fuel-tools6, ignition-gazebo5, ignition-gui5, ignition-launch4, ignition-msgs7, ignition-physics4, ignition-rendering5, ignition-sensors5, ignition-transport10, ignition-utils1, ignition-utils1-cli, libignition-common4, libignition-fuel-tools6, libignition-gazebo5, libignition-gui5, libignition-launch4, libignition-msgs7, libignition-physics4, libignition-rendering5, libignition-sensors5, libignition-transport10, libignition-utils1, sdformat11",2021-04-15T18:51:07Z,2021-04-16T18:27:06Z
+https://github.com/ros/rosdistro/pull/29035,"libuv-dev, libuv1-dev",2021-04-08T07:52:08Z,2021-04-14T19:58:49Z
+https://github.com/ros/rosdistro/pull/26642,nlohmann-json-dev,2020-09-21T19:10:54Z,2020-09-22T16:43:16Z
+https://github.com/ros/rosdistro/pull/26487,libpcl-all,2020-09-08T10:26:50Z,2020-09-10T13:31:44Z
+https://github.com/ros/rosdistro/pull/21649,libjpeg,2019-06-28T19:21:46Z,2019-07-10T13:20:03Z
+https://github.com/ros/rosdistro/pull/20738,libgtkmm,2019-03-28T08:15:14Z,2019-03-29T23:17:55Z
+https://github.com/ros/rosdistro/pull/20474,ffmpeg,2019-03-05T23:37:42Z,2019-03-06T14:09:22Z
+https://github.com/ros/rosdistro/pull/19567,libqwt-qt5-dev,2018-11-30T06:51:58Z,2018-12-12T00:29:09Z
+https://github.com/ros/rosdistro/pull/18305,git,2018-06-28T20:16:40Z,2018-06-28T20:32:58Z
+https://github.com/ros/rosdistro/pull/15567,"wxpython, yapf",2017-07-18T22:51:47Z,2017-07-19T00:56:04Z
+https://github.com/ros/rosdistro/pull/12866,libftdipp-dev,2016-09-30T16:10:28Z,2016-10-08T09:20:25Z
+https://github.com/ros/rosdistro/pull/10586,python-imaging,2016-02-29T17:13:16Z,2016-02-29T18:17:51Z
+https://github.com/ros/rosdistro/pull/9571,assimp,2015-09-28T02:33:49Z,2015-09-28T03:33:57Z
+https://github.com/ros/rosdistro/pull/45554,python-duckdb-pip,2025-04-29T12:43:45Z,2025-05-07T12:57:34Z
+https://github.com/ros/rosdistro/pull/45387,python3-regex,2025-04-25T13:46:40Z,2025-04-29T13:57:48Z
+https://github.com/ros/rosdistro/pull/45319,"qml-module-qt-labs-folderlistmodel, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtcharts, qml-module-qtgraphicaleffects, qml-module-qtlocation, qml-module-qtpositioning, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-dialogs, qml-module-qtquick-layouts, qml-module-qtquick-templates2, qml-module-qtquick-window2, qml-module-qtquick2",2025-04-23T22:01:01Z,2025-04-24T15:33:03Z
+https://github.com/ros/rosdistro/pull/45318,python3-pyside2,2025-04-23T21:13:53Z,2025-04-24T15:33:21Z
+https://github.com/ros/rosdistro/pull/45317,python3-websockets,2025-04-23T20:56:18Z,2025-04-24T15:33:54Z
+https://github.com/ros/rosdistro/pull/45314,qtmultimedia5-dev,2025-04-23T20:46:23Z,2025-04-24T15:31:56Z
+https://github.com/ros/rosdistro/pull/45313,libqt5-multimedia,2025-04-23T20:43:34Z,2025-04-24T15:35:11Z
+https://github.com/ros/rosdistro/pull/45312,python3-pre-commit,2025-04-23T20:21:27Z,2025-04-24T15:35:43Z
+https://github.com/ros/rosdistro/pull/45311,libxcb-randr0-dev,2025-04-23T20:11:40Z,2025-04-24T15:36:04Z
+https://github.com/ros/rosdistro/pull/45310,qtdeclarative5-dev,2025-04-23T20:06:56Z,2025-04-24T15:36:37Z
+https://github.com/ros/rosdistro/pull/45309,qtquickcontrols2-5-dev,2025-04-23T20:03:31Z,2025-04-24T15:40:39Z
+https://github.com/ros/rosdistro/pull/45307,python3-platformdirs,2025-04-23T19:43:37Z,2025-04-24T15:41:07Z
+https://github.com/ros/rosdistro/pull/45306,python3-filelock,2025-04-23T17:13:10Z,2025-04-24T15:41:41Z
+https://github.com/ros/rosdistro/pull/45277,libc++-dev,2025-04-22T11:36:50Z,2025-04-30T12:56:04Z
+https://github.com/ros/rosdistro/pull/45169,python3-pypylon-pip,2025-04-15T12:28:08Z,2025-05-06T14:27:20Z
+https://github.com/ros/rosdistro/pull/45168,python3-soundfile,2025-04-15T06:36:18Z,2025-04-15T10:44:46Z
+https://github.com/ros/rosdistro/pull/45167,python3-pydub,2025-04-15T06:20:37Z,2025-04-15T10:45:20Z
+https://github.com/ros/rosdistro/pull/45164,libexpected-dev,2025-04-15T04:20:59Z,2025-05-06T16:40:20Z
+https://github.com/ros/rosdistro/pull/45115,python3-open-gopro-pip,2025-04-11T07:58:47Z,2025-05-05T18:51:18Z
+https://github.com/ros/rosdistro/pull/45085,"python3-aabbtree-pip, python3-pydantic-xml-pip, python3-pyright-pip, python3-pytransform3d-pip, python3-sphinx-copybutton, python3-svgpath2mpl-pip, python3-typer, python3-wandb-pip",2025-04-10T13:45:53Z,2025-05-06T14:27:57Z
+https://github.com/ros/rosdistro/pull/45084,"python3-reedsolo, python3-reedsolo-pip",2025-04-10T12:28:00Z,2025-05-08T04:58:22Z
+https://github.com/ros/rosdistro/pull/45035,libqt5-core,2025-04-08T16:19:07Z,2025-05-12T23:51:02Z
+https://github.com/ros/rosdistro/pull/44989,libserialport-dev,2025-04-04T10:25:28Z,2025-04-14T03:36:09Z
+https://github.com/ros/rosdistro/pull/44988,libaio-dev,2025-04-04T10:23:33Z,2025-04-14T03:39:12Z
+https://github.com/ros/rosdistro/pull/44984,libre2-dev,2025-04-04T01:48:04Z,2025-04-14T03:45:15Z
+https://github.com/ros/rosdistro/pull/44942,python3-jraph-pip,2025-04-02T01:16:18Z,2025-05-06T14:30:56Z
+https://github.com/ros/rosdistro/pull/44920,python3-einops-pip,2025-03-31T20:59:59Z,2025-04-01T23:11:17Z
+https://github.com/ros/rosdistro/pull/44918,rti-connext-dds-7.3.0,2025-03-31T13:19:46Z,2025-04-08T01:46:00Z
+https://github.com/ros/rosdistro/pull/44839,python3-freezegun,2025-03-20T07:52:42Z,2025-03-27T19:04:37Z
+https://github.com/ros/rosdistro/pull/44829,python3-galois-pip,2025-03-19T09:44:59Z,2025-03-27T19:12:17Z
+https://github.com/ros/rosdistro/pull/44759,python3-json5,2025-03-14T17:36:03Z,2025-03-27T19:06:59Z
+https://github.com/ros/rosdistro/pull/44757,tftp-hpa,2025-03-14T14:04:03Z,2025-03-27T19:10:36Z
+https://github.com/ros/rosdistro/pull/44743,python3-apt,2025-03-13T15:20:36Z,2025-03-26T18:19:25Z
+https://github.com/ros/rosdistro/pull/44741,python3-silero-vad-pip,2025-03-13T12:34:06Z,2025-03-27T19:11:52Z
+https://github.com/ros/rosdistro/pull/44705,python3-mss-pip,2025-03-09T14:33:38Z,2025-03-27T19:06:29Z
+https://github.com/ros/rosdistro/pull/44672,python3-apscheduler,2025-03-06T14:18:41Z,2025-05-13T00:00:08Z
+https://github.com/ros/rosdistro/pull/44654,python3-utm,2025-03-03T09:19:48Z,2025-03-27T19:10:07Z
+https://github.com/ros/rosdistro/pull/44653,"alsa-oss, libasound2-dev",2025-03-02T16:14:58Z,2025-03-26T17:46:31Z
+https://github.com/ros/rosdistro/pull/44652,python3-isaaclab-pip,2025-03-02T11:45:32Z,2025-03-26T18:02:51Z
+https://github.com/ros/rosdistro/pull/44541,libzip-dev,2025-02-19T22:55:35Z,2025-02-20T08:36:46Z
+https://github.com/ros/rosdistro/pull/44508,python3-tactigon-gear-pip,2025-02-18T14:12:00Z,2025-02-20T10:16:28Z
+https://github.com/ros/rosdistro/pull/44501,python3-wheel,2025-02-17T19:17:13Z,2025-02-19T00:12:28Z
+https://github.com/ros/rosdistro/pull/44427,python-attrs-pip,2025-02-10T22:54:17Z,2025-02-19T19:41:12Z
+https://github.com/ros/rosdistro/pull/44420,python3-setproctitle,2025-02-10T17:09:17Z,2025-02-16T03:06:43Z
+https://github.com/ros/rosdistro/pull/44413,python3-python-snap7-pip,2025-02-10T13:00:00Z,2025-02-16T03:13:10Z
+https://github.com/ros/rosdistro/pull/44396,python3-pygeodesy-pip,2025-02-07T09:17:30Z,2025-02-19T19:38:53Z
+https://github.com/ros/rosdistro/pull/44327,python3-copier-pip,2025-01-31T11:38:29Z,2025-02-20T11:07:33Z
+https://github.com/ros/rosdistro/pull/44313,python3-ubjson,2025-01-29T21:40:24Z,2025-02-04T15:08:55Z
+https://github.com/ros/rosdistro/pull/44305,"python3-isaacsim-all-pip, python3-isaacsim-extscache-pip, python3-isaacsim-rl-pip, python3-isaacsim-ros-pip, python3-isaacsim-ros2-pip",2025-01-29T17:47:20Z,2025-02-20T11:04:46Z
+https://github.com/ros/rosdistro/pull/44301,python3-msgpack-numpy,2025-01-29T09:29:58Z,2025-02-18T23:35:43Z
+https://github.com/ros/rosdistro/pull/44277,"python3-antlr4, python3-expiringdict, python3-flake8-blind-except, python3-flake8-class-newline, python3-flake8-deprecated, python3-pexpect, python3-pre-commit, python3-rich",2025-01-24T15:53:00Z,2025-01-24T20:24:14Z
+https://github.com/ros/rosdistro/pull/44223,python3-typing-extensions,2025-01-17T20:51:31Z,2025-01-23T14:39:42Z
+https://github.com/ros/rosdistro/pull/44181,rclone,2025-01-14T12:36:23Z,2025-01-27T19:28:59Z
+https://github.com/ros/rosdistro/pull/44166,python3-pyubx2-pip,2025-01-13T21:34:07Z,2025-02-18T23:31:06Z
+https://github.com/ros/rosdistro/pull/44122,python3-torchrl-pip,2025-01-08T12:56:14Z,2025-01-21T21:50:53Z
+https://github.com/ros/rosdistro/pull/44119,platformio,2025-01-08T02:27:28Z,2025-01-30T20:04:50Z
+https://github.com/ros/rosdistro/pull/44039,python3-beartype,2024-12-25T05:56:24Z,2024-12-30T14:27:25Z
+https://github.com/ros/rosdistro/pull/44038,python3-alsaaudio,2024-12-25T05:44:46Z,2024-12-30T14:26:54Z
+https://github.com/ros/rosdistro/pull/44037,python3-gtts,2024-12-25T05:11:28Z,2024-12-30T14:24:30Z
+https://github.com/ros/rosdistro/pull/43942,"ace, acpitool, alsa-utils, apache2, apparmor, aravis, aravis-dev, at-spi2-core, autossh, babeltrace, box2d-dev, can-utils, castxml, catch2, chrony, clang, clang-format, clang-tidy, cli11, devilspie2, dfu-util, docker-compose, dpkg-dev, espeak, ethtool, fcgi, fltk, fluidsynth, fping, freetype, fsharp, gcc-arm-none-eabi, geos, gnome-terminal, gperftools, gphoto2, gpsd, graphviz, graphviz-dev, htop, imagemagick, intltool, jack, jasper, libao-dev, libav, libavdevice-dev, libb64-dev, libbackward-cpp-dev, libbluetooth, libbluetooth-dev, libbsd-dev, libccid, libcereal-dev, libclang-dev, libconfig-dev, libcpprest-dev, libcunit-dev, libdbus-dev, libdpkg-dev, libedit, libedit-dev, libepoxy-dev, libespeak-dev, libev-dev, libevdev-dev, libevent-dev, libexif, libexif-dev, libftgl-dev, libfyaml-dev, libgdal-dev, libgpiod-dev, libgtkmm, libgts, libhidapi-dev, libiw-dev, libjack-dev, libjson-glib, libleptonica-dev, liblz4, liblz4-dev, libmnl-dev, libmpg123-dev, libmpich-dev, libnanopb-dev, libnl-dev, libnotify, libomp-dev, libopenexr-dev, libopenni-dev, libopenni2-dev, libopenscenegraph, libopus-dev, libpopt-dev, libprocps-dev, libqtwebkit-dev, librdkafka-dev, libshaderc-dev, libsodium-dev, libspatialite, libssh-dev, libssh2, libssh2-dev, libsystemd-dev, libtclap-dev, libtesseract, libtiff-dev, libunwind, libunwind-dev, libvorbis-dev, libx264-dev, libxcursor-dev, libxft-dev, libxinerama-dev, libxkbcommon-dev, libxtst-dev, libzip-dev, lighttpd, lttng-modules, lua-dev, mercurial, mpfr, mpg123, msr-tools, muparser, nasm, ocl-icd-opencl-dev, octave, openni-dev, php, pigz, postfix, powertop, psutils, python3-babeltrace, python3-construct, python3-distro, python3-ply, python3-pydantic, python3-pymap3d, python3-scipy, python3-smbus, python3-venv, python3-watchdog, qml-module-qtquick-extras, range-v3, rapidjson-dev, rt-tests, sdformat, setserial, simde, smartmontools, sound-theme-freedesktop, sox, speex, sysbench, systemd, tcsh, tmux, tree, vim, vorbis-tools, wireshark, xdg-utils, xsimd, xtensor, yasm, zenity, zip, zsh, zziplib",2024-12-18T00:22:23Z,2025-02-07T16:18:35Z
+https://github.com/ros/rosdistro/pull/43904,"python3-omniorb, python3-pyside2",2024-12-13T16:26:30Z,2024-12-30T14:22:28Z
+https://github.com/ros/rosdistro/pull/43897,python3-robyn-pip,2024-12-13T06:41:25Z,2024-12-30T14:22:00Z
+https://github.com/ros/rosdistro/pull/43860,python3-facenet-pytorch-pip,2024-12-11T06:53:03Z,2024-12-30T14:21:08Z
+https://github.com/ros/rosdistro/pull/43767,python3-osrf-pycommon,2024-12-02T23:06:04Z,2024-12-04T15:51:35Z
+https://github.com/ros/rosdistro/pull/43756,python3-pil-imagetk,2024-12-02T09:55:09Z,2024-12-04T20:26:55Z
+https://github.com/ros/rosdistro/pull/43720,python3-libtmux,2024-11-27T13:58:34Z,2024-12-04T20:27:43Z
+https://github.com/ros/rosdistro/pull/43622,"python3-textual, python3-textual-pip, python3-textual-plotext-pip, python3-textual-web-pip",2024-11-22T07:15:52Z,2024-11-22T14:49:59Z
+https://github.com/ros/rosdistro/pull/43539,python3-babel,2024-11-18T12:31:37Z,2024-11-21T05:59:17Z
+https://github.com/ros/rosdistro/pull/43530,libfcl,2024-11-17T12:25:21Z,2024-11-20T16:38:19Z
+https://github.com/ros/rosdistro/pull/43517,jupyter-notebook,2024-11-15T18:57:13Z,2024-11-18T18:56:01Z
+https://github.com/ros/rosdistro/pull/43511,"asio, benchmark, bullet, clang-format, clang-tidy, cppcheck, file, google-mock, libfreetype-dev, libfreetype6, liblttng-ust-dev, liblz4, liblz4-dev, libncurses-dev, libomp-dev, libopencv-dev, libqt5-svg, libsqlite3-dev, libx11-dev, libxml2-utils, libxrandr, libyaml, libyaml-dev, libzstd-dev, openssl, pybind11-dev, pydocstyle, pyflakes3, python3, python3-argcomplete, python3-cairo, python3-cryptography, python3-empy, python3-fastjsonschema, python3-flake8, python3-flake8-builtins, python3-flake8-comprehensions, python3-flake8-docstrings, python3-flake8-import-order, python3-flake8-quotes, python3-importlib-metadata, python3-importlib-resources, python3-lark-parser, python3-lttng, python3-lxml, python3-matplotlib, python3-mypy, python3-numpy, python3-packaging, python3-petact-pip, python3-pil, python3-psutil, python3-pycodestyle, python3-pydot, python3-pygame, python3-pygraphviz, python3-pytest, python3-pytest-cov, python3-pytest-mock, python3-pytest-timeout, python3-qt5-bindings, python3-setuptools, python3-typing-extensions, python3-yaml, qml-module-qtquick-dialogs, qt5-qmake, spdlog, uncrustify, yaml",2024-11-15T03:43:21Z,2024-11-16T17:09:29Z
+https://github.com/ros/rosdistro/pull/43502,python3-streamz,2024-11-14T13:27:30Z,2024-12-04T20:28:37Z
+https://github.com/ros/rosdistro/pull/43500,python3-distutils,2024-11-14T07:51:55Z,2024-11-27T22:40:06Z
+https://github.com/ros/rosdistro/pull/43485,python3-validators,2024-11-13T06:52:34Z,2024-11-21T14:12:12Z
+https://github.com/ros/rosdistro/pull/43482,python3-ollama-pip,2024-11-13T05:57:32Z,2024-11-16T20:06:27Z
+https://github.com/ros/rosdistro/pull/43466,python3-fabric,2024-11-12T08:25:25Z,2024-11-21T05:33:03Z
+https://github.com/ros/rosdistro/pull/43463,libexiv2-dev,2024-11-12T00:56:58Z,2024-11-18T20:19:56Z
+https://github.com/ros/rosdistro/pull/43462,"lensfun, lensfun-dev, python3-lensfun",2024-11-12T00:28:53Z,2024-11-15T19:16:20Z
+https://github.com/ros/rosdistro/pull/43391,python3-minijinja,2024-11-08T11:48:31Z,2024-11-12T18:01:25Z
+https://github.com/ros/rosdistro/pull/43386,python3-rich,2024-11-08T10:53:24Z,2024-11-12T18:00:56Z
+https://github.com/ros/rosdistro/pull/43327,nanobind-dev,2024-11-01T19:49:35Z,2024-11-15T21:00:30Z
+https://github.com/ros/rosdistro/pull/43326,libwebp-tools,2024-11-01T17:13:50Z,2024-11-15T19:00:14Z
+https://github.com/ros/rosdistro/pull/43261,python3-expiringdict,2024-10-24T12:56:40Z,2024-11-06T14:55:55Z
+https://github.com/ros/rosdistro/pull/43254,xtensor,2024-10-22T14:37:18Z,2024-11-06T15:52:22Z
+https://github.com/ros/rosdistro/pull/43253,python3-piexif,2024-10-21T13:00:59Z,2024-11-05T16:22:38Z
+https://github.com/ros/rosdistro/pull/43190,python3-pytest-order,2024-10-15T02:28:30Z,2024-10-30T16:17:31Z
+https://github.com/ros/rosdistro/pull/43178,dh-python,2024-10-14T15:18:49Z,2024-11-04T03:27:35Z
+https://github.com/ros/rosdistro/pull/43173,python-opencv-contrib-pip,2024-10-14T13:21:37Z,2024-11-21T05:29:52Z
+https://github.com/ros/rosdistro/pull/43171,python3-bloom,2024-10-14T11:06:22Z,2024-10-15T15:54:02Z
+https://github.com/ros/rosdistro/pull/43167,"clang-format, clang-tidy, clangd",2024-10-12T15:50:31Z,2024-10-17T23:17:19Z
+https://github.com/ros/rosdistro/pull/43023,"bandit, castxml, collectd, comedi, dcraw, devscripts, flawfinder, fluidsynth, fonts-noto, fping, fxload, gcovr, gitk, glpk, gperf, haproxy, inxi, libalglib-dev, libepoxy-dev, libevent-dev, libext2fs-dev, libftgl-dev, libgeographiclib-dev, mpfr, msr-tools, nanoflann, nbtscan, nvidia-cg, odb, opencascade, pigz, postfix, postgresql-client, postgresql-postgis, potrace, rsyslog, slime, speech-dispatcher, swi-prolog, systemd",2024-10-02T15:23:14Z,2024-10-03T16:56:54Z
+https://github.com/ros/rosdistro/pull/43013,"libglm-dev, sdl2-image",2024-10-01T12:26:04Z,2024-10-03T14:40:19Z
+https://github.com/ros/rosdistro/pull/42870,python3-ikpy-pip,2024-09-16T13:38:16Z,2024-09-23T23:17:23Z
+https://github.com/ros/rosdistro/pull/42841,protobuf-compiler-grpc,2024-09-13T20:45:56Z,2024-09-23T23:18:06Z
+https://github.com/ros/rosdistro/pull/42824,libgpiod-dev,2024-09-12T21:09:42Z,2024-09-23T23:18:34Z
+https://github.com/ros/rosdistro/pull/42823,python3-noisereduce-pip,2024-09-12T18:52:35Z,2024-09-25T15:15:34Z
+https://github.com/ros/rosdistro/pull/42683,python3-owslib,2024-09-02T09:38:46Z,2024-09-06T15:04:53Z
+https://github.com/ros/rosdistro/pull/42667,"libimage-exiftool-perl, liblcm, liblcm-dev, libnanoflann-dev, libnanopb-dev, libncurses, tshark, unclutter, wkhtmltopdf, wmctrl, workrave, xerces, xpath-perl, xz-utils",2024-08-30T17:40:11Z,2024-09-03T15:11:42Z
+https://github.com/ros/rosdistro/pull/42617,libudev-dev,2024-08-29T06:13:40Z,2024-09-03T15:11:08Z
+https://github.com/ros/rosdistro/pull/42483,python3-openpyxl,2024-08-19T19:32:37Z,2024-08-27T16:41:31Z
+https://github.com/ros/rosdistro/pull/42464,python3-minimalmodbus-pip,2024-08-16T22:08:19Z,2024-08-20T13:33:37Z
+https://github.com/ros/rosdistro/pull/42428,python3-pyotp,2024-08-13T08:51:37Z,2024-09-25T15:18:19Z
+https://github.com/ros/rosdistro/pull/42353,"python3-pyside6, python3-pyside6.qtasyncio, python3-pyside6.qtcharts, python3-pyside6.qtconcurrent, python3-pyside6.qtcore, python3-pyside6.qtdatavisualization, python3-pyside6.qtgui, python3-pyside6.qtqml, python3-pyside6.qttest, python3-pyside6.qtwidgets",2024-08-08T16:16:19Z,2024-10-04T19:53:58Z
+https://github.com/ros/rosdistro/pull/42352,"python3-imutils-pip, python3-requests, python3-requests-toolbelt, python3-simplekml-pip",2024-08-08T15:16:03Z,2024-08-12T15:41:31Z
+https://github.com/ros/rosdistro/pull/42333,python3-nep-pip,2024-08-06T07:43:32Z,2024-08-07T05:24:18Z
+https://github.com/ros/rosdistro/pull/42315,python3-smbus2,2024-08-03T19:35:36Z,2024-08-08T09:45:13Z
+https://github.com/ros/rosdistro/pull/42280,python3-antlr4,2024-07-30T14:21:25Z,2024-07-31T02:06:59Z
+https://github.com/ros/rosdistro/pull/42206,"ace, ack, acpi, ant, antlr, apparmor, arista, armadillo, atlas, babeltrace, bazaar, cargo, castxml, checkinstall, chromium-browser, coinor-libipopt-dev, collada-dom, cpuburn, crypto++, cwiid, cwiid-dev, daemontools, devilspie2, dfu-util, dnsmasq, docker-compose, eclipse, ed, eigen2, enblend, enet, f2c, fakeroot, festival-dev, freetype, gcc-arm-none-eabi, gdal-bin, gforth, gimp, gitg, gitk, glpk, golang-go, google-mock, gpac, gperf, gperftools, gpg-agent, gpsd, graphviz-dev, gstreamer0.10-plugins-good, gstreamer0.10-plugins-ugly, gv, haproxy, hdf5, hdf5-tools, hugin-tools, i2c-tools, intel-opencl-icd, inxi, iperf, iputils-ping, jack, java, jq, julius-voxforge, kate, konsole, lcov, leveldb, libalglib-dev, libann-dev, libao-dev, libapache2-mod-python, libav, libavdevice-dev, libbison-dev, libblosc-dev, libboost-atomic, libboost-atomic-dev, libboost-chrono, libboost-chrono-dev, libboost-coroutine, libboost-coroutine-dev, libboost-date-time, libboost-date-time-dev, libboost-dev, libboost-filesystem, libboost-filesystem-dev, libboost-iostreams, libboost-iostreams-dev, libboost-math, libboost-math-dev, libboost-numpy-dev, libboost-program-options, libboost-program-options-dev, libboost-python, libboost-python-dev, libboost-random, libboost-random-dev, libboost-regex, libboost-regex-dev, libboost-serialization, libboost-serialization-dev, libboost-system, libboost-system-dev, libboost-thread, libboost-thread-dev, libboost-timer, libboost-timer-dev, libcap-ng-dev, libcap-ng0, libcap2, libccd-dev, libcegui-mk2-dev, libcereal-dev, libceres-dev, libcoin80-dev, libconfig++-dev, libconfig-dev, libdbus-dev, libdpkg-dev, libespeak-ng1, libext2fs-dev, libfcl-dev, libffi-dev, libfontconfig1-dev, libfreenect-dev, libgconf2, libgdal-dev, libgif-dev, libglfw3-dev, libglui-dev, libglw1-mesa, libgmock-dev, libgmp, libgnutls28-dev, libgomp1, libgpiod-dev, libgstreamer-plugins-bad1.0-dev, libgstreamer-plugins-base0.10-0, libgstreamer-plugins-base0.10-dev, libgstreamer0.10-0, libgstreamer0.10-dev, libgstrtspserver-1.0-0, libgstrtspserver-1.0-dev, libhdf5-dev, libhidapi-dev, libicu-dev, libiio-dev, libiw-dev, libjack-dev, libjansson-dev, libjsoncpp, libkml-dev, liblapacke-dev, liblz4, liblz4-dev, liblzma-dev, libmarble-dev, libmbedtls-dev, libmicrohttpd, libmnl-dev, libmockito-java, libmongoc-1.0-0, libmongoc-dev, libmpg123-dev, libmysql++-dev, libmysql++3v5, libmysqlcppconn-dev, libnl-dev, libnlopt-cxx-dev, libnlopt-dev, libnlopt0, libnotify, libnss3-dev, libogre, libogre-dev, libopenblas-dev, libopencv-contrib-dev, libopenni-dev, libopenni-nite-dev, libopenni-sensor-primesense-dev, libopenni2-dev, libpcap, libpcl-all, libpcl-all-dev, libpcsclite1, libpng++-dev, libpng12-dev, libpqxx, libpqxx-dev, libprocps-dev, libqcustomplot-dev, libqd-dev, libqglviewer-qt4, libqglviewer-qt4-dev, libqmi-glib-dev, libqrencode, libqrencode-dev, libqt4, libqt4-dev, libqt4-opengl, libqt4-opengl-dev, libqt4-sql-psql, libqt5-charts-dev, libqt5-multimedia, libqt5-qml, libqt5-quick, libqt5-xml, libqtgui4, libqtwebkit-dev, libqwt5-qt4-dev, libqwtplot3d-qt4-dev, librabbitmq-dev, librdkafka-dev, libreadline-java, libsecp256k1-dev, libsimage-dev, libsndfile1-dev, libspatialindex-dev, libsrtp0-dev, libssh-dev, libstdc++5, libsvm-dev, libsvm3, libsvn-dev, libsystemd-dev, libtesseract, libtins-dev, libunwind, libunwind-dev, liburdfdom-dev, liburdfdom-tools, libusb-1.0, libusb-1.0-dev, libvlc, libvlc-dev, libvorbis-dev, libvpx-dev, libvulkan-dev, libwebp-dev, libx264-dev, libxcursor-dev, libxft-dev, libxkbcommon-dev, libxmlrpc-c++, libzip-dev, light-locker, lighttpd, lttng-modules, lttng-tools, mapnik-utils, meld, mesa-utils, meshlab, mono-devel, mosquitto-clients, mosquitto-dev, mosquittopp-dev, muparser, netcdf, network-manager, nlohmann-json-dev, nmap, nodejs, nodejs-legacy, npm, nvidia-cuda, nvidia-cuda-dev, nvidia-cudnn, ocl-icd-opencl-dev, omniidl, omniorb, opencascade, openjdk-6-jdk, openocd, openssh-client, openssh-server, optipng, osm2pgsql, osmium, pandoc, pigz, pkg-config, pmccabe, pmount, poppler-utils, postgresql, potrace, protobuf-compiler-grpc, pstoedit, psutils, pugixml-dev, python-dev, qemu-user-static, qml-module-qt-labs-folderlistmodel, qml-module-qt-labs-settings, qml-module-qtgraphicaleffects, qml-module-qtmultimedia, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-dialogs, qml-module-qtquick-extras, qml-module-qtquick-layouts, qml-module-qtquick-templates2, qml-module-qtquick-window2, qml-module-qtquick2, qt4-dev-tools, qt4-qmake, qtbase5-private-dev, qtmobility-dev, qtpositioning5-dev, qttools5-dev, qttools5-dev-tools, qtwebengine5-dev, r-base, r-base-dev, range-v3, rapidjson-dev, rtmidi, rustc, sdformat, sdl, sdl2, sdl2-image, sdl2-mixer, sdl2-ttf, simde, slime, sound-theme-freedesktop, sox, spacenavd, sparsehash, speech-dispatcher, speex, ssh-askpass, stress-ng, swi-prolog-java, swig, tango-icon-theme, tbb, terminator, tesseract-ocr, texlive-fonts-recommended, texlive-latex-base, texlive-latex-recommended, texmaker, tix, tmux, tree, ttf-kochi-gothic, ttf-kochi-mincho, ttf-mscorefonts-installer, udhcpc, usbutils, valgrind, vim, wireguard, wireless-tools, wireshark, wireshark-common, wkhtmltopdf, workrave, wx-common, wxwidgets, x11proto-dri2-dev, x11proto-gl-dev, x11proto-print-dev, xsimd, xtensor, xulrunner-1.9.2, xulrunner-dev, zip",2024-07-25T13:57:24Z,2024-07-31T01:57:20Z
+https://github.com/ros/rosdistro/pull/42205,python3-pyrobosim-pip,2024-07-25T01:28:05Z,2024-07-28T18:46:50Z
+https://github.com/ros/rosdistro/pull/42168,python-transforms3d-pip,2024-07-22T22:32:30Z,2024-07-23T19:59:19Z
+https://github.com/ros/rosdistro/pull/42144,python3-tkintermapview-pip,2024-07-22T02:41:00Z,2024-07-23T23:45:12Z
+https://github.com/ros/rosdistro/pull/41981,"liboctomap-dev, python3-fastapi, python3-flask-socketio, python3-paho-mqtt, python3-semver, python3-uvicorn, tbb",2024-07-08T10:29:26Z,2024-07-17T02:54:17Z
+https://github.com/ros/rosdistro/pull/41979,python3-tinkerforge-pip,2024-07-08T09:34:34Z,2024-07-24T16:59:19Z
+https://github.com/ros/rosdistro/pull/41977,python3-pyqt6.qtmultimedia,2024-07-05T22:33:38Z,2024-07-31T01:52:30Z
+https://github.com/ros/rosdistro/pull/41961,python3-pyqtdarktheme-pip,2024-07-03T14:27:32Z,2024-07-10T22:59:49Z
+https://github.com/ros/rosdistro/pull/41960,python3-mavproxy-pip,2024-07-03T13:20:10Z,2024-07-10T23:03:51Z
+https://github.com/ros/rosdistro/pull/41947,python3-pytest-xvfb,2024-07-03T01:30:18Z,2024-07-10T22:54:45Z
+https://github.com/ros/rosdistro/pull/41887,python3-urwid,2024-06-29T21:35:13Z,2024-07-10T23:42:40Z
+https://github.com/ros/rosdistro/pull/41741,python3-nest-asyncio,2024-06-19T10:53:35Z,2024-06-24T04:20:04Z
+https://github.com/ros/rosdistro/pull/41623,"liboctomap-dev, octomap",2024-06-14T16:47:53Z,2024-06-24T15:11:46Z
+https://github.com/ros/rosdistro/pull/41599,python3-dataclasses-json,2024-06-12T09:14:50Z,2024-06-14T18:40:42Z
+https://github.com/ros/rosdistro/pull/41591,clang-format,2024-06-11T15:48:51Z,2024-06-11T16:56:44Z
+https://github.com/ros/rosdistro/pull/41578,python3-pygnssutils-pip,2024-06-10T15:35:12Z,2024-06-11T19:38:47Z
+https://github.com/ros/rosdistro/pull/41577,libvorbis-dev,2024-06-10T09:05:52Z,2024-06-11T19:35:00Z
+https://github.com/ros/rosdistro/pull/41550,matio,2024-06-07T14:34:14Z,2024-06-12T13:57:23Z
+https://github.com/ros/rosdistro/pull/41519,libflatbuffers-dev,2024-06-06T13:07:20Z,2024-06-12T12:21:49Z
+https://github.com/ros/rosdistro/pull/41466,"python3-flask, python3-flask-cors, python3-flask-jwt-extended, python3-flask-migrate, python3-flask-socketio, python3-flask-sqlalchemy",2024-06-03T20:09:29Z,2024-06-12T00:37:58Z
+https://github.com/ros/rosdistro/pull/41445,python3-customtkinter-pip,2024-06-01T09:53:06Z,2024-06-12T00:38:21Z
+https://github.com/ros/rosdistro/pull/41432,python3-icecream,2024-05-31T07:14:24Z,2024-06-07T19:41:28Z
+https://github.com/ros/rosdistro/pull/41413,libzmq3-dev,2024-05-30T15:11:07Z,2024-05-31T18:31:57Z
+https://github.com/ros/rosdistro/pull/41390,xvfb,2024-05-29T19:27:57Z,2024-05-29T20:35:17Z
+https://github.com/ros/rosdistro/pull/41307,python3-supervision-pip,2024-05-22T14:24:19Z,2024-06-06T15:41:15Z
+https://github.com/ros/rosdistro/pull/41305,python3-kornia-pip,2024-05-22T13:28:42Z,2024-05-28T21:38:25Z
+https://github.com/ros/rosdistro/pull/41304,python3-pyfirmata2-pip,2024-05-22T03:54:36Z,2024-05-28T22:04:34Z
+https://github.com/ros/rosdistro/pull/41262,python3-asn1tools-pip,2024-05-20T14:32:28Z,2024-05-28T22:05:45Z
+https://github.com/ros/rosdistro/pull/41254,python3-pyxb-x-pip,2024-05-19T21:50:30Z,2024-05-21T14:57:11Z
+https://github.com/ros/rosdistro/pull/41219,python3-quick2wire-api-pip,2024-05-16T12:21:56Z,2024-05-17T14:22:19Z
+https://github.com/ros/rosdistro/pull/41129,python3-pil-imagetk,2024-05-11T12:28:03Z,2024-05-14T14:32:19Z
+https://github.com/ros/rosdistro/pull/41102,python3-yourdfpy-pip,2024-05-08T18:48:35Z,2024-05-14T18:32:33Z
+https://github.com/ros/rosdistro/pull/41063,python3-json-stream-pip,2024-05-06T09:00:18Z,2024-05-07T14:53:39Z
+https://github.com/ros/rosdistro/pull/41062,libevent-dev,2024-05-05T11:41:18Z,2024-05-05T14:31:32Z
+https://github.com/ros/rosdistro/pull/41004,python3-catkin-lint,2024-04-29T21:33:13Z,2024-05-07T15:01:12Z
+https://github.com/ros/rosdistro/pull/40865,libblosc-dev,2024-04-26T08:31:34Z,2024-05-03T17:52:11Z
+https://github.com/ros/rosdistro/pull/40861,"docker.io, glslang-dev, glslc, libavdevice-dev, libdraco-dev, libfreeimage-dev, liblttng-ctl-dev, liblz4, liblz4-dev, libshaderc-dev, libxkbcommon-dev, libzip-dev, ocl-icd-opencl-dev, python3-babeltrace, python3-colorcet, python3-deprecated, python3-flake8-builtins, python3-flake8-comprehensions, python3-flake8-docstrings, python3-flake8-import-order, python3-flake8-quotes, python3-pydantic, python3-smbus, qml-module-qt-labs-folderlistmodel, qml-module-qt-labs-platform, qml-module-qt-labs-settings, qml-module-qtcharts, qml-module-qtgraphicaleffects, qml-module-qtlocation, qml-module-qtmultimedia, qml-module-qtpositioning, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-dialogs, qml-module-qtquick-extras, qml-module-qtquick-layouts, qml-module-qtquick-templates2, qml-module-qtquick-window2, qml-module-qtquick2, qtpositioning5-dev, qtquickcontrols2-5-dev, rubocop, simde, wayland, wayland-dev",2024-04-26T01:34:04Z,2024-05-03T17:58:31Z
+https://github.com/ros/rosdistro/pull/40834,"libpcl-all, libpcl-apps, libpcl-common, libpcl-features, libpcl-filters, libpcl-io, libpcl-kdtree, libpcl-keypoints, libpcl-ml, libpcl-octree, libpcl-outofcore, libpcl-people, libpcl-recognition, libpcl-registration, libpcl-sample-consensus, libpcl-search, libpcl-segmentation, libpcl-stereo, libpcl-surface, libpcl-tracking, libpcl-visualization",2024-04-25T02:50:01Z,2024-04-25T13:03:11Z
+https://github.com/ros/rosdistro/pull/40823,graphicsmagick,2024-04-24T19:35:56Z,2024-05-03T18:29:15Z
+https://github.com/ros/rosdistro/pull/40809,"python3-tensorboard-pip, python3-torch-geometric-pip",2024-04-24T09:40:50Z,2024-05-07T15:40:11Z
+https://github.com/ros/rosdistro/pull/40772,libgtkmm3.0-dev,2024-04-23T03:10:56Z,2024-05-03T18:27:09Z
+https://github.com/ros/rosdistro/pull/40750,pyqt6-dev-tools,2024-04-22T11:34:57Z,2024-05-14T14:33:21Z
+https://github.com/ros/rosdistro/pull/40747,python3-dm-env-pip,2024-04-22T11:23:37Z,2024-05-03T18:26:03Z
+https://github.com/ros/rosdistro/pull/40651,python3-types-pyyaml,2024-04-17T03:06:58Z,2024-04-19T18:31:43Z
+https://github.com/ros/rosdistro/pull/40646,"libmysql++-dev, libmysql++3v5",2024-04-16T18:43:32Z,2024-04-19T21:42:47Z
+https://github.com/ros/rosdistro/pull/40599,"python3-adafruit-circuitpython-motor-pip, python3-adafruit-servokit-pip, python3-opentelemetry-api-pip, python3-opentelemetry-exporter-otlp-pip, python3-opentelemetry-instrumentation-requests-pip, python3-opentelemetry-instrumentation-sqlalchemy-pip, python3-opentelemetry-sdk-pip",2024-04-15T12:38:12Z,2024-05-03T18:24:47Z
+https://github.com/ros/rosdistro/pull/40593,python3-do-mpc-pip,2024-04-14T19:56:56Z,2024-04-16T22:41:55Z
+https://github.com/ros/rosdistro/pull/40564,"python3-motor-pip, python3-pymongo-pip",2024-04-12T18:52:31Z,2024-04-16T22:39:42Z
+https://github.com/ros/rosdistro/pull/40552,python3-pyads-pip,2024-04-11T09:56:34Z,2024-04-16T22:36:34Z
+https://github.com/ros/rosdistro/pull/40543,python3-toppra-pip,2024-04-10T20:45:54Z,2024-04-17T18:51:54Z
+https://github.com/ros/rosdistro/pull/40529,python3-pynput,2024-04-09T19:45:19Z,2024-04-11T13:58:26Z
+https://github.com/ros/rosdistro/pull/40464,robin-map-dev,2024-04-04T09:38:38Z,2024-04-09T12:20:16Z
+https://github.com/ros/rosdistro/pull/40419,"libboost-atomic, libboost-chrono, libboost-coroutine, libboost-iostreams, libboost-math, libboost-program-options, libboost-regex, libboost-serialization, libboost-system, libboost-timer, xtensor",2024-03-30T14:27:08Z,2024-04-07T01:10:34Z
+https://github.com/ros/rosdistro/pull/40318,"autoconf, autoconf-archive, automake, cmake, doxygen, ignition-cmake2, libtool, meson, ninja-build, python-jinja2, python3-jinja2, scons, valgrind",2024-03-23T19:49:57Z,2024-03-29T17:54:41Z
+https://github.com/ros/rosdistro/pull/40304,zziplib,2024-03-21T21:15:57Z,2024-03-25T15:38:40Z
+https://github.com/ros/rosdistro/pull/40285,glslang-dev,2024-03-20T22:09:17Z,2024-03-21T14:54:20Z
+https://github.com/ros/rosdistro/pull/40284,glslc,2024-03-20T19:37:02Z,2024-03-21T15:33:55Z
+https://github.com/ros/rosdistro/pull/40283,libshaderc-dev,2024-03-20T19:33:47Z,2024-03-21T15:39:34Z
+https://github.com/ros/rosdistro/pull/40281,libx11-xcb-dev,2024-03-20T19:02:19Z,2024-03-21T14:51:00Z
+https://github.com/ros/rosdistro/pull/40275,wxwidgets,2024-03-20T13:19:34Z,2024-03-21T17:50:07Z
+https://github.com/ros/rosdistro/pull/40264,libgstreamer-plugins-bad1.0-dev,2024-03-19T17:46:17Z,2024-03-29T22:14:18Z
+https://github.com/ros/rosdistro/pull/40241,libsoup2-dev,2024-03-18T13:29:24Z,2024-03-29T22:14:32Z
+https://github.com/ros/rosdistro/pull/40208,"libpcl-common, libpcl-features, libpcl-filters, libpcl-io, libpcl-segmentation, libpcl-surface",2024-03-14T19:05:51Z,2024-03-15T14:10:35Z
+https://github.com/ros/rosdistro/pull/40201,python3-orjson,2024-03-14T15:29:34Z,2024-04-04T13:17:27Z
+https://github.com/ros/rosdistro/pull/40170,python3-yocotopuce-pip,2024-03-11T12:20:22Z,2024-03-14T16:48:53Z
+https://github.com/ros/rosdistro/pull/40105,python3-smbus,2024-03-06T19:29:48Z,2024-03-07T00:26:14Z
+https://github.com/ros/rosdistro/pull/40012,"black, cargo, hdf5, hdf5-tools, liblttng-ctl-dev, libpaho-mqtt, libpaho-mqtt-dev, libpaho-mqttpp, libpaho-mqttpp-dev, libqt5-qml, libqt5-quick, libqt5-svg, libyaml, libyaml-dev, lttng-tools, opende, python-construct, python3-fiona, python3-flake8-builtins, python3-flake8-comprehensions, python3-flake8-docstrings, python3-flake8-import-order, python3-flake8-quotes, python3-git, python3-img2pdf, python3-jinja2, python3-jsonschema, python3-natsort, python3-ntplib, python3-protobuf, python3-pytest-timeout, python3-rtree, python3-shapely, python3-typeguard, python3-unidiff, python3-uvloop, python3-vcstool, socat, sqlite3, wayland, wayland-dev",2024-02-27T17:16:16Z,2024-03-05T16:08:17Z
+https://github.com/ros/rosdistro/pull/39906,python3-scikit-spatial-pip,2024-02-15T01:36:23Z,2024-02-20T14:01:17Z
+https://github.com/ros/rosdistro/pull/39905,python3-overrides,2024-02-15T00:46:54Z,2024-02-20T14:07:56Z
+https://github.com/ros/rosdistro/pull/39902,libepoxy-dev,2024-02-14T20:13:22Z,2024-02-20T14:08:27Z
+https://github.com/ros/rosdistro/pull/39868,python3-playsound-pip,2024-02-11T00:50:13Z,2024-02-13T14:08:27Z
+https://github.com/ros/rosdistro/pull/39858,python3-sqlite-utils-pip,2024-02-08T17:26:03Z,2024-02-09T19:10:24Z
+https://github.com/ros/rosdistro/pull/39791,"libqt5-charts, libqt5-charts-dev",2024-02-05T09:46:54Z,2024-02-07T17:29:15Z
+https://github.com/ros/rosdistro/pull/39768,lsb-release,2024-02-02T16:57:08Z,2024-03-04T14:55:22Z
+https://github.com/ros/rosdistro/pull/39712,libopus-dev,2024-01-25T12:10:12Z,2024-01-26T16:31:03Z
+https://github.com/ros/rosdistro/pull/39705,libqt5-charts,2024-01-25T05:44:38Z,2024-01-30T15:25:36Z
+https://github.com/ros/rosdistro/pull/39702,python3-google-cloud-secret-manager-pip,2024-01-24T20:34:15Z,2024-01-30T15:24:43Z
+https://github.com/ros/rosdistro/pull/39543,python3-ruff-pip,2024-01-14T22:08:57Z,2024-01-16T16:08:57Z
+https://github.com/ros/rosdistro/pull/39512,"gz-cmake3, gz-common5, gz-fuel-tools8, gz-garden, gz-gui7, gz-launch6, gz-math7, gz-math7-eigen3, gz-msgs9, gz-physics6, gz-plugin2, gz-rendering7, gz-sensors7, gz-sim7, gz-sim7-plugins, gz-tools2, gz-transport12, gz-utils2, gz-utils2-cli, python3-gz-math7, python3-gz-sim7, python3-sdformat13, sdformat13",2024-01-10T23:04:15Z,2024-03-01T19:08:40Z
+https://github.com/ros/rosdistro/pull/39400,"python-psycopg2, python3-psycopg2",2024-01-02T14:56:39Z,2024-01-05T00:13:55Z
+https://github.com/ros/rosdistro/pull/39399,darknet,2024-01-01T14:32:55Z,2024-01-09T13:46:36Z
+https://github.com/ros/rosdistro/pull/39395,qtwebengine5-dev,2023-12-30T21:45:11Z,2024-01-02T16:36:04Z
+https://github.com/ros/rosdistro/pull/39306,ethtool,2023-12-20T13:38:14Z,2023-12-27T17:00:22Z
+https://github.com/ros/rosdistro/pull/39236,python3-build,2023-12-15T17:58:21Z,2023-12-26T13:50:40Z
+https://github.com/ros/rosdistro/pull/39203,"libopencv-dev, libopencv-imgproc-dev",2023-12-12T23:23:22Z,2023-12-16T01:49:55Z
+https://github.com/ros/rosdistro/pull/39172,python3-qt5-bindings,2023-12-07T22:22:59Z,2023-12-08T19:07:28Z
+https://github.com/ros/rosdistro/pull/39049,pyqt5-dev-tools,2023-11-22T04:15:19Z,2023-12-01T19:17:33Z
+https://github.com/ros/rosdistro/pull/39010,python3-transforms3d,2023-11-17T03:43:28Z,2023-12-01T19:24:26Z
+https://github.com/ros/rosdistro/pull/38933,python3-pyinotify,2023-11-11T08:14:46Z,2023-12-01T18:58:09Z
+https://github.com/ros/rosdistro/pull/38924,fonts-roboto,2023-11-09T13:29:30Z,2023-11-30T18:02:49Z
+https://github.com/ros/rosdistro/pull/38858,python3-pep8-naming,2023-11-05T15:31:29Z,2023-11-10T15:09:21Z
+https://github.com/ros/rosdistro/pull/38843,xtensor,2023-11-01T19:04:49Z,2023-11-01T20:59:13Z
+https://github.com/ros/rosdistro/pull/38821,python3-rapidfuzz-pip,2023-10-29T21:55:07Z,2023-11-08T17:01:43Z
+https://github.com/ros/rosdistro/pull/38816,libsodium-dev,2023-10-26T07:51:59Z,2023-11-03T04:59:44Z
+https://github.com/ros/rosdistro/pull/38801,python3-moonraker-api-pip,2023-10-24T15:33:03Z,2023-11-08T17:04:50Z
+https://github.com/ros/rosdistro/pull/38754,python3-uvloop,2023-10-11T23:53:23Z,2023-10-13T06:30:34Z
+https://github.com/ros/rosdistro/pull/38577,"at-spi2-core, benchmark, cargo, catch2, exiv2, file, geographiclib, geographiclib-tools, hdf5-tools, ignition-cmake2, ignition-common3, ignition-fuel-tools4, ignition-math6, ignition-math6-eigen3, libclang-dev, libgpiod-dev, libignition-math6, libomp-dev, libopenblas-dev, libqglviewer-dev-qt5, libqglviewer2-qt5, libqt5-qml, libqt5-quick, libqt5-svg, libusb, libwebsocketpp-dev, matio, opencl-headers, openocd, psutils, pugixml-dev, pybind11-dev, python3-boto3, python3-collada, python3-dbus, python3-importlib-metadata, python3-importlib-resources, python3-libgpiod, python3-natsort, python3-ntplib, python3-pip, python3-pyqt5.qtwebengine, python3-requests, python3-requests-futures, python3-rtree, python3-serial, python3-sphinx, python3-sphinx-argparse, python3-tk, python3-typeguard, python3-venv, qml-module-qtquick-controls, qml-module-qtquick-extras, util-linux, xsimd, zeromq3",2023-09-18T20:50:12Z,2023-09-26T06:19:00Z
+https://github.com/ros/rosdistro/pull/38546,libpcsclite1,2023-09-14T13:11:20Z,2023-09-19T19:22:36Z
+https://github.com/ros/rosdistro/pull/38543,pcscd,2023-09-14T07:29:15Z,2023-09-19T19:22:10Z
+https://github.com/ros/rosdistro/pull/38540,"python3-flake8-blind-except, python3-flake8-builtins, python3-flake8-class-newline, python3-flake8-comprehensions, python3-flake8-deprecated, python3-flake8-import-order, python3-flake8-quotes",2023-09-13T21:49:04Z,2023-09-15T12:27:03Z
+https://github.com/ros/rosdistro/pull/38406,libfyaml-dev,2023-09-03T07:20:17Z,2023-09-12T16:06:21Z
+https://github.com/ros/rosdistro/pull/38383,tiled,2023-08-31T08:44:13Z,2023-11-08T16:04:42Z
+https://github.com/ros/rosdistro/pull/38360,"python3-hidapi, python3-hidapi-cffi",2023-08-28T12:09:29Z,2023-09-21T15:12:59Z
+https://github.com/ros/rosdistro/pull/38353,python3-flake8-black,2023-08-28T04:39:43Z,2023-08-28T20:06:20Z
+https://github.com/ros/rosdistro/pull/38244,"python3-gymnasium-pip, python3-gymnasium-robotics-pip",2023-08-14T19:59:28Z,2023-08-29T13:10:43Z
+https://github.com/ros/rosdistro/pull/38239,ffmpeg-dev,2023-08-14T10:46:09Z,2023-08-28T20:05:52Z
+https://github.com/ros/rosdistro/pull/38229,python3-oct2py-pip,2023-08-13T12:44:29Z,2023-08-23T20:20:05Z
+https://github.com/ros/rosdistro/pull/38228,octave,2023-08-13T12:09:39Z,2023-08-21T06:27:27Z
+https://github.com/ros/rosdistro/pull/38203,tshark,2023-08-10T06:08:36Z,2023-08-11T18:35:36Z
+https://github.com/ros/rosdistro/pull/38202,libqmi-glib-dev,2023-08-10T04:04:46Z,2023-08-30T05:57:32Z
+https://github.com/ros/rosdistro/pull/38185,python3-waitress,2023-08-09T07:30:38Z,2023-08-10T17:02:55Z
+https://github.com/ros/rosdistro/pull/38180,python3-nmcli-pip,2023-08-08T17:45:55Z,2023-08-21T06:22:59Z
+https://github.com/ros/rosdistro/pull/38178,"libopencv-imgproc-dev, xtensor",2023-08-08T12:37:02Z,2023-08-08T17:48:51Z
+https://github.com/ros/rosdistro/pull/38148,python3-attrs,2023-08-04T08:41:07Z,2023-08-07T15:04:13Z
+https://github.com/ros/rosdistro/pull/38142,"libshiboken2-dev, python3-pyside2, python3-pyside2.qtcore, python3-pyside2.qtgui, python3-pyside2.qtuitools, python3-pyside2.qtwidgets",2023-08-03T21:32:44Z,2023-08-05T13:53:48Z
+https://github.com/ros/rosdistro/pull/38136,libqt5-svg,2023-08-03T13:37:40Z,2023-08-04T16:43:36Z
+https://github.com/ros/rosdistro/pull/38133,python3-mccabe,2023-08-03T10:13:25Z,2023-08-04T16:44:03Z
+https://github.com/ros/rosdistro/pull/38119,python3-sqlmodel,2023-08-02T06:22:43Z,2023-08-04T16:47:32Z
+https://github.com/ros/rosdistro/pull/38088,catch2,2023-07-28T20:42:57Z,2023-08-08T17:53:13Z
+https://github.com/ros/rosdistro/pull/38066,libccid,2023-07-25T10:05:28Z,2023-08-29T17:47:24Z
+https://github.com/ros/rosdistro/pull/38056,libdraco-dev,2023-07-24T15:37:00Z,2023-07-27T07:46:20Z
+https://github.com/ros/rosdistro/pull/37908,python3-insightface-pip,2023-07-11T09:13:46Z,2023-07-12T18:40:18Z
+https://github.com/ros/rosdistro/pull/37826,libcpp-httplib-dev,2023-06-29T21:52:15Z,2023-06-30T17:05:06Z
+https://github.com/ros/rosdistro/pull/37824,liblttng-ctl-dev,2023-06-29T21:15:12Z,2023-07-05T16:43:45Z
+https://github.com/ros/rosdistro/pull/37728,onvif_zeep,2023-06-19T16:28:12Z,2023-06-29T17:11:47Z
+https://github.com/ros/rosdistro/pull/37726,python3-helyos_agent_sdk-pip,2023-06-19T15:01:05Z,2023-07-05T16:46:08Z
+https://github.com/ros/rosdistro/pull/37702,python3-qpsolvers-pip,2023-06-16T17:15:35Z,2023-06-28T11:37:29Z
+https://github.com/ros/rosdistro/pull/37661,libtool,2023-06-14T19:37:25Z,2023-06-28T11:38:39Z
+https://github.com/ros/rosdistro/pull/37651,zsh,2023-06-14T12:04:57Z,2023-07-05T16:45:30Z
+https://github.com/ros/rosdistro/pull/37626,python3-myst-parser-pip,2023-06-13T11:18:39Z,2023-06-27T19:54:31Z
+https://github.com/ros/rosdistro/pull/37580,"libqt5-svg, libqt5-svg-dev",2023-06-09T15:13:18Z,2023-06-09T18:50:49Z
+https://github.com/ros/rosdistro/pull/37549,python3-fanucpy-pip,2023-06-08T08:01:49Z,2023-06-09T19:02:02Z
+https://github.com/ros/rosdistro/pull/37509,python-pylint3,2023-06-07T08:42:32Z,2023-06-26T20:36:28Z
+https://github.com/ros/rosdistro/pull/37485,"python3-torch, python3-torchvision",2023-06-06T13:44:57Z,2023-06-07T20:40:10Z
+https://github.com/ros/rosdistro/pull/37308,libqcustomplot-dev,2023-05-22T09:37:52Z,2023-05-23T02:51:33Z
+https://github.com/ros/rosdistro/pull/37254,python3-natsort,2023-05-17T08:49:59Z,2023-05-22T17:17:59Z
+https://github.com/ros/rosdistro/pull/37226,exiv2,2023-05-13T01:15:31Z,2023-05-16T18:37:48Z
+https://github.com/ros/rosdistro/pull/37218,semgrep,2023-05-11T18:52:26Z,2023-06-06T14:37:12Z
+https://github.com/ros/rosdistro/pull/37171,python3-bidict,2023-05-10T13:17:58Z,2023-05-17T15:33:45Z
+https://github.com/ros/rosdistro/pull/37167,chromedriver,2023-05-10T04:05:56Z,2023-05-31T21:16:51Z
+https://github.com/ros/rosdistro/pull/37158,python3-grip,2023-05-09T12:58:42Z,2023-05-31T20:15:06Z
+https://github.com/ros/rosdistro/pull/37139,libnanopb-dev,2023-05-05T11:49:44Z,2023-05-18T17:38:29Z
+https://github.com/ros/rosdistro/pull/37138,libgrpc,2023-05-05T10:21:25Z,2023-05-09T12:53:47Z
+https://github.com/ros/rosdistro/pull/37095,stress-ng,2023-05-01T05:19:37Z,2023-05-03T18:39:25Z
+https://github.com/ros/rosdistro/pull/37094,sysbench,2023-05-01T05:12:48Z,2023-05-03T18:39:55Z
+https://github.com/ros/rosdistro/pull/37014,python3-xlsxwriter,2023-04-28T07:40:24Z,2023-05-03T12:55:41Z
+https://github.com/ros/rosdistro/pull/36970,python3-flatbuffers,2023-04-26T13:00:47Z,2023-05-03T18:42:47Z
+https://github.com/ros/rosdistro/pull/36948,autoconf-archive,2023-04-25T15:12:58Z,2023-05-03T21:12:59Z
+https://github.com/ros/rosdistro/pull/36941,carla-pip,2023-04-25T03:57:36Z,2023-05-03T12:51:48Z
+https://github.com/ros/rosdistro/pull/36891,python-rpi.gpio-pip,2023-04-17T20:37:13Z,2023-04-18T19:16:45Z
+https://github.com/ros/rosdistro/pull/36840,libgmp,2023-04-13T03:56:22Z,2023-05-15T17:02:14Z
+https://github.com/ros/rosdistro/pull/36802,python3-tikzplotlib-pip,2023-04-12T09:33:22Z,2023-04-18T14:40:53Z
+https://github.com/ros/rosdistro/pull/36801,python3-rmsd-pip,2023-04-12T09:17:12Z,2023-04-18T14:40:12Z
+https://github.com/ros/rosdistro/pull/36798,python3-mock,2023-04-12T01:10:08Z,2023-04-23T08:08:50Z
+https://github.com/ros/rosdistro/pull/36762,python3-fpdf2-pip,2023-04-11T14:39:30Z,2023-05-03T20:12:40Z
+https://github.com/ros/rosdistro/pull/36753,libdw-dev,2023-04-11T05:16:53Z,2023-05-15T17:01:31Z
+https://github.com/ros/rosdistro/pull/36752,range-v3,2023-04-11T04:31:23Z,2023-05-03T21:12:09Z
+https://github.com/ros/rosdistro/pull/36751,python3-typeguard,2023-04-11T03:55:52Z,2023-04-18T14:42:45Z
+https://github.com/ros/rosdistro/pull/36750,fmt,2023-04-11T03:31:17Z,2023-05-15T17:00:17Z
+https://github.com/ros/rosdistro/pull/36747,"python, python-dlib, python3",2023-04-10T20:40:50Z,2023-05-15T16:54:21Z
+https://github.com/ros/rosdistro/pull/36714,"ignition-cmake2, ignition-math6, libboost-date-time, libboost-filesystem, libboost-python, libboost-random, libboost-thread, libogre",2023-04-06T07:35:48Z,2023-05-15T16:57:40Z
+https://github.com/ros/rosdistro/pull/36704,libceres-dev,2023-04-05T00:05:32Z,2023-04-06T14:23:51Z
+https://github.com/ros/rosdistro/pull/36612,python3-qt5-bindings,2023-03-27T19:34:31Z,2023-03-28T15:13:26Z
+https://github.com/ros/rosdistro/pull/36603,libqwt-qt5-dev,2023-03-27T10:37:18Z,2023-03-27T18:55:39Z
+https://github.com/ros/rosdistro/pull/36590,python3-pypdf,2023-03-24T14:16:44Z,2023-04-04T15:09:50Z
+https://github.com/ros/rosdistro/pull/36561,lilypond,2023-03-22T16:22:22Z,2023-03-31T00:25:44Z
+https://github.com/ros/rosdistro/pull/36497,python3-qt5-bindings,2023-03-16T21:37:26Z,2023-03-17T17:19:47Z
+https://github.com/ros/rosdistro/pull/36474,libvtk9-dev,2023-03-14T23:05:50Z,2023-03-16T18:21:06Z
+https://github.com/ros/rosdistro/pull/36469,python3-bottle,2023-03-14T14:10:30Z,2023-03-16T18:16:56Z
+https://github.com/ros/rosdistro/pull/36451,matio,2023-03-13T22:14:29Z,2023-03-13T22:37:24Z
+https://github.com/ros/rosdistro/pull/36417,python3-segno,2023-03-08T08:28:50Z,2023-03-13T17:57:20Z
+https://github.com/ros/rosdistro/pull/36406,"libpaho-mqtt, libpaho-mqtt-dev, libpaho-mqttpp, libpaho-mqttpp-dev",2023-03-06T20:28:30Z,2023-05-16T14:27:22Z
+https://github.com/ros/rosdistro/pull/36324,python3-ultralytics-pip,2023-02-27T12:37:48Z,2023-03-06T18:28:01Z
+https://github.com/ros/rosdistro/pull/36300,"clang-format, clang-tidy, pydocstyle, python3-empy, python3-flake8, python3-lark-parser, python3-mypy",2023-02-24T18:49:16Z,2023-02-24T21:51:02Z
+https://github.com/ros/rosdistro/pull/36290,python3-ntplib,2023-02-24T11:24:02Z,2023-03-06T18:56:13Z
+https://github.com/ros/rosdistro/pull/36262,python3-construct,2023-02-22T00:32:53Z,2023-03-06T18:25:38Z
+https://github.com/ros/rosdistro/pull/36222,python3-apa102-pi-pip,2023-02-17T12:29:09Z,2023-02-21T13:59:36Z
+https://github.com/ros/rosdistro/pull/36216,simde,2023-02-16T16:14:57Z,2023-02-17T16:59:43Z
+https://github.com/ros/rosdistro/pull/36164,"pymap3d-pip, python3-pymap3d",2023-02-14T15:37:42Z,2023-02-21T13:57:28Z
+https://github.com/ros/rosdistro/pull/36071,python3-sshtunnel,2023-02-08T16:05:32Z,2023-02-10T18:09:03Z
+https://github.com/ros/rosdistro/pull/36052,python3-open3d,2023-02-07T12:35:28Z,2023-02-10T18:12:58Z
+https://github.com/ros/rosdistro/pull/36030,python3-catkin-sphinx,2023-02-02T01:02:14Z,2023-02-10T03:13:01Z
+https://github.com/ros/rosdistro/pull/36016,libadolc-dev,2023-02-01T12:08:05Z,2023-02-21T13:56:00Z
+https://github.com/ros/rosdistro/pull/35931,"python-catkin-sphinx, python3-catkin-sphinx",2023-01-24T05:04:35Z,2023-01-31T15:59:03Z
+https://github.com/ros/rosdistro/pull/35852,libnanoflann-dev,2023-01-14T00:35:48Z,2023-01-30T13:50:18Z
+https://github.com/ros/rosdistro/pull/35838,"python-mistune, python3-mistune",2023-01-12T04:52:48Z,2023-01-18T14:26:11Z
+https://github.com/ros/rosdistro/pull/35827,m2r,2023-01-11T15:03:57Z,2023-06-05T14:52:18Z
+https://github.com/ros/rosdistro/pull/35815,python3-cbor2,2023-01-10T16:23:08Z,2023-01-26T01:25:45Z
+https://github.com/ros/rosdistro/pull/35789,"libboost-coroutine, libboost-coroutine-dev",2023-01-09T09:54:53Z,2023-02-21T13:54:07Z
+https://github.com/ros/rosdistro/pull/35708,python3-openai-pip,2022-12-28T20:38:57Z,2023-01-18T15:09:09Z
+https://github.com/ros/rosdistro/pull/35688,python3-parse,2022-12-21T11:09:15Z,2023-01-04T13:43:37Z
+https://github.com/ros/rosdistro/pull/35671,python3-reportlab,2022-12-19T15:36:23Z,2022-12-22T13:43:52Z
+https://github.com/ros/rosdistro/pull/35657,python3-transformers-pip,2022-12-15T09:50:29Z,2023-01-06T23:17:59Z
+https://github.com/ros/rosdistro/pull/35519,python3-qrcode,2022-12-02T08:34:35Z,2022-12-07T15:09:04Z
+https://github.com/ros/rosdistro/pull/35491,python3-deprecated,2022-12-01T09:25:51Z,2023-01-18T18:41:04Z
+https://github.com/ros/rosdistro/pull/35489,python3-flake8-import-order,2022-11-30T23:53:09Z,2022-12-07T00:46:27Z
+https://github.com/ros/rosdistro/pull/35458,"python3-bcrypt, python3-certifi, python3-flask-bcrypt, python3-flask-migrate, python3-marshmallow",2022-11-29T15:03:41Z,2022-11-30T23:56:20Z
+https://github.com/ros/rosdistro/pull/35453,intel-opencl-icd,2022-11-29T09:26:44Z,2022-12-21T23:24:23Z
+https://github.com/ros/rosdistro/pull/35438,"python3-geojson, python3-kml2geojson-pip",2022-11-28T02:53:14Z,2022-11-29T22:01:25Z
+https://github.com/ros/rosdistro/pull/35420,python3-libgpiod,2022-11-25T12:18:21Z,2022-11-29T21:59:56Z
+https://github.com/ros/rosdistro/pull/35387,libmbedtls-dev,2022-11-22T08:40:41Z,2022-11-22T18:29:59Z
+https://github.com/ros/rosdistro/pull/35374,socat,2022-11-19T20:43:44Z,2022-11-22T17:57:58Z
+https://github.com/ros/rosdistro/pull/35326,"python3-graphviz, python3-pygraphviz",2022-11-15T14:37:34Z,2022-11-16T17:44:23Z
+https://github.com/ros/rosdistro/pull/35302,"alsa-oss, clang, file, fmt, jq, libabsl-dev, liblttng-ust-dev, libopencv-imgproc-dev, pybind11-dev, python3-dbus, python3-whichcraft, uncrustify",2022-11-14T10:49:39Z,2022-11-16T17:41:02Z
+https://github.com/ros/rosdistro/pull/35289,"libpcl-apps, libpcl-common, libpcl-features, libpcl-filters, libpcl-io, libpcl-kdtree, libpcl-keypoints, libpcl-ml, libpcl-octree, libpcl-outofcore, libpcl-people, libpcl-recognition, libpcl-registration, libpcl-sample-consensus, libpcl-search, libpcl-segmentation, libpcl-stereo, libpcl-surface, libpcl-tracking, libpcl-visualization",2022-11-11T21:08:02Z,2022-11-29T13:22:00Z
+https://github.com/ros/rosdistro/pull/35284,python-yaml,2022-11-11T01:35:31Z,2022-11-18T10:11:12Z
+https://github.com/ros/rosdistro/pull/35197,"python3-flake8-blind-except, python3-flake8-builtins, python3-flake8-class-newline, python3-flake8-comprehensions, python3-flake8-deprecated, python3-flake8-docstrings, python3-flake8-import-order, python3-flake8-quotes",2022-11-04T22:20:20Z,2022-11-10T20:28:18Z
+https://github.com/ros/rosdistro/pull/35193,libatomic,2022-11-04T07:42:58Z,2022-11-08T01:15:38Z
+https://github.com/ros/rosdistro/pull/35110,"python-marisa, python3-marisa",2022-10-31T14:44:09Z,2022-11-03T03:26:57Z
+https://github.com/ros/rosdistro/pull/35106,python3-box,2022-10-30T14:28:10Z,2022-11-03T03:28:33Z
+https://github.com/ros/rosdistro/pull/35007,"python3-cycler, python3-easydict, python3-fonttools, python3-kiwisolver, python3-thop-pip, python3-typing-extensions",2022-10-21T10:38:47Z,2022-10-24T18:21:57Z
+https://github.com/ros/rosdistro/pull/34978,libdc1394-dev,2022-10-17T16:09:06Z,2022-10-20T13:25:26Z
+https://github.com/ros/rosdistro/pull/34963,python3-munkres,2022-10-14T13:17:38Z,2022-11-23T02:15:52Z
+https://github.com/ros/rosdistro/pull/34956,python3-ezdxf,2022-10-13T18:53:56Z,2022-10-17T15:13:46Z
+https://github.com/ros/rosdistro/pull/34952,mono-complete,2022-10-13T18:39:31Z,2022-10-17T15:15:51Z
+https://github.com/ros/rosdistro/pull/34853,libespeak-ng1,2022-10-06T19:01:26Z,2022-10-11T11:36:10Z
+https://github.com/ros/rosdistro/pull/34831,python-dev,2022-10-05T20:06:19Z,2022-10-11T11:35:16Z
+https://github.com/ros/rosdistro/pull/34818,python3-ruamel.yaml,2022-10-05T17:55:02Z,2022-10-11T18:19:50Z
+https://github.com/ros/rosdistro/pull/34817,python3-rosinstall-generator,2022-10-05T17:52:06Z,2022-10-17T15:04:26Z
+https://github.com/ros/rosdistro/pull/34797,range-v3,2022-10-04T21:17:30Z,2022-10-05T15:55:36Z
+https://github.com/ros/rosdistro/pull/34796,"flite, python-xdot, python3-flask-cors, python3-pysnmp, python3-rtree, python3-scp, python3-typeguard, python3-websocket, python3-xdot",2022-10-04T20:22:12Z,2022-10-11T11:32:00Z
+https://github.com/ros/rosdistro/pull/34786,python3-ujson,2022-10-04T12:44:14Z,2022-10-06T14:21:08Z
+https://github.com/ros/rosdistro/pull/34772,python3-pystemd,2022-10-03T23:06:26Z,2022-10-05T14:02:06Z
+https://github.com/ros/rosdistro/pull/34703,"python3-adapt-parser-pip, python3-fann2, python3-fasteners-pip, python3-inflection-pip, python3-lingua-franca-pip, python3-msk-pip, python3-msm-pip, python3-mycroft-messagebus-client-pip, python3-padaos-pip, python3-padatious-pip, python3-petact-pip, python3-pocketsphinx-pip, python3-precise-runner-pip, python3-pyee, python3-pyxdg-pip, python3-requests-futures",2022-09-30T01:56:31Z,2022-10-03T12:53:21Z
+https://github.com/ros/rosdistro/pull/34616,python3-mako,2022-09-22T16:52:49Z,2022-09-29T23:43:58Z
+https://github.com/ros/rosdistro/pull/34462,python3-flask-sqlalchemy,2022-09-13T11:38:03Z,2022-09-20T22:26:58Z
+https://github.com/ros/rosdistro/pull/34443,libopenni2-dev,2022-09-12T14:03:00Z,2022-09-20T22:16:11Z
+https://github.com/ros/rosdistro/pull/34442,python3-git,2022-09-12T13:59:03Z,2022-09-20T22:16:46Z
+https://github.com/ros/rosdistro/pull/34433,python3-cookiecutter,2022-09-12T08:55:00Z,2022-10-13T00:37:05Z
+https://github.com/ros/rosdistro/pull/34313,aravis,2022-09-02T14:51:29Z,2022-09-07T18:34:13Z
+https://github.com/ros/rosdistro/pull/34293,python3-typeguard-pip,2022-09-01T10:28:54Z,2022-09-07T18:34:46Z
+https://github.com/ros/rosdistro/pull/34273,xsimd,2022-08-30T22:26:50Z,2022-09-07T20:37:28Z
+https://github.com/ros/rosdistro/pull/34254,"libnl-3, libnl-3-dev",2022-08-30T03:17:56Z,2022-09-01T00:50:03Z
+https://github.com/ros/rosdistro/pull/34253,python3-colcon-meson,2022-08-29T20:22:07Z,2022-10-04T01:40:34Z
+https://github.com/ros/rosdistro/pull/34247,python3-qtpy,2022-08-29T16:01:29Z,2022-09-26T12:57:44Z
+https://github.com/ros/rosdistro/pull/34246,python3-pyqt5,2022-08-29T15:41:10Z,2022-09-28T16:41:01Z
+https://github.com/ros/rosdistro/pull/34243,python3-pyside2,2022-08-29T14:55:45Z,2022-09-10T00:27:50Z
+https://github.com/ros/rosdistro/pull/34205,python3-breathe,2022-08-24T10:19:46Z,2022-08-25T17:47:52Z
+https://github.com/ros/rosdistro/pull/34204,libao-dev,2022-08-24T07:23:56Z,2022-08-25T17:48:47Z
+https://github.com/ros/rosdistro/pull/34200,python3-sparkfun-ublox-gps-pip,2022-08-23T17:57:43Z,2022-08-25T13:00:28Z
+https://github.com/ros/rosdistro/pull/34177,"gz-citadel, gz-cmake2, gz-common3, gz-common4, gz-fortress, gz-fuel-tools4, gz-fuel-tools7, gz-gui3, gz-gui6, gz-launch2, gz-launch5, gz-math6, gz-math6-eigen3, gz-msgs5, gz-msgs8, gz-physics2, gz-physics5, gz-plugin, gz-rendering3, gz-rendering6, gz-sensors3, gz-sensors6, gz-sim3, gz-sim6, gz-sim6-plugins, gz-tools, gz-transport11, gz-transport8, gz-utils1, gz-utils1-cli, python3-gz-math6, python3-gz-sim6",2022-08-17T22:37:19Z,2022-09-02T22:50:36Z
+https://github.com/ros/rosdistro/pull/34093,"python-rx-pip, python-statistics-pip, python3-sbp-pip",2022-08-09T01:40:06Z,2022-08-12T22:11:45Z
+https://github.com/ros/rosdistro/pull/33996,python-gobject,2022-07-28T14:24:08Z,2022-08-11T19:01:23Z
+https://github.com/ros/rosdistro/pull/33988,python3-bitstring,2022-07-27T20:25:41Z,2022-08-10T20:33:59Z
+https://github.com/ros/rosdistro/pull/33894,python3-typeguard,2022-07-18T19:01:46Z,2022-07-26T19:04:03Z
+https://github.com/ros/rosdistro/pull/33877,"protobuf, pybind11-dev",2022-07-17T04:02:50Z,2022-07-21T17:57:47Z
+https://github.com/ros/rosdistro/pull/33824,libjsoncpp,2022-07-12T09:31:02Z,2022-07-14T00:51:30Z
+https://github.com/ros/rosdistro/pull/33810,libfreetype-dev,2022-07-10T03:25:28Z,2022-07-13T16:11:30Z
+https://github.com/ros/rosdistro/pull/33791,python3-dateutil,2022-07-06T16:27:57Z,2022-08-01T18:09:24Z
+https://github.com/ros/rosdistro/pull/33788,"liblmdb-dev, librtaudio-dev",2022-07-06T12:41:26Z,2022-07-07T23:36:33Z
+https://github.com/ros/rosdistro/pull/33783,python3-river-pip,2022-07-05T10:15:24Z,2022-07-07T23:37:41Z
+https://github.com/ros/rosdistro/pull/33726,python3-aiortc,2022-06-28T08:21:53Z,2022-07-14T23:59:47Z
+https://github.com/ros/rosdistro/pull/33717,python3-multimethod-pip,2022-06-27T09:37:45Z,2022-06-30T13:09:53Z
+https://github.com/ros/rosdistro/pull/33699,libabsl-dev,2022-06-24T18:28:50Z,2022-06-27T17:12:54Z
+https://github.com/ros/rosdistro/pull/33681,python3-colorcet,2022-06-24T06:30:58Z,2022-07-01T13:31:48Z
+https://github.com/ros/rosdistro/pull/33679,python3-robodk-pip,2022-06-23T23:53:56Z,2022-06-30T12:48:28Z
+https://github.com/ros/rosdistro/pull/33678,"clang-format, clang-tidy, eigen, file, libfreetype6, libfreetype6-dev, pyflakes3, python3-lttng, python3-nose, python3-pygraphviz",2022-06-23T22:11:45Z,2022-06-30T18:29:36Z
+https://github.com/ros/rosdistro/pull/33516,"clang, clang-format, clang-tidy",2022-06-09T15:19:15Z,2022-06-30T16:31:52Z
+https://github.com/ros/rosdistro/pull/33405,libopen3d-dev,2022-05-29T06:03:39Z,2022-06-01T17:20:28Z
+https://github.com/ros/rosdistro/pull/33403,"libfreeimage, libfreeimage-dev",2022-05-27T16:02:22Z,2022-06-01T17:22:10Z
+https://github.com/ros/rosdistro/pull/33266,python3-scp,2022-05-18T04:02:06Z,2022-05-20T22:50:10Z
+https://github.com/ros/rosdistro/pull/33248,python3-emoji,2022-05-17T13:52:37Z,2022-05-20T22:04:58Z
+https://github.com/ros/rosdistro/pull/33225,flite,2022-05-14T09:40:49Z,2022-05-20T22:04:07Z
+https://github.com/ros/rosdistro/pull/33110,"hddtemp, libfltk-dev, libogre, libogre-dev, liborocos-kdl",2022-05-09T16:22:59Z,2022-05-23T16:43:27Z
+https://github.com/ros/rosdistro/pull/33106,libbackward-cpp-dev,2022-05-09T09:11:28Z,2022-05-17T01:31:02Z
+https://github.com/ros/rosdistro/pull/33091,"python-transforms3d-pip, python3-transforms3d",2022-05-06T13:11:15Z,2022-05-17T17:49:19Z
+https://github.com/ros/rosdistro/pull/33017,"python3-google-auth, python3-google-auth-httplib2, python3-google-auth-oauthlib, python3-oauth2client",2022-05-03T08:11:37Z,2022-08-11T19:05:30Z
+https://github.com/ros/rosdistro/pull/32910,python3-odrive-pip,2022-04-27T01:58:10Z,2022-05-02T22:24:17Z
+https://github.com/ros/rosdistro/pull/32898,python3-sysv-ipc,2022-04-26T06:19:05Z,2022-05-03T19:01:55Z
+https://github.com/ros/rosdistro/pull/32897,python3-google-cloud-pubsub-pip,2022-04-26T05:35:39Z,2022-04-28T16:57:35Z
+https://github.com/ros/rosdistro/pull/32876,"python3-kivy, python3-marshmallow-dataclass-pip, python3-tables",2022-04-25T12:36:25Z,2022-04-29T22:49:28Z
+https://github.com/ros/rosdistro/pull/32838,"ignition-common4, ignition-fortress, ignition-fuel-tools7, ignition-gazebo6, ignition-gazebo6-plugins, ignition-gui6, ignition-launch5, ignition-msgs8, ignition-physics5, ignition-plugin, ignition-rendering6, ignition-sensors6, ignition-tools, ignition-transport11, ignition-utils1, ignition-utils1-cli, python3-ignition-gazebo6, python3-ignition-math6",2022-04-21T00:15:18Z,2022-04-22T19:40:33Z
+https://github.com/ros/rosdistro/pull/32792,python3-pickleDB-pip,2022-04-18T08:22:22Z,2022-04-22T22:51:32Z
+https://github.com/ros/rosdistro/pull/32780,python3-pysnmp,2022-04-14T16:59:15Z,2022-04-19T17:09:05Z
+https://github.com/ros/rosdistro/pull/32748,python3-jmespath,2022-04-13T11:52:20Z,2022-04-14T14:59:13Z
+https://github.com/ros/rosdistro/pull/32702,"python-elasticsearch, python3-elasticsearch",2022-04-08T14:50:31Z,2022-04-14T14:33:17Z
+https://github.com/ros/rosdistro/pull/32698,python3-pre-commit,2022-04-08T02:03:18Z,2022-04-12T09:27:54Z
+https://github.com/ros/rosdistro/pull/32683,python3-pylatexenc,2022-04-06T21:24:46Z,2022-04-14T14:37:18Z
+https://github.com/ros/rosdistro/pull/32533,python3-openhsi-pip,2022-03-26T14:02:48Z,2022-04-04T20:29:53Z
+https://github.com/ros/rosdistro/pull/32532,"benchmark, libxml2-utils, pydocstyle, python3, python3-catkin-pkg, python3-catkin-pkg-modules, python3-dev, python3-empy, python3-flake8, python3-importlib-metadata, python3-importlib-resources, python3-lark-parser, python3-mock, python3-numpy, python3-pkg-resources, python3-rosdistro-modules, python3-setuptools, python3-yaml, spdlog, uncrustify",2022-03-26T04:20:11Z,2022-03-30T12:10:54Z
+https://github.com/ros/rosdistro/pull/32508,python3-transitions,2022-03-24T06:58:07Z,2022-04-12T01:10:43Z
+https://github.com/ros/rosdistro/pull/32499,xtensor,2022-03-21T20:37:42Z,2022-03-23T20:57:51Z
+https://github.com/ros/rosdistro/pull/32481,"gazebo, gazebo11, libgazebo-dev, libgazebo11-dev",2022-03-18T16:16:04Z,2022-03-25T13:53:19Z
+https://github.com/ros/rosdistro/pull/32470,gurumdds-2.8,2022-03-17T03:38:12Z,2022-05-02T16:53:29Z
+https://github.com/ros/rosdistro/pull/32469,python3-bluerobotics-ping-pip,2022-03-16T16:34:47Z,2022-03-30T12:00:52Z
+https://github.com/ros/rosdistro/pull/32430,python3-nlopt,2022-03-10T10:09:35Z,2022-03-23T18:18:12Z
+https://github.com/ros/rosdistro/pull/32384,python3-schema,2022-03-03T22:44:43Z,2022-03-14T19:00:46Z
+https://github.com/ros/rosdistro/pull/32307,"python3-onnxruntime-gpu-pip, python3-onnxruntime-pip",2022-02-26T09:06:39Z,2022-03-01T14:42:16Z
+https://github.com/ros/rosdistro/pull/32306,libgmock-dev,2022-02-26T09:04:59Z,2022-03-02T21:31:17Z
+https://github.com/ros/rosdistro/pull/32274,python3-numba,2022-02-23T08:01:23Z,2022-02-23T20:55:58Z
+https://github.com/ros/rosdistro/pull/32259,gnome-terminal,2022-02-21T10:39:06Z,2022-02-23T18:19:49Z
+https://github.com/ros/rosdistro/pull/32226,libabsl-dev,2022-02-17T20:58:37Z,2022-02-22T19:02:54Z
+https://github.com/ros/rosdistro/pull/32175,python3-socketio,2022-02-15T14:00:36Z,2022-02-23T18:27:32Z
+https://github.com/ros/rosdistro/pull/32091,python3-wrapt,2022-02-08T03:31:22Z,2022-02-10T21:12:45Z
+https://github.com/ros/rosdistro/pull/32045,rti-connext-dds-6.0.1,2022-02-04T21:19:12Z,2022-02-07T17:10:22Z
+https://github.com/ros/rosdistro/pull/32010,"python-pymodbus, python3-pymodbus-pip",2022-02-02T11:58:33Z,2022-02-15T00:46:00Z
+https://github.com/ros/rosdistro/pull/32004,python3-xdot,2022-02-01T10:52:28Z,2022-02-08T21:56:11Z
+https://github.com/ros/rosdistro/pull/32002,python3-gi-cairo,2022-02-01T10:28:58Z,2022-02-04T20:13:11Z
+https://github.com/ros/rosdistro/pull/31995,python3-open3d-pip,2022-01-31T22:10:29Z,2022-02-23T18:14:20Z
+https://github.com/ros/rosdistro/pull/31932,python3-pyside2.qtquick,2022-01-27T08:56:39Z,2022-02-08T21:52:05Z
+https://github.com/ros/rosdistro/pull/31929,python3-geographiclib,2022-01-26T18:10:14Z,2022-02-02T16:22:57Z
+https://github.com/ros/rosdistro/pull/31735,"python3-flask-jwt-extended, python3-webargs",2022-01-11T16:48:25Z,2022-01-20T18:32:32Z
+https://github.com/ros/rosdistro/pull/31699,wxwidgets,2022-01-06T23:43:31Z,2022-01-20T18:38:53Z
+https://github.com/ros/rosdistro/pull/31697,"gurumdds-2.6, gurumdds-2.7, gurumdds-2.8",2022-01-06T23:33:17Z,2022-01-07T16:06:47Z
+https://github.com/ros/rosdistro/pull/31654,libopenvdb,2022-01-03T20:16:52Z,2022-01-05T16:00:28Z
+https://github.com/ros/rosdistro/pull/31624,"python3-fastapi, python3-uvicorn",2021-12-29T04:46:18Z,2022-03-01T14:55:18Z
+https://github.com/ros/rosdistro/pull/31623,"python-googleapi, python3-googleapi",2021-12-29T04:36:00Z,2022-01-12T17:55:08Z
+https://github.com/ros/rosdistro/pull/31615,lcov,2021-12-27T23:29:08Z,2022-01-05T16:09:48Z
+https://github.com/ros/rosdistro/pull/31564,tesseract-ocr-jpn,2021-12-23T08:01:17Z,2021-12-24T05:43:36Z
+https://github.com/ros/rosdistro/pull/31561,"libpcl-all, libpcl-all-dev",2021-12-23T04:24:12Z,2022-01-06T23:35:42Z
+https://github.com/ros/rosdistro/pull/31559,"boost, libboost-atomic, libboost-chrono, libboost-date-time, libboost-filesystem, libboost-iostreams, libboost-math, libboost-program-options, libboost-python, libboost-random, libboost-regex, libboost-serialization, libboost-system, libboost-thread, libboost-timer",2021-12-23T04:01:07Z,2022-01-06T23:18:30Z
+https://github.com/ros/rosdistro/pull/31527,python3-staticmap-pip,2021-12-21T11:34:54Z,2022-01-28T01:27:24Z
+https://github.com/ros/rosdistro/pull/31523,python3-tz,2021-12-20T20:24:01Z,2022-01-05T16:21:20Z
+https://github.com/ros/rosdistro/pull/31512,"python-ply, python-ply-pip, python3-ply",2021-12-18T19:09:43Z,2022-01-05T16:22:57Z
+https://github.com/ros/rosdistro/pull/31511,msr-tools,2021-12-17T23:31:19Z,2022-01-05T16:23:36Z
+https://github.com/ros/rosdistro/pull/31488,"libopenvdb, libopenvdb-dev",2021-12-15T20:15:05Z,2021-12-15T23:14:46Z
+https://github.com/ros/rosdistro/pull/31455,python3-nuscenes-devkit-pip,2021-12-13T04:19:28Z,2021-12-15T15:14:40Z
+https://github.com/ros/rosdistro/pull/31454,qml-module-qt-labs-settings,2021-12-13T02:54:53Z,2021-12-16T18:28:19Z
+https://github.com/ros/rosdistro/pull/31453,qml-module-qt-labs-folderlistmodel,2021-12-13T02:52:49Z,2021-12-15T15:13:35Z
+https://github.com/ros/rosdistro/pull/31452,python3-pyqt5.qtquick,2021-12-13T02:44:36Z,2021-12-15T15:06:23Z
+https://github.com/ros/rosdistro/pull/31432,python-dt-apriltags-pip,2021-12-09T20:05:41Z,2021-12-15T14:57:21Z
+https://github.com/ros/rosdistro/pull/31412,python3-dubins-pip,2021-12-08T00:25:23Z,2021-12-21T19:01:44Z
+https://github.com/ros/rosdistro/pull/31402,"python-cvxopt, python-gitpython-pip, python-gtk2, python3-cvxpy-pip, python3-glpk-pip, python3-gurobipy-pip",2021-12-07T13:52:37Z,2021-12-16T18:31:33Z
+https://github.com/ros/rosdistro/pull/31394,libgnutls28-dev,2021-12-06T23:43:26Z,2021-12-10T16:46:50Z
+https://github.com/ros/rosdistro/pull/31392,"meson, python3-meson-pip",2021-12-06T22:52:59Z,2021-12-29T17:48:52Z
+https://github.com/ros/rosdistro/pull/31348,python3-pytrinamic-pip,2021-12-01T17:05:58Z,2021-12-09T18:46:30Z
+https://github.com/ros/rosdistro/pull/31301,"libcurl, libcurl-dev",2021-11-25T02:50:23Z,2021-11-30T18:40:46Z
+https://github.com/ros/rosdistro/pull/31300,"cpuburn, ffmpeg2theora, gringo, libargtable2-dev, libestools-dev, libgeographiclib-dev, libgif-dev, libglw1-mesa, liblzma-dev, libmarble-dev, libmotif-dev, libstdc++5, libstdc++6, libunittest++, libvlc-dev, portaudio19-dev, postgresql-client, python3-ezdxf, python3-pyqrcode, python3-simplejpeg-pip, python3-sip, range-v3",2021-11-24T19:19:28Z,2021-12-08T17:38:10Z
+https://github.com/ros/rosdistro/pull/31293,"libpoco-dev, libvulkan-dev, python3-more-itertools, python3-pygit2, sbcl, tar, wxwidgets",2021-11-23T20:53:17Z,2021-12-07T17:28:49Z
+https://github.com/ros/rosdistro/pull/31263,python3-sila2lib-pip,2021-11-18T16:37:39Z,2021-12-01T18:10:12Z
+https://github.com/ros/rosdistro/pull/31204,python3-deepdiff,2021-11-12T14:47:21Z,2021-11-22T19:58:07Z
+https://github.com/ros/rosdistro/pull/31201,"python3-qwt, python3-qwt-pip",2021-11-12T09:37:45Z,2021-11-24T03:36:16Z
+https://github.com/ros/rosdistro/pull/31154,libtins-dev,2021-11-08T09:49:09Z,2021-11-11T13:57:19Z
+https://github.com/ros/rosdistro/pull/31151,libext2fs-dev,2021-11-08T08:37:55Z,2021-11-11T13:56:32Z
+https://github.com/ros/rosdistro/pull/31124,"python-googleapi, python3-googleapi",2021-11-04T08:50:22Z,2021-12-09T16:25:50Z
+https://github.com/ros/rosdistro/pull/31013,libmsgsl-dev,2021-10-19T06:49:54Z,2021-10-30T00:16:00Z
+https://github.com/ros/rosdistro/pull/30990,python3-fiona,2021-10-14T20:42:44Z,2021-11-02T00:04:21Z
+https://github.com/ros/rosdistro/pull/30975,"clang-tidy, google-mock, gtest, libffi-dev, libxml2-utils, python3-importlib-metadata, python3-importlib-resources, python3-mypy, python3-nose, python3-pycodestyle, python3-pytest-mock, python3-vcstool, python3-venv, unzip, usbutils, wget",2021-10-13T03:54:44Z,2021-11-11T13:47:02Z
+https://github.com/ros/rosdistro/pull/30967,python3-pylibdmtx,2021-10-11T10:55:59Z,2021-12-07T23:34:05Z
+https://github.com/ros/rosdistro/pull/30940,python3-funcsigs,2021-10-07T15:11:33Z,2021-10-11T17:30:55Z
+https://github.com/ros/rosdistro/pull/30935,aravis,2021-10-07T08:40:13Z,2021-10-27T17:17:08Z
+https://github.com/ros/rosdistro/pull/30901,systemd,2021-10-01T17:41:42Z,2021-10-27T16:38:29Z
+https://github.com/ros/rosdistro/pull/30871,libboost-numpy-dev,2021-09-27T10:07:50Z,2021-09-29T02:23:53Z
+https://github.com/ros/rosdistro/pull/30769,e2fsprogs,2021-09-13T08:55:46Z,2021-10-07T13:03:59Z
+https://github.com/ros/rosdistro/pull/30763,"python-itsdangerous, python3-j1939-pip",2021-09-11T20:00:48Z,2021-09-24T16:29:05Z
+https://github.com/ros/rosdistro/pull/30761,libwebsockets-dev,2021-09-10T07:08:44Z,2021-09-21T18:34:41Z
+https://github.com/ros/rosdistro/pull/30756,python3-pytest-asyncio,2021-09-09T19:26:31Z,2021-09-10T05:28:57Z
+https://github.com/ros/rosdistro/pull/30751,python3-falcon,2021-09-09T12:29:52Z,2021-09-13T08:19:11Z
+https://github.com/ros/rosdistro/pull/30680,libmnl-dev,2021-09-02T10:34:31Z,2021-09-09T17:27:27Z
+https://github.com/ros/rosdistro/pull/30612,clang,2021-08-31T10:27:48Z,2021-09-03T23:07:50Z
+https://github.com/ros/rosdistro/pull/30590,python3-pip,2021-08-28T17:11:13Z,2021-09-02T17:06:50Z
+https://github.com/ros/rosdistro/pull/30589,"libxmlrpc-c++, pugixml-dev, spirv-headers, spirv-tools",2021-08-28T17:08:34Z,2021-09-02T16:14:02Z
+https://github.com/ros/rosdistro/pull/30586,"libqt5-serialport, libqt5-serialport-dev",2021-08-27T21:11:07Z,2021-09-02T16:09:18Z
+https://github.com/ros/rosdistro/pull/30577,python3-filfinder-pip,2021-08-26T08:32:33Z,2021-09-03T22:02:01Z
+https://github.com/ros/rosdistro/pull/30576,python3-weasyprint-pip,2021-08-26T08:06:01Z,2021-09-03T22:01:38Z
+https://github.com/ros/rosdistro/pull/30575,python3-astropy-pip,2021-08-26T07:53:08Z,2021-09-03T22:00:57Z
+https://github.com/ros/rosdistro/pull/30574,python3-filetype-pip,2021-08-26T07:40:20Z,2021-09-06T13:17:49Z
+https://github.com/ros/rosdistro/pull/30505,python3-sounddevice-pip,2021-08-18T11:32:40Z,2021-08-31T19:45:56Z
+https://github.com/ros/rosdistro/pull/30474,python3-mediapipe-pip,2021-08-12T13:21:42Z,2021-09-02T16:04:54Z
+https://github.com/ros/rosdistro/pull/30455,"python-sphinx-rtd-theme, python-spidev-pip, python3-spidev-pip",2021-08-10T23:00:07Z,2021-08-14T00:14:00Z
+https://github.com/ros/rosdistro/pull/30454,python3-gpiozero,2021-08-10T18:26:18Z,2021-08-14T00:38:46Z
+https://github.com/ros/rosdistro/pull/30451,dcraw,2021-08-10T12:14:57Z,2021-08-16T20:30:42Z
+https://github.com/ros/rosdistro/pull/30435,v4l-utils,2021-08-08T15:49:45Z,2021-08-14T01:57:10Z
+https://github.com/ros/rosdistro/pull/30409,python-monotonic,2021-08-05T07:42:57Z,2021-08-25T14:27:44Z
+https://github.com/ros/rosdistro/pull/30395,inxi,2021-08-03T20:01:17Z,2021-08-06T02:05:14Z
+https://github.com/ros/rosdistro/pull/30394,python3-gdal,2021-08-03T16:27:03Z,2021-09-29T21:29:17Z
+https://github.com/ros/rosdistro/pull/30358,python3-pynmea2,2021-07-30T17:58:28Z,2021-08-25T17:30:39Z
+https://github.com/ros/rosdistro/pull/30345,python3-voluptuous,2021-07-28T23:21:28Z,2021-08-11T16:24:15Z
+https://github.com/ros/rosdistro/pull/30319,python3-yolov5,2021-07-23T12:23:46Z,2021-07-26T19:40:01Z
+https://github.com/ros/rosdistro/pull/30314,python3-smbus,2021-07-22T22:59:52Z,2021-07-27T17:02:57Z
+https://github.com/ros/rosdistro/pull/30310,roslibpy-pip,2021-07-22T13:41:54Z,2021-07-26T19:49:13Z
+https://github.com/ros/rosdistro/pull/30308,python3-simplejpeg-pip,2021-07-22T06:51:02Z,2021-08-11T15:24:57Z
+https://github.com/ros/rosdistro/pull/30170,python3-joblib,2021-07-12T20:57:19Z,2021-07-14T00:34:16Z
+https://github.com/ros/rosdistro/pull/30112,opencascade,2021-07-05T03:41:48Z,2021-07-06T15:20:03Z
+https://github.com/ros/rosdistro/pull/30037,"bison, graphviz, libatomic, python3, python3-dev, python3-importlib-metadata, python3-packaging",2021-06-26T13:22:53Z,2021-07-20T18:48:06Z
+https://github.com/ros/rosdistro/pull/30036,"python-gdal, python-gdown-pip, python3-gdown-pip",2021-06-26T12:51:07Z,2021-06-30T16:35:49Z
+https://github.com/ros/rosdistro/pull/30035,"python-chainer-mask-rcnn-pip, python-chainer-pip, python3-chainer-pip",2021-06-26T12:48:26Z,2021-06-30T15:37:37Z
+https://github.com/ros/rosdistro/pull/30034,"python-fcl-pip, python-fcn-pip, python3-fcn-pip",2021-06-26T12:43:33Z,2021-06-30T15:37:12Z
+https://github.com/ros/rosdistro/pull/30023,subversion,2021-06-24T17:13:32Z,2021-06-25T04:36:34Z
+https://github.com/ros/rosdistro/pull/30012,python3-smc-pip,2021-06-23T14:49:56Z,2021-06-24T13:28:25Z
+https://github.com/ros/rosdistro/pull/29994,python3-prompt-toolkit,2021-06-22T11:59:49Z,2021-06-29T15:40:34Z
+https://github.com/ros/rosdistro/pull/29935,"ipython, python-argcomplete, python-argparse, python-avahi, python-cairo, python-cairosvg, python-chainer-pip, python-cheetah, python-coverage, python-crypto",2021-06-17T07:03:26Z,2021-06-29T17:35:57Z
+https://github.com/ros/rosdistro/pull/29862,libfl-dev,2021-06-11T19:17:51Z,2021-06-16T19:08:26Z
+https://github.com/ros/rosdistro/pull/29822,python3-pydbus,2021-06-09T15:07:20Z,2021-06-18T18:44:11Z
+https://github.com/ros/rosdistro/pull/29821,python3-pyftpdlib,2021-06-09T15:06:45Z,2021-06-18T23:59:07Z
+https://github.com/ros/rosdistro/pull/29809,libvulkan-dev,2021-06-08T20:02:54Z,2021-06-14T18:10:44Z
+https://github.com/ros/rosdistro/pull/29808,"spirv-headers, spirv-tools",2021-06-08T18:53:23Z,2021-06-14T18:10:19Z
+https://github.com/ros/rosdistro/pull/29805,python-absl-py-pip,2021-06-08T16:26:15Z,2021-06-16T19:05:46Z
+https://github.com/ros/rosdistro/pull/29778,git-lfs,2021-06-05T06:06:15Z,2021-06-16T23:57:17Z
+https://github.com/ros/rosdistro/pull/29721,"python-sip, python3-sip",2021-05-30T18:29:29Z,2021-06-05T03:58:37Z
+https://github.com/ros/rosdistro/pull/29703,python3-networkmanager,2021-05-28T06:42:03Z,2021-06-23T14:33:36Z
+https://github.com/ros/rosdistro/pull/29663,"libtclap-dev, libtool, libturbojpeg, libusb-dev, libvlc, libvlc-dev, libvlccore-dev, libx11, libx11-dev, libzmq3-dev, log4cplus, lz4",2021-05-25T14:36:23Z,2021-06-05T00:33:47Z
+https://github.com/ros/rosdistro/pull/29642,"liblapack-dev, libogg, libogre-dev, libopencv-dev, libopenscenegraph, libpcl-all-dev, libpng-dev, libqt5-network, libqt5-opengl-dev, libqt5-svg-dev, libsensors4-dev, libssl-dev",2021-05-24T14:43:56Z,2021-05-25T04:13:21Z
+https://github.com/ros/rosdistro/pull/29641,"libcap-dev, libdw-dev, libftdi-dev, libftgl-dev, libgdal-dev, libgflags-dev, libglew-dev, libgoogle-glog-dev, libgpgme-dev, libimage-exiftool-perl, libjpeg, libjsoncpp, libjsoncpp-dev",2021-05-24T14:36:33Z,2021-05-25T02:57:34Z
+https://github.com/ros/rosdistro/pull/29640,"ffmpeg, flex, g++-static, glut, google-mock, gtest, ifstat, lcov, libcairo2-dev",2021-05-24T14:28:42Z,2021-05-25T02:44:48Z
+https://github.com/ros/rosdistro/pull/29620,mpfr,2021-05-21T08:03:43Z,2021-05-25T04:11:45Z
+https://github.com/ros/rosdistro/pull/29619,glpk,2021-05-21T07:57:26Z,2021-05-25T04:11:24Z
+https://github.com/ros/rosdistro/pull/29587,python3-virtualserialports-pip,2021-05-20T09:15:06Z,2021-06-17T16:14:32Z
+https://github.com/ros/rosdistro/pull/29578,gazebo,2021-05-19T16:07:34Z,2021-05-20T17:53:48Z
+https://github.com/ros/rosdistro/pull/29571,haproxy,2021-05-19T02:09:32Z,2021-05-20T06:49:58Z
+https://github.com/ros/rosdistro/pull/29534,"libsndfile1-dev, libx11, libxt-dev, portaudio, portaudio19-dev, python-pytest-cov, python-termcolor, python3-pytest-cov, qttools5-dev-tools, tar, util-linux",2021-05-15T12:35:29Z,2021-06-23T14:03:08Z
+https://github.com/ros/rosdistro/pull/29514,python3-mlflow,2021-05-13T00:59:10Z,2021-05-21T20:33:44Z
+https://github.com/ros/rosdistro/pull/29508,"python3-flake8-blind-except-pip, python3-flake8-builtins-pip, python3-flake8-class-newline-pip, python3-flake8-comprehensions-pip, python3-flake8-deprecated-pip, python3-flake8-docstrings-pip, python3-flake8-import-order-pip, python3-flake8-quotes-pip",2021-05-12T15:55:44Z,2021-05-14T18:07:04Z
+https://github.com/ros/rosdistro/pull/29496,"couchdb, exfat-utils, google-mock, iproute2, kate, konsole, liblzma-dev, libmpich2-dev, libqrencode, libqrencode-dev, libqwt-qt5-dev, libqwt6, libudev-dev, libusb-1.0, libusb-dev, smbclient, util-linux, uuid, v4l-utils, yasm, zenity",2021-05-12T00:50:16Z,2021-05-20T18:13:38Z
+https://github.com/ros/rosdistro/pull/29494,"alsa-oss, alsa-utils, assimp, assimp-dev, bullet, ca-certificates, cppunit, doxygen, dvipng, eigen",2021-05-11T16:30:57Z,2021-05-21T21:34:58Z
+https://github.com/ros/rosdistro/pull/29459,"gstreamer1.0, gstreamer1.0-libav, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-ugly, gstreamer1.0-tools, gstreamer1.0-x, libgstreamer-plugins-base1.0-dev, libgstreamer1.0-dev",2021-05-07T14:50:22Z,2021-05-11T16:10:36Z
+https://github.com/ros/rosdistro/pull/29458,"boost, libboost-atomic, libboost-atomic-dev, libboost-chrono, libboost-chrono-dev, libboost-date-time, libboost-date-time-dev, libboost-dev, libboost-filesystem, libboost-filesystem-dev, libboost-iostreams, libboost-iostreams-dev, libboost-math, libboost-math-dev, libboost-program-options, libboost-program-options-dev, libboost-python, libboost-python-dev, libboost-random, libboost-random-dev, libboost-regex, libboost-regex-dev, libboost-serialization, libboost-serialization-dev, libboost-system, libboost-system-dev, libboost-thread, libboost-thread-dev, libboost-timer, libboost-timer-dev",2021-05-07T14:48:52Z,2021-05-11T14:40:51Z
+https://github.com/ros/rosdistro/pull/29431,python3-pygit2,2021-05-05T16:17:47Z,2021-05-07T21:12:01Z
+https://github.com/ros/rosdistro/pull/29426,python3-jupyros-pip,2021-05-05T09:36:56Z,2021-05-07T21:28:44Z
+https://github.com/ros/rosdistro/pull/29423,python3-aio-pika-pip,2021-05-05T09:26:20Z,2021-05-07T21:29:17Z
+https://github.com/ros/rosdistro/pull/29381,python3-pyside2.qtuitools,2021-05-02T18:29:43Z,2021-05-04T20:30:26Z
+https://github.com/ros/rosdistro/pull/29380,opende,2021-05-02T17:31:16Z,2021-05-04T17:56:45Z
+https://github.com/ros/rosdistro/pull/29356,python3-environs-pip,2021-04-28T04:09:49Z,2021-05-04T17:43:01Z
+https://github.com/ros/rosdistro/pull/29318,python-is-python3,2021-04-27T13:32:27Z,2021-05-04T17:46:51Z
+https://github.com/ros/rosdistro/pull/29316,libav,2021-04-27T12:45:25Z,2021-05-04T17:48:16Z
+https://github.com/ros/rosdistro/pull/29187,python3-albumentations-pip,2021-04-16T13:12:29Z,2021-05-04T18:21:52Z
+https://github.com/ros/rosdistro/pull/29123,python-tensorflow-serving-api-pip,2021-04-13T13:43:42Z,2021-04-21T14:12:35Z
+https://github.com/ros/rosdistro/pull/29086,"python3-flask-cors, python3-flask-socketio",2021-04-12T09:05:15Z,2021-04-14T19:29:29Z
+https://github.com/ros/rosdistro/pull/29081,libgpiod-dev,2021-04-10T23:37:46Z,2021-04-21T14:11:31Z
+https://github.com/ros/rosdistro/pull/29070,"ace, ack, ack-grep, acl, acpi, acpitool, alsa-oss, alsa-utils, ant, antlr, apache2, apr, aravis, aravis-dev, arduino-core, armadillo, asio, assimp, assimp-dev, at-spi2-core, autoconf, automake, autossh, avahi-daemon, avahi-utils, avrdude, awscli, babeltrace, bazaar, beep, binutils, bison, blender, bluez, boost, box2d-dev, bullet, bzip2, ca-certificates, can-utils, cccc, cdk, cdk-dev, cgal, checkinstall, chromium-browser, chrony, clang, clang-format, clang-tidy, cmake, coreutils, couchdb, cppcheck, cppunit, curl, cvs, cwiid, cwiid-dev, cython, cython3, daemontools, devilspie2, dfu-util, disper, dkms, dnsmasq, docker-compose, doxygen, dpkg, dpkg-dev, ed, eigen, eigen2, emacs, embree, enblend, enet, espeak, exfat-utils, f2c, fakeroot, ffmpeg, file, filezilla, flac, flex, fltk, fluid, fmt, freeimage, freetype, fsharp, fswebcam, ftdi-eeprom, g++-static, gawk, gazebo, gazebo11, gazebo7, gazebo9, gdal-bin, geographiclib, geographiclib-tools, geos, gettext-base, gforth, gfortran, ghc, gifsicle, gimp, git, gitg, gksu, glc, glut, gnat, gnuplot, golang-go, google-mock, gpac, gperftools, gphoto2, gpsd, gradle, graphicsmagick, graphviz, graphviz-dev, gringo, gstreamer1.0, gstreamer1.0-alsa, gstreamer1.0-gl, gstreamer1.0-libav, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-ugly, gtest, gtk-doc-tools, gtk2, gtk3, gv, hddtemp, hdf5, hostapd, hostname, htop, hugin-tools, i2c-tools, ifstat, ignition-cmake2, ignition-common3, ignition-fuel-tools4, ignition-math6, ignition-math6-eigen3, ignition-msgs5, ignition-tools, ignition-transport8, imagemagick, intltool, iperf, ipmitool, iproute2, ipython, ipython3, iwyu, jack, jasper, java, joystick, jq, jupyter-nbconvert, jython, kakasi, kate, kgraphviewer, konsole, lcov, leveldb, libasound2-dev, libatomic, libav, libavahi-client-dev, libavahi-core-dev, libb64-dev, libbison-dev, libblas-dev, libbluetooth, libbluetooth-dev, libboost-atomic, libboost-atomic-dev, libboost-chrono, libboost-chrono-dev, libboost-date-time, libboost-date-time-dev, libboost-dev, libboost-filesystem, libboost-filesystem-dev, libboost-iostreams, libboost-iostreams-dev, libboost-math, libboost-math-dev, libboost-program-options, libboost-program-options-dev, libboost-python, libboost-python-dev, libboost-random, libboost-random-dev, libboost-regex, libboost-regex-dev, libboost-serialization, libboost-serialization-dev, libboost-system, libboost-system-dev, libboost-thread, libboost-thread-dev, libboost-timer, libboost-timer-dev, libcairo2-dev, libcap-dev, libcap-ng-dev, libcap-ng0, libcap2, libcap2-bin, libcdd-dev, libcegui-mk2-dev, libceres-dev, libcgroup-dev, libclang-dev, libconfig-dev, libconsole-bridge-dev, libcunit-dev, libdbus-dev, libdc1394-dev, libdevil-dev, libdlib-dev, libdmtx-dev, libdpkg-dev, libdrm-dev, libdw-dev, libdxflib-dev, libedit, libedit-dev, libespeak-dev, libev-dev, libevdev-dev, libffi-dev, libfftw3, libflann-dev, libfltk-dev, libfreenect-dev, libfreetype6, libfreetype6-dev, libftdi-dev, libftdi1-dev, libgazebo11-dev, libgazebo7-dev, libgazebo9-dev, libgconf2, libgdal-dev, libgeos++-dev, libgeotiff-dev, libgflags-dev, libgif-dev, libglew-dev, libglfw3-dev, libglib-dev, libgmock-dev, libgmp, libgoogle-glog-dev, libgpgme-dev, libgphoto-dev, libgps, libgsl, libgstreamer-plugins-base1.0-dev, libgstreamer1.0-dev, libgstrtspserver-1.0-0, libgstrtspserver-1.0-dev, libgts, libhdf5-dev, libhidapi-dev, libi2c-dev, libicu-dev, libignition-common3, libignition-fuel-tools4, libignition-math6, libignition-msgs5, libignition-transport8, libirrlicht-dev, libiw-dev, libjansson-dev, libjpeg, libjson-glib, libjsoncpp, libjsoncpp-dev, libkml-dev, liblapack-dev, libleptonica-dev, liblinear-dev, liblinphone-dev, liblttng-ust-dev, liblzma-dev, libmagick, libmicrohttpd, libmodbus-dev, libmodbus5, libmongoc-1.0-0, libmongoc-dev, libmpg123-dev, libmpich-dev, libmpich2-dev, libncurses-dev, libnl-3, libnl-3-dev, libnlopt-cxx-dev, libnlopt-dev, libnlopt0, libnotify, libnss3-dev, libogg, libogre, libogre-dev, libois-dev, libopenal-dev, libopenblas-dev, libopencv-dev, libopenexr-dev, libopenni2-dev, libopenscenegraph, libopensplice69, libopenvdb, libopenvdb-dev, liborocos-kdl, liborocos-kdl-dev, libpcap, libpcl-all, libpcl-all-dev, libpcsclite-dev, libpng++-dev, libpng-dev, libpng12-dev, libpoco-dev, libpopt-dev, libpq-dev, libpqxx, libpqxx-dev, libprocps-dev, libpulse-dev, libqglviewer-dev-qt5, libqglviewer2-qt5, libqhull, libqrencode, libqrencode-dev, libqt4, libqt4-dev, libqt4-opengl, libqt4-opengl-dev, libqt4-sql-psql, libqt5-concurrent, libqt5-core, libqt5-gui, libqt5-multimedia, libqt5-network, libqt5-opengl, libqt5-opengl-dev, libqt5-printsupport, libqt5-qml, libqt5-quick, libqt5-serialport, libqt5-sql, libqt5-svg-dev, libqt5-websockets-dev, libqt5-widgets, libqt5-xml, libqt5multimedia5-plugins, libqt5x11extras5-dev, libqtgui4, libqtwebkit-dev, libqwt-qt5-dev, libqwt6, libraw1394, libraw1394-dev, librdkafka-dev, libreadline, libreadline-dev, libsensors4-dev, libsndfile1-dev, libspatialindex-dev, libspatialite, libsqlite3-dev, libssh-dev, libssh2, libssh2-dev, libssl-dev, libstdc++6, libsvm-dev, libsvm3, libswscale-dev, libtclap-dev, libtesseract, libtheora, libtiff-dev, libtiff4-dev, libtool, libturbojpeg, libudev-dev, libunwind, libunwind-dev, liburdfdom-dev, liburdfdom-headers-dev, liburdfdom-tools, libusb, libusb-1.0, libusb-1.0-dev, libusb-dev, libuv1-dev, libv4l-dev, libvlc, libvlc-dev, libvpx-dev, libvtk, libvtk-qt, libwebp-dev, libwebsocketpp-dev, libx11, libx11-dev, libx264-dev, libxaw, libxcursor-dev, libxext, libxft-dev, libxi-dev, libxinerama-dev, libxml++-2.6, libxml2, libxml2-utils, libxmu-dev, libxrandr, libxslt, libxss1, libxt-dev, libzmq3-dev, libzstd-dev, lighttpd, linphone, linux-headers-generic, linux-kernel-headers, llvm, llvm-7, llvm-7-dev, llvm-dev, lm-sensors, log4cplus, log4cxx, lttng-tools, lua-dev, lua5.2-dev, lz4, m4, matio, maven, meld, mercurial, meshlab, mkdocs, mongodb, mongodb-dev, mosquitto, mosquittopp-dev, mpg123, mplayer, msgpack, muparser, nasm, net-tools, netcdf, netpbm, network-manager, ninja-build, nkf, nlohmann-json-dev, nmap, nodejs, nodejs-legacy, npm, ntp, ntpdate, omniidl, omniorb, opencl-headers, opende, opengl, openmpi, openocd, openssh-client, openssh-server, openssl, optipng, osm2pgsql, osmium, pandoc, paramiko, pcre, pcre-dev, phantomjs, php, pkg-config, pmount, pocketsphinx-bin, portaudio, portaudio19-dev, postgresql, powertop, procps, proj, protobuf, protobuf-dev, pstoedit, psutils, pybind11-dev, pydocstyle, pyflakes3, python, python-argcomplete, python-argparse, python-attrs, python-autobahn, python-avahi, python-backports.ssl-match-hostname, python-bcrypt, python-bitstring, python-bluez, python-boto3, python-bs4, python-bson, python-cairo, python-cairosvg, python-catkin-pkg, python-catkin-pkg-modules, python-chainer-pip, python-cheetah, python-cherrypy, python-click, python-colorama, python-cookiecutter-pip, python-coverage, python-crcmod, python-crypto, python-cvxopt, python-dateutil, python-decorator, python-defusedxml, python-dev, python-dlib, python-docker, python-docopt, python-docutils, python-empy, python-enum34, python-flake8, python-flask, python-flask-restful, python-freezegun-pip, python-future, python-geographiclib, python-gi, python-gi-cairo, python-gnupg, python-grpc-tools, python-gtk2, python-h5py, python-imageio, python-imaging, python-impacket, python-influxdb, python-jinja2, python-joblib, python-kitchen, python-lxml, python-matplotlib, python-mechanize, python-mock, python-msgpack, python-netcdf4, python-netifaces, python-nose, python-numpy, python-opencv, python-opengl, python-packaging, python-pandas, python-paramiko, python-pastedeploy, python-pathlib, python-pathlib2, python-pep8, python-percol, python-pip, python-pkg-resources, python-progressbar, python-psutil, python-pyaudio, python-pycodestyle, python-pycryptodome, python-pydot, python-pygame, python-pygraphviz, python-pymongo, python-pyproj, python-pyqtgraph, python-pyquery, python-pytest, python-pytest-cov, python-pyudev, python-pyusb-pip, python-qt5-bindings, python-qt5-bindings-gl, python-qt5-bindings-webkit, python-requests, python-rosdep, python-rosdep-modules, python-rospkg, python-rospkg-modules, python-ruamel.yaml, python-schedule, python-scipy, python-selenium-pip, python-semantic-version, python-serial, python-setuptools, python-simplejson, python-sip, python-six, python-skimage, python-sklearn, python-sphinx, python-sympy, python-systemd, python-tabulate, python-tabulate-pip, python-termcolor, python-texttable, python-tilestache, python-tk, python-tornado, python-twisted-core, python-twisted-web, python-typing, python-tz, python-tzlocal-pip, python-ujson, python-unittest2, python-urlgrabber, python-urllib3, python-usb, python-virtualenv, python-voluptuous, python-waitress, python-webob, python-websocket, python-werkzeug, python-whichcraft, python-wxtools, python-xlib, python-yaml, python-zmq, python3, python3-argcomplete, python3-autobahn, python3-bitarray, python3-boto3, python3-bs4, python3-bson, python3-cairo, python3-catkin-pkg, python3-catkin-pkg-modules, python3-cffi, python3-click, python3-colorama, python3-construct, python3-coverage, python3-crcmod, python3-cryptography, python3-dbus, python3-decorator, python3-defusedxml, python3-dev, python3-distro, python3-distutils, python3-docker, python3-docopt, python3-docutils, python3-empy, python3-ezdxf, python3-flake8, python3-flask, python3-future, python3-geopy, python3-gi, python3-git, python3-gnupg, python3-grpc-tools, python3-grpcio, python3-h5py, python3-imageio, python3-importlib-resources, python3-interpreter, python3-jinja2, python3-jsonschema, python3-kitchen, python3-lark-parser, python3-lxml, python3-markdown, python3-matplotlib, python3-mechanize, python3-mock, python3-msgpack, python3-mypy, python3-netcdf4, python3-netifaces, python3-networkx, python3-nose, python3-numpy, python3-numpy-stl, python3-opencv, python3-opengl, python3-packaging, python3-pandas, python3-paramiko, python3-pep8, python3-pil, python3-pkg-resources, python3-prettytable, python3-progressbar, python3-protobuf, python3-psutil, python3-pyaudio, python3-pyclipper, python3-pycodestyle, python3-pycryptodome, python3-pydot, python3-pygame, python3-pygraphviz, python3-pykdl, python3-pymongo, python3-pyosmium, python3-pyparsing, python3-pyproj, python3-pyqrcode, python3-pyqtgraph, python3-pystemd, python3-pytest, python3-pytest-cov, python3-pytest-mock, python3-qt5-bindings, python3-qt5-bindings-gl, python3-qtpy, python3-rdflib, python3-requests, python3-retrying, python3-rosdep-modules, python3-rosdistro-modules, python3-rospkg, python3-rospkg-modules, python3-ruamel.yaml, python3-schedule, python3-scipy, python3-selenium, python3-semantic-version, python3-serial, python3-setuptools, python3-sexpdata, python3-sh, python3-shapely, python3-simplejson, python3-sip, python3-six, python3-skimage, python3-sklearn, python3-sphinx, python3-sphinx-argparse, python3-sphinx-rtd-theme, python3-sqlalchemy, python3-sympy, python3-systemd, python3-tabulate, python3-termcolor, python3-texttable, python3-tk, python3-toml, python3-tornado, python3-tqdm, python3-twilio, python3-twisted, python3-urllib3, python3-usb, python3-venv, python3-watchdog, python3-websockets, python3-whichcraft, python3-wxgtk4.0, python3-xmlschema, python3-xmltodict, python3-yaml, python3-zmq, qhull-bin, qrencode, qt4-dev-tools, qt4-qmake, qt5-image-formats-plugins, qt5-qmake, qtbase5-dev, qtdeclarative5-dev, qtmultimedia5-dev, qttools5-dev, rapidjson-dev, readline-dev, recode, redis-server, rsync, rti-connext-dds-5.3.1, rtmidi, ruby, ruby-dev, ruby-ronn, sbcl, scons, screen, sdformat, sdl, sdl-gfx, sdl-image, sdl-mixer, sdl-ttf, sdl2, sdl2-ttf, setserial, sfml-dev, smartmontools, smbclient, snappy, socat, sox, spacenavd, sparsehash, spdlog, speex, sqlite3, sshpass, stress, subversion, suitesparse, swig, sysstat, tango-icon-theme, tar, tbb, tcsh, terminator, texmaker, time, tinyxml, tinyxml2, tix, tmux, touchegg, tree, udev, uncrustify, unison, unoconv, unrar, unzip, usbutils, util-linux, uuid, uvcdynctrl, v4l-utils, valgrind, vim, virtualenv, vlc, vorbis-tools, wget, wireless-tools, wireshark, wireshark-common, wx-common, wxpython, wxwidgets, xclip, xdotool, xfonts-100dpi, xfonts-75dpi, xsltproc, xterm, xvfb, yaml, yaml-cpp, yapf, yapf3, yasm, zbar, zenity, zeromq3, zip, zlib, zziplib",2021-04-10T04:26:07Z,2021-05-04T18:21:22Z
+https://github.com/ros/rosdistro/pull/29030,libatomic,2021-04-08T00:19:37Z,2021-04-08T00:32:56Z
+https://github.com/ros/rosdistro/pull/29019,python3-junitparser,2021-04-06T23:25:19Z,2021-04-14T19:54:17Z
+https://github.com/ros/rosdistro/pull/28952,"acl, curlpp-dev, libatomic, net-tools, python3-pycryptodome",2021-04-05T12:20:16Z,2021-05-05T13:48:04Z
+https://github.com/ros/rosdistro/pull/28939,util-linux,2021-04-03T02:53:35Z,2021-05-11T15:01:56Z
+https://github.com/ros/rosdistro/pull/28923,python3-colcon-common-extensions,2021-04-01T04:31:17Z,2021-04-14T20:05:01Z
+https://github.com/ros/rosdistro/pull/28854,python3-meshio,2021-03-26T07:14:10Z,2021-03-31T22:11:41Z
+https://github.com/ros/rosdistro/pull/28830,python3-smbus2-pip,2021-03-25T12:19:11Z,2021-04-08T19:34:36Z
+https://github.com/ros/rosdistro/pull/28817,"python-seaborn, python3-seaborn",2021-03-24T14:10:43Z,2021-03-31T22:54:54Z
+https://github.com/ros/rosdistro/pull/28802,libcoin80-dev,2021-03-23T08:19:17Z,2021-03-26T00:00:51Z
+https://github.com/ros/rosdistro/pull/28794,python3-evdev,2021-03-22T16:32:25Z,2021-03-31T22:18:13Z
+https://github.com/ros/rosdistro/pull/28676,python3-semver,2021-03-17T19:45:39Z,2021-03-23T23:05:12Z
+https://github.com/ros/rosdistro/pull/28642,python3-pydantic,2021-03-15T10:16:09Z,2021-03-24T20:16:38Z
+https://github.com/ros/rosdistro/pull/28603,python-spidev-pip,2021-03-12T13:50:10Z,2021-03-20T01:07:03Z
+https://github.com/ros/rosdistro/pull/28599,python3-simple-pid-pip,2021-03-12T10:53:36Z,2021-03-22T20:17:42Z
+https://github.com/ros/rosdistro/pull/28563,python3-pyside2.qtopengl,2021-03-11T14:16:55Z,2021-03-23T23:50:06Z
+https://github.com/ros/rosdistro/pull/28547,python3-qt5-bindings,2021-03-10T19:47:41Z,2021-03-11T00:26:48Z
+https://github.com/ros/rosdistro/pull/28495,python3-bluez,2021-03-06T10:28:24Z,2021-03-10T17:01:36Z
+https://github.com/ros/rosdistro/pull/28473,"python-more-itertools, python-more-itertools-pip, python3-more-itertools",2021-03-04T07:34:50Z,2021-03-23T22:49:22Z
+https://github.com/ros/rosdistro/pull/28461,python3-pyrr-pip,2021-03-03T03:10:52Z,2021-03-09T17:16:17Z
+https://github.com/ros/rosdistro/pull/28338,"python-crcmod, python3-crcmod",2021-02-17T20:27:49Z,2021-02-26T14:50:38Z
+https://github.com/ros/rosdistro/pull/28318,python3-yappi,2021-02-12T20:47:16Z,2021-03-23T01:28:34Z
+https://github.com/ros/rosdistro/pull/28312,"python-pytest-mock, python3-pytest-mock",2021-02-12T19:11:36Z,2021-02-12T19:15:11Z
+https://github.com/ros/rosdistro/pull/28296,"python-decorator, python3-decorator",2021-02-11T09:02:51Z,2021-02-16T06:35:11Z
+https://github.com/ros/rosdistro/pull/28293,"boost, libboost-python, libboost-python-dev",2021-02-11T02:35:25Z,2021-02-23T20:49:07Z
+https://github.com/ros/rosdistro/pull/28289,libudev-dev,2021-02-10T22:38:33Z,2021-02-11T18:22:18Z
+https://github.com/ros/rosdistro/pull/28286,python-tensorboard-pip,2021-02-10T19:31:22Z,2021-02-24T13:39:19Z
+https://github.com/ros/rosdistro/pull/28285,libuvc-dev,2021-02-10T15:42:07Z,2021-02-16T06:32:48Z
+https://github.com/ros/rosdistro/pull/28283,python3-ezdxf,2021-02-10T12:18:58Z,2021-02-16T06:58:34Z
+https://github.com/ros/rosdistro/pull/28282,python-psycopg2,2021-02-10T12:09:26Z,2021-02-11T18:17:21Z
+https://github.com/ros/rosdistro/pull/28280,"python-gputil-pip, python-jetson-stats-pip",2021-02-10T05:47:15Z,2021-02-11T17:31:53Z
+https://github.com/ros/rosdistro/pull/28279,"libboost-python, libboost-python-dev",2021-02-10T01:44:37Z,2021-02-11T18:18:07Z
+https://github.com/ros/rosdistro/pull/28277,python3-requests,2021-02-09T20:10:01Z,2021-02-10T19:54:52Z
+https://github.com/ros/rosdistro/pull/28275,python-pytest-mock,2021-02-09T19:59:46Z,2021-02-10T19:55:01Z
+https://github.com/ros/rosdistro/pull/28160,python-nose,2021-01-28T17:31:09Z,2021-02-01T19:57:51Z
+https://github.com/ros/rosdistro/pull/28148,gstreamer1.0-gl,2021-01-27T15:31:07Z,2021-02-01T20:29:27Z
+https://github.com/ros/rosdistro/pull/28065,embree,2021-01-23T09:38:58Z,2021-01-26T12:37:56Z
+https://github.com/ros/rosdistro/pull/28056,"python-construct, python3-construct",2021-01-22T07:19:28Z,2021-01-22T21:51:10Z
+https://github.com/ros/rosdistro/pull/28053,python3-bitarray,2021-01-21T11:11:31Z,2021-01-22T21:51:48Z
+https://github.com/ros/rosdistro/pull/28036,"python3-flask, python3-jsonschema, python3-tabulate, python3-watchdog",2021-01-18T22:01:17Z,2021-01-20T16:24:08Z
+https://github.com/ros/rosdistro/pull/28034,python3-dbus,2021-01-18T11:23:49Z,2021-01-20T16:22:59Z
+https://github.com/ros/rosdistro/pull/28001,python3-importlib-resources,2021-01-14T23:19:32Z,2021-01-15T19:58:48Z
+https://github.com/ros/rosdistro/pull/27990,"python-qtpy, python3-qtpy",2021-01-14T14:26:33Z,2021-02-03T21:46:18Z
+https://github.com/ros/rosdistro/pull/27986,python3-numpy-stl,2021-01-14T13:13:26Z,2021-01-29T01:43:34Z
+https://github.com/ros/rosdistro/pull/27984,file,2021-01-14T10:53:38Z,2021-01-20T16:41:26Z
+https://github.com/ros/rosdistro/pull/27976,python3-ansible-runner-pip,2021-01-14T04:21:58Z,2021-01-20T16:15:14Z
+https://github.com/ros/rosdistro/pull/27970,libmpg123-dev,2021-01-13T10:20:43Z,2021-01-20T16:42:07Z
+https://github.com/ros/rosdistro/pull/27964,castxml,2021-01-12T19:01:46Z,2021-01-20T16:11:36Z
+https://github.com/ros/rosdistro/pull/27930,python3-cffi,2021-01-08T02:01:05Z,2021-01-20T16:09:41Z
+https://github.com/ros/rosdistro/pull/27881,python3-sympy,2021-01-04T00:35:57Z,2021-01-19T14:51:01Z
+https://github.com/ros/rosdistro/pull/27852,python3-pystemd,2020-12-28T13:59:24Z,2021-02-06T03:07:28Z
+https://github.com/ros/rosdistro/pull/27826,"python-pyudev, python-websocket, python3-websocket",2020-12-22T17:10:24Z,2021-01-13T14:13:01Z
+https://github.com/ros/rosdistro/pull/27819,python3-websockets,2020-12-20T11:46:27Z,2020-12-30T22:15:32Z
+https://github.com/ros/rosdistro/pull/27782,python-pathlib2,2020-12-17T02:43:18Z,2021-01-20T17:51:47Z
+https://github.com/ros/rosdistro/pull/27780,python3-sh,2020-12-16T11:13:05Z,2020-12-17T18:43:13Z
+https://github.com/ros/rosdistro/pull/27768,"libvtk, libvtk-java, libvtk-qt",2020-12-14T19:09:27Z,2021-02-03T19:22:48Z
+https://github.com/ros/rosdistro/pull/27702,python3-flask-restplus-pip,2020-12-09T15:07:51Z,2020-12-17T18:54:34Z
+https://github.com/ros/rosdistro/pull/27641,"python-git, python3-git",2020-12-07T20:39:06Z,2020-12-30T22:06:56Z
+https://github.com/ros/rosdistro/pull/27623,"autoconf, automake, benchmark, binutils, bison, bluez, bullet, ca-certificates, collada-dom, coreutils, cppcheck, daemontools, dnsmasq, doxygen, dpkg, emacs, festival, flac, flex, ftdi-eeprom, gawk, geographiclib, geographiclib-tools, gnuplot, graphicsmagick, graphviz, gstreamer1.0, gstreamer1.0-alsa, gstreamer1.0-libav, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-ugly, gtk2, hostapd, ipmitool, iproute2, ipython3, joystick, lcov, leveldb, libasound2-dev, libblas-dev, libboost-atomic, libboost-atomic-dev, libboost-chrono, libboost-chrono-dev, libboost-date-time, libboost-date-time-dev, libboost-dev, libboost-filesystem, libboost-filesystem-dev, libboost-iostreams, libboost-iostreams-dev, libboost-program-options, libboost-python, libboost-python-dev, libboost-random, libboost-random-dev, libboost-regex, libboost-regex-dev, libboost-serialization, libboost-serialization-dev, libboost-system, libboost-system-dev, libboost-thread, libboost-thread-dev, libcap-dev, libccd-dev, libconsole-bridge-dev, libdc1394-dev, libfcl-dev, libffi-dev, libfftw3, libflann, libfltk-dev, libfreenect-dev, libftdi-dev, libftdipp-dev, libgeos++-dev, libglew-dev, libglib-dev, libgphoto-dev, libgps, libgsl, libgstreamer-plugins-base1.0-dev, libgstreamer1.0-dev, libhdf5-dev, libjson0-dev, libjsoncpp, libjsoncpp-dev, liblapack-dev, libmicrohttpd, libmodbus-dev, libmongoclient-dev, libncurses-dev, libnl-3, libnl-3-dev, libogre, libogre-dev, libopenblas-dev, liborocos-kdl, liborocos-kdl-dev, libpcl-all, libpcl-all-dev, libpng-dev, libpulse-dev, libqglviewer-dev-qt5, libqhull, libqt5-concurrent, libqt5-network, libqt5-opengl-dev, libqt5-svg-dev, libqt5-websockets-dev, libqt5multimedia5-plugins, libqt5x11extras5-dev, libqwt-qt5-dev, libraw1394, libraw1394-dev, libreadline, libreadline-dev, libsensors4-dev, libtool, liburdfdom-dev, liburdfdom-headers-dev, liburdfdom-tools, libusb-1.0, libusb-dev, libv4l-dev, libvlc, libvlc-dev, libxext, libxi-dev, libxml2, libxmlrpc-c++, libxmu-dev, libxxf86vm, libzstd-dev, linux-headers-generic, linux-kernel-headers, llvm, llvm-7, llvm-7-dev, llvm-dev, lm-sensors, log4cplus, log4cxx, mongodb, mongodb-dev, msgpack, nodejs, opencl-headers, paramiko, postgresql, procps, proj, protobuf, pugixml-dev, pydocstyle, pyflakes3, pyqt5-dev-tools, python, python-argcomplete, python-autobahn, python-backports.ssl-match-hostname, python-bluez, python-boto3, python-catkin-lint, python-catkin-pkg, python-catkin-pkg-modules, python-catkin-tools, python-cheetah, python-click, python-defusedxml, python-empy, python-flake8, python-gnupg, python-gst-1.0, python-imaging, python-matplotlib, python-netifaces, python-paramiko, python-pip, python-pyassimp, python-pyaudio, python-pycryptodome, python-pydot, python-pymongo, python-pyproj, python-pytest, python-qt5-bindings, python-qt5-bindings-gl, python-qt5-bindings-qsci, python-qt5-bindings-webkit, python-requests, python-rosdep, python-rosdep-modules, python-rospkg, python-simplejson, python-six, python-sphinx, python-tk, python-tornado, python-twisted-core, python-usb, python-virtualenv, python-websocket, python-wxtools, python3, python3-argcomplete, python3-autobahn, python3-boto3, python3-bson, python3-cairo, python3-catkin-lint, python3-catkin-pkg, python3-catkin-pkg-modules, python3-catkin-tools, python3-click, python3-colorama, python3-coverage, python3-cryptography, python3-defusedxml, python3-docutils, python3-empy, python3-flake8, python3-future, python3-gi, python3-gnupg, python3-grpc-tools, python3-grpcio, python3-h5py, python3-ifcfg, python3-imageio, python3-importlib-metadata, python3-lark-parser, python3-lttng, python3-mock, python3-mypy, python3-netifaces, python3-nose-yanc, python3-packaging, python3-pandas, python3-paramiko, python3-pep8, python3-pil, python3-pycodestyle, python3-pycryptodome, python3-pydot, python3-pygraphviz, python3-pykdl, python3-pyproj, python3-pyqt5.qtwebengine, python3-pytest-mock, python3-qt5-bindings, python3-qt5-bindings-gl, python3-qt5-bindings-webkit, python3-requests, python3-requests-oauthlib, python3-rosdep-modules, python3-rosdistro-modules, python3-rospkg, python3-rospkg-modules, python3-ruamel.yaml, python3-serial, python3-simplejson, python3-sphinx, python3-termcolor, python3-texttable, python3-tk, python3-tornado, python3-twisted, python3-usb, python3-websocket, qtdeclarative5-dev, qtmultimedia5-dev, rsync, screen, sdl2, spdlog, subversion, suitesparse, swig, sysstat, tango-icon-theme, tbb, time, unzip, usbutils, v4l-utils, vlc, wget, wx-common, wxpython, wxwidgets, xterm, yaml-cpp, zbar",2020-12-05T15:58:08Z,2020-12-11T20:13:15Z
+https://github.com/ros/rosdistro/pull/27597,gpg-agent,2020-12-04T17:04:46Z,2021-02-24T13:29:12Z
+https://github.com/ros/rosdistro/pull/27583,python3-pypng,2020-12-03T14:45:38Z,2020-12-08T18:59:08Z
+https://github.com/ros/rosdistro/pull/27580,python3-xmlschema,2020-12-03T04:38:16Z,2020-12-04T17:27:39Z
+https://github.com/ros/rosdistro/pull/27499,python3-xmltodict,2020-11-26T06:30:44Z,2020-12-02T13:48:48Z
+https://github.com/ros/rosdistro/pull/27498,python3-bs4,2020-11-26T06:06:44Z,2020-12-01T20:48:03Z
+https://github.com/ros/rosdistro/pull/27488,python3-thriftpy,2020-11-25T09:35:56Z,2020-12-02T19:22:02Z
+https://github.com/ros/rosdistro/pull/27395,touchegg,2020-11-20T12:30:20Z,2020-11-30T15:51:34Z
+https://github.com/ros/rosdistro/pull/27390,qt4-linguist-tools,2020-11-19T19:52:04Z,2020-12-11T20:15:27Z
+https://github.com/ros/rosdistro/pull/27278,libcgroup-dev,2020-11-09T17:51:28Z,2020-11-11T01:25:58Z
+https://github.com/ros/rosdistro/pull/27243,python3-conan-pip,2020-11-04T12:59:25Z,2020-11-10T16:20:48Z
+https://github.com/ros/rosdistro/pull/27195,libgmock-dev,2020-10-30T10:56:22Z,2021-01-20T15:59:31Z
+https://github.com/ros/rosdistro/pull/27189,python3-cantools-pip,2020-10-29T16:01:42Z,2020-10-31T00:16:45Z
+https://github.com/ros/rosdistro/pull/27038,cython3,2020-10-19T17:32:04Z,2020-10-20T17:28:40Z
+https://github.com/ros/rosdistro/pull/27037,python3-influxdb-client-pip,2020-10-19T16:38:36Z,2020-10-20T14:22:45Z
+https://github.com/ros/rosdistro/pull/27017,python3-mechanize,2020-10-17T16:05:36Z,2020-10-20T17:28:33Z
+https://github.com/ros/rosdistro/pull/26953,gpac,2020-10-14T05:44:12Z,2020-10-15T12:14:19Z
+https://github.com/ros/rosdistro/pull/26942,python3-siphon-pip,2020-10-13T18:55:21Z,2020-10-15T12:16:55Z
+https://github.com/ros/rosdistro/pull/26939,"python-netcdf4, python3-netcdf4",2020-10-13T18:45:12Z,2020-10-15T12:16:40Z
+https://github.com/ros/rosdistro/pull/26922,libqt5-websockets-dev,2020-10-12T18:43:27Z,2020-10-15T12:16:23Z
+https://github.com/ros/rosdistro/pull/26826,"python-whichcraft, python3-whichcraft",2020-10-06T11:28:45Z,2020-10-08T09:14:11Z
+https://github.com/ros/rosdistro/pull/26814,libtiff-dev,2020-10-06T04:21:22Z,2020-10-06T23:27:26Z
+https://github.com/ros/rosdistro/pull/26779,yamllint,2020-10-01T14:05:27Z,2020-10-07T16:45:25Z
+https://github.com/ros/rosdistro/pull/26778,python3-docopt,2020-10-01T13:57:28Z,2020-10-07T16:44:54Z
+https://github.com/ros/rosdistro/pull/26769,python3-h5py,2020-10-01T05:13:00Z,2020-10-02T20:33:21Z
+https://github.com/ros/rosdistro/pull/26768,python3-progressbar,2020-09-30T21:20:43Z,2020-10-09T22:13:57Z
+https://github.com/ros/rosdistro/pull/26754,gphoto2,2020-09-29T18:54:04Z,2020-10-06T19:54:49Z
+https://github.com/ros/rosdistro/pull/26699,"wireshark, wireshark-common",2020-09-25T20:19:58Z,2020-09-30T23:07:12Z
+https://github.com/ros/rosdistro/pull/26694,awscli,2020-09-25T15:59:22Z,2020-09-26T04:29:40Z
+https://github.com/ros/rosdistro/pull/26683,"python-twilio-pip, python3-twilio",2020-09-24T08:20:03Z,2020-10-05T13:37:27Z
+https://github.com/ros/rosdistro/pull/26619,python3-catkin-lint,2020-09-21T02:48:39Z,2020-09-28T13:13:12Z
+https://github.com/ros/rosdistro/pull/26586,"aravis, aravis-dev",2020-09-17T12:38:57Z,2020-09-22T15:09:44Z
+https://github.com/ros/rosdistro/pull/26574,python3-fastnumbers-pip,2020-09-16T13:43:25Z,2020-10-06T19:29:47Z
+https://github.com/ros/rosdistro/pull/26570,python3-distro,2020-09-16T03:19:08Z,2020-09-21T18:58:44Z
+https://github.com/ros/rosdistro/pull/26551,python-xmlplain-pip,2020-09-14T00:48:29Z,2020-09-21T18:47:16Z
+https://github.com/ros/rosdistro/pull/26504,python-typing-pip,2020-09-09T09:18:38Z,2020-09-14T17:21:32Z
+https://github.com/ros/rosdistro/pull/26446,libnlopt-cxx-dev,2020-09-03T13:43:11Z,2020-09-14T12:45:39Z
+https://github.com/ros/rosdistro/pull/26328,python3-pyosmium,2020-08-26T23:07:45Z,2020-09-11T17:08:26Z
+https://github.com/ros/rosdistro/pull/26325,python-dev,2020-08-26T19:49:22Z,2020-08-28T09:20:02Z
+https://github.com/ros/rosdistro/pull/26308,libmockito-java,2020-08-25T21:14:00Z,2020-08-27T19:18:44Z
+https://github.com/ros/rosdistro/pull/26226,python3-gql-pip,2020-08-18T13:45:35Z,2020-08-26T23:00:05Z
+https://github.com/ros/rosdistro/pull/26215,jupyter-nbconvert,2020-08-17T13:34:43Z,2020-08-20T04:20:22Z
+https://github.com/ros/rosdistro/pull/26188,"python3-geopy, python3-toml",2020-08-13T21:48:59Z,2020-08-14T18:03:04Z
+https://github.com/ros/rosdistro/pull/26143,gettext-base,2020-08-10T17:02:30Z,2020-08-27T19:14:00Z
+https://github.com/ros/rosdistro/pull/26056,"python3-pymodbus, python3-urllib3",2020-08-05T13:05:37Z,2020-08-14T18:04:21Z
+https://github.com/ros/rosdistro/pull/25995,"libboost-math, libboost-math-dev, libboost-serialization, libboost-timer, libboost-timer-dev",2020-07-30T06:32:47Z,2020-08-14T18:04:48Z
+https://github.com/ros/rosdistro/pull/25988,python3-pyqtgraph,2020-07-29T15:35:27Z,2020-08-10T21:29:14Z
+https://github.com/ros/rosdistro/pull/25933,libzmq3-dev,2020-07-25T00:07:15Z,2020-08-06T17:15:51Z
+https://github.com/ros/rosdistro/pull/25920,python3-wxgtk4.0,2020-07-24T10:10:52Z,2020-08-07T14:10:20Z
+https://github.com/ros/rosdistro/pull/25900,gurumdds-2.6,2020-07-23T00:20:58Z,2020-07-23T21:58:53Z
+https://github.com/ros/rosdistro/pull/25892,"python3-sense-emu-pip, python3-sense-hat-pip",2020-07-22T12:27:37Z,2020-07-23T19:13:06Z
+https://github.com/ros/rosdistro/pull/25863,"python-httplib2, python3-httplib2",2020-07-20T18:40:04Z,2020-07-23T15:42:08Z
+https://github.com/ros/rosdistro/pull/25761,iwyu,2020-07-10T19:39:23Z,2020-07-16T00:03:10Z
+https://github.com/ros/rosdistro/pull/25757,"python3-bosdyn-api-pip, python3-bosdyn-client-pip, python3-bosdyn-core-pip, python3-bosdyn-mission-pip",2020-07-10T17:48:44Z,2020-08-13T17:52:27Z
+https://github.com/ros/rosdistro/pull/25736,"liblcm, liblcm-dev",2020-07-09T16:40:23Z,2020-07-23T15:44:59Z
+https://github.com/ros/rosdistro/pull/25718,"libpqxx, libpqxx-dev",2020-07-08T19:23:39Z,2020-07-23T15:45:44Z
+https://github.com/ros/rosdistro/pull/25689,python3-connexion-pip,2020-07-07T10:57:59Z,2020-07-16T00:02:08Z
+https://github.com/ros/rosdistro/pull/25617,"postgresql-postgis, python3-cherrypy3, python3-colorama, python3-github, python3-mapnik, python3-texttable",2020-06-28T08:58:50Z,2020-07-06T15:12:53Z
+https://github.com/ros/rosdistro/pull/25610,python3-msgpack,2020-06-26T20:12:02Z,2020-07-22T20:25:10Z
+https://github.com/ros/rosdistro/pull/25596,"python-grpcio-reflection-pip, python3-parameterized",2020-06-25T03:04:42Z,2020-07-23T15:46:49Z
+https://github.com/ros/rosdistro/pull/25556,python3-pyswarms-pip,2020-06-22T19:39:11Z,2020-06-30T14:12:32Z
+https://github.com/ros/rosdistro/pull/25541,python3-importlib-metadata,2020-06-19T20:05:35Z,2020-06-22T15:43:40Z
+https://github.com/ros/rosdistro/pull/25533,python3-collada,2020-06-19T07:28:43Z,2020-06-30T13:38:28Z
+https://github.com/ros/rosdistro/pull/25503,python-pycpd-pip,2020-06-17T11:18:48Z,2020-06-30T13:55:44Z
+https://github.com/ros/rosdistro/pull/25482,"python-rosinstall-generator, python3-rosinstall-generator",2020-06-16T08:30:14Z,2020-07-22T21:07:27Z
+https://github.com/ros/rosdistro/pull/25474,python3-geomag-pip,2020-06-15T16:48:05Z,2020-08-17T18:05:35Z
+https://github.com/ros/rosdistro/pull/25418,libjsoncpp,2020-06-11T13:25:36Z,2020-06-12T13:44:46Z
+https://github.com/ros/rosdistro/pull/25377,python3-simplejson,2020-06-08T19:46:25Z,2020-06-16T13:07:58Z
+https://github.com/ros/rosdistro/pull/25370,python3-tilestache-pip,2020-06-08T18:49:22Z,2020-06-15T15:27:04Z
+https://github.com/ros/rosdistro/pull/25369,python3-shapely,2020-06-08T18:16:38Z,2020-06-15T15:25:39Z
+https://github.com/ros/rosdistro/pull/25296,python3-jsonpickle,2020-06-03T13:29:55Z,2020-06-04T13:06:47Z
+https://github.com/ros/rosdistro/pull/25263,python3-pyassimp,2020-06-02T15:26:47Z,2020-06-09T19:18:56Z
+https://github.com/ros/rosdistro/pull/25257,libopenvdb,2020-06-01T21:03:54Z,2020-06-09T09:41:56Z
+https://github.com/ros/rosdistro/pull/25204,python3-argcomplete,2020-05-29T20:20:14Z,2020-06-01T14:08:47Z
+https://github.com/ros/rosdistro/pull/25192,python-pypcd-pip,2020-05-29T14:30:50Z,2020-06-09T09:43:28Z
+https://github.com/ros/rosdistro/pull/25173,python3-usb,2020-05-29T01:55:47Z,2020-06-02T14:36:37Z
+https://github.com/ros/rosdistro/pull/25170,python3-interpreter,2020-05-28T22:37:40Z,2020-06-02T14:42:10Z
+https://github.com/ros/rosdistro/pull/25140,collada-dom,2020-05-28T10:01:23Z,2020-06-15T17:28:05Z
+https://github.com/ros/rosdistro/pull/25120,python-sip,2020-05-27T16:00:45Z,2020-06-22T13:07:27Z
+https://github.com/ros/rosdistro/pull/25075,wxpython,2020-05-26T04:44:44Z,2020-08-07T14:32:57Z
+https://github.com/ros/rosdistro/pull/25055,python3-catkin-lint,2020-05-25T10:41:37Z,2020-06-15T18:41:43Z
+https://github.com/ros/rosdistro/pull/25054,python3-markdown,2020-05-25T09:51:24Z,2020-06-01T18:09:09Z
+https://github.com/ros/rosdistro/pull/25053,python3-networkx,2020-05-25T09:46:53Z,2020-05-29T13:40:28Z
+https://github.com/ros/rosdistro/pull/24982,bullet-extras,2020-05-20T17:37:51Z,2020-05-26T13:07:18Z
+https://github.com/ros/rosdistro/pull/24954,mosquittopp-dev,2020-05-19T01:32:47Z,2020-08-17T22:03:04Z
+https://github.com/ros/rosdistro/pull/24934,"ignition-citadel, ignition-tools, libignition-cmake2-dev, libignition-common3, libignition-common3-dev, libignition-fuel-tools4, libignition-fuel-tools4-dev, libignition-gazebo3, libignition-gazebo3-dev, libignition-gui3, libignition-gui3-dev, libignition-launch2, libignition-launch2-dev, libignition-math6, libignition-math6-dev, libignition-math6-eigen3-dev, libignition-msgs5, libignition-msgs5-dev, libignition-physics2, libignition-physics2-dev, libignition-plugin-dev, libignition-rendering3, libignition-rendering3-dev, libignition-sensors3, libignition-sensors3-dev, libignition-tools-dev, libignition-transport8, libignition-transport8-dev, sdformat",2020-05-16T01:43:49Z,2020-06-17T21:27:12Z
+https://github.com/ros/rosdistro/pull/24916,libglew-dev,2020-05-14T23:23:01Z,2020-05-19T00:42:43Z
+https://github.com/ros/rosdistro/pull/24802,python3-rdflib,2020-05-09T15:27:52Z,2020-05-12T00:28:39Z
+https://github.com/ros/rosdistro/pull/24773,libvlc,2020-05-08T00:50:47Z,2020-05-14T21:35:43Z
+https://github.com/ros/rosdistro/pull/24762,python3-docutils,2020-05-06T19:46:20Z,2020-05-14T21:18:34Z
+https://github.com/ros/rosdistro/pull/24743,python3-skimage,2020-05-06T16:20:03Z,2020-05-19T00:43:40Z
+https://github.com/ros/rosdistro/pull/24742,"python3-grpc-tools, python3-grpcio",2020-05-06T14:19:31Z,2020-05-16T00:04:30Z
+https://github.com/ros/rosdistro/pull/24741,python3-ruamel.yaml,2020-05-06T14:05:52Z,2020-05-16T00:07:07Z
+https://github.com/ros/rosdistro/pull/24725,"python3-sklearn, python3-tqdm",2020-05-05T12:51:14Z,2020-05-16T00:00:49Z
+https://github.com/ros/rosdistro/pull/24699,libopencv-imgproc-dev,2020-05-03T11:58:53Z,2020-05-09T20:14:27Z
+https://github.com/ros/rosdistro/pull/24692,"hddtemp, libboost-atomic-dev, libboost-chrono-dev, libboost-date-time-dev, libboost-filesystem-dev, libboost-iostreams-dev, libboost-random-dev, libboost-regex-dev, libboost-thread-dev, liburdfdom-dev, liburdfdom-headers-dev, libzstd-dev, sbcl",2020-05-01T21:51:06Z,2020-05-05T00:06:53Z
+https://github.com/ros/rosdistro/pull/24685,"libcap-ng-dev, libcap-ng0, libcap2, libdpkg-dev, libmongoc-1.0-0, libmongoc-dev, libprocps-dev, libprocps6",2020-05-01T17:28:24Z,2020-05-16T00:06:38Z
+https://github.com/ros/rosdistro/pull/24677,"python-tk, python-virtualenv, python3-boto3, python3-twisted",2020-05-01T01:42:40Z,2020-05-11T18:02:20Z
+https://github.com/ros/rosdistro/pull/24627,python-influxdb,2020-04-28T09:29:45Z,2020-05-01T12:50:05Z
+https://github.com/ros/rosdistro/pull/24623,"python-scipy, python3-scipy",2020-04-28T05:48:00Z,2020-05-01T12:47:42Z
+https://github.com/ros/rosdistro/pull/24539,"boost, graphviz-dev, jasper, libavahi-client-dev, libavahi-core-dev, libbison-dev, libblas-dev, libbluetooth-dev, libconfig-dev, libfltk-dev, libgflags-dev, libglew-dev, libglm-dev, libgoogle-glog-dev, libgphoto-dev, libjson0-dev, liblapack-dev, liblttng-ust-dev, libmicrohttpd, libmp3lame-dev, libopenal-dev, libopenblas-dev, libopenexr-dev, libpcap, libqhull, librabbitmq-dev, libraw1394-dev, libsndfile1-dev, libturbojpeg, libusb-dev, libv4l-dev, libvpx-dev, libxmlrpc-c++, nasm, netpbm, nkf, opencl-headers, pandoc, protobuf-dev, pstoedit, python3-packaging, python3-sphinx, python3-sphinx-rtd-theme, sdl2, snappy, suitesparse",2020-04-23T02:03:06Z,2020-05-11T19:14:25Z
+https://github.com/ros/rosdistro/pull/24527,libbluetooth,2020-04-21T16:21:22Z,2020-04-23T04:45:13Z
+https://github.com/ros/rosdistro/pull/24526,python-rpi.gpio-pip,2020-04-21T10:58:25Z,2020-05-14T20:53:59Z
+https://github.com/ros/rosdistro/pull/24447,"libedit, libedit-dev",2020-04-11T17:09:37Z,2020-04-27T22:20:01Z
+https://github.com/ros/rosdistro/pull/24432,nlohmann-json-dev,2020-04-10T08:06:06Z,2020-05-12T14:00:16Z
+https://github.com/ros/rosdistro/pull/24423,"exfat-fuse, exfat-utils",2020-04-08T14:05:45Z,2020-04-13T18:24:26Z
+https://github.com/ros/rosdistro/pull/24421,"python-sexpdata, python3-sexpdata",2020-04-08T07:00:00Z,2020-04-28T12:30:02Z
+https://github.com/ros/rosdistro/pull/24416,"asio, clang-format, clang-tidy, cppcheck, gperf, libncurses, libxml2-utils, pydocstyle, pyflakes3, python3-catkin-pkg-modules, python3-flake8, python3-pep8, python3-pytest, python3-setuptools, python3-yaml, uncrustify, usbutils",2020-04-07T18:26:13Z,2020-04-10T13:02:57Z
+https://github.com/ros/rosdistro/pull/24414,pigz,2020-04-07T17:34:01Z,2020-04-08T16:36:41Z
+https://github.com/ros/rosdistro/pull/24346,"python-open3d-pip, python-pyrealsense2-pip",2020-04-03T19:26:47Z,2020-04-13T18:21:42Z
+https://github.com/ros/rosdistro/pull/24340,python-cvxopt,2020-04-03T15:49:22Z,2020-04-07T12:20:11Z
+https://github.com/ros/rosdistro/pull/24331,"libpcl-all, libpcl-all-dev",2020-04-02T17:31:19Z,2020-04-03T13:05:10Z
+https://github.com/ros/rosdistro/pull/24294,libqt4,2020-03-31T08:02:14Z,2020-03-31T14:20:00Z
+https://github.com/ros/rosdistro/pull/24292,python3-requests,2020-03-31T05:32:32Z,2020-04-10T00:36:13Z
+https://github.com/ros/rosdistro/pull/24276,python3-pytest-cov,2020-03-28T20:17:04Z,2020-03-31T06:24:17Z
+https://github.com/ros/rosdistro/pull/24275,libopenal-dev,2020-03-28T14:58:34Z,2020-04-02T17:46:28Z
+https://github.com/ros/rosdistro/pull/24193,"libfcl-dev, libgsl, libpng-dev, protobuf",2020-03-22T17:48:33Z,2020-03-30T13:15:57Z
+https://github.com/ros/rosdistro/pull/24171,"gstreamer1.0-rtsp, libgstrtspserver-1.0-0, libgstrtspserver-1.0-dev",2020-03-19T09:02:03Z,2020-03-31T15:26:29Z
+https://github.com/ros/rosdistro/pull/24164,libboost-python,2020-03-18T17:14:52Z,2020-03-24T15:46:34Z
+https://github.com/ros/rosdistro/pull/24097,"libqglviewer-dev-qt5, libqglviewer2-qt5",2020-03-16T19:51:45Z,2020-03-23T00:00:18Z
+https://github.com/ros/rosdistro/pull/24096,"python-rosdep, python-rosdep-modules",2020-03-16T15:13:32Z,2020-03-17T23:10:31Z
+https://github.com/ros/rosdistro/pull/24074,"qml-module-qtmultimedia, qml-module-qtquick-controls, qml-module-qtquick-controls2, qml-module-qtquick-dialogs, qml-module-qtquick-layouts, qml-module-qtquick-templates2, qml-module-qtquick2",2020-03-13T09:40:31Z,2020-03-30T13:10:08Z
+https://github.com/ros/rosdistro/pull/24054,python3-pykdl,2020-03-11T23:51:47Z,2020-03-12T18:34:56Z
+https://github.com/ros/rosdistro/pull/24023,libnewmat10-dev,2020-03-10T16:55:13Z,2020-03-12T18:35:59Z
+https://github.com/ros/rosdistro/pull/24019,python-pathlib,2020-03-10T13:13:43Z,2020-03-12T14:01:21Z
+https://github.com/ros/rosdistro/pull/24005,qtbase5-private-dev,2020-03-09T12:48:38Z,2020-03-12T13:23:55Z
+https://github.com/ros/rosdistro/pull/23996,"libboost-atomic, libboost-atomic-dev, libboost-chrono, libboost-chrono-dev, libboost-date-time, libboost-date-time-dev, libboost-dev, libboost-filesystem, libboost-iostreams, libboost-iostreams-dev, libboost-program-options, libboost-program-options-dev, libboost-python, libboost-python-dev, libboost-random, libboost-random-dev, libboost-regex, libboost-regex-dev, libboost-system, libboost-system-dev, libboost-thread",2020-03-08T04:03:12Z,2020-03-12T13:35:54Z
+https://github.com/ros/rosdistro/pull/23993,"pyquaternion, python-pyquaternion-pip",2020-03-07T00:20:20Z,2020-03-12T21:36:05Z
+https://github.com/ros/rosdistro/pull/23973,"python-triangle-pip, python3-triangle-pip",2020-03-05T16:43:23Z,2020-03-20T00:08:29Z
+https://github.com/ros/rosdistro/pull/23967,range-v3,2020-03-05T10:39:39Z,2020-03-09T15:44:12Z
+https://github.com/ros/rosdistro/pull/23966,ed,2020-03-05T09:32:36Z,2020-03-06T16:11:16Z
+https://github.com/ros/rosdistro/pull/23934,python3-west-pip,2020-03-03T11:13:01Z,2020-03-04T16:16:56Z
+https://github.com/ros/rosdistro/pull/23911,"libboost-atomic, libboost-chrono, libboost-date-time, libboost-filesystem, libboost-iostreams, libboost-program-options, libboost-random, libboost-regex, libboost-system, libboost-thread",2020-02-29T10:54:01Z,2020-03-04T16:56:35Z
+https://github.com/ros/rosdistro/pull/23844,"libboost-python, libboost-python-dev",2020-02-21T23:33:57Z,2020-02-29T20:23:03Z
+https://github.com/ros/rosdistro/pull/23841,"liborocos-bfl, liborocos-bfl-dev, liborocos-kdl, liborocos-kdl-dev, python3-pykdl",2020-02-21T19:41:36Z,2020-03-09T22:54:18Z
+https://github.com/ros/rosdistro/pull/23793,python3-rafcon-pip,2020-02-17T18:33:57Z,2020-03-10T01:21:22Z
+https://github.com/ros/rosdistro/pull/23730,python3-retrying,2020-02-10T22:51:51Z,2020-02-12T19:45:03Z
+https://github.com/ros/rosdistro/pull/23706,"libspatialindex-dev, python-pcg-gazebo-pip, python3-pcg-gazebo-pip",2020-02-07T14:29:34Z,2020-02-24T13:49:03Z
+https://github.com/ros/rosdistro/pull/23682,"libkml-dev, python-kml",2020-02-04T16:46:09Z,2020-02-04T23:20:13Z
+https://github.com/ros/rosdistro/pull/23663,libcdd-dev,2020-02-01T10:26:32Z,2020-02-04T23:21:17Z
+https://github.com/ros/rosdistro/pull/23656,libogre,2020-01-30T11:37:03Z,2020-02-10T14:26:38Z
+https://github.com/ros/rosdistro/pull/23646,openocd,2020-01-29T08:15:58Z,2020-02-06T03:52:09Z
+https://github.com/ros/rosdistro/pull/23624,"libboost-atomic, libboost-atomic-dev, libboost-chrono, libboost-chrono-dev, libboost-date-time, libboost-date-time-dev, libboost-dev, libboost-filesystem, libboost-filesystem-dev, libboost-iostreams, libboost-iostreams-dev, libboost-program-options, libboost-random, libboost-regex, libboost-system, libboost-system-dev, libboost-thread, libboost-thread-dev",2020-01-27T10:39:19Z,2020-02-06T00:06:18Z
+https://github.com/ros/rosdistro/pull/23622,libboost-dev,2020-01-26T15:04:52Z,2020-02-05T00:37:03Z
+https://github.com/ros/rosdistro/pull/23620,libboost-regex-dev,2020-01-26T13:15:27Z,2020-01-28T03:59:52Z
+https://github.com/ros/rosdistro/pull/23532,python3-distutils,2020-01-16T23:56:20Z,2020-01-22T19:42:11Z
+https://github.com/ros/rosdistro/pull/23528,"libgoogle-glog-dev, lua5.2-dev",2020-01-16T18:40:43Z,2020-01-30T13:28:44Z
+https://github.com/ros/rosdistro/pull/23525,python3-kitchen,2020-01-16T01:04:48Z,2020-01-22T19:45:22Z
+https://github.com/ros/rosdistro/pull/23497,python-fcl-pip,2020-01-13T03:05:08Z,2020-01-22T19:49:19Z
+https://github.com/ros/rosdistro/pull/23470,gym-pip,2020-01-10T03:13:09Z,2020-01-22T19:44:58Z
+https://github.com/ros/rosdistro/pull/23401,"libgpgme-dev, log4cxx, lz4",2020-01-03T22:35:30Z,2020-01-03T23:03:49Z
+https://github.com/ros/rosdistro/pull/23352,python3-asyncssh,2019-12-20T21:59:09Z,2019-12-31T01:53:08Z
+https://github.com/ros/rosdistro/pull/23346,fmt,2019-12-20T05:00:54Z,2020-01-03T00:01:58Z
+https://github.com/ros/rosdistro/pull/23334,python3-hypothesis,2019-12-18T19:12:56Z,2019-12-19T21:09:35Z
+https://github.com/ros/rosdistro/pull/23307,python3-can,2019-12-15T11:41:49Z,2019-12-31T01:47:30Z
+https://github.com/ros/rosdistro/pull/23169,python3-imageio,2019-11-27T10:23:22Z,2019-12-05T15:08:31Z
+https://github.com/ros/rosdistro/pull/23163,benchmark,2019-11-26T16:48:46Z,2019-12-09T20:50:23Z
+https://github.com/ros/rosdistro/pull/23141,rsyslog,2019-11-24T02:07:41Z,2019-12-17T15:25:46Z
+https://github.com/ros/rosdistro/pull/23137,python3-lxml,2019-11-23T21:42:24Z,2019-12-05T14:53:29Z
+https://github.com/ros/rosdistro/pull/23131,"libqt5-multimedia, libqt5-qml, libqt5-quick",2019-11-23T11:10:37Z,2019-12-05T14:48:41Z
+https://github.com/ros/rosdistro/pull/23117,"libboost-chrono-dev, libboost-iostreams-dev, libboost-thread-dev",2019-11-21T13:33:35Z,2019-11-22T23:51:59Z
+https://github.com/ros/rosdistro/pull/23060,wireless-tools,2019-11-18T16:42:23Z,2019-11-27T14:16:57Z
+https://github.com/ros/rosdistro/pull/22959,python-objectpath-pip,2019-11-11T15:46:59Z,2019-12-04T13:43:12Z
+https://github.com/ros/rosdistro/pull/22822,python-setproctitle,2019-10-28T11:59:10Z,2019-11-23T10:02:16Z
+https://github.com/ros/rosdistro/pull/22735,python-astor-pip,2019-10-23T11:00:21Z,2019-10-30T16:51:08Z
+https://github.com/ros/rosdistro/pull/22725,"libqt5-xml, qt5-image-formats-plugins",2019-10-22T11:37:00Z,2019-11-27T14:12:12Z
+https://github.com/ros/rosdistro/pull/22623,python3-pyaudio,2019-10-10T20:39:04Z,2019-10-23T13:50:29Z
+https://github.com/ros/rosdistro/pull/22264,python-jsonpickle,2019-09-17T09:10:46Z,2019-09-18T15:12:33Z
+https://github.com/ros/rosdistro/pull/22129,java,2019-08-30T21:15:56Z,2020-03-10T20:26:20Z
+https://github.com/ros/rosdistro/pull/22028,python3-qt5-bindings,2019-08-16T05:51:49Z,2019-09-03T12:25:45Z
+https://github.com/ros/rosdistro/pull/22022,qttools5-dev,2019-08-15T17:55:07Z,2019-08-15T21:02:19Z
+https://github.com/ros/rosdistro/pull/22011,"python-pycryptodome, python3-pycryptodome",2019-08-14T16:44:14Z,2019-08-14T17:44:29Z
+https://github.com/ros/rosdistro/pull/21906,apparmor,2019-08-02T18:16:37Z,2019-10-22T15:31:11Z
+https://github.com/ros/rosdistro/pull/21847,"cmake, python-cryptography, python-lxml, python3-cryptography, python3-lxml",2019-07-26T18:52:05Z,2019-08-01T01:04:47Z
+https://github.com/ros/rosdistro/pull/21791,ipython,2019-07-19T07:08:53Z,2019-07-25T23:14:07Z
+https://github.com/ros/rosdistro/pull/21680,python-unittest2,2019-07-03T19:11:17Z,2019-07-10T18:39:54Z
+https://github.com/ros/rosdistro/pull/21613,python3-lttng,2019-06-25T12:50:00Z,2019-06-26T00:00:54Z
+https://github.com/ros/rosdistro/pull/21570,libboost-python,2019-06-17T18:02:58Z,2019-06-26T23:02:33Z
+https://github.com/ros/rosdistro/pull/21509,pugixml-dev,2019-06-11T04:52:47Z,2019-06-20T13:25:18Z
+https://github.com/ros/rosdistro/pull/21462,python3-catkin-pkg-modules,2019-06-04T19:58:57Z,2019-06-06T16:02:01Z
+https://github.com/ros/rosdistro/pull/21439,python-vtk,2019-06-03T12:00:21Z,2019-06-21T17:03:34Z
+https://github.com/ros/rosdistro/pull/21335,unclutter,2019-05-23T06:01:40Z,2019-05-29T11:54:01Z
+https://github.com/ros/rosdistro/pull/21333,boost,2019-05-22T17:25:39Z,2019-06-26T16:52:06Z
+https://github.com/ros/rosdistro/pull/21332,autograd-pip,2019-05-22T16:38:58Z,2019-05-28T18:09:02Z
+https://github.com/ros/rosdistro/pull/21244,libqt5multimedia5-plugins,2019-05-16T13:12:15Z,2019-05-17T16:00:13Z
+https://github.com/ros/rosdistro/pull/21239,pymodbustcp-pip,2019-05-15T23:54:17Z,2019-05-28T12:35:21Z
+https://github.com/ros/rosdistro/pull/21235,python-pymavlink,2019-05-15T14:28:26Z,2019-05-15T16:58:50Z
+https://github.com/ros/rosdistro/pull/21229,gfortran,2019-05-14T20:42:02Z,2019-05-15T14:08:13Z
+https://github.com/ros/rosdistro/pull/21224,pynput-pip,2019-05-14T09:31:46Z,2019-05-15T14:18:32Z
+https://github.com/ros/rosdistro/pull/21222,"python-funcsigs, python-kombu, python-pbr, python-vine-pip",2019-05-14T05:22:54Z,2019-05-15T14:19:45Z
+https://github.com/ros/rosdistro/pull/21219,uavcan-pip,2019-05-13T14:01:44Z,2019-05-15T14:17:39Z
+https://github.com/ros/rosdistro/pull/21216,boost,2019-05-10T21:22:28Z,2019-05-15T16:01:26Z
+https://github.com/ros/rosdistro/pull/21210,zip,2019-05-10T13:41:57Z,2019-05-28T12:34:32Z
+https://github.com/ros/rosdistro/pull/21209,libavdevice-dev,2019-05-10T13:38:09Z,2019-05-28T22:53:32Z
+https://github.com/ros/rosdistro/pull/21207,libboost-filesystem-dev,2019-05-10T13:31:35Z,2019-06-04T08:04:37Z
+https://github.com/ros/rosdistro/pull/21206,libzip-dev,2019-05-10T13:23:45Z,2019-05-20T23:58:07Z
+https://github.com/ros/rosdistro/pull/21205,mesa-utils,2019-05-10T13:15:03Z,2019-05-28T22:51:16Z
+https://github.com/ros/rosdistro/pull/21204,python-pylint3,2019-05-10T13:11:41Z,2019-05-28T12:16:06Z
+https://github.com/ros/rosdistro/pull/21203,python-pycodestyle,2019-05-10T13:06:10Z,2019-05-17T17:27:41Z
+https://github.com/ros/rosdistro/pull/21202,python3-pycodestyle,2019-05-10T13:03:29Z,2019-05-17T17:28:31Z
+https://github.com/ros/rosdistro/pull/21105,carla-pip,2019-05-07T02:39:51Z,2019-05-14T18:18:01Z
+https://github.com/ros/rosdistro/pull/21104,libmodbus5,2019-05-07T01:15:16Z,2019-05-08T23:38:50Z
+https://github.com/ros/rosdistro/pull/21095,"asio, cppcheck, cppunit, curl, eigen, freetype, libfreetype6, libfreetype6-dev, libopencv-dev, libqt5-widgets, python-qt5-bindings, python3-pep8, python3-psutil, python3-pygraphviz, python3-pytest, python3-yaml, qtbase5-dev, tango-icon-theme, uncrustify, yaml, zlib",2019-05-06T14:52:32Z,2019-05-17T01:34:16Z
+https://github.com/ros/rosdistro/pull/21034,qttools5-dev-tools,2019-04-26T15:46:23Z,2019-04-26T17:46:36Z
+https://github.com/ros/rosdistro/pull/21024,python-pycurl,2019-04-26T02:49:23Z,2019-04-30T08:44:22Z
+https://github.com/ros/rosdistro/pull/21020,python-oyaml-pip,2019-04-25T08:03:26Z,2019-04-26T02:57:33Z
+https://github.com/ros/rosdistro/pull/20999,"autolab-core-pip, autolab-perception-pip",2019-04-23T04:04:00Z,2019-04-23T19:17:34Z
+https://github.com/ros/rosdistro/pull/20998,potrace,2019-04-23T01:56:15Z,2019-04-24T07:05:20Z
+https://github.com/ros/rosdistro/pull/20955,"gperf, libncurses",2019-04-18T07:25:43Z,2019-04-25T00:31:26Z
+https://github.com/ros/rosdistro/pull/20946,python-tk,2019-04-16T21:24:39Z,2019-04-16T23:26:38Z
+https://github.com/ros/rosdistro/pull/20944,python3-tk,2019-04-16T05:31:30Z,2019-04-16T21:22:41Z
+https://github.com/ros/rosdistro/pull/20788,python-bitarray,2019-04-03T12:48:37Z,2019-04-08T18:59:43Z
+https://github.com/ros/rosdistro/pull/20781,python-frozendict,2019-04-02T09:14:13Z,2019-04-03T20:37:47Z
+https://github.com/ros/rosdistro/pull/20779,python3-pip,2019-04-01T06:43:21Z,2019-04-03T20:39:08Z
+https://github.com/ros/rosdistro/pull/20763,"asio, assimp, assimp-dev, boost, bullet, bzip2, clang-format, cmake, cppcheck, cppunit, curl, dkms, eigen, ffmpeg, g++-static, gazebo9, git, glut, google-mock, gtest, gtk3, libcairo2-dev, libceres-dev, libconsole-bridge-dev, libdw-dev, libexpat1-dev, libfreetype6, libfreetype6-dev, libgazebo9-dev, libgflags-dev, libglfw3-dev, libgoogle-glog-dev, libgpgme-dev, libjpeg, libogg, libopencv-dev, libpcap, libpcl-all, libpcl-all-dev, libpoco-dev, libqt5-core, libqt5-gui, libqt5-opengl, libqt5-widgets, libsqlite3-dev, libssl-dev, libtheora, libturbojpeg, libudev-dev, libusb-1.0-dev, libwebp-dev, libx11-dev, libxaw, libxml2-utils, libxrandr, libzmq3-dev, linux-headers-generic, log4cxx, lua5.2-dev, opengl, openssl, pcre, pkg-config, protobuf-dev, pydocstyle, pyflakes3, python-argparse, python-flake8, python-mock, python-sphinx, python3-catkin-pkg-modules, python3-dev, python3-empy, python3-flake8, python3-lark-parser, python3-lxml, python3-matplotlib, python3-mock, python3-nose, python3-nose-yanc, python3-numpy, python3-opencv, python3-pep8, python3-pkg-resources, python3-psutil, python3-pydot, python3-pygraphviz, python3-pyparsing, python3-qt5-bindings, python3-setuptools, python3-yaml, qt5-qmake, qtbase5-dev, sdl, sdl-image, suitesparse, tango-icon-theme, tinyxml, tinyxml2, udev, uncrustify, wx-common, wxwidgets, yaml, yaml-cpp, zlib",2019-03-30T18:59:23Z,2019-05-02T20:30:14Z
+https://github.com/ros/rosdistro/pull/20643,libflann,2019-03-20T13:38:32Z,2019-03-25T14:44:34Z
+https://github.com/ros/rosdistro/pull/20642,python-selenium-pip,2019-03-20T11:05:11Z,2019-03-26T01:10:29Z
+https://github.com/ros/rosdistro/pull/20608,python-typing,2019-03-19T15:11:12Z,2019-03-19T19:26:50Z
+https://github.com/ros/rosdistro/pull/20590,"libboost-program-options, libboost-program-options-dev, libboost-random",2019-03-18T13:58:51Z,2019-04-02T13:51:07Z
+https://github.com/ros/rosdistro/pull/20586,"python-backoff-pip, python3-backoff-pip",2019-03-17T15:57:52Z,2019-04-03T08:47:02Z
+https://github.com/ros/rosdistro/pull/20492,python-imageio,2019-03-07T00:48:08Z,2019-03-08T19:41:31Z
+https://github.com/ros/rosdistro/pull/20491,imgaug-pip,2019-03-07T00:16:38Z,2019-03-07T21:19:34Z
+https://github.com/ros/rosdistro/pull/20466,python-pulsectl-pip,2019-03-05T17:07:18Z,2019-03-05T21:22:41Z
+https://github.com/ros/rosdistro/pull/20461,libclang-dev,2019-03-05T09:33:19Z,2019-03-05T20:59:31Z
+https://github.com/ros/rosdistro/pull/20438,python-webrtcvad-pip,2019-03-04T14:46:12Z,2019-03-04T19:58:51Z
+https://github.com/ros/rosdistro/pull/20426,cccc,2019-03-03T18:28:41Z,2019-03-04T21:14:57Z
+https://github.com/ros/rosdistro/pull/20339,libwebsocketpp-dev,2019-02-19T08:40:29Z,2019-02-21T23:30:36Z
+https://github.com/ros/rosdistro/pull/20298,python-imaging,2019-02-13T18:30:03Z,2019-02-22T01:51:54Z
+https://github.com/ros/rosdistro/pull/20099,speech-dispatcher,2019-01-28T23:49:12Z,2019-01-29T00:41:58Z
+https://github.com/ros/rosdistro/pull/20002,python-geocoder-pip,2019-01-21T14:18:52Z,2019-02-26T13:43:48Z
+https://github.com/ros/rosdistro/pull/19994,"python-django-cors-headers, python-django-extensions, python-djangorestframework",2019-01-21T06:15:27Z,2019-01-22T22:52:58Z
+https://github.com/ros/rosdistro/pull/19976,ninja-build,2019-01-17T11:34:53Z,2019-01-17T22:42:35Z
+https://github.com/ros/rosdistro/pull/19965,libopencv-contrib-dev,2019-01-16T14:10:28Z,2019-01-17T22:40:52Z
+https://github.com/ros/rosdistro/pull/19944,python-numpy-quaternion-pip,2019-01-15T10:19:10Z,2019-01-17T22:45:49Z
+https://github.com/ros/rosdistro/pull/19914,"exhale-pip, python-breathe",2019-01-10T10:59:35Z,2019-01-17T22:48:41Z

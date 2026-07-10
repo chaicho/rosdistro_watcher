@@ -1,0 +1,119 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "python3-pyqt6.qtwebengine",
+      "bin_name": "python3-pyqt6.qtwebengine",
+      "src_name": "pyqt6-webengine",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "6.4.0-1",
+      "description": "Python bindings for the Qt 6 WebEngine framework",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-pyqt5.qtwebengine-dbg",
+      "bin_name": "python3-pyqt5.qtwebengine-dbg",
+      "src_name": "pyqt5webengine",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "5.14.0-2build1",
+      "description": "Python 3 bindings for Qt5's WebEngine module (debug extensions)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-pyqt6-webengine",
+      "bin_name": "python-pyqt6-webengine",
+      "src_name": "python-pyqt6-webengine",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "6.10.0-2",
+      "description": "Python bindings for QtWebEngine",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python2-qtwebengine-qt5",
+      "bin_name": "python2-qtwebengine-qt5",
+      "src_name": "python-qtwebengine-qt5",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "5.13.2-lp152.2.2",
+      "description": "Python bindings for the Qt5 WebEngine framework",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-pyqt5.qtwebengine",
+      "bin_name": "python3-pyqt5.qtwebengine",
+      "src_name": "pyqt5webengine",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "5.15.5-1",
+      "description": "Python 3 bindings for Qt5's WebEngine module",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-pyqt6.qtwebengine",
+      "bin_name": "python3-pyqt6.qtwebengine",
+      "src_name": "pyqt6-webengine",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "6.6.0-1build2",
+      "description": "Python bindings for the Qt 6 WebEngine framework",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-pyqt6-webengine",
+      "bin_name": "python3-pyqt6-webengine",
+      "src_name": "python-pyqt6-webengine",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "6.9.0-0.3.fc43",
+      "description": "Python3 bindings for Qt6 WebEngine",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-qt5-webengine",
+      "bin_name": "python3-qt5-webengine",
+      "src_name": "pyqtwebengine",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "5.15.6-4.el9",
+      "description": "Python3 bindings for Qt5 WebEngine",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-pyqt6-webengine",
+      "bin_name": "python3-pyqt6-webengine",
+      "src_name": "python-pyqt6-webengine",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "6.8.0-3.fc42",
+      "description": "Python3 bindings for Qt6 WebEngine",
+      "confidence": 1.0
+    }
+  ]
+}

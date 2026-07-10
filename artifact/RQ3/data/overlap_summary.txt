@@ -1,0 +1,14 @@
+Naming inconsistencies and filelist inconsistencies
+================================================================================
+
+Inconsistent entries in RQ3: 1331
+Entries in no_overlap_pairs.csv: 637
+Overlap (entries in both): 568
+Percentage of inconsistent entries in CSV: 42.67%
+Percentage of CSV entries that are inconsistent: 89.17%
+
+Breakdown by category:
+  AFFIXATION: 1007 total, 429 in CSV (42.6%)
+  EVOLUTION: 240 total, 137 in CSV (57.1%)
+  POLICY: 526 total, 259 in CSV (49.2%)
+  UNKNOWN: 0 total, 0 in CSV (0.0%)

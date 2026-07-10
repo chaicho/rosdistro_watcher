@@ -1,0 +1,165 @@
+{
+  "alpine_edge": [
+    {
+      "name": "py3-importlib-metadata",
+      "bin_name": "py3-importlib-metadata",
+      "src_name": "py3-importlib-metadata",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Read metadata from Python packages",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-importlib-metadata-pyc",
+      "bin_name": "py3-importlib-metadata-pyc",
+      "src_name": "py3-importlib-metadata",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-importlib-metadata",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-importlib-metadata",
+      "bin_name": "python-importlib-metadata",
+      "src_name": "python-importlib-metadata",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Read metadata from Python packages",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-importlib-metadata",
+      "bin_name": "python3-importlib-metadata",
+      "src_name": "python-importlib-metadata",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-importlib-metadata",
+      "bin_name": "python3-importlib-metadata",
+      "src_name": "python-importlib-metadata",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the metadata for a Python package",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-importlib-metadata",
+      "bin_name": "python3-importlib-metadata",
+      "src_name": "python-importlib-metadata",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the metadata for a Python package",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-importlib-metadata",
+      "bin_name": "python3-importlib-metadata",
+      "src_name": "python-importlib-metadata",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Library to access the metadata for a Python package",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "importlib-metadata",
+      "bin_name": "importlib-metadata",
+      "src_name": "importlib-metadata",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "Read metadata from Python packages",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-importlib-metadata",
+      "bin_name": "python3-importlib-metadata",
+      "src_name": "python-importlib-metadata",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-importlib-metadata",
+      "bin_name": "python-importlib-metadata",
+      "src_name": "python-importlib-metadata",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "pypy-importlib-metadata",
+      "bin_name": "pypy-importlib-metadata",
+      "src_name": "python-importlib-metadata",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-importlib-metadata",
+      "bin_name": "python3-importlib-metadata",
+      "src_name": "python-importlib-metadata",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-importlib-metadata",
+      "bin_name": "python3-importlib-metadata",
+      "src_name": "python-importlib-metadata",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

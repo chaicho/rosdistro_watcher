@@ -1,0 +1,372 @@
+{
+  "rhel_9": [
+    {
+      "name": "libmicrohttpd-devel",
+      "bin_name": "libmicrohttpd-devel",
+      "src_name": "libmicrohttpd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Lightweight library for embedding a webserver in applications",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd",
+      "bin_name": "libmicrohttpd",
+      "src_name": "libmicrohttpd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Lightweight library for embedding a webserver in applications",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-doc",
+      "bin_name": "libmicrohttpd-doc",
+      "src_name": "libmicrohttpd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Lightweight library for embedding a webserver in applications",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-debugsource",
+      "bin_name": "libmicrohttpd-debugsource",
+      "src_name": "libmicrohttpd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Lightweight library for embedding a webserver in applications",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-debuginfo",
+      "bin_name": "libmicrohttpd-debuginfo",
+      "src_name": "libmicrohttpd",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Lightweight library for embedding a webserver in applications",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "libmicrohttpd",
+      "bin_name": "libmicrohttpd",
+      "src_name": "libmicrohttpd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "small C library that is supposed to make it easy to run an HTTP server as part of another application",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-doc",
+      "bin_name": "libmicrohttpd-doc",
+      "src_name": "libmicrohttpd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "small C library that is supposed to make it easy to run an HTTP server as part of another application (documentation)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-static",
+      "bin_name": "libmicrohttpd-static",
+      "src_name": "libmicrohttpd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "small C library that is supposed to make it easy to run an HTTP server as part of another application (static library)",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-dev",
+      "bin_name": "libmicrohttpd-dev",
+      "src_name": "libmicrohttpd",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "small C library that is supposed to make it easy to run an HTTP server as part of another application (development files)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "libmicrohttpd",
+      "bin_name": "libmicrohttpd",
+      "src_name": "libmicrohttpd",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "a small C library that is supposed to make it easy to run an HTTP server as part of another application.",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "libmicrohttpd12",
+      "bin_name": "libmicrohttpd12",
+      "src_name": "libmicrohttpd",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-dev",
+      "bin_name": "libmicrohttpd-dev",
+      "src_name": "libmicrohttpd",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "mingw64-libmicrohttpd-static",
+      "bin_name": "mingw64-libmicrohttpd-static",
+      "src_name": "mingw-libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW package for libmicrohttpd",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-libmicrohttpd",
+      "bin_name": "mingw64-libmicrohttpd",
+      "src_name": "mingw-libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW package for libmicrohttpd",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-libmicrohttpd",
+      "bin_name": "mingw32-libmicrohttpd",
+      "src_name": "mingw-libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW package for libmicrohttpd",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-libmicrohttpd-static",
+      "bin_name": "mingw32-libmicrohttpd-static",
+      "src_name": "mingw-libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW package for libmicrohttpd",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-doc",
+      "bin_name": "libmicrohttpd-doc",
+      "src_name": "libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Lightweight library for embedding a webserver in applications",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-devel",
+      "bin_name": "libmicrohttpd-devel",
+      "src_name": "libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Lightweight library for embedding a webserver in applications",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd",
+      "bin_name": "libmicrohttpd",
+      "src_name": "libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Lightweight library for embedding a webserver in applications",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libmicrohttpd",
+      "bin_name": "libmicrohttpd",
+      "src_name": "libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Lightweight library for embedding a webserver in applications",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-libmicrohttpd-static",
+      "bin_name": "mingw32-libmicrohttpd-static",
+      "src_name": "mingw-libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW package for libmicrohttpd",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-doc",
+      "bin_name": "libmicrohttpd-doc",
+      "src_name": "libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Lightweight library for embedding a webserver in applications",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-libmicrohttpd",
+      "bin_name": "mingw64-libmicrohttpd",
+      "src_name": "mingw-libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW package for libmicrohttpd",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw64-libmicrohttpd-static",
+      "bin_name": "mingw64-libmicrohttpd-static",
+      "src_name": "mingw-libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW package for libmicrohttpd",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-devel",
+      "bin_name": "libmicrohttpd-devel",
+      "src_name": "libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Lightweight library for embedding a webserver in applications",
+      "confidence": 1.0
+    },
+    {
+      "name": "mingw32-libmicrohttpd",
+      "bin_name": "mingw32-libmicrohttpd",
+      "src_name": "mingw-libmicrohttpd",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "MinGW package for libmicrohttpd",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libmicrohttpd12",
+      "bin_name": "libmicrohttpd12",
+      "src_name": "libmicrohttpd",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-dev",
+      "bin_name": "libmicrohttpd-dev",
+      "src_name": "libmicrohttpd",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libmicrohttpd-dev",
+      "bin_name": "libmicrohttpd-dev",
+      "src_name": "libmicrohttpd",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd12",
+      "bin_name": "libmicrohttpd12",
+      "src_name": "libmicrohttpd",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libmicrohttpd12t64",
+      "bin_name": "libmicrohttpd12t64",
+      "src_name": "libmicrohttpd",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "libmicrohttpd-dev",
+      "bin_name": "libmicrohttpd-dev",
+      "src_name": "libmicrohttpd",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

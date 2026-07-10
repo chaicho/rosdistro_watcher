@@ -1,0 +1,143 @@
+{
+  "alpine_edge": [
+    {
+      "name": "py3-paho-mqtt",
+      "bin_name": "py3-paho-mqtt",
+      "src_name": "py3-paho-mqtt",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python3 MQTT version 3.1/3.1.1 client class",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-paho-mqtt-pyc",
+      "bin_name": "py3-paho-mqtt-pyc",
+      "src_name": "py3-paho-mqtt",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-paho-mqtt",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-paho-mqtt",
+      "bin_name": "python-paho-mqtt",
+      "src_name": "python-paho-mqtt",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python client library for MQTT v3.1 and v3.1.1",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-paho-mqtt",
+      "bin_name": "python3-paho-mqtt",
+      "src_name": "python-paho-mqtt",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-paho-mqtt",
+      "bin_name": "python3-paho-mqtt",
+      "src_name": "python-paho-mqtt",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python MQTT version 3.1/3.1.1/5.0 client class",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-paho-mqtt",
+      "bin_name": "python3-paho-mqtt",
+      "src_name": "python-paho-mqtt",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python MQTT version 3.1/3.1.1/5.0 client class",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-paho-mqtt",
+      "bin_name": "python3-paho-mqtt",
+      "src_name": "python-paho-mqtt",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python MQTT version 3.1/3.1.1/5.0 client class",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "paho-mqtt",
+      "bin_name": "paho-mqtt",
+      "src_name": "paho-mqtt",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "MQTT version 5.0/3.1.1 client class",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-paho-mqtt",
+      "bin_name": "python3-paho-mqtt",
+      "src_name": "python-paho-mqtt",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-paho-mqtt",
+      "bin_name": "python3-paho-mqtt",
+      "src_name": "python-paho-mqtt",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-paho-mqtt",
+      "bin_name": "python3-paho-mqtt",
+      "src_name": "python-paho-mqtt",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

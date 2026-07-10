@@ -1,0 +1,209 @@
+{
+  "rhel_9": [
+    {
+      "name": "python3-attrs",
+      "bin_name": "python3-attrs",
+      "src_name": "python-attrs",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python attributes without boilerplate",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-attrs-pyc",
+      "bin_name": "py3-attrs-pyc",
+      "src_name": "py3-attrs",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-attrs",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-attrs",
+      "bin_name": "py3-attrs",
+      "src_name": "py3-attrs",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python classes without boilerplate",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-attrs",
+      "bin_name": "python-attrs",
+      "src_name": "python-attrs",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Attributes without boilerplate.",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python-attr-doc",
+      "bin_name": "python-attr-doc",
+      "src_name": "python-attrs",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-attr",
+      "bin_name": "python3-attr",
+      "src_name": "python-attrs",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-attrs",
+      "bin_name": "python3-attrs",
+      "src_name": "python-attrs",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python attributes without boilerplate",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-attrs",
+      "bin_name": "python3-attrs",
+      "src_name": "python-attrs",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python attributes without boilerplate",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "attrs",
+      "bin_name": "attrs",
+      "src_name": "attrs",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "Classes Without Boilerplate",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-attr",
+      "bin_name": "python3-attr",
+      "src_name": "python-attrs",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "pypy-attr",
+      "bin_name": "pypy-attr",
+      "src_name": "python-attrs",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-attr",
+      "bin_name": "python-attr",
+      "src_name": "python-attrs",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-attr-doc",
+      "bin_name": "python-attr-doc",
+      "src_name": "python-attrs",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python-attr-doc",
+      "bin_name": "python-attr-doc",
+      "src_name": "python-attrs",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-attr",
+      "bin_name": "python3-attr",
+      "src_name": "python-attrs",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python-attr-doc",
+      "bin_name": "python-attr-doc",
+      "src_name": "python-attrs",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-attr",
+      "bin_name": "python3-attr",
+      "src_name": "python-attrs",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

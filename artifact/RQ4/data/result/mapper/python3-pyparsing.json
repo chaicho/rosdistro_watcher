@@ -1,0 +1,225 @@
+{
+  "rhel_9": [
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    },
+    {
+      "name": "pyparsing-doc",
+      "bin_name": "pyparsing-doc",
+      "src_name": "pyparsing",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-pyparsing-doc",
+      "bin_name": "python-pyparsing-doc",
+      "src_name": "pyparsing",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "pyparsing-doc",
+      "bin_name": "pyparsing-doc",
+      "src_name": "pyparsing",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pyparsing+diagrams",
+      "bin_name": "python3-pyparsing+diagrams",
+      "src_name": "pyparsing",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    },
+    {
+      "name": "pyparsing-doc",
+      "bin_name": "pyparsing-doc",
+      "src_name": "pyparsing",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pyparsing+diagrams",
+      "bin_name": "python3-pyparsing+diagrams",
+      "src_name": "pyparsing",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python package with an object-oriented approach to text processing",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python-pyparsing",
+      "bin_name": "python-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-pyparsing-doc",
+      "bin_name": "python-pyparsing-doc",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "pypy-pyparsing",
+      "bin_name": "pypy-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "pypy-pyparsing",
+      "bin_name": "pypy-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-pyparsing-doc",
+      "bin_name": "python-pyparsing-doc",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-pyparsing",
+      "bin_name": "python3-pyparsing",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-pyparsing-doc",
+      "bin_name": "python-pyparsing-doc",
+      "src_name": "pyparsing",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

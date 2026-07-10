@@ -1,0 +1,209 @@
+{
+  "rhel_9": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Simple powerful testing with Python",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-pytest",
+      "bin_name": "py3-pytest",
+      "src_name": "py3-pytest",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python3 testing library",
+      "confidence": 1.0
+    },
+    {
+      "name": "py3-pytest-pyc",
+      "bin_name": "py3-pytest-pyc",
+      "src_name": "py3-pytest",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Precompiled Python bytecode for py3-pytest",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-pytest",
+      "bin_name": "python-pytest",
+      "src_name": "python-pytest",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Simple powerful testing with Python",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-pytest-doc",
+      "bin_name": "python-pytest-doc",
+      "src_name": "pytest",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Simple powerful testing with Python",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Simple powerful testing with Python",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "pytest",
+      "bin_name": "pytest",
+      "src_name": "pytest",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": "",
+      "version": "",
+      "description": "pytest: simple powerful testing with Python",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-pytest-doc",
+      "bin_name": "python-pytest-doc",
+      "src_name": "pytest",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "pypy-pytest",
+      "bin_name": "pypy-pytest",
+      "src_name": "pytest",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-pytest",
+      "bin_name": "python-pytest",
+      "src_name": "pytest",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python-pytest-doc",
+      "bin_name": "python-pytest-doc",
+      "src_name": "pytest",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-pytest",
+      "bin_name": "python3-pytest",
+      "src_name": "pytest",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python-pytest-doc",
+      "bin_name": "python-pytest-doc",
+      "src_name": "pytest",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

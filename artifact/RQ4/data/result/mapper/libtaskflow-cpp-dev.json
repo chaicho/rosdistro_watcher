@@ -1,0 +1,85 @@
+{
+  "fedora_42": [
+    {
+      "name": "taskflow-doc",
+      "bin_name": "taskflow-doc",
+      "src_name": "taskflow",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Header library for writing parallel and heterogeneous with C++",
+      "confidence": 1.0
+    },
+    {
+      "name": "taskflow-devel",
+      "bin_name": "taskflow-devel",
+      "src_name": "taskflow",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Header library for writing parallel and heterogeneous with C++",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "taskflow-devel",
+      "bin_name": "taskflow-devel",
+      "src_name": "taskflow",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Header library for writing parallel and heterogeneous with C++",
+      "confidence": 1.0
+    },
+    {
+      "name": "taskflow-doc",
+      "bin_name": "taskflow-doc",
+      "src_name": "taskflow",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Header library for writing parallel and heterogeneous with C++",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libtaskflow-cpp-dev",
+      "bin_name": "libtaskflow-cpp-dev",
+      "src_name": "taskflow",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "taskflow-profiler",
+      "bin_name": "taskflow-profiler",
+      "src_name": "taskflow",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "taskflow-doc",
+      "bin_name": "taskflow-doc",
+      "src_name": "taskflow",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

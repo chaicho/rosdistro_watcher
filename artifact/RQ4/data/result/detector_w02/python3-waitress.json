@@ -1,0 +1,158 @@
+{
+  "rhel_9": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "python-waitress",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "1.4.4-8.el9",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "python-waitress",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "1.4.3-2.el8",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "python-waitress",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "1.1.0-lp152.3.3",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "waitress",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "2.1.2-2",
+      "description": "production-quality pure-Python WSGI server (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "python-waitress",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "3.0.2-5.fc43",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "waitress",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "1.4.4-1.1ubuntu1",
+      "description": "production-quality pure-Python WSGI server (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "waitress",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "1.4.1-1",
+      "description": "production-quality pure-Python WSGI server (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "python-waitress",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "3.0.2-1.fc42",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-waitress",
+      "bin_name": "py3-waitress",
+      "src_name": "py3-waitress",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "3.0.2-r2",
+      "description": "A Python3 WSGI server",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "waitress",
+      "bin_name": "waitress",
+      "src_name": "waitress",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "3.0.2",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-waitress",
+      "bin_name": "python3-waitress",
+      "src_name": "waitress",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "2.1.2-2+deb12u1",
+      "description": "production-quality pure-Python WSGI server (Python 3)",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-waitress",
+      "bin_name": "python-waitress",
+      "src_name": "python-waitress",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "3.0.2-2",
+      "description": "Waitress WSGI server",
+      "confidence": 1.0
+    }
+  ]
+}

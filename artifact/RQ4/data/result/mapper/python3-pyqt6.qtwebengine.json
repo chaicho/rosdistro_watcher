@@ -1,0 +1,63 @@
+{
+  "arch": [
+    {
+      "name": "python-pyqt6-webengine",
+      "bin_name": "python-pyqt6-webengine",
+      "src_name": "pyqt6-webengine",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": "x86_64",
+      "version": "",
+      "description": "Python bindings for QtWebEngine",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "pyqt6-webengine-dev",
+      "bin_name": "pyqt6-webengine-dev",
+      "src_name": "pyqt6-webengine",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pyqt6.qtwebengine",
+      "bin_name": "python3-pyqt6.qtwebengine",
+      "src_name": "pyqt6-webengine",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "pyqt6-webengine-dev",
+      "bin_name": "pyqt6-webengine-dev",
+      "src_name": "pyqt6-webengine",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    },
+    {
+      "name": "python3-pyqt6.qtwebengine",
+      "bin_name": "python3-pyqt6.qtwebengine",
+      "src_name": "pyqt6-webengine",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "",
+      "description": "unknown",
+      "confidence": 1.0
+    }
+  ]
+}

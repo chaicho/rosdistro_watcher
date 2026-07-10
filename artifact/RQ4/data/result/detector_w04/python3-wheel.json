@@ -1,0 +1,158 @@
+{
+  "fedora_42": [
+    {
+      "name": "python3-wheel",
+      "bin_name": "python3-wheel",
+      "src_name": "python-wheel",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "1:0.45.1-3.fc42",
+      "description": "Built-package format for Python",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "python3-wheel",
+      "bin_name": "python3-wheel",
+      "src_name": "python-wheel",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "1:0.36.2-8.el9",
+      "description": "Built-package format for Python",
+      "confidence": 1.0
+    }
+  ],
+  "opensuse_15.2": [
+    {
+      "name": "python3-wheel",
+      "bin_name": "python3-wheel",
+      "src_name": "python-wheel",
+      "repo_name": "opensuse",
+      "repo_version": "15.2",
+      "arch": null,
+      "version": "0.32.3-lp152.2.3",
+      "description": "A built-package format for Python",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "python3-wheel",
+      "bin_name": "python3-wheel",
+      "src_name": "python-wheel",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "1:0.31.1-3.module_el8.9.0+3700+efebe9fd",
+      "description": "Built-package format for Python",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-wheel",
+      "bin_name": "python3-wheel",
+      "src_name": "wheel",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.42.0-2",
+      "description": "built-package format for Python",
+      "confidence": 1.0
+    }
+  ],
+  "debian_bookworm": [
+    {
+      "name": "python3-wheel",
+      "bin_name": "python3-wheel",
+      "src_name": "wheel",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "0.38.4-2",
+      "description": "built-package format for Python",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "python3-wheel",
+      "bin_name": "python3-wheel",
+      "src_name": "python-wheel",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "1:0.45.1-18.fc43",
+      "description": "Built-package format for Python",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "wheel",
+      "bin_name": "wheel",
+      "src_name": "wheel",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.46.3",
+      "description": "Command line tool for manipulating wheel files",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "python3-wheel",
+      "bin_name": "python3-wheel",
+      "src_name": "wheel",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "0.34.2-1",
+      "description": "built-package format for Python",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "python3-wheel",
+      "bin_name": "python3-wheel",
+      "src_name": "wheel",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "0.37.1-2",
+      "description": "built-package format for Python",
+      "confidence": 1.0
+    }
+  ],
+  "alpine_edge": [
+    {
+      "name": "py3-wheel",
+      "bin_name": "py3-wheel",
+      "src_name": "py3-wheel",
+      "repo_name": "alpine",
+      "repo_version": "edge",
+      "arch": null,
+      "version": "0.47.0-r0",
+      "description": "built-package format for Python",
+      "confidence": 1.0
+    }
+  ],
+  "arch": [
+    {
+      "name": "python-wheel",
+      "bin_name": "python-wheel",
+      "src_name": "python-wheel",
+      "repo_name": "arch",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.45.1-4",
+      "description": "A built-package format for Python",
+      "confidence": 1.0
+    }
+  ]
+}

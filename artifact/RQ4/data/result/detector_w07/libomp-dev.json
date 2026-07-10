@@ -1,0 +1,106 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "libomp-dev",
+      "bin_name": "libomp-dev",
+      "src_name": "llvm-defaults (0.55.7~deb12u1)",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": null,
+      "version": "1:14.0-55.7~deb12u1",
+      "description": "LLVM OpenMP runtime - dev package",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libomp-dev",
+      "bin_name": "libomp-dev",
+      "src_name": "llvm-defaults (0.55~exp2)",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": null,
+      "version": "1:14.0-55~exp2",
+      "description": "LLVM OpenMP runtime - dev package",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_43": [
+    {
+      "name": "libomp-devel",
+      "bin_name": "libomp-devel",
+      "src_name": "llvm",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "21.1.2-1.fc43",
+      "description": "OpenMP header files",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libomp-dev",
+      "bin_name": "libomp-dev",
+      "src_name": "llvm-defaults (0.59~exp2)",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "1:18.0-59~exp2",
+      "description": "LLVM OpenMP runtime - dev package",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "libomp-devel",
+      "bin_name": "libomp-devel",
+      "src_name": "llvm",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "20.1.1-1.fc42",
+      "description": "OpenMP header files",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_8": [
+    {
+      "name": "libomp-devel",
+      "bin_name": "libomp-devel",
+      "src_name": "libomp",
+      "repo_name": "rhel",
+      "repo_version": "8",
+      "arch": null,
+      "version": "17.0.6-1.module_el8.10.0+3757+fc27b834",
+      "description": "OpenMP header files",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libomp-dev",
+      "bin_name": "libomp-dev",
+      "src_name": "llvm-defaults (0.50~exp1)",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": null,
+      "version": "1:10.0-50~exp1",
+      "description": "LLVM OpenMP runtime - dev package",
+      "confidence": 1.0
+    }
+  ],
+  "rhel_9": [
+    {
+      "name": "libomp-devel",
+      "bin_name": "libomp-devel",
+      "src_name": "llvm",
+      "repo_name": "rhel",
+      "repo_version": "9",
+      "arch": null,
+      "version": "20.1.8-3.el9",
+      "description": "OpenMP header files",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -1,0 +1,6418 @@
+Category: EVOLUTION
+Count: 240
+================================================================================
+
+Entry: apache2
+--------------------------------------------------------------------------------
+  debian:
+    - apache2
+  fedora:
+    - httpd
+    - httpd
+  gentoo:
+    - www-servers/apache
+  openembedded:
+    - apache2@meta-webserver
+  ubuntu:
+    - apache2
+    - apache2
+    - apache2
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['apache', 'apache2', 'httpd']
+    Layer 2 (no affixes): 3 unique - ['apache', 'apache2', 'httpd']
+    Layer 3 (no evolution): 2 unique - ['apache', 'httpd']
+    Layer 4 (full): 2 unique - ['apache', 'httpd']
+
+================================================================================
+
+Entry: bluez
+--------------------------------------------------------------------------------
+  arch:
+    - bluez
+  debian:
+    - bluez
+  fedora:
+    - bluez-libs
+    - bluez-libs
+  gentoo:
+    - net-wireless/bluez
+  openembedded:
+    - bluez5@openembedded-core
+  rhel:
+    - bluez-libs
+    - bluez-libs
+  ubuntu:
+    - bluez
+    - bluez
+    - bluez
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['bluez', 'bluez-libs', 'bluez5']
+    Layer 2 (no affixes): 2 unique - ['bluez', 'bluez5']
+    Layer 3 (no evolution): 1 unique - ['bluez']
+    Layer 4 (full): 1 unique - ['bluez']
+
+================================================================================
+
+Entry: catch2
+--------------------------------------------------------------------------------
+  alpine:
+    - catch2
+  arch:
+    - catch2
+  debian:
+    - catch2
+  fedora:
+    - catch2-devel
+    - catch2-devel
+  gentoo:
+    - dev-cpp/catch
+  openembedded:
+    - catch2@meta-oe
+  rhel:
+    - catch2-devel
+  ubuntu:
+    - catch2
+    - catch2
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['catch', 'catch2', 'catch2-devel']
+    Layer 2 (no affixes): 2 unique - ['catch', 'catch2']
+    Layer 3 (no evolution): 1 unique - ['catch']
+    Layer 4 (full): 1 unique - ['catch']
+
+================================================================================
+
+Entry: cdk
+--------------------------------------------------------------------------------
+  debian:
+    - libcdk5
+  fedora:
+    - cdk
+    - cdk
+  gentoo:
+    - dev-libs/cdk
+  ubuntu:
+    - libcdk5
+    - libcdk5
+    - libcdk5
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['cdk', 'libcdk5']
+    Layer 2 (no affixes): 2 unique - ['cdk', 'cdk5']
+    Layer 3 (no evolution): 1 unique - ['cdk']
+    Layer 4 (full): 1 unique - ['cdk']
+
+================================================================================
+
+Entry: cdk-dev
+--------------------------------------------------------------------------------
+  debian:
+    - libcdk5-dev
+  fedora:
+    - cdk-devel
+    - cdk-devel
+  gentoo:
+    - dev-libs/cdk
+  ubuntu:
+    - libcdk5-dev
+    - libcdk5-dev
+    - libcdk5-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['cdk', 'cdk-devel', 'libcdk5-dev']
+    Layer 2 (no affixes): 2 unique - ['cdk', 'cdk5']
+    Layer 3 (no evolution): 1 unique - ['cdk']
+    Layer 4 (full): 1 unique - ['cdk']
+
+================================================================================
+
+Entry: cmake
+--------------------------------------------------------------------------------
+  alpine:
+    - cmake
+  arch:
+    - cmake
+  debian:
+    - cmake
+  fedora:
+    - cmake
+    - cmake
+  gentoo:
+    - dev-build/cmake
+  openembedded:
+    - cmake@openembedded-core
+  opensuse:
+    - cmake
+  rhel:
+    - cmake3
+    - cmake3
+  ubuntu:
+    - cmake
+    - cmake
+    - cmake
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['cmake', 'cmake3']
+    Layer 2 (no affixes): 2 unique - ['cmake', 'cmake3']
+    Layer 3 (no evolution): 1 unique - ['cmake']
+    Layer 4 (full): 1 unique - ['cmake']
+
+================================================================================
+
+Entry: cwiid
+--------------------------------------------------------------------------------
+  debian:
+    - libcwiid1
+  gentoo:
+    - app-misc/cwiid
+  opensuse:
+    - libcwiid1
+  ubuntu:
+    - libcwiid1
+    - libcwiid1
+    - libcwiid1
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['cwiid', 'libcwiid1']
+    Layer 2 (no affixes): 2 unique - ['cwiid', 'cwiid1']
+    Layer 3 (no evolution): 1 unique - ['cwiid']
+    Layer 4 (full): 1 unique - ['cwiid']
+
+================================================================================
+
+Entry: cython3
+--------------------------------------------------------------------------------
+  arch:
+    - cython
+  debian:
+    - cython3
+  fedora:
+    - python3-Cython
+    - python3-Cython
+  gentoo:
+    - dev-python/cython
+  ubuntu:
+    - cython3
+    - cython3
+    - cython3
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['cython', 'cython3', 'python3-cython']
+    Layer 2 (no affixes): 2 unique - ['cython', 'cython3']
+    Layer 3 (no evolution): 1 unique - ['cython']
+    Layer 4 (full): 1 unique - ['cython']
+
+================================================================================
+
+Entry: eigen
+--------------------------------------------------------------------------------
+  alpine:
+    - eigen-dev
+  arch:
+    - eigen
+  debian:
+    - libeigen3-dev
+  fedora:
+    - eigen3-devel
+    - eigen3-devel
+  gentoo:
+    - dev-cpp/eigen
+  openembedded:
+    - libeigen@meta-oe
+  opensuse:
+    - eigen3-devel
+  rhel:
+    - eigen3-devel
+    - eigen3-devel
+  ubuntu:
+    - libeigen3-dev
+    - libeigen3-dev
+    - libeigen3-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['eigen', 'eigen-dev', 'eigen3-devel', 'libeigen', 'libeigen3-dev']
+    Layer 2 (no affixes): 2 unique - ['eigen', 'eigen3']
+    Layer 3 (no evolution): 1 unique - ['eigen']
+    Layer 4 (full): 1 unique - ['eigen']
+
+================================================================================
+
+Entry: fluid
+--------------------------------------------------------------------------------
+  arch:
+    - fltk
+  debian:
+    - libfltk1.1-dev
+  fedora:
+    - fltk-fluid
+    - fltk-fluid
+  gentoo:
+    - =x11-libs/fltk-1*
+  opensuse:
+    - fltk-devel
+  ubuntu:
+    - fluid
+    - fluid
+    - fluid
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['fltk', 'fltk-1*', 'fltk-devel', 'fltk-fluid', 'fluid', 'libfltk1.1-dev']
+    Layer 2 (no affixes): 5 unique - ['fltk', 'fltk-1*', 'fltk-fluid', 'fltk1.1', 'fluid']
+    Layer 3 (no evolution): 3 unique - ['fltk', 'fltk-fluid', 'fluid']
+    Layer 4 (full): 3 unique - ['fltk', 'fltk-fluid', 'fluid']
+
+================================================================================
+
+Entry: freetype
+--------------------------------------------------------------------------------
+  alpine:
+    - freetype
+  arch:
+    - freetype2
+  debian:
+    - libfreetype6
+  fedora:
+    - freetype
+    - freetype
+  gentoo:
+    - media-libs/freetype
+  openembedded:
+    - freetype@openembedded-core
+  ubuntu:
+    - libfreetype6
+    - libfreetype6
+    - libfreetype6
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['freetype', 'freetype2', 'libfreetype6']
+    Layer 2 (no affixes): 3 unique - ['freetype', 'freetype2', 'freetype6']
+    Layer 3 (no evolution): 1 unique - ['freetype']
+    Layer 4 (full): 1 unique - ['freetype']
+
+================================================================================
+
+Entry: gazebo
+--------------------------------------------------------------------------------
+  arch:
+    - gazebo
+  fedora:
+    - gazebo
+    - gazebo
+  gentoo:
+    - sci-electronics/gazebo
+  ubuntu:
+    - gazebo
+    - gazebo11
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['gazebo', 'gazebo11']
+    Layer 2 (no affixes): 2 unique - ['gazebo', 'gazebo11']
+    Layer 3 (no evolution): 1 unique - ['gazebo']
+    Layer 4 (full): 1 unique - ['gazebo']
+
+================================================================================
+
+Entry: gazebo11
+--------------------------------------------------------------------------------
+  gentoo:
+    - =sci-electronics/gazebo-11*
+  ubuntu:
+    - gazebo
+    - gazebo11
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['gazebo', 'gazebo-11*', 'gazebo11']
+    Layer 2 (no affixes): 3 unique - ['gazebo', 'gazebo-11*', 'gazebo11']
+    Layer 3 (no evolution): 1 unique - ['gazebo']
+    Layer 4 (full): 1 unique - ['gazebo']
+
+================================================================================
+
+Entry: gazebo5
+--------------------------------------------------------------------------------
+  arch:
+    - gazebo
+  gentoo:
+    - =sci-electronics/gazebo-5*
+  ubuntu:
+    - gazebo5
+    - gazebo5
+    - gazebo5
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['gazebo', 'gazebo-5*', 'gazebo5']
+    Layer 2 (no affixes): 3 unique - ['gazebo', 'gazebo-5*', 'gazebo5']
+    Layer 3 (no evolution): 1 unique - ['gazebo']
+    Layer 4 (full): 1 unique - ['gazebo']
+
+================================================================================
+
+Entry: gazebo7
+--------------------------------------------------------------------------------
+  arch:
+    - gazebo
+  gentoo:
+    - =sci-electronics/gazebo-7*
+  ubuntu:
+    - gazebo7
+    - gazebo7
+    - gazebo7
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['gazebo', 'gazebo-7*', 'gazebo7']
+    Layer 2 (no affixes): 3 unique - ['gazebo', 'gazebo-7*', 'gazebo7']
+    Layer 3 (no evolution): 1 unique - ['gazebo']
+    Layer 4 (full): 1 unique - ['gazebo']
+
+================================================================================
+
+Entry: glut
+--------------------------------------------------------------------------------
+  arch:
+    - freeglut
+  debian:
+    - freeglut3-dev
+  fedora:
+    - freeglut-devel
+    - freeglut-devel
+  gentoo:
+    - media-libs/freeglut
+  openembedded:
+    - freeglut@meta-oe
+  opensuse:
+    - freeglut-devel
+  rhel:
+    - freeglut-devel
+    - freeglut-devel
+  ubuntu:
+    - freeglut3-dev
+    - freeglut3-dev
+    - freeglut3-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['freeglut', 'freeglut-devel', 'freeglut3-dev']
+    Layer 2 (no affixes): 2 unique - ['freeglut', 'freeglut3']
+    Layer 3 (no evolution): 1 unique - ['freeglut']
+    Layer 4 (full): 1 unique - ['freeglut']
+
+================================================================================
+
+Entry: gstreamer1.0-alsa
+--------------------------------------------------------------------------------
+  debian:
+    - gstreamer1.0-alsa
+  fedora:
+    - gstreamer1-plugins-base
+    - gstreamer1-plugins-base
+  openembedded:
+    - gstreamer1.0-plugins-base@openembedded-core
+  rhel:
+    - gstreamer1-plugins-base
+    - gstreamer1-plugins-base
+  ubuntu:
+    - gstreamer1.0-alsa
+    - gstreamer1.0-alsa
+    - gstreamer1.0-alsa
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['gstreamer1-plugins-base', 'gstreamer1.0-alsa', 'gstreamer1.0-plugins-base']
+    Layer 2 (no affixes): 3 unique - ['gstreamer1', 'gstreamer1.0', 'gstreamer1.0-alsa']
+    Layer 3 (no evolution): 2 unique - ['gstreamer', 'gstreamer-alsa']
+    Layer 4 (full): 2 unique - ['gstreamer', 'gstreamer-alsa']
+
+================================================================================
+
+Entry: gstreamer1.0-libav
+--------------------------------------------------------------------------------
+  arch:
+    - gst-libav
+  debian:
+    - gstreamer1.0-libav
+  fedora:
+    - gstreamer1-libav
+    - gstreamer1-libav
+  gentoo:
+    - media-plugins/gst-plugins-libav:1.0
+  openembedded:
+    - gstreamer1.0-libav@openembedded-core
+  opensuse:
+    - gstreamer-plugins-libav
+  ubuntu:
+    - gstreamer1.0-libav
+    - gstreamer1.0-libav
+    - gstreamer1.0-libav
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['gst-libav', 'gst-plugins-libav:1.0', 'gstreamer-plugins-libav', 'gstreamer1-libav', 'gstreamer1.0-libav']
+    Layer 2 (no affixes): 5 unique - ['gst-libav', 'gst-plugins-libav:1.0', 'gstreamer-plugins-libav', 'gstreamer1-libav', 'gstreamer1.0-libav']
+    Layer 3 (no evolution): 4 unique - ['gst-libav', 'gst-plugins-libav:', 'gstreamer-libav', 'gstreamer-plugins-libav']
+    Layer 4 (full): 4 unique - ['gst-libav', 'gst-plugins-libav:', 'gstreamer-libav', 'gstreamer-plugins-libav']
+
+================================================================================
+
+Entry: gstreamer1.0-plugins-bad
+--------------------------------------------------------------------------------
+  arch:
+    - gst-plugins-bad
+  debian:
+    - gstreamer1.0-plugins-bad
+  fedora:
+    - gstreamer1-plugins-bad-free
+    - gstreamer1-plugins-bad-free
+  gentoo:
+    - media-libs/gst-plugins-bad:1.0
+  openembedded:
+    - gstreamer1.0-plugins-bad@openembedded-core
+  opensuse:
+    - gstreamer-plugins-bad
+  rhel:
+    - gstreamer1-plugins-bad-free
+    - gstreamer1-plugins-bad-free
+  ubuntu:
+    - gstreamer1.0-plugins-bad
+    - gstreamer1.0-plugins-bad
+    - gstreamer1.0-plugins-bad
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['gst-plugins-bad', 'gst-plugins-bad:1.0', 'gstreamer-plugins-bad', 'gstreamer1-plugins-bad-free', 'gstreamer1.0-plugins-bad']
+    Layer 2 (no affixes): 5 unique - ['gst-plugins-bad', 'gst-plugins-bad:1.0', 'gstreamer-plugins-bad', 'gstreamer1-plugins-bad-free', 'gstreamer1.0-plugins-bad']
+    Layer 3 (no evolution): 4 unique - ['gst-plugins-bad', 'gst-plugins-bad:', 'gstreamer-plugins-bad', 'gstreamer-plugins-bad-free']
+    Layer 4 (full): 4 unique - ['gst-plugins-bad', 'gst-plugins-bad:', 'gstreamer-plugins-bad', 'gstreamer-plugins-bad-free']
+
+================================================================================
+
+Entry: gstreamer1.0-plugins-ugly
+--------------------------------------------------------------------------------
+  arch:
+    - gst-plugins-ugly
+  debian:
+    - gstreamer1.0-plugins-ugly
+  fedora:
+    - gstreamer1-plugins-ugly
+    - gstreamer1-plugins-ugly
+  gentoo:
+    - media-libs/gst-plugins-ugly:1.0
+  openembedded:
+    - gstreamer1.0-plugins-ugly@openembedded-core
+  opensuse:
+    - gstreamer-plugins-ugly
+  ubuntu:
+    - gstreamer1.0-plugins-ugly
+    - gstreamer1.0-plugins-ugly
+    - gstreamer1.0-plugins-ugly
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['gst-plugins-ugly', 'gst-plugins-ugly:1.0', 'gstreamer-plugins-ugly', 'gstreamer1-plugins-ugly', 'gstreamer1.0-plugins-ugly']
+    Layer 2 (no affixes): 5 unique - ['gst-plugins-ugly', 'gst-plugins-ugly:1.0', 'gstreamer-plugins-ugly', 'gstreamer1-plugins-ugly', 'gstreamer1.0-plugins-ugly']
+    Layer 3 (no evolution): 3 unique - ['gst-plugins-ugly', 'gst-plugins-ugly:', 'gstreamer-plugins-ugly']
+    Layer 4 (full): 3 unique - ['gst-plugins-ugly', 'gst-plugins-ugly:', 'gstreamer-plugins-ugly']
+
+================================================================================
+
+Entry: gstreamer1.0-tools
+--------------------------------------------------------------------------------
+  debian:
+    - gstreamer1.0-tools
+  fedora:
+    - gstreamer1
+    - gstreamer1
+  gentoo:
+    - media-libs/gstreamer:1.0
+  opensuse:
+    - gstreamer-utils
+  ubuntu:
+    - gstreamer1.0-tools
+    - gstreamer1.0-tools
+    - gstreamer1.0-tools
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['gstreamer-utils', 'gstreamer1', 'gstreamer1.0-tools', 'gstreamer:1.0']
+    Layer 2 (no affixes): 4 unique - ['gstreamer', 'gstreamer1', 'gstreamer1.0', 'gstreamer:1.0']
+    Layer 3 (no evolution): 2 unique - ['gstreamer', 'gstreamer:']
+    Layer 4 (full): 2 unique - ['gstreamer', 'gstreamer:']
+
+================================================================================
+
+Entry: gstreamer1.0-x
+--------------------------------------------------------------------------------
+  arch:
+    - gstreamer
+  debian:
+    - gstreamer1.0-x
+  fedora:
+    - gstreamer1-plugins-base
+    - gstreamer1-plugins-base
+  gentoo:
+    - media-libs/gst-plugins-base:1.0[X,pango]
+  opensuse:
+    - gstreamer
+  ubuntu:
+    - gstreamer1.0-x
+    - gstreamer1.0-x
+    - gstreamer1.0-x
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['gst-plugins-base:1.0[x,pango]', 'gstreamer', 'gstreamer1-plugins-base', 'gstreamer1.0-x']
+    Layer 2 (no affixes): 4 unique - ['gst-plugins-base:1.0[x,pango]', 'gstreamer', 'gstreamer1', 'gstreamer1.0-x']
+    Layer 3 (no evolution): 3 unique - ['gst-plugins-base:[x,pango]', 'gstreamer', 'gstreamer-x']
+    Layer 4 (full): 3 unique - ['gst-plugins-base:[x,pango]', 'gstreamer', 'gstreamer-x']
+
+================================================================================
+
+Entry: gtk2
+--------------------------------------------------------------------------------
+  arch:
+    - gtk2
+  debian:
+    - libgtk2.0-dev
+  fedora:
+    - gtk2-devel
+    - gtk2-devel
+  gentoo:
+    - x11-libs/gtk+:2
+  openembedded:
+    - gtk+@openembedded-core
+  opensuse:
+    - gtk2-devel
+  rhel:
+    - gtk2-devel
+    - gtk2-devel
+  ubuntu:
+    - libgtk2.0-dev
+    - libgtk2.0-dev
+    - libgtk2.0-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['gtk+', 'gtk+:2', 'gtk2', 'gtk2-devel', 'libgtk2.0-dev']
+    Layer 2 (no affixes): 4 unique - ['gtk+', 'gtk+:2', 'gtk2', 'gtk2.0']
+    Layer 3 (no evolution): 3 unique - ['gtk', 'gtk+', 'gtk+:']
+    Layer 4 (full): 3 unique - ['gtk', 'gtk+', 'gtk+:']
+
+================================================================================
+
+Entry: gtk3
+--------------------------------------------------------------------------------
+  arch:
+    - gtk3
+  debian:
+    - libgtk-3-dev
+  fedora:
+    - gtk3-devel
+    - gtk3-devel
+  gentoo:
+    - x11-libs/gtk+:3
+  openembedded:
+    - gtk+3@openembedded-core
+  opensuse:
+    - gtk3-devel
+  rhel:
+    - gtk3-devel
+    - gtk3-devel
+  ubuntu:
+    - libgtk-3-dev
+    - libgtk-3-dev
+    - libgtk-3-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['gtk+3', 'gtk+:3', 'gtk3', 'gtk3-devel', 'libgtk-3-dev']
+    Layer 2 (no affixes): 4 unique - ['gtk+3', 'gtk+:3', 'gtk-3', 'gtk3']
+    Layer 3 (no evolution): 3 unique - ['gtk', 'gtk+', 'gtk+:']
+    Layer 4 (full): 3 unique - ['gtk', 'gtk+', 'gtk+:']
+
+================================================================================
+
+Entry: gtk4
+--------------------------------------------------------------------------------
+  arch:
+    - gtk4
+  debian:
+    - libgtk-4-dev
+  fedora:
+    - gtk4-devel
+    - gtk4-devel
+  gentoo:
+    - gui-libs/gtk
+  openembedded:
+    - gtk4@openembedded-core
+  rhel:
+    - gtk4-devel
+  ubuntu:
+    - libgtk-4-dev
+    - libgtk-4-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['gtk', 'gtk4', 'gtk4-devel', 'libgtk-4-dev']
+    Layer 2 (no affixes): 3 unique - ['gtk', 'gtk-4', 'gtk4']
+    Layer 3 (no evolution): 1 unique - ['gtk']
+    Layer 4 (full): 1 unique - ['gtk']
+
+================================================================================
+
+Entry: ignition-cmake2
+--------------------------------------------------------------------------------
+  debian:
+    - libignition-cmake-dev
+  gentoo:
+    - dev-build/ignition-cmake:2
+  ubuntu:
+    - libignition-cmake2-dev
+    - libignition-cmake2-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['ignition-cmake:2', 'libignition-cmake-dev', 'libignition-cmake2-dev']
+    Layer 2 (no affixes): 3 unique - ['ignition-cmake', 'ignition-cmake2', 'ignition-cmake:2']
+    Layer 3 (no evolution): 2 unique - ['ignition-cmake', 'ignition-cmake:']
+    Layer 4 (full): 2 unique - ['ignition-cmake', 'ignition-cmake:']
+
+================================================================================
+
+Entry: ignition-math6
+--------------------------------------------------------------------------------
+  debian:
+    - libignition-math-dev
+  gentoo:
+    - sci-libs/ignition-math:6
+  ubuntu:
+    - libignition-math6-dev
+    - libignition-math6-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['ignition-math:6', 'libignition-math-dev', 'libignition-math6-dev']
+    Layer 2 (no affixes): 3 unique - ['ignition-math', 'ignition-math6', 'ignition-math:6']
+    Layer 3 (no evolution): 2 unique - ['ignition-math', 'ignition-math:']
+    Layer 4 (full): 2 unique - ['ignition-math', 'ignition-math:']
+
+================================================================================
+
+Entry: iproute2
+--------------------------------------------------------------------------------
+  arch:
+    - iproute2
+  debian:
+    - iproute2
+  fedora:
+    - iproute
+    - iproute
+  gentoo:
+    - sys-apps/iproute2
+  openembedded:
+    - iproute2@openembedded-core
+  opensuse:
+    - iproute2
+  ubuntu:
+    - iproute2
+    - iproute2
+    - iproute2
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['iproute', 'iproute2']
+    Layer 2 (no affixes): 2 unique - ['iproute', 'iproute2']
+    Layer 3 (no evolution): 1 unique - ['iproute']
+    Layer 4 (full): 1 unique - ['iproute']
+
+================================================================================
+
+Entry: ipython3
+--------------------------------------------------------------------------------
+  debian:
+    - ipython3
+  fedora:
+    - ipython3
+    - ipython3
+  openembedded:
+    - python3-ipython@meta-python
+  rhel:
+    - python3-ipython
+    - python3-ipython
+  ubuntu:
+    - ipython3
+    - ipython3
+    - ipython3
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['ipython3', 'python3-ipython']
+    Layer 2 (no affixes): 2 unique - ['ipython', 'ipython3']
+    Layer 3 (no evolution): 1 unique - ['ipython']
+    Layer 4 (full): 1 unique - ['ipython']
+
+================================================================================
+
+Entry: jack
+--------------------------------------------------------------------------------
+  arch:
+    - jack2
+  debian:
+    - libjack-jackd2-dev
+  fedora:
+    - jack-audio-connection-kit-devel
+    - jack-audio-connection-kit-devel
+  gentoo:
+    - virtual/jack
+  openembedded:
+    - jack@meta-oe
+  ubuntu:
+    - libjack-jackd2-dev
+    - libjack-jackd2-dev
+    - libjack-jackd2-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['jack', 'jack-audio-connection-kit-devel', 'jack2', 'libjack-jackd2-dev']
+    Layer 2 (no affixes): 4 unique - ['jack', 'jack-audio-connection-kit', 'jack-jackd2', 'jack2']
+    Layer 3 (no evolution): 3 unique - ['jack', 'jack-audio-connection-kit', 'jack-jackd']
+    Layer 4 (full): 3 unique - ['jack', 'jack-audio-connection-kit', 'jack-jackd']
+
+================================================================================
+
+Entry: lensfun
+--------------------------------------------------------------------------------
+  alpine:
+    - lensfun
+  arch:
+    - lensfun
+  debian:
+    - liblensfun1
+  fedora:
+    - lensfun
+    - lensfun
+  gentoo:
+    - media-libs/lensfun
+  opensuse:
+    - liblensfun1
+  rhel:
+    - lensfun
+    - lensfun
+  ubuntu:
+    - liblensfun1
+    - liblensfun1
+    - liblensfun1
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['lensfun', 'liblensfun1']
+    Layer 2 (no affixes): 2 unique - ['lensfun', 'lensfun1']
+    Layer 3 (no evolution): 1 unique - ['lensfun']
+    Layer 4 (full): 1 unique - ['lensfun']
+
+================================================================================
+
+Entry: libadwaita-dev
+--------------------------------------------------------------------------------
+  debian:
+    - libadwaita-1-dev
+  fedora:
+    - libadwaita-devel
+    - libadwaita-devel
+  gentoo:
+    - gui-libs/libadwaita
+  openembedded:
+    - libadwaita@openembedded-core
+  rhel:
+    - libadwaita-devel
+  ubuntu:
+    - libadwaita-1-dev
+    - libadwaita-1-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libadwaita', 'libadwaita-1-dev', 'libadwaita-devel']
+    Layer 2 (no affixes): 2 unique - ['adwaita', 'adwaita-1']
+    Layer 3 (no evolution): 1 unique - ['adwaita']
+    Layer 4 (full): 1 unique - ['adwaita']
+
+================================================================================
+
+Entry: libargtable2-dev
+--------------------------------------------------------------------------------
+  arch:
+    - argtable
+  debian:
+    - libargtable2-dev
+  fedora:
+    - argtable-devel
+    - argtable-devel
+  gentoo:
+    - =dev-libs/argtable-2*
+  ubuntu:
+    - libargtable2-dev
+    - libargtable2-dev
+    - libargtable2-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['argtable', 'argtable-2*', 'argtable-devel', 'libargtable2-dev']
+    Layer 2 (no affixes): 3 unique - ['argtable', 'argtable-2*', 'argtable2']
+    Layer 3 (no evolution): 1 unique - ['argtable']
+    Layer 4 (full): 1 unique - ['argtable']
+
+================================================================================
+
+Entry: libatomic
+--------------------------------------------------------------------------------
+  alpine:
+    - libatomic
+  arch:
+    - gcc-libs
+  debian:
+    - libatomic1
+  fedora:
+    - libatomic
+    - libatomic
+  gentoo:
+    - sys-devel/gcc
+  openembedded:
+    - gcc-runtime@openembedded-core
+  rhel:
+    - libatomic
+    - libatomic
+  ubuntu:
+    - libatomic1
+    - libatomic1
+    - libatomic1
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['gcc', 'gcc-libs', 'gcc-runtime', 'libatomic', 'libatomic1']
+    Layer 2 (no affixes): 3 unique - ['atomic', 'atomic1', 'gcc']
+    Layer 3 (no evolution): 2 unique - ['atomic', 'gcc']
+    Layer 4 (full): 2 unique - ['atomic', 'gcc']
+
+================================================================================
+
+Entry: libbluetooth
+--------------------------------------------------------------------------------
+  arch:
+    - bluez
+  debian:
+    - libbluetooth3
+  fedora:
+    - bluez-libs
+    - bluez-libs
+  gentoo:
+    - net-wireless/bluez-libs
+  openembedded:
+    - bluez5@openembedded-core
+  rhel:
+    - bluez-libs
+    - bluez-libs
+  ubuntu:
+    - libbluetooth3
+    - libbluetooth3
+    - libbluetooth3
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['bluez', 'bluez-libs', 'bluez5', 'libbluetooth3']
+    Layer 2 (no affixes): 3 unique - ['bluetooth3', 'bluez', 'bluez5']
+    Layer 3 (no evolution): 2 unique - ['bluetooth', 'bluez']
+    Layer 4 (full): 2 unique - ['bluetooth', 'bluez']
+
+================================================================================
+
+Entry: libbluetooth-dev
+--------------------------------------------------------------------------------
+  arch:
+    - bluez
+  debian:
+    - libbluetooth-dev
+  fedora:
+    - bluez-libs-devel
+    - bluez-libs-devel
+  gentoo:
+    - net-wireless/bluez-libs
+  openembedded:
+    - bluez5@openembedded-core
+  rhel:
+    - bluez-libs-devel
+    - bluez-libs-devel
+  ubuntu:
+    - libbluetooth-dev
+    - libbluetooth-dev
+    - libbluetooth-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['bluez', 'bluez-libs', 'bluez-libs-devel', 'bluez5', 'libbluetooth-dev']
+    Layer 2 (no affixes): 3 unique - ['bluetooth', 'bluez', 'bluez5']
+    Layer 3 (no evolution): 2 unique - ['bluetooth', 'bluez']
+    Layer 4 (full): 2 unique - ['bluetooth', 'bluez']
+
+================================================================================
+
+Entry: libboost-atomic
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  fedora:
+    - boost-atomic
+    - boost-atomic
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_atomic1_66_0
+  rhel:
+    - boost-atomic
+    - boost-atomic
+  ubuntu:
+    - libboost-atomic1.74.0
+    - libboost-atomic1.83.0
+    - libboost-atomic1.71.0
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['boost', 'boost-atomic', 'boost-libs', 'libboost-atomic1.71.0', 'libboost-atomic1.74.0', 'libboost-atomic1.83.0', 'libboost_atomic1_66_0']
+    Layer 2 (no affixes): 6 unique - ['boost', 'boost-atomic', 'boost-atomic1-66-0', 'boost-atomic1.71.0', 'boost-atomic1.74.0', 'boost-atomic1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-atomic']
+    Layer 4 (full): 2 unique - ['boost', 'boost-atomic']
+
+================================================================================
+
+Entry: libboost-atomic-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-atomic-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_atomic1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-atomic-dev
+    - libboost-atomic-dev
+    - libboost-atomic-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['boost', 'boost-devel', 'libboost-atomic-dev', 'libboost_atomic1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-atomic', 'boost-atomic1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-atomic']
+    Layer 4 (full): 2 unique - ['boost', 'boost-atomic']
+
+================================================================================
+
+Entry: libboost-chrono
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  fedora:
+    - boost-chrono
+    - boost-chrono
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_chrono1_66_0
+  rhel:
+    - boost-chrono
+    - boost-chrono
+  ubuntu:
+    - libboost-chrono1.74.0
+    - libboost-chrono1.83.0
+    - libboost-chrono1.71.0
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['boost', 'boost-chrono', 'boost-libs', 'libboost-chrono1.71.0', 'libboost-chrono1.74.0', 'libboost-chrono1.83.0', 'libboost_chrono1_66_0']
+    Layer 2 (no affixes): 6 unique - ['boost', 'boost-chrono', 'boost-chrono1-66-0', 'boost-chrono1.71.0', 'boost-chrono1.74.0', 'boost-chrono1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-chrono']
+    Layer 4 (full): 2 unique - ['boost', 'boost-chrono']
+
+================================================================================
+
+Entry: libboost-chrono-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-chrono-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_chrono1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-chrono-dev
+    - libboost-chrono-dev
+    - libboost-chrono-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['boost', 'boost-devel', 'libboost-chrono-dev', 'libboost_chrono1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-chrono', 'boost-chrono1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-chrono']
+    Layer 4 (full): 2 unique - ['boost', 'boost-chrono']
+
+================================================================================
+
+Entry: libboost-coroutine
+--------------------------------------------------------------------------------
+  alpine:
+    - boost-dev
+  arch:
+    - boost-libs
+  fedora:
+    - boost-coroutine
+    - boost-coroutine
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_coroutine1_66_0
+  rhel:
+    - boost-coroutine
+    - boost-coroutine
+  ubuntu:
+    - libboost-coroutine1.74.0
+    - libboost-coroutine1.83.0
+    - libboost-coroutine1.71.0
+
+  Summary:
+    Layer 1 (minimal): 8 unique - ['boost', 'boost-coroutine', 'boost-dev', 'boost-libs', 'libboost-coroutine1.71.0', 'libboost-coroutine1.74.0', 'libboost-coroutine1.83.0', 'libboost_coroutine1_66_0']
+    Layer 2 (no affixes): 6 unique - ['boost', 'boost-coroutine', 'boost-coroutine1-66-0', 'boost-coroutine1.71.0', 'boost-coroutine1.74.0', 'boost-coroutine1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-coroutine']
+    Layer 4 (full): 2 unique - ['boost', 'boost-coroutine']
+
+================================================================================
+
+Entry: libboost-coroutine-dev
+--------------------------------------------------------------------------------
+  alpine:
+    - boost-dev
+  arch:
+    - boost
+  debian:
+    - libboost-coroutine-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_coroutine1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-coroutine-dev
+    - libboost-coroutine-dev
+    - libboost-coroutine-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['boost', 'boost-dev', 'boost-devel', 'libboost-coroutine-dev', 'libboost_coroutine1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-coroutine', 'boost-coroutine1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-coroutine']
+    Layer 4 (full): 2 unique - ['boost', 'boost-coroutine']
+
+================================================================================
+
+Entry: libboost-date-time
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  debian:
+    - libboost-date-time1.81.0
+  fedora:
+    - boost-date-time
+    - boost-date-time
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_date_time1_66_0
+  rhel:
+    - boost-date-time
+    - boost-date-time
+  ubuntu:
+    - libboost-date-time1.74.0
+    - libboost-date-time1.83.0
+    - libboost-date-time1.71.0
+
+  Summary:
+    Layer 1 (minimal): 8 unique - ['boost', 'boost-date-time', 'boost-libs', 'libboost-date-time1.71.0', 'libboost-date-time1.74.0', 'libboost-date-time1.81.0', 'libboost-date-time1.83.0', 'libboost_date_time1_66_0']
+    Layer 2 (no affixes): 7 unique - ['boost', 'boost-date-time', 'boost-date-time1-66-0', 'boost-date-time1.71.0', 'boost-date-time1.74.0', 'boost-date-time1.81.0', 'boost-date-time1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-date-time']
+    Layer 4 (full): 2 unique - ['boost', 'boost-date-time']
+
+================================================================================
+
+Entry: libboost-date-time-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-date-time-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_date_time1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-date-time-dev
+    - libboost-date-time-dev
+    - libboost-date-time-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['boost', 'boost-devel', 'libboost-date-time-dev', 'libboost_date_time1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-date-time', 'boost-date-time1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-date-time']
+    Layer 4 (full): 2 unique - ['boost', 'boost-date-time']
+
+================================================================================
+
+Entry: libboost-filesystem
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  debian:
+    - libboost-filesystem-dev
+  fedora:
+    - boost-filesystem
+    - boost-filesystem
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_filesystem1_66_0
+  rhel:
+    - boost-filesystem
+    - boost-filesystem
+  ubuntu:
+    - libboost-filesystem1.74.0
+    - libboost-filesystem1.83.0
+    - libboost-filesystem1.71.0
+
+  Summary:
+    Layer 1 (minimal): 8 unique - ['boost', 'boost-filesystem', 'boost-libs', 'libboost-filesystem-dev', 'libboost-filesystem1.71.0', 'libboost-filesystem1.74.0', 'libboost-filesystem1.83.0', 'libboost_filesystem1_66_0']
+    Layer 2 (no affixes): 6 unique - ['boost', 'boost-filesystem', 'boost-filesystem1-66-0', 'boost-filesystem1.71.0', 'boost-filesystem1.74.0', 'boost-filesystem1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-filesystem']
+    Layer 4 (full): 2 unique - ['boost', 'boost-filesystem']
+
+================================================================================
+
+Entry: libboost-filesystem-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-filesystem-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost[python]
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_filesystem1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-filesystem-dev
+    - libboost-filesystem-dev
+    - libboost-filesystem-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['boost', 'boost-devel', 'boost[python]', 'libboost-filesystem-dev', 'libboost_filesystem1_66_0-devel']
+    Layer 2 (no affixes): 4 unique - ['boost', 'boost-filesystem', 'boost-filesystem1-66-0', 'boost[python]']
+    Layer 3 (no evolution): 3 unique - ['boost', 'boost-filesystem', 'boost[python]']
+    Layer 4 (full): 3 unique - ['boost', 'boost-filesystem', 'boost[python]']
+
+================================================================================
+
+Entry: libboost-iostreams
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  fedora:
+    - boost-iostreams
+    - boost-iostreams
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_iostreams1_66_0
+  rhel:
+    - boost-iostreams
+    - boost-iostreams
+  ubuntu:
+    - libboost-iostreams1.74.0
+    - libboost-iostreams1.83.0
+    - libboost-iostreams1.71.0
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['boost', 'boost-iostreams', 'boost-libs', 'libboost-iostreams1.71.0', 'libboost-iostreams1.74.0', 'libboost-iostreams1.83.0', 'libboost_iostreams1_66_0']
+    Layer 2 (no affixes): 6 unique - ['boost', 'boost-iostreams', 'boost-iostreams1-66-0', 'boost-iostreams1.71.0', 'boost-iostreams1.74.0', 'boost-iostreams1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-iostreams']
+    Layer 4 (full): 2 unique - ['boost', 'boost-iostreams']
+
+================================================================================
+
+Entry: libboost-iostreams-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-iostreams-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_iostreams1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-iostreams-dev
+    - libboost-iostreams-dev
+    - libboost-iostreams-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['boost', 'boost-devel', 'libboost-iostreams-dev', 'libboost_iostreams1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-iostreams', 'boost-iostreams1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-iostreams']
+    Layer 4 (full): 2 unique - ['boost', 'boost-iostreams']
+
+================================================================================
+
+Entry: libboost-math
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  fedora:
+    - boost-math
+    - boost-math
+  gentoo:
+    - dev-libs/boost
+  opensuse:
+    - libboost_math1_66_0
+  rhel:
+    - boost-math
+    - boost-math
+  ubuntu:
+    - libboost-math1.74.0
+    - libboost-math1.83.0
+    - libboost-math1.71.0
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['boost', 'boost-libs', 'boost-math', 'libboost-math1.71.0', 'libboost-math1.74.0', 'libboost-math1.83.0', 'libboost_math1_66_0']
+    Layer 2 (no affixes): 6 unique - ['boost', 'boost-math', 'boost-math1-66-0', 'boost-math1.71.0', 'boost-math1.74.0', 'boost-math1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-math']
+    Layer 4 (full): 2 unique - ['boost', 'boost-math']
+
+================================================================================
+
+Entry: libboost-math-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-math-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  opensuse:
+    - libboost_math1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-math-dev
+    - libboost-math-dev
+    - libboost-math-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['boost', 'boost-devel', 'libboost-math-dev', 'libboost_math1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-math', 'boost-math1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-math']
+    Layer 4 (full): 2 unique - ['boost', 'boost-math']
+
+================================================================================
+
+Entry: libboost-program-options
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  fedora:
+    - boost-program-options
+    - boost-program-options
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_program_options1_66_0
+  rhel:
+    - boost-program-options
+    - boost-program-options
+  ubuntu:
+    - libboost-program-options1.74.0
+    - libboost-program-options1.83.0
+    - libboost-program-options1.71.0
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['boost', 'boost-libs', 'boost-program-options', 'libboost-program-options1.71.0', 'libboost-program-options1.74.0', 'libboost-program-options1.83.0', 'libboost_program_options1_66_0']
+    Layer 2 (no affixes): 6 unique - ['boost', 'boost-program-options', 'boost-program-options1-66-0', 'boost-program-options1.71.0', 'boost-program-options1.74.0', 'boost-program-options1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-program-options']
+    Layer 4 (full): 2 unique - ['boost', 'boost-program-options']
+
+================================================================================
+
+Entry: libboost-program-options-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-program-options-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_program_options1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-program-options-dev
+    - libboost-program-options-dev
+    - libboost-program-options-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['boost', 'boost-devel', 'libboost-program-options-dev', 'libboost_program_options1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-program-options', 'boost-program-options1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-program-options']
+    Layer 4 (full): 2 unique - ['boost', 'boost-program-options']
+
+================================================================================
+
+Entry: libboost-random
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  debian:
+    - libboost-random1.81.0
+  fedora:
+    - boost-random
+    - boost-random
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_random1_66_0
+  rhel:
+    - boost-random
+    - boost-random
+  ubuntu:
+    - libboost-random1.74.0
+    - libboost-random1.83.0
+    - libboost-random1.71.0
+
+  Summary:
+    Layer 1 (minimal): 8 unique - ['boost', 'boost-libs', 'boost-random', 'libboost-random1.71.0', 'libboost-random1.74.0', 'libboost-random1.81.0', 'libboost-random1.83.0', 'libboost_random1_66_0']
+    Layer 2 (no affixes): 7 unique - ['boost', 'boost-random', 'boost-random1-66-0', 'boost-random1.71.0', 'boost-random1.74.0', 'boost-random1.81.0', 'boost-random1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-random']
+    Layer 4 (full): 2 unique - ['boost', 'boost-random']
+
+================================================================================
+
+Entry: libboost-random-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-random-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_random1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-random-dev
+    - libboost-random-dev
+    - libboost-random-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['boost', 'boost-devel', 'libboost-random-dev', 'libboost_random1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-random', 'boost-random1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-random']
+    Layer 4 (full): 2 unique - ['boost', 'boost-random']
+
+================================================================================
+
+Entry: libboost-regex
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  fedora:
+    - boost-regex
+    - boost-regex
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_regex1_66_0
+  rhel:
+    - boost-regex
+    - boost-regex
+  ubuntu:
+    - libboost-regex1.74.0
+    - libboost-regex1.83.0
+    - libboost-regex1.71.0
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['boost', 'boost-libs', 'boost-regex', 'libboost-regex1.71.0', 'libboost-regex1.74.0', 'libboost-regex1.83.0', 'libboost_regex1_66_0']
+    Layer 2 (no affixes): 6 unique - ['boost', 'boost-regex', 'boost-regex1-66-0', 'boost-regex1.71.0', 'boost-regex1.74.0', 'boost-regex1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-regex']
+    Layer 4 (full): 2 unique - ['boost', 'boost-regex']
+
+================================================================================
+
+Entry: libboost-regex-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-regex-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_regex1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-regex-dev
+    - libboost-regex-dev
+    - libboost-regex-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['boost', 'boost-devel', 'libboost-regex-dev', 'libboost_regex1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-regex', 'boost-regex1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-regex']
+    Layer 4 (full): 2 unique - ['boost', 'boost-regex']
+
+================================================================================
+
+Entry: libboost-serialization
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  fedora:
+    - boost-serialization
+    - boost-serialization
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_serialization1_66_0
+  rhel:
+    - boost-serialization
+    - boost-serialization
+  ubuntu:
+    - libboost-serialization1.74.0
+    - libboost-serialization1.83.0
+    - libboost-serialization1.71.0
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['boost', 'boost-libs', 'boost-serialization', 'libboost-serialization1.71.0', 'libboost-serialization1.74.0', 'libboost-serialization1.83.0', 'libboost_serialization1_66_0']
+    Layer 2 (no affixes): 6 unique - ['boost', 'boost-serialization', 'boost-serialization1-66-0', 'boost-serialization1.71.0', 'boost-serialization1.74.0', 'boost-serialization1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-serialization']
+    Layer 4 (full): 2 unique - ['boost', 'boost-serialization']
+
+================================================================================
+
+Entry: libboost-serialization-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-serialization-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_serialization1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-serialization-dev
+    - libboost-serialization-dev
+    - libboost-serialization-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['boost', 'boost-devel', 'libboost-serialization-dev', 'libboost_serialization1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-serialization', 'boost-serialization1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-serialization']
+    Layer 4 (full): 2 unique - ['boost', 'boost-serialization']
+
+================================================================================
+
+Entry: libboost-system
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  fedora:
+    - boost-system
+    - boost-system
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_system1_66_0
+  rhel:
+    - boost-system
+    - boost-system
+  ubuntu:
+    - libboost-system1.74.0
+    - libboost-system1.83.0
+    - libboost-system1.71.0
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['boost', 'boost-libs', 'boost-system', 'libboost-system1.71.0', 'libboost-system1.74.0', 'libboost-system1.83.0', 'libboost_system1_66_0']
+    Layer 2 (no affixes): 6 unique - ['boost', 'boost-system', 'boost-system1-66-0', 'boost-system1.71.0', 'boost-system1.74.0', 'boost-system1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-system']
+    Layer 4 (full): 2 unique - ['boost', 'boost-system']
+
+================================================================================
+
+Entry: libboost-system-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-system-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_system1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-system-dev
+    - libboost-system-dev
+    - libboost-system-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['boost', 'boost-devel', 'libboost-system-dev', 'libboost_system1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-system', 'boost-system1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-system']
+    Layer 4 (full): 2 unique - ['boost', 'boost-system']
+
+================================================================================
+
+Entry: libboost-thread
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  debian:
+    - libboost-thread1.81.0
+  fedora:
+    - boost-thread
+    - boost-thread
+  gentoo:
+    - dev-libs/boost[threads]
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_thread1_66_0
+  rhel:
+    - boost-thread
+    - boost-thread
+  ubuntu:
+    - libboost-thread1.74.0
+    - libboost-thread1.83.0
+    - libboost-thread1.71.0
+
+  Summary:
+    Layer 1 (minimal): 9 unique - ['boost', 'boost-libs', 'boost-thread', 'boost[threads]', 'libboost-thread1.71.0', 'libboost-thread1.74.0', 'libboost-thread1.81.0', 'libboost-thread1.83.0', 'libboost_thread1_66_0']
+    Layer 2 (no affixes): 8 unique - ['boost', 'boost-thread', 'boost-thread1-66-0', 'boost-thread1.71.0', 'boost-thread1.74.0', 'boost-thread1.81.0', 'boost-thread1.83.0', 'boost[threads]']
+    Layer 3 (no evolution): 3 unique - ['boost', 'boost-thread', 'boost[threads]']
+    Layer 4 (full): 3 unique - ['boost', 'boost-thread', 'boost[threads]']
+
+================================================================================
+
+Entry: libboost-thread-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-thread-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost[threads]
+  openembedded:
+    - boost@openembedded-core
+  opensuse:
+    - libboost_thread1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-thread-dev
+    - libboost-thread-dev
+    - libboost-thread-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['boost', 'boost-devel', 'boost[threads]', 'libboost-thread-dev', 'libboost_thread1_66_0-devel']
+    Layer 2 (no affixes): 4 unique - ['boost', 'boost-thread', 'boost-thread1-66-0', 'boost[threads]']
+    Layer 3 (no evolution): 3 unique - ['boost', 'boost-thread', 'boost[threads]']
+    Layer 4 (full): 3 unique - ['boost', 'boost-thread', 'boost[threads]']
+
+================================================================================
+
+Entry: libboost-timer
+--------------------------------------------------------------------------------
+  arch:
+    - boost-libs
+  fedora:
+    - boost-timer
+    - boost-timer
+  gentoo:
+    - dev-libs/boost
+  opensuse:
+    - libboost_timer1_66_0
+  rhel:
+    - boost-timer
+    - boost-timer
+  ubuntu:
+    - libboost-timer1.74.0
+    - libboost-timer1.83.0
+    - libboost-timer1.71.0
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['boost', 'boost-libs', 'boost-timer', 'libboost-timer1.71.0', 'libboost-timer1.74.0', 'libboost-timer1.83.0', 'libboost_timer1_66_0']
+    Layer 2 (no affixes): 6 unique - ['boost', 'boost-timer', 'boost-timer1-66-0', 'boost-timer1.71.0', 'boost-timer1.74.0', 'boost-timer1.83.0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-timer']
+    Layer 4 (full): 2 unique - ['boost', 'boost-timer']
+
+================================================================================
+
+Entry: libboost-timer-dev
+--------------------------------------------------------------------------------
+  arch:
+    - boost
+  debian:
+    - libboost-timer-dev
+  fedora:
+    - boost-devel
+    - boost-devel
+  gentoo:
+    - dev-libs/boost
+  opensuse:
+    - libboost_timer1_66_0-devel
+  rhel:
+    - boost-devel
+    - boost-devel
+  ubuntu:
+    - libboost-timer-dev
+    - libboost-timer-dev
+    - libboost-timer-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['boost', 'boost-devel', 'libboost-timer-dev', 'libboost_timer1_66_0-devel']
+    Layer 2 (no affixes): 3 unique - ['boost', 'boost-timer', 'boost-timer1-66-0']
+    Layer 3 (no evolution): 2 unique - ['boost', 'boost-timer']
+    Layer 4 (full): 2 unique - ['boost', 'boost-timer']
+
+================================================================================
+
+Entry: libc++-dev
+--------------------------------------------------------------------------------
+  alpine:
+    - libc++-dev
+  arch:
+    - libc++
+  debian:
+    - libc++-dev
+  fedora:
+    - libcxx-devel
+    - libcxx-devel
+  gentoo:
+    - llvm-runtimes/libcxx
+  opensuse:
+    - libc++1
+  ubuntu:
+    - libc++-dev
+    - libc++-dev
+    - libc++-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libc++', 'libc++-dev', 'libc++1', 'libcxx', 'libcxx-devel']
+    Layer 2 (no affixes): 3 unique - ['c++', 'c++1', 'cxx']
+    Layer 3 (no evolution): 2 unique - ['c++', 'cxx']
+    Layer 4 (full): 2 unique - ['c++', 'cxx']
+
+================================================================================
+
+Entry: libcairo2-dev
+--------------------------------------------------------------------------------
+  arch:
+    - cairo
+  debian:
+    - libcairo2-dev
+  fedora:
+    - cairo-devel
+    - cairo-devel
+  gentoo:
+    - x11-libs/cairo
+  openembedded:
+    - cairo@openembedded-core
+  opensuse:
+    - cairo-devel
+  rhel:
+    - cairo-devel
+    - cairo-devel
+  ubuntu:
+    - libcairo2-dev
+    - libcairo2-dev
+    - libcairo2-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['cairo', 'cairo-devel', 'libcairo2-dev']
+    Layer 2 (no affixes): 2 unique - ['cairo', 'cairo2']
+    Layer 3 (no evolution): 1 unique - ['cairo']
+    Layer 4 (full): 1 unique - ['cairo']
+
+================================================================================
+
+Entry: libcap-ng0
+--------------------------------------------------------------------------------
+  arch:
+    - libcap-ng
+  debian:
+    - libcap-ng0
+  gentoo:
+    - sys-libs/libcap-ng
+  ubuntu:
+    - libcap-ng0
+    - libcap-ng0
+    - libcap-ng0
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libcap-ng', 'libcap-ng0']
+    Layer 2 (no affixes): 2 unique - ['cap-ng', 'cap-ng0']
+    Layer 3 (no evolution): 1 unique - ['cap-ng']
+    Layer 4 (full): 1 unique - ['cap-ng']
+
+================================================================================
+
+Entry: libcap2
+--------------------------------------------------------------------------------
+  arch:
+    - libcap
+  debian:
+    - libcap2
+  ubuntu:
+    - libcap2
+    - libcap2
+    - libcap2
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libcap', 'libcap2']
+    Layer 2 (no affixes): 2 unique - ['cap', 'cap2']
+    Layer 3 (no evolution): 1 unique - ['cap']
+    Layer 4 (full): 1 unique - ['cap']
+
+================================================================================
+
+Entry: libcap2-bin
+--------------------------------------------------------------------------------
+  arch:
+    - libcap
+  debian:
+    - libcap2-bin
+  fedora:
+    - libcap
+    - libcap
+  gentoo:
+    - =sys-libs/libcap-2*
+  ubuntu:
+    - libcap2-bin
+    - libcap2-bin
+    - libcap2-bin
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libcap', 'libcap-2*', 'libcap2-bin']
+    Layer 2 (no affixes): 3 unique - ['cap', 'cap-2*', 'cap2']
+    Layer 3 (no evolution): 1 unique - ['cap']
+    Layer 4 (full): 1 unique - ['cap']
+
+================================================================================
+
+Entry: libcoin60-dev
+--------------------------------------------------------------------------------
+  arch:
+    - coin
+  fedora:
+    - Coin2-devel
+    - Coin2-devel
+  gentoo:
+    - =media-libs/coin-3.1.3*
+  ubuntu:
+    - libcoin60-dev
+    - libcoin60-dev
+    - libcoin60-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['coin', 'coin-3.1.3*', 'coin2-devel', 'libcoin60-dev']
+    Layer 2 (no affixes): 4 unique - ['coin', 'coin-3.1.3*', 'coin2', 'coin60']
+    Layer 3 (no evolution): 1 unique - ['coin']
+    Layer 4 (full): 1 unique - ['coin']
+
+================================================================================
+
+Entry: libcoin80-dev
+--------------------------------------------------------------------------------
+  arch:
+    - coin
+  debian:
+    - libcoin-dev
+  fedora:
+    - Coin2-devel
+    - Coin2-devel
+  ubuntu:
+    - libcoin-dev
+    - libcoin-dev
+    - libcoin-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['coin', 'coin2-devel', 'libcoin-dev']
+    Layer 2 (no affixes): 2 unique - ['coin', 'coin2']
+    Layer 3 (no evolution): 1 unique - ['coin']
+    Layer 4 (full): 1 unique - ['coin']
+
+================================================================================
+
+Entry: libconsole-bridge-dev
+--------------------------------------------------------------------------------
+  alpine:
+    - console_bridge-dev
+  debian:
+    - libconsole-bridge-dev
+  fedora:
+    - console-bridge-devel
+    - console-bridge-devel
+  gentoo:
+    - dev-libs/console_bridge
+  openembedded:
+    - console-bridge@meta-ros-common
+  opensuse:
+    - libconsole_bridge0
+  rhel:
+    - console-bridge-devel
+    - console-bridge-devel
+  ubuntu:
+    - libconsole-bridge-dev
+    - libconsole-bridge-dev
+    - libconsole-bridge-dev
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['console-bridge', 'console-bridge-devel', 'console_bridge', 'console_bridge-dev', 'libconsole-bridge-dev', 'libconsole_bridge0']
+    Layer 2 (no affixes): 2 unique - ['console-bridge', 'console-bridge0']
+    Layer 3 (no evolution): 1 unique - ['console-bridge']
+    Layer 4 (full): 1 unique - ['console-bridge']
+
+================================================================================
+
+Entry: libcunit-dev
+--------------------------------------------------------------------------------
+  alpine:
+    - cunit-dev
+  arch:
+    - cunit
+  debian:
+    - libcunit1-dev
+  fedora:
+    - CUnit-devel
+    - CUnit-devel
+  gentoo:
+    - dev-util/cunit
+  openembedded:
+    - cunit@meta-oe
+  rhel:
+    - CUnit-devel
+    - CUnit-devel
+  ubuntu:
+    - libcunit1-dev
+    - libcunit1-dev
+    - libcunit1-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['cunit', 'cunit-dev', 'cunit-devel', 'libcunit1-dev']
+    Layer 2 (no affixes): 2 unique - ['cunit', 'cunit1']
+    Layer 3 (no evolution): 1 unique - ['cunit']
+    Layer 4 (full): 1 unique - ['cunit']
+
+================================================================================
+
+Entry: libcurl
+--------------------------------------------------------------------------------
+  alpine:
+    - libcurl
+  arch:
+    - curl
+  debian:
+    - libcurl4
+  fedora:
+    - libcurl
+    - libcurl
+  gentoo:
+    - net-misc/curl
+  opensuse:
+    - curl
+  rhel:
+    - libcurl
+    - libcurl
+  ubuntu:
+    - libcurl4
+    - libcurl4
+    - libcurl4
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['curl', 'libcurl', 'libcurl4']
+    Layer 2 (no affixes): 2 unique - ['curl', 'curl4']
+    Layer 3 (no evolution): 1 unique - ['curl']
+    Layer 4 (full): 1 unique - ['curl']
+
+================================================================================
+
+Entry: libdbus-dev
+--------------------------------------------------------------------------------
+  arch:
+    - dbus
+  debian:
+    - libdbus-1-dev
+  fedora:
+    - dbus-devel
+    - dbus-devel
+  gentoo:
+    - sys-apps/dbus
+  openembedded:
+    - dbus@openembedded-core
+  rhel:
+    - dbus-devel
+    - dbus-devel
+  ubuntu:
+    - libdbus-1-dev
+    - libdbus-1-dev
+    - libdbus-1-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['dbus', 'dbus-devel', 'libdbus-1-dev']
+    Layer 2 (no affixes): 2 unique - ['dbus', 'dbus-1']
+    Layer 3 (no evolution): 1 unique - ['dbus']
+    Layer 4 (full): 1 unique - ['dbus']
+
+================================================================================
+
+Entry: libdc1394-dev
+--------------------------------------------------------------------------------
+  arch:
+    - libdc1394
+  debian:
+    - libdc1394-dev
+  fedora:
+    - libdc1394-devel
+    - libdc1394-devel
+  gentoo:
+    - media-libs/libdc1394
+  openembedded:
+    - libdc1394@meta-multimedia
+  ubuntu:
+    - libdc1394-dev
+    - libdc1394-dev
+    - libdc1394-22-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libdc1394', 'libdc1394-22-dev', 'libdc1394-dev', 'libdc1394-devel']
+    Layer 2 (no affixes): 2 unique - ['dc1394', 'dc1394-22']
+    Layer 3 (no evolution): 1 unique - ['dc']
+    Layer 4 (full): 1 unique - ['dc']
+
+================================================================================
+
+Entry: libedit
+--------------------------------------------------------------------------------
+  arch:
+    - libedit
+  debian:
+    - libedit2
+  fedora:
+    - libedit
+    - libedit
+  gentoo:
+    - dev-libs/libedit
+  openembedded:
+    - libedit@openembedded-core
+  rhel:
+    - libedit
+    - libedit
+  ubuntu:
+    - libedit2
+    - libedit2
+    - libedit2
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libedit', 'libedit2']
+    Layer 2 (no affixes): 2 unique - ['edit', 'edit2']
+    Layer 3 (no evolution): 1 unique - ['edit']
+    Layer 4 (full): 1 unique - ['edit']
+
+================================================================================
+
+Entry: libespeak-ng1
+--------------------------------------------------------------------------------
+  arch:
+    - espeak-ng
+  debian:
+    - libespeak-ng1
+  fedora:
+    - espeak-ng
+    - espeak-ng
+  opensuse:
+    - libespeak-ng1
+  rhel:
+    - espeak-ng
+    - espeak-ng
+  ubuntu:
+    - libespeak-ng1
+    - libespeak-ng1
+    - libespeak-ng1
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['espeak-ng', 'libespeak-ng1']
+    Layer 2 (no affixes): 2 unique - ['espeak-ng', 'espeak-ng1']
+    Layer 3 (no evolution): 1 unique - ['espeak-ng']
+    Layer 4 (full): 1 unique - ['espeak-ng']
+
+================================================================================
+
+Entry: libexif
+--------------------------------------------------------------------------------
+  alpine:
+    - libexif
+  arch:
+    - libexif
+  debian:
+    - libexif12
+  fedora:
+    - libexif
+    - libexif
+  gentoo:
+    - media-libs/libexif
+  openembedded:
+    - libexif@openembedded-core
+  opensuse:
+    - libexif
+  rhel:
+    - libexif
+    - libexif
+  ubuntu:
+    - libexif12
+    - libexif12
+    - libexif12
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libexif', 'libexif12']
+    Layer 2 (no affixes): 2 unique - ['exif', 'exif12']
+    Layer 3 (no evolution): 1 unique - ['exif']
+    Layer 4 (full): 1 unique - ['exif']
+
+================================================================================
+
+Entry: libexpat1-dev
+--------------------------------------------------------------------------------
+  arch:
+    - expat
+  debian:
+    - libexpat1-dev
+  fedora:
+    - expat-devel
+    - expat-devel
+  gentoo:
+    - dev-libs/expat
+  openembedded:
+    - expat@openembedded-core
+  ubuntu:
+    - libexpat1-dev
+    - libexpat1-dev
+    - libexpat1-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['expat', 'expat-devel', 'libexpat1-dev']
+    Layer 2 (no affixes): 2 unique - ['expat', 'expat1']
+    Layer 3 (no evolution): 1 unique - ['expat']
+    Layer 4 (full): 1 unique - ['expat']
+
+================================================================================
+
+Entry: libfcl
+--------------------------------------------------------------------------------
+  debian:
+    - libfcl0.7
+  fedora:
+    - fcl
+    - fcl
+  gentoo:
+    - sci-libs/fcl
+  openembedded:
+    - fcl@meta-ros-common
+  rhel:
+    - fcl
+    - fcl
+  ubuntu:
+    - libfcl0.7
+    - libfcl0.7
+    - libfcl0.5
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['fcl', 'libfcl0.5', 'libfcl0.7']
+    Layer 2 (no affixes): 3 unique - ['fcl', 'fcl0.5', 'fcl0.7']
+    Layer 3 (no evolution): 1 unique - ['fcl']
+    Layer 4 (full): 1 unique - ['fcl']
+
+================================================================================
+
+Entry: libflann
+--------------------------------------------------------------------------------
+  arch:
+    - flann
+  debian:
+    - libflann1.9
+  fedora:
+    - flann
+    - flann
+  gentoo:
+    - sci-libs/flann
+  openembedded:
+    - libflann@meta-ros-common
+  rhel:
+    - flann
+    - flann
+  ubuntu:
+    - libflann1.9
+    - libflann1.9
+    - libflann1.9
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['flann', 'libflann', 'libflann1.9']
+    Layer 2 (no affixes): 2 unique - ['flann', 'flann1.9']
+    Layer 3 (no evolution): 1 unique - ['flann']
+    Layer 4 (full): 1 unique - ['flann']
+
+================================================================================
+
+Entry: libfltk-dev
+--------------------------------------------------------------------------------
+  arch:
+    - fltk
+  fedora:
+    - fltk-devel
+    - fltk-devel
+  gentoo:
+    - x11-libs/fltk
+  openembedded:
+    - fltk@meta-oe
+  opensuse:
+    - fltk-devel
+  rhel:
+    - fltk-devel
+    - fltk-devel
+  ubuntu:
+    - libfltk1.3-dev
+    - libfltk1.3-dev
+    - libfltk1.3-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['fltk', 'fltk-devel', 'libfltk1.3-dev']
+    Layer 2 (no affixes): 2 unique - ['fltk', 'fltk1.3']
+    Layer 3 (no evolution): 1 unique - ['fltk']
+    Layer 4 (full): 1 unique - ['fltk']
+
+================================================================================
+
+Entry: libfontconfig1-dev
+--------------------------------------------------------------------------------
+  arch:
+    - fontconfig
+  debian:
+    - libfontconfig1-dev
+  fedora:
+    - fontconfig-devel
+    - fontconfig-devel
+  gentoo:
+    - media-libs/fontconfig
+  ubuntu:
+    - libfontconfig1-dev
+    - libfontconfig1-dev
+    - libfontconfig1-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['fontconfig', 'fontconfig-devel', 'libfontconfig1-dev']
+    Layer 2 (no affixes): 2 unique - ['fontconfig', 'fontconfig1']
+    Layer 3 (no evolution): 1 unique - ['fontconfig']
+    Layer 4 (full): 1 unique - ['fontconfig']
+
+================================================================================
+
+Entry: libfreeimage
+--------------------------------------------------------------------------------
+  alpine:
+    - freeimage
+  arch:
+    - freeimage
+  debian:
+    - libfreeimage3
+  fedora:
+    - freeimage
+    - freeimage
+  opensuse:
+    - libfreeimage3
+  rhel:
+    - freeimage
+    - freeimage
+  ubuntu:
+    - libfreeimage3
+    - libfreeimage3
+    - libfreeimage3
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['freeimage', 'libfreeimage3']
+    Layer 2 (no affixes): 2 unique - ['freeimage', 'freeimage3']
+    Layer 3 (no evolution): 1 unique - ['freeimage']
+    Layer 4 (full): 1 unique - ['freeimage']
+
+================================================================================
+
+Entry: libfreetype-dev
+--------------------------------------------------------------------------------
+  alpine:
+    - freetype-dev
+  arch:
+    - freetype2
+  debian:
+    - libfreetype-dev
+  fedora:
+    - freetype-devel
+    - freetype-devel
+  gentoo:
+    - media-libs/freetype
+  openembedded:
+    - freetype@openembedded-core
+  opensuse:
+    - freetype-devel
+  rhel:
+    - freetype-devel
+    - freetype-devel
+  ubuntu:
+    - libfreetype-dev
+    - libfreetype-dev
+    - libfreetype-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['freetype', 'freetype-dev', 'freetype-devel', 'freetype2', 'libfreetype-dev']
+    Layer 2 (no affixes): 2 unique - ['freetype', 'freetype2']
+    Layer 3 (no evolution): 1 unique - ['freetype']
+    Layer 4 (full): 1 unique - ['freetype']
+
+================================================================================
+
+Entry: libfreetype6
+--------------------------------------------------------------------------------
+  alpine:
+    - freetype
+  arch:
+    - freetype2
+  debian:
+    - libfreetype6
+  fedora:
+    - freetype
+    - freetype
+  gentoo:
+    - media-libs/freetype
+  openembedded:
+    - freetype@openembedded-core
+  rhel:
+    - freetype
+    - freetype
+  ubuntu:
+    - libfreetype6
+    - libfreetype6
+    - libfreetype6
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['freetype', 'freetype2', 'libfreetype6']
+    Layer 2 (no affixes): 3 unique - ['freetype', 'freetype2', 'freetype6']
+    Layer 3 (no evolution): 1 unique - ['freetype']
+    Layer 4 (full): 1 unique - ['freetype']
+
+================================================================================
+
+Entry: libfreetype6-dev
+--------------------------------------------------------------------------------
+  alpine:
+    - freetype-dev
+  arch:
+    - freetype2
+  debian:
+    - libfreetype6-dev
+  fedora:
+    - freetype-devel
+    - freetype-devel
+  gentoo:
+    - media-libs/freetype
+  openembedded:
+    - freetype@openembedded-core
+  rhel:
+    - freetype-devel
+    - freetype-devel
+  ubuntu:
+    - libfreetype6-dev
+    - libfreetype6-dev
+    - libfreetype6-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['freetype', 'freetype-dev', 'freetype-devel', 'freetype2', 'libfreetype6-dev']
+    Layer 2 (no affixes): 3 unique - ['freetype', 'freetype2', 'freetype6']
+    Layer 3 (no evolution): 1 unique - ['freetype']
+    Layer 4 (full): 1 unique - ['freetype']
+
+================================================================================
+
+Entry: libftdi-dev
+--------------------------------------------------------------------------------
+  arch:
+    - libftdi
+  debian:
+    - libftdi-dev
+  fedora:
+    - libftdi-devel
+    - libftdi-devel
+  gentoo:
+    - dev-embedded/libftdi
+  openembedded:
+    - libftdi@meta-oe
+  opensuse:
+    - libftdi1-devel
+  rhel:
+    - libftdi-devel
+    - libftdi-devel
+  ubuntu:
+    - libftdi-dev
+    - libftdi-dev
+    - libftdi-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libftdi', 'libftdi-dev', 'libftdi-devel', 'libftdi1-devel']
+    Layer 2 (no affixes): 2 unique - ['ftdi', 'ftdi1']
+    Layer 3 (no evolution): 1 unique - ['ftdi']
+    Layer 4 (full): 1 unique - ['ftdi']
+
+================================================================================
+
+Entry: libftdi1-dev
+--------------------------------------------------------------------------------
+  arch:
+    - libftdi
+  debian:
+    - libftdi1-dev
+  fedora:
+    - libftdi-devel
+    - libftdi-devel
+  gentoo:
+    - dev-embedded/libftdi
+  ubuntu:
+    - libftdi1-dev
+    - libftdi1-dev
+    - libftdi1-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libftdi', 'libftdi-devel', 'libftdi1-dev']
+    Layer 2 (no affixes): 2 unique - ['ftdi', 'ftdi1']
+    Layer 3 (no evolution): 1 unique - ['ftdi']
+    Layer 4 (full): 1 unique - ['ftdi']
+
+================================================================================
+
+Entry: libgazebo-dev
+--------------------------------------------------------------------------------
+  fedora:
+    - gazebo-devel
+    - gazebo-devel
+  gentoo:
+    - =sci-electronics/gazebo-11*
+  ubuntu:
+    - libgazebo-dev
+    - libgazebo11-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['gazebo-11*', 'gazebo-devel', 'libgazebo-dev', 'libgazebo11-dev']
+    Layer 2 (no affixes): 3 unique - ['gazebo', 'gazebo-11*', 'gazebo11']
+    Layer 3 (no evolution): 1 unique - ['gazebo']
+    Layer 4 (full): 1 unique - ['gazebo']
+
+================================================================================
+
+Entry: libgazebo11-dev
+--------------------------------------------------------------------------------
+  gentoo:
+    - =sci-electronics/gazebo-11*
+  ubuntu:
+    - libgazebo-dev
+    - libgazebo11-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['gazebo-11*', 'libgazebo-dev', 'libgazebo11-dev']
+    Layer 2 (no affixes): 3 unique - ['gazebo', 'gazebo-11*', 'gazebo11']
+    Layer 3 (no evolution): 1 unique - ['gazebo']
+    Layer 4 (full): 1 unique - ['gazebo']
+
+================================================================================
+
+Entry: libgazebo5-dev
+--------------------------------------------------------------------------------
+  arch:
+    - gazebo
+  gentoo:
+    - =sci-electronics/gazebo-5*
+  ubuntu:
+    - libgazebo5-dev
+    - libgazebo5-dev
+    - libgazebo5-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['gazebo', 'gazebo-5*', 'libgazebo5-dev']
+    Layer 2 (no affixes): 3 unique - ['gazebo', 'gazebo-5*', 'gazebo5']
+    Layer 3 (no evolution): 1 unique - ['gazebo']
+    Layer 4 (full): 1 unique - ['gazebo']
+
+================================================================================
+
+Entry: libgazebo7-dev
+--------------------------------------------------------------------------------
+  arch:
+    - gazebo
+  gentoo:
+    - =sci-electronics/gazebo-7*
+  opensuse:
+    - gazebo-devel
+  ubuntu:
+    - libgazebo7-dev
+    - libgazebo7-dev
+    - libgazebo7-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['gazebo', 'gazebo-7*', 'gazebo-devel', 'libgazebo7-dev']
+    Layer 2 (no affixes): 3 unique - ['gazebo', 'gazebo-7*', 'gazebo7']
+    Layer 3 (no evolution): 1 unique - ['gazebo']
+    Layer 4 (full): 1 unique - ['gazebo']
+
+================================================================================
+
+Entry: libgconf2
+--------------------------------------------------------------------------------
+  debian:
+    - libgconf-2-4
+  fedora:
+    - GConf2
+    - GConf2
+  gentoo:
+    - gnome-base/gconf:2
+  ubuntu:
+    - libgconf-2-4
+    - libgconf-2-4
+    - libgconf-2-4
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['gconf2', 'gconf:2', 'libgconf-2-4']
+    Layer 2 (no affixes): 3 unique - ['gconf-2-4', 'gconf2', 'gconf:2']
+    Layer 3 (no evolution): 2 unique - ['gconf', 'gconf:']
+    Layer 4 (full): 2 unique - ['gconf', 'gconf:']
+
+================================================================================
+
+Entry: libgfortran3
+--------------------------------------------------------------------------------
+  arch:
+    - gcc-libs
+  debian:
+    - libgfortran3
+  fedora:
+    - libgfortran
+    - libgfortran
+  gentoo:
+    - sys-devel/gcc[fortran]
+  ubuntu:
+    - libgfortran3
+    - libgfortran3
+    - libgfortran3
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['gcc-libs', 'gcc[fortran]', 'libgfortran', 'libgfortran3']
+    Layer 2 (no affixes): 4 unique - ['gcc', 'gcc[fortran]', 'gfortran', 'gfortran3']
+    Layer 3 (no evolution): 3 unique - ['gcc', 'gcc[fortran]', 'gfortran']
+    Layer 4 (full): 3 unique - ['gcc', 'gcc[fortran]', 'gfortran']
+
+================================================================================
+
+Entry: libglfw3-dev
+--------------------------------------------------------------------------------
+  arch:
+    - glfw
+  debian:
+    - libglfw3-dev
+  fedora:
+    - glfw-devel
+    - glfw-devel
+  gentoo:
+    - media-libs/glfw
+  openembedded:
+    - glfw@meta-intel-realsense
+  rhel:
+    - glfw-devel
+    - glfw-devel
+  ubuntu:
+    - libglfw3-dev
+    - libglfw3-dev
+    - libglfw3-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['glfw', 'glfw-devel', 'libglfw3-dev']
+    Layer 2 (no affixes): 2 unique - ['glfw', 'glfw3']
+    Layer 3 (no evolution): 1 unique - ['glfw']
+    Layer 4 (full): 1 unique - ['glfw']
+
+================================================================================
+
+Entry: libglib-dev
+--------------------------------------------------------------------------------
+  arch:
+    - glib2
+  debian:
+    - libglib2.0-dev
+  fedora:
+    - glib2-devel
+    - glib2-devel
+  gentoo:
+    - dev-libs/glib
+  openembedded:
+    - glib-2.0@openembedded-core
+  ubuntu:
+    - libglib2.0-dev
+    - libglib2.0-dev
+    - libglib2.0-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['glib', 'glib-2.0', 'glib2', 'glib2-devel', 'libglib2.0-dev']
+    Layer 2 (no affixes): 4 unique - ['glib', 'glib-2.0', 'glib2', 'glib2.0']
+    Layer 3 (no evolution): 1 unique - ['glib']
+    Layer 4 (full): 1 unique - ['glib']
+
+================================================================================
+
+Entry: libgnutls28-dev
+--------------------------------------------------------------------------------
+  alpine:
+    - gnutls-dev
+  arch:
+    - gnutls
+  debian:
+    - libgnutls28-dev
+  fedora:
+    - gnutls-devel
+    - gnutls-devel
+  opensuse:
+    - libgnutls-devel
+  rhel:
+    - gnutls-devel
+    - gnutls-devel
+  ubuntu:
+    - libgnutls28-dev
+    - libgnutls28-dev
+    - libgnutls28-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['gnutls', 'gnutls-dev', 'gnutls-devel', 'libgnutls-devel', 'libgnutls28-dev']
+    Layer 2 (no affixes): 2 unique - ['gnutls', 'gnutls28']
+    Layer 3 (no evolution): 1 unique - ['gnutls']
+    Layer 4 (full): 1 unique - ['gnutls']
+
+================================================================================
+
+Entry: libgstreamer-plugins-base1.0-dev
+--------------------------------------------------------------------------------
+  arch:
+    - gst-plugins-base
+  debian:
+    - libgstreamer-plugins-base1.0-dev
+  fedora:
+    - gstreamer1-plugins-base-devel
+    - gstreamer1-plugins-base-devel
+  gentoo:
+    - media-libs/gst-plugins-base:1.0
+  openembedded:
+    - gstreamer1.0-plugins-base@openembedded-core
+  opensuse:
+    - gstreamer-plugins-base-devel
+  rhel:
+    - gstreamer1-plugins-base-devel
+    - gstreamer1-plugins-base-devel
+  ubuntu:
+    - libgstreamer-plugins-base1.0-dev
+    - libgstreamer-plugins-base1.0-dev
+    - libgstreamer-plugins-base1.0-dev
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['gst-plugins-base', 'gst-plugins-base:1.0', 'gstreamer-plugins-base-devel', 'gstreamer1-plugins-base-devel', 'gstreamer1.0-plugins-base', 'libgstreamer-plugins-base1.0-dev']
+    Layer 2 (no affixes): 6 unique - ['gst', 'gst-plugins-base:1.0', 'gstreamer', 'gstreamer-plugins-base1.0', 'gstreamer1', 'gstreamer1.0']
+    Layer 3 (no evolution): 4 unique - ['gst', 'gst-plugins-base:', 'gstreamer', 'gstreamer-plugins-base']
+    Layer 4 (full): 3 unique - ['gst', 'gst-plugins-base:', 'gstreamer']
+
+================================================================================
+
+Entry: libgstreamer1.0-dev
+--------------------------------------------------------------------------------
+  arch:
+    - gstreamer
+  debian:
+    - libgstreamer1.0-dev
+  fedora:
+    - gstreamer1-devel
+    - gstreamer1-devel
+  gentoo:
+    - media-libs/gstreamer:1.0
+  openembedded:
+    - gstreamer1.0@openembedded-core
+  opensuse:
+    - gstreamer-devel
+  rhel:
+    - gstreamer1-devel
+    - gstreamer1-devel
+  ubuntu:
+    - libgstreamer1.0-dev
+    - libgstreamer1.0-dev
+    - libgstreamer1.0-dev
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['gstreamer', 'gstreamer-devel', 'gstreamer1-devel', 'gstreamer1.0', 'gstreamer:1.0', 'libgstreamer1.0-dev']
+    Layer 2 (no affixes): 4 unique - ['gstreamer', 'gstreamer1', 'gstreamer1.0', 'gstreamer:1.0']
+    Layer 3 (no evolution): 2 unique - ['gstreamer', 'gstreamer:']
+    Layer 4 (full): 2 unique - ['gstreamer', 'gstreamer:']
+
+================================================================================
+
+Entry: libgtkmm
+--------------------------------------------------------------------------------
+  arch:
+    - gtkmm
+  debian:
+    - libgtkmm-2.4-dev
+  fedora:
+    - gtkmm24
+    - gtkmm24
+  gentoo:
+    - dev-cpp/gtkmm
+  openembedded:
+    - gtkmm@meta-oe
+  ubuntu:
+    - libgtkmm-2.4-dev
+    - libgtkmm-2.4-dev
+    - libgtkmm-2.4-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['gtkmm', 'gtkmm24', 'libgtkmm-2.4-dev']
+    Layer 2 (no affixes): 3 unique - ['gtkmm', 'gtkmm-2.4', 'gtkmm24']
+    Layer 3 (no evolution): 1 unique - ['gtkmm']
+    Layer 4 (full): 1 unique - ['gtkmm']
+
+================================================================================
+
+Entry: libgtkmm3.0-dev
+--------------------------------------------------------------------------------
+  alpine:
+    - gtkmm3-dev
+  arch:
+    - gtkmm3
+  debian:
+    - libgtkmm-3.0-dev
+  fedora:
+    - gtkmm30-devel
+    - gtkmm30-devel
+  gentoo:
+    - dev-cpp/gtkmm:3.0
+  rhel:
+    - gtkmm30-devel
+    - gtkmm30-devel
+  ubuntu:
+    - libgtkmm-3.0-dev
+    - libgtkmm-3.0-dev
+    - libgtkmm-3.0-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['gtkmm3', 'gtkmm3-dev', 'gtkmm30-devel', 'gtkmm:3.0', 'libgtkmm-3.0-dev']
+    Layer 2 (no affixes): 4 unique - ['gtkmm-3.0', 'gtkmm3', 'gtkmm30', 'gtkmm:3.0']
+    Layer 3 (no evolution): 2 unique - ['gtkmm', 'gtkmm:']
+    Layer 4 (full): 2 unique - ['gtkmm', 'gtkmm:']
+
+================================================================================
+
+Entry: libjack-dev
+--------------------------------------------------------------------------------
+  arch:
+    - jack2
+  debian:
+    - libjack-dev
+  fedora:
+    - jack-audio-connection-kit-devel
+    - jack-audio-connection-kit-devel
+  openembedded:
+    - jack@meta-oe
+  rhel:
+    - jack-audio-connection-kit-devel
+    - jack-audio-connection-kit-devel
+  ubuntu:
+    - libjack-dev
+    - libjack-dev
+    - libjack-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['jack', 'jack-audio-connection-kit-devel', 'jack2', 'libjack-dev']
+    Layer 2 (no affixes): 3 unique - ['jack', 'jack-audio-connection-kit', 'jack2']
+    Layer 3 (no evolution): 2 unique - ['jack', 'jack-audio-connection-kit']
+    Layer 4 (full): 2 unique - ['jack', 'jack-audio-connection-kit']
+
+================================================================================
+
+Entry: libjpeg
+--------------------------------------------------------------------------------
+  arch:
+    - libjpeg-turbo
+  debian:
+    - libjpeg-dev
+  fedora:
+    - libjpeg-turbo-devel
+    - libjpeg-turbo-devel
+  gentoo:
+    - virtual/jpeg
+  openembedded:
+    - jpeg@openembedded-core
+  opensuse:
+    - libjpeg8-devel
+  rhel:
+    - libjpeg-turbo-devel
+    - libjpeg-turbo-devel
+  ubuntu:
+    - libjpeg-dev
+    - libjpeg-dev
+    - libjpeg-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['jpeg', 'libjpeg-dev', 'libjpeg-turbo', 'libjpeg-turbo-devel', 'libjpeg8-devel']
+    Layer 2 (no affixes): 3 unique - ['jpeg', 'jpeg-turbo', 'jpeg8']
+    Layer 3 (no evolution): 2 unique - ['jpeg', 'jpeg-turbo']
+    Layer 4 (full): 2 unique - ['jpeg', 'jpeg-turbo']
+
+================================================================================
+
+Entry: libjsoncpp
+--------------------------------------------------------------------------------
+  arch:
+    - jsoncpp
+  debian:
+    - libjsoncpp1
+  fedora:
+    - jsoncpp
+    - jsoncpp
+  gentoo:
+    - dev-libs/jsoncpp
+  openembedded:
+    - jsoncpp@meta-oe
+  opensuse:
+    - libjsoncpp19
+  rhel:
+    - jsoncpp
+    - jsoncpp
+  ubuntu:
+    - libjsoncpp25
+    - libjsoncpp25
+    - libjsoncpp1
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['jsoncpp', 'libjsoncpp1', 'libjsoncpp19', 'libjsoncpp25']
+    Layer 2 (no affixes): 4 unique - ['jsoncpp', 'jsoncpp1', 'jsoncpp19', 'jsoncpp25']
+    Layer 3 (no evolution): 1 unique - ['jsoncpp']
+    Layer 4 (full): 1 unique - ['jsoncpp']
+
+================================================================================
+
+Entry: liblz4
+--------------------------------------------------------------------------------
+  arch:
+    - lz4
+  debian:
+    - liblz4-1
+  fedora:
+    - lz4-libs
+    - lz4-libs
+  openembedded:
+    - lz4@openembedded-core
+  rhel:
+    - lz4-libs
+    - lz4-libs
+  ubuntu:
+    - liblz4-1
+    - liblz4-1
+    - liblz4-1
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['liblz4-1', 'lz4', 'lz4-libs']
+    Layer 2 (no affixes): 2 unique - ['lz4', 'lz4-1']
+    Layer 3 (no evolution): 1 unique - ['lz']
+    Layer 4 (full): 1 unique - ['lz']
+
+================================================================================
+
+Entry: libmodbus5
+--------------------------------------------------------------------------------
+  debian:
+    - libmodbus5
+  fedora:
+    - libmodbus
+    - libmodbus
+  gentoo:
+    - dev-libs/libmodbus
+  ubuntu:
+    - libmodbus5
+    - libmodbus5
+    - libmodbus5
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libmodbus', 'libmodbus5']
+    Layer 2 (no affixes): 2 unique - ['modbus', 'modbus5']
+    Layer 3 (no evolution): 1 unique - ['modbus']
+    Layer 4 (full): 1 unique - ['modbus']
+
+================================================================================
+
+Entry: libncurses
+--------------------------------------------------------------------------------
+  arch:
+    - ncurses
+  debian:
+    - libncurses6
+  fedora:
+    - ncurses
+    - ncurses
+  gentoo:
+    - sys-libs/ncurses
+  rhel:
+    - ncurses
+    - ncurses
+  ubuntu:
+    - libncurses6
+    - libncurses6
+    - libncurses6
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libncurses6', 'ncurses']
+    Layer 2 (no affixes): 2 unique - ['ncurses', 'ncurses6']
+    Layer 3 (no evolution): 1 unique - ['ncurses']
+    Layer 4 (full): 1 unique - ['ncurses']
+
+================================================================================
+
+Entry: libnlopt0
+--------------------------------------------------------------------------------
+  arch:
+    - nlopt
+  debian:
+    - libnlopt0
+  fedora:
+    - NLopt
+    - NLopt
+  gentoo:
+    - sci-libs/nlopt
+  ubuntu:
+    - libnlopt0
+    - libnlopt0
+    - libnlopt0
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libnlopt0', 'nlopt']
+    Layer 2 (no affixes): 2 unique - ['nlopt', 'nlopt0']
+    Layer 3 (no evolution): 1 unique - ['nlopt']
+    Layer 4 (full): 1 unique - ['nlopt']
+
+================================================================================
+
+Entry: libnss3-dev
+--------------------------------------------------------------------------------
+  arch:
+    - nss
+  debian:
+    - libnss3-dev
+  fedora:
+    - nss-devel
+    - nss-devel
+  gentoo:
+    - =dev-libs/nss-3*
+  ubuntu:
+    - libnss3-dev
+    - libnss3-dev
+    - libnss3-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libnss3-dev', 'nss', 'nss-3*', 'nss-devel']
+    Layer 2 (no affixes): 3 unique - ['nss', 'nss-3*', 'nss3']
+    Layer 3 (no evolution): 1 unique - ['nss']
+    Layer 4 (full): 1 unique - ['nss']
+
+================================================================================
+
+Entry: libogre
+--------------------------------------------------------------------------------
+  arch:
+    - ogre
+  debian:
+    - libogre-1.12-dev
+  fedora:
+    - ogre-devel
+    - ogre-devel
+  gentoo:
+    - dev-games/ogre
+  openembedded:
+    - ogre@meta-ros-common
+  opensuse:
+    - ogre-devel
+  ubuntu:
+    - libogre-1.9.0v5
+    - libogre-1.9.0v5
+    - libogre-1.9.0v5
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libogre-1.12-dev', 'libogre-1.9.0v5', 'ogre', 'ogre-devel']
+    Layer 2 (no affixes): 3 unique - ['ogre', 'ogre-1.12', 'ogre-1.9.0v5']
+    Layer 3 (no evolution): 2 unique - ['ogre', 'ogre-v']
+    Layer 4 (full): 2 unique - ['ogre', 'ogre-v']
+
+================================================================================
+
+Entry: libopenni2-dev
+--------------------------------------------------------------------------------
+  debian:
+    - libopenni2-dev
+  fedora:
+    - openni-devel
+    - openni-devel
+  gentoo:
+    - dev-libs/OpenNI2
+  openembedded:
+    - openni2@meta-ros2
+  rhel:
+    - libfreenect-openni
+    - libfreenect-openni
+  ubuntu:
+    - libopenni2-dev
+    - libopenni2-dev
+    - libopenni2-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libfreenect-openni', 'libopenni2-dev', 'openni-devel', 'openni2']
+    Layer 2 (no affixes): 3 unique - ['freenect-openni', 'openni', 'openni2']
+    Layer 3 (no evolution): 2 unique - ['freenect-openni', 'openni']
+    Layer 4 (full): 2 unique - ['freenect-openni', 'openni']
+
+================================================================================
+
+Entry: libopenvdb
+--------------------------------------------------------------------------------
+  arch:
+    - openvdb
+  fedora:
+    - openvdb
+    - openvdb
+  gentoo:
+    - media-gfx/openvdb
+  rhel:
+    - openvdb
+    - openvdb
+  ubuntu:
+    - libopenvdb8.1
+    - libopenvdb6.2
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libopenvdb6.2', 'libopenvdb8.1', 'openvdb']
+    Layer 2 (no affixes): 3 unique - ['openvdb', 'openvdb6.2', 'openvdb8.1']
+    Layer 3 (no evolution): 1 unique - ['openvdb']
+    Layer 4 (full): 1 unique - ['openvdb']
+
+================================================================================
+
+Entry: liborocos-bfl
+--------------------------------------------------------------------------------
+  debian:
+    - liborocos-bfl0.8
+  fedora:
+    - orocos-bfl
+    - orocos-bfl
+  ubuntu:
+    - liborocos-bfl0.8
+    - liborocos-bfl0.8
+    - liborocos-bfl0.8
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['liborocos-bfl0.8', 'orocos-bfl']
+    Layer 2 (no affixes): 2 unique - ['orocos-bfl', 'orocos-bfl0.8']
+    Layer 3 (no evolution): 1 unique - ['orocos-bfl']
+    Layer 4 (full): 1 unique - ['orocos-bfl']
+
+================================================================================
+
+Entry: liborocos-kdl
+--------------------------------------------------------------------------------
+  debian:
+    - liborocos-kdl1.4
+  fedora:
+    - orocos-kdl
+    - orocos-kdl
+  gentoo:
+    - sci-libs/orocos_kdl
+  openembedded:
+    - orocos-kdl@meta-ros1-noetic
+  rhel:
+    - orocos-kdl
+    - orocos-kdl
+  ubuntu:
+    - liborocos-kdl1.5
+    - liborocos-kdl1.5
+    - liborocos-kdl1.4
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['liborocos-kdl1.4', 'liborocos-kdl1.5', 'orocos-kdl', 'orocos_kdl']
+    Layer 2 (no affixes): 3 unique - ['orocos-kdl', 'orocos-kdl1.4', 'orocos-kdl1.5']
+    Layer 3 (no evolution): 1 unique - ['orocos-kdl']
+    Layer 4 (full): 1 unique - ['orocos-kdl']
+
+================================================================================
+
+Entry: libpaho-mqtt
+--------------------------------------------------------------------------------
+  alpine:
+    - paho-mqtt-c
+  debian:
+    - libpaho-mqtt1.3
+  fedora:
+    - paho-c
+    - paho-c
+  openembedded:
+    - paho-mqtt-c@meta-oe
+  opensuse:
+    - libpaho-mqtt1
+  rhel:
+    - paho-c
+    - paho-c
+  ubuntu:
+    - libpaho-mqtt1.3
+    - libpaho-mqtt1.3
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libpaho-mqtt1', 'libpaho-mqtt1.3', 'paho-c', 'paho-mqtt-c']
+    Layer 2 (no affixes): 4 unique - ['paho-c', 'paho-mqtt-c', 'paho-mqtt1', 'paho-mqtt1.3']
+    Layer 3 (no evolution): 3 unique - ['paho-c', 'paho-mqtt', 'paho-mqtt-c']
+    Layer 4 (full): 3 unique - ['paho-c', 'paho-mqtt', 'paho-mqtt-c']
+
+================================================================================
+
+Entry: libpcap
+--------------------------------------------------------------------------------
+  arch:
+    - libpcap
+  debian:
+    - libpcap0.8-dev
+  fedora:
+    - libpcap-devel
+    - libpcap-devel
+  gentoo:
+    - net-libs/libpcap
+  openembedded:
+    - libpcap@openembedded-core
+  rhel:
+    - libpcap-devel
+    - libpcap-devel
+  ubuntu:
+    - libpcap0.8-dev
+    - libpcap0.8-dev
+    - libpcap0.8-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libpcap', 'libpcap-devel', 'libpcap0.8-dev']
+    Layer 2 (no affixes): 2 unique - ['pcap', 'pcap0.8']
+    Layer 3 (no evolution): 1 unique - ['pcap']
+    Layer 4 (full): 1 unique - ['pcap']
+
+================================================================================
+
+Entry: libpcl-apps
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-apps1.12
+    - libpcl-apps1.14
+    - libpcl-apps1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-apps1.10', 'libpcl-apps1.12', 'libpcl-apps1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-apps1.10', 'pcl-apps1.12', 'pcl-apps1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-apps']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-apps']
+
+================================================================================
+
+Entry: libpcl-common
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  debian:
+    - libpcl-common1.13
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-common1.12
+    - libpcl-common1.14
+    - libpcl-common1.10
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libpcl-common1.10', 'libpcl-common1.12', 'libpcl-common1.13', 'libpcl-common1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 5 unique - ['pcl', 'pcl-common1.10', 'pcl-common1.12', 'pcl-common1.13', 'pcl-common1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-common']
+    Layer 4 (full): 1 unique - ['pcl']
+
+================================================================================
+
+Entry: libpcl-features
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  debian:
+    - libpcl-features1.13
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-features1.12
+    - libpcl-features1.14
+    - libpcl-features1.10
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libpcl-features1.10', 'libpcl-features1.12', 'libpcl-features1.13', 'libpcl-features1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 5 unique - ['pcl', 'pcl-features1.10', 'pcl-features1.12', 'pcl-features1.13', 'pcl-features1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-features']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-features']
+
+================================================================================
+
+Entry: libpcl-filters
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  debian:
+    - libpcl-filters1.13
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-filters1.12
+    - libpcl-filters1.14
+    - libpcl-filters1.10
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libpcl-filters1.10', 'libpcl-filters1.12', 'libpcl-filters1.13', 'libpcl-filters1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 5 unique - ['pcl', 'pcl-filters1.10', 'pcl-filters1.12', 'pcl-filters1.13', 'pcl-filters1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-filters']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-filters']
+
+================================================================================
+
+Entry: libpcl-io
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  debian:
+    - libpcl-io1.13
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-io1.12
+    - libpcl-io1.14
+    - libpcl-io1.10
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libpcl-io1.10', 'libpcl-io1.12', 'libpcl-io1.13', 'libpcl-io1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 5 unique - ['pcl', 'pcl-io1.10', 'pcl-io1.12', 'pcl-io1.13', 'pcl-io1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-io']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-io']
+
+================================================================================
+
+Entry: libpcl-kdtree
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-kdtree1.12
+    - libpcl-kdtree1.14
+    - libpcl-kdtree1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-kdtree1.10', 'libpcl-kdtree1.12', 'libpcl-kdtree1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-kdtree1.10', 'pcl-kdtree1.12', 'pcl-kdtree1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-kdtree']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-kdtree']
+
+================================================================================
+
+Entry: libpcl-keypoints
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-keypoints1.12
+    - libpcl-keypoints1.14
+    - libpcl-keypoints1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-keypoints1.10', 'libpcl-keypoints1.12', 'libpcl-keypoints1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-keypoints1.10', 'pcl-keypoints1.12', 'pcl-keypoints1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-keypoints']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-keypoints']
+
+================================================================================
+
+Entry: libpcl-ml
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-ml1.12
+    - libpcl-ml1.14
+    - libpcl-ml1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-ml1.10', 'libpcl-ml1.12', 'libpcl-ml1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-ml1.10', 'pcl-ml1.12', 'pcl-ml1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-ml']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-ml']
+
+================================================================================
+
+Entry: libpcl-octree
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-octree1.12
+    - libpcl-octree1.14
+    - libpcl-octree1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-octree1.10', 'libpcl-octree1.12', 'libpcl-octree1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-octree1.10', 'pcl-octree1.12', 'pcl-octree1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-octree']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-octree']
+
+================================================================================
+
+Entry: libpcl-outofcore
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-outofcore1.12
+    - libpcl-outofcore1.14
+    - libpcl-outofcore1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-outofcore1.10', 'libpcl-outofcore1.12', 'libpcl-outofcore1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-outofcore1.10', 'pcl-outofcore1.12', 'pcl-outofcore1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-outofcore']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-outofcore']
+
+================================================================================
+
+Entry: libpcl-people
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-people1.12
+    - libpcl-people1.14
+    - libpcl-people1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-people1.10', 'libpcl-people1.12', 'libpcl-people1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-people1.10', 'pcl-people1.12', 'pcl-people1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-people']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-people']
+
+================================================================================
+
+Entry: libpcl-recognition
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-recognition1.12
+    - libpcl-recognition1.14
+    - libpcl-recognition1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-recognition1.10', 'libpcl-recognition1.12', 'libpcl-recognition1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-recognition1.10', 'pcl-recognition1.12', 'pcl-recognition1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-recognition']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-recognition']
+
+================================================================================
+
+Entry: libpcl-registration
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-registration1.12
+    - libpcl-registration1.14
+    - libpcl-registration1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-registration1.10', 'libpcl-registration1.12', 'libpcl-registration1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-registration1.10', 'pcl-registration1.12', 'pcl-registration1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-registration']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-registration']
+
+================================================================================
+
+Entry: libpcl-sample-consensus
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-sample-consensus1.12
+    - libpcl-sample-consensus1.14
+    - libpcl-sample-consensus1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-sample-consensus1.10', 'libpcl-sample-consensus1.12', 'libpcl-sample-consensus1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-sample-consensus1.10', 'pcl-sample-consensus1.12', 'pcl-sample-consensus1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-sample-consensus']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-sample-consensus']
+
+================================================================================
+
+Entry: libpcl-search
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-search1.12
+    - libpcl-search1.14
+    - libpcl-search1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-search1.10', 'libpcl-search1.12', 'libpcl-search1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-search1.10', 'pcl-search1.12', 'pcl-search1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-seah']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-seah']
+
+================================================================================
+
+Entry: libpcl-segmentation
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  debian:
+    - libpcl-segmentation1.13
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-segmentation1.12
+    - libpcl-segmentation1.14
+    - libpcl-segmentation1.10
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libpcl-segmentation1.10', 'libpcl-segmentation1.12', 'libpcl-segmentation1.13', 'libpcl-segmentation1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 5 unique - ['pcl', 'pcl-segmentation1.10', 'pcl-segmentation1.12', 'pcl-segmentation1.13', 'pcl-segmentation1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-segmentation']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-segmentation']
+
+================================================================================
+
+Entry: libpcl-stereo
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-stereo1.12
+    - libpcl-stereo1.14
+    - libpcl-stereo1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-stereo1.10', 'libpcl-stereo1.12', 'libpcl-stereo1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-stereo1.10', 'pcl-stereo1.12', 'pcl-stereo1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-stereo']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-stereo']
+
+================================================================================
+
+Entry: libpcl-surface
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  debian:
+    - libpcl-surface1.13
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-surface1.12
+    - libpcl-surface1.14
+    - libpcl-surface1.10
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libpcl-surface1.10', 'libpcl-surface1.12', 'libpcl-surface1.13', 'libpcl-surface1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 5 unique - ['pcl', 'pcl-surface1.10', 'pcl-surface1.12', 'pcl-surface1.13', 'pcl-surface1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-surface']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-surface']
+
+================================================================================
+
+Entry: libpcl-tracking
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-tracking1.12
+    - libpcl-tracking1.14
+    - libpcl-tracking1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-tracking1.10', 'libpcl-tracking1.12', 'libpcl-tracking1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-tracking1.10', 'pcl-tracking1.12', 'pcl-tracking1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-tracking']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-tracking']
+
+================================================================================
+
+Entry: libpcl-visualization
+--------------------------------------------------------------------------------
+  alpine:
+    - pcl-libs
+  fedora:
+    - pcl
+    - pcl
+  gentoo:
+    - sci-libs/pcl
+  openembedded:
+    - pcl@meta-ros-common
+  rhel:
+    - pcl
+    - pcl
+  ubuntu:
+    - libpcl-visualization1.12
+    - libpcl-visualization1.14
+    - libpcl-visualization1.10
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcl-visualization1.10', 'libpcl-visualization1.12', 'libpcl-visualization1.14', 'pcl', 'pcl-libs']
+    Layer 2 (no affixes): 4 unique - ['pcl', 'pcl-visualization1.10', 'pcl-visualization1.12', 'pcl-visualization1.14']
+    Layer 3 (no evolution): 2 unique - ['pcl', 'pcl-visualization']
+    Layer 4 (full): 2 unique - ['pcl', 'pcl-visualization']
+
+================================================================================
+
+Entry: libpcsclite1
+--------------------------------------------------------------------------------
+  arch:
+    - pcsclite
+  debian:
+    - libpcsclite1
+  fedora:
+    - pcsc-lite-libs
+    - pcsc-lite-libs
+  opensuse:
+    - libpcsclite1
+  rhel:
+    - pcsc-lite-libs
+    - pcsc-lite-libs
+  ubuntu:
+    - libpcsclite1
+    - libpcsclite1
+    - libpcsclite1
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libpcsclite1', 'pcsc-lite-libs', 'pcsclite']
+    Layer 2 (no affixes): 3 unique - ['pcsc-lite', 'pcsclite', 'pcsclite1']
+    Layer 3 (no evolution): 2 unique - ['pcsc-lite', 'pcsclite']
+    Layer 4 (full): 2 unique - ['pcsc-lite', 'pcsclite']
+
+================================================================================
+
+Entry: libphonon
+--------------------------------------------------------------------------------
+  debian:
+    - libphonon4
+  fedora:
+    - phonon
+    - phonon
+  gentoo:
+    - media-libs/phonon
+  ubuntu:
+    - libphonon4
+    - libphonon4
+    - libphonon4
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libphonon4', 'phonon']
+    Layer 2 (no affixes): 2 unique - ['phonon', 'phonon4']
+    Layer 3 (no evolution): 1 unique - ['phonon']
+    Layer 4 (full): 1 unique - ['phonon']
+
+================================================================================
+
+Entry: libpqxx
+--------------------------------------------------------------------------------
+  arch:
+    - libpqxx
+  fedora:
+    - libpqxx
+    - libpqxx
+  gentoo:
+    - dev-libs/libpqxx
+  ubuntu:
+    - libpqxx-6.4
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libpqxx', 'libpqxx-6.4']
+    Layer 2 (no affixes): 2 unique - ['pqxx', 'pqxx-6.4']
+    Layer 3 (no evolution): 1 unique - ['pqxx']
+    Layer 4 (full): 1 unique - ['pqxx']
+
+================================================================================
+
+Entry: libqglviewer2-qt5
+--------------------------------------------------------------------------------
+  debian:
+    - libqglviewer2-qt5
+  fedora:
+    - libQGLViewer-qt5
+    - libQGLViewer-qt5
+  gentoo:
+    - x11-libs/libQGLViewer
+  rhel:
+    - libQGLViewer-qt5
+    - libQGLViewer-qt5
+  ubuntu:
+    - libqglviewer2-qt5
+    - libqglviewer2-qt5
+    - libqglviewer2-qt5
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libqglviewer', 'libqglviewer-qt5', 'libqglviewer2-qt5']
+    Layer 2 (no affixes): 3 unique - ['qglviewer', 'qglviewer-qt5', 'qglviewer2-qt5']
+    Layer 3 (no evolution): 2 unique - ['qglviewer', 'qglviewer-qt']
+    Layer 4 (full): 2 unique - ['qglviewer', 'qglviewer-qt']
+
+================================================================================
+
+Entry: libqrencode
+--------------------------------------------------------------------------------
+  arch:
+    - qrencode
+  debian:
+    - libqrencode3
+  fedora:
+    - qrencode
+    - qrencode
+  gentoo:
+    - media-gfx/qrencode
+  ubuntu:
+    - libqrencode3
+    - libqrencode3
+    - libqrencode3
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libqrencode3', 'qrencode']
+    Layer 2 (no affixes): 2 unique - ['qrencode', 'qrencode3']
+    Layer 3 (no evolution): 1 unique - ['qrencode']
+    Layer 4 (full): 1 unique - ['qrencode']
+
+================================================================================
+
+Entry: libqt4-dev
+--------------------------------------------------------------------------------
+  debian:
+    - libqt4-dev
+  fedora:
+    - qt-devel
+    - qt-devel
+  gentoo:
+    - dev-qt/qtcore:4
+  opensuse:
+    - libqt4-devel
+  ubuntu:
+    - libqt4-dev
+    - libqt4-dev
+    - libqt4-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libqt4-dev', 'libqt4-devel', 'qt-devel', 'qtcore:4']
+    Layer 2 (no affixes): 3 unique - ['qt', 'qt4', 'qtcore:4']
+    Layer 3 (no evolution): 2 unique - ['qt', 'qtcore:']
+    Layer 4 (full): 2 unique - ['qt', 'qtcore:']
+
+================================================================================
+
+Entry: libqt4-opengl-dev
+--------------------------------------------------------------------------------
+  debian:
+    - libqt4-opengl-dev
+  fedora:
+    - qt-devel
+    - qt-devel
+  gentoo:
+    - dev-qt/qtopengl:4
+  opensuse:
+    - libqt4-devel
+  ubuntu:
+    - libqt4-opengl-dev
+    - libqt4-opengl-dev
+    - libqt4-opengl-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libqt4-devel', 'libqt4-opengl-dev', 'qt-devel', 'qtopengl:4']
+    Layer 2 (no affixes): 4 unique - ['qt', 'qt4', 'qt4-opengl', 'qtopengl:4']
+    Layer 3 (no evolution): 3 unique - ['qt', 'qt-opengl', 'qtopengl:']
+    Layer 4 (full): 3 unique - ['qt', 'qt-opengl', 'qtopengl:']
+
+================================================================================
+
+Entry: libqt5-core
+--------------------------------------------------------------------------------
+  alpine:
+    - qt5-qtbase
+  arch:
+    - qt5-base
+  debian:
+    - libqt5core5a
+  fedora:
+    - qt5-qtbase
+    - qt5-qtbase
+  gentoo:
+    - dev-qt/qtcore:5
+  openembedded:
+    - qtbase@meta-qt5
+  opensuse:
+    - libQt5Core5
+  rhel:
+    - qt5-qtbase
+    - qt5-qtbase
+  ubuntu:
+    - libqt5core5a
+    - libqt5core5t64
+    - libqt5core5a
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['libqt5core5', 'libqt5core5a', 'libqt5core5t64', 'qt5-base', 'qt5-qtbase', 'qtbase', 'qtcore:5']
+    Layer 2 (no affixes): 7 unique - ['qt5', 'qt5-qtbase', 'qt5core5', 'qt5core5a', 'qt5core5t64', 'qtbase', 'qtcore:5']
+    Layer 3 (no evolution): 6 unique - ['qt', 'qt-qtbase', 'qtbase', 'qtcore', 'qtcore:', 'qtcorea']
+    Layer 4 (full): 6 unique - ['qt', 'qt-qtbase', 'qtbase', 'qtcore', 'qtcore:', 'qtcorea']
+
+================================================================================
+
+Entry: libqt5-gui
+--------------------------------------------------------------------------------
+  alpine:
+    - qt5-qtbase
+  arch:
+    - qt5-base
+  debian:
+    - libqt5gui5
+  fedora:
+    - qt5-qtbase-gui
+    - qt5-qtbase-gui
+  gentoo:
+    - dev-qt/qtgui:5
+  openembedded:
+    - qtbase@meta-qt5
+  opensuse:
+    - libQt5Gui5
+  rhel:
+    - qt5-qtbase-gui
+    - qt5-qtbase-gui
+  ubuntu:
+    - libqt5gui5
+    - libqt5gui5t64
+    - libqt5gui5
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['libqt5gui5', 'libqt5gui5t64', 'qt5-base', 'qt5-qtbase', 'qt5-qtbase-gui', 'qtbase', 'qtgui:5']
+    Layer 2 (no affixes): 6 unique - ['qt5', 'qt5-qtbase', 'qt5gui5', 'qt5gui5t64', 'qtbase', 'qtgui:5']
+    Layer 3 (no evolution): 5 unique - ['qt', 'qt-qtbase', 'qtbase', 'qtgui', 'qtgui:']
+    Layer 4 (full): 5 unique - ['qt', 'qt-qtbase', 'qtbase', 'qtgui', 'qtgui:']
+
+================================================================================
+
+Entry: libqt5-opengl-dev
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-base
+  debian:
+    - libqt5opengl5-dev
+  fedora:
+    - qt5-qtbase-devel
+    - qt5-qtbase-devel
+  gentoo:
+    - dev-qt/qtopengl:5
+  openembedded:
+    - qtbase@meta-qt5
+  opensuse:
+    - libQt5OpenGL-devel
+  rhel:
+    - qt5-qtbase-devel
+    - qt5-qtbase-devel
+  ubuntu:
+    - libqt5opengl5-dev
+    - libqt5opengl5-dev
+    - libqt5opengl5-dev
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libqt5opengl-devel', 'libqt5opengl5-dev', 'qt5-base', 'qt5-qtbase-devel', 'qtbase', 'qtopengl:5']
+    Layer 2 (no affixes): 6 unique - ['qt5', 'qt5-qtbase', 'qt5opengl', 'qt5opengl5', 'qtbase', 'qtopengl:5']
+    Layer 3 (no evolution): 5 unique - ['qt', 'qt-qtbase', 'qtbase', 'qtopengl', 'qtopengl:']
+    Layer 4 (full): 5 unique - ['qt', 'qt-qtbase', 'qtbase', 'qtopengl', 'qtopengl:']
+
+================================================================================
+
+Entry: libqt5-svg
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-svg
+  debian:
+    - libqt5svg5
+  fedora:
+    - qt5-qtsvg
+    - qt5-qtsvg
+  gentoo:
+    - dev-qt/qtsvg:5
+  openembedded:
+    - qtsvg@meta-qt5
+  opensuse:
+    - libqt5-qtsvg
+  rhel:
+    - qt5-qtsvg
+    - qt5-qtsvg
+  ubuntu:
+    - libqt5svg5
+    - libqt5svg5
+    - libqt5svg5
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libqt5-qtsvg', 'libqt5svg5', 'qt5-qtsvg', 'qt5-svg', 'qtsvg', 'qtsvg:5']
+    Layer 2 (no affixes): 5 unique - ['qt5-qtsvg', 'qt5-svg', 'qt5svg5', 'qtsvg', 'qtsvg:5']
+    Layer 3 (no evolution): 4 unique - ['qt-qtsvg', 'qt-svg', 'qtsvg', 'qtsvg:']
+    Layer 4 (full): 4 unique - ['qt-qtsvg', 'qt-svg', 'qtsvg', 'qtsvg:']
+
+================================================================================
+
+Entry: libqt5-svg-dev
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-svg
+  debian:
+    - libqt5svg5-dev
+  fedora:
+    - qt5-qtsvg-devel
+    - qt5-qtsvg-devel
+  gentoo:
+    - dev-qt/qtsvg:5
+  openembedded:
+    - qtsvg@meta-qt5
+  opensuse:
+    - libqt5-qtsvg-devel
+  rhel:
+    - qt5-qtsvg-devel
+    - qt5-qtsvg-devel
+  ubuntu:
+    - libqt5svg5-dev
+    - libqt5svg5-dev
+    - libqt5svg5-dev
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libqt5-qtsvg-devel', 'libqt5svg5-dev', 'qt5-qtsvg-devel', 'qt5-svg', 'qtsvg', 'qtsvg:5']
+    Layer 2 (no affixes): 5 unique - ['qt5-qtsvg', 'qt5-svg', 'qt5svg5', 'qtsvg', 'qtsvg:5']
+    Layer 3 (no evolution): 4 unique - ['qt-qtsvg', 'qt-svg', 'qtsvg', 'qtsvg:']
+    Layer 4 (full): 4 unique - ['qt-qtsvg', 'qt-svg', 'qtsvg', 'qtsvg:']
+
+================================================================================
+
+Entry: libqt5-websockets-dev
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-websockets
+  debian:
+    - libqt5websockets5-dev
+  fedora:
+    - qt5-qtwebsockets
+    - qt5-qtwebsockets
+  gentoo:
+    - dev-qt/qtwebsockets:5
+  openembedded:
+    - qtwebsockets@meta-qt5
+  rhel:
+    - qt5-qtwebsockets-devel
+    - qt5-qtwebsockets-devel
+  ubuntu:
+    - libqt5websockets5-dev
+    - libqt5websockets5-dev
+    - libqt5websockets5-dev
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libqt5websockets5-dev', 'qt5-qtwebsockets', 'qt5-qtwebsockets-devel', 'qt5-websockets', 'qtwebsockets', 'qtwebsockets:5']
+    Layer 2 (no affixes): 5 unique - ['qt5-qtwebsockets', 'qt5-websockets', 'qt5websockets5', 'qtwebsockets', 'qtwebsockets:5']
+    Layer 3 (no evolution): 4 unique - ['qt-qtwebsockets', 'qt-websockets', 'qtwebsockets', 'qtwebsockets:']
+    Layer 4 (full): 4 unique - ['qt-qtwebsockets', 'qt-websockets', 'qtwebsockets', 'qtwebsockets:']
+
+================================================================================
+
+Entry: libqt5-widgets
+--------------------------------------------------------------------------------
+  alpine:
+    - qt5-qtbase-dev
+  arch:
+    - qt5-base
+  debian:
+    - libqt5widgets5
+  fedora:
+    - qt5-qtbase
+    - qt5-qtbase
+  gentoo:
+    - dev-qt/qtwidgets:5
+  openembedded:
+    - qtbase@meta-qt5
+  opensuse:
+    - libQt5Widgets5
+  rhel:
+    - qt5-qtbase
+    - qt5-qtbase
+  ubuntu:
+    - libqt5widgets5
+    - libqt5widgets5t64
+    - libqt5widgets5
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['libqt5widgets5', 'libqt5widgets5t64', 'qt5-base', 'qt5-qtbase', 'qt5-qtbase-dev', 'qtbase', 'qtwidgets:5']
+    Layer 2 (no affixes): 6 unique - ['qt5', 'qt5-qtbase', 'qt5widgets5', 'qt5widgets5t64', 'qtbase', 'qtwidgets:5']
+    Layer 3 (no evolution): 5 unique - ['qt', 'qt-qtbase', 'qtbase', 'qtwidgets', 'qtwidgets:']
+    Layer 4 (full): 5 unique - ['qt', 'qt-qtbase', 'qtbase', 'qtwidgets', 'qtwidgets:']
+
+================================================================================
+
+Entry: libqt5-xml
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-base
+  debian:
+    - libqt5xml5
+  ubuntu:
+    - libqt5xml5
+    - libqt5xml5t64
+    - libqt5xml5
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libqt5xml5', 'libqt5xml5t64', 'qt5-base']
+    Layer 2 (no affixes): 3 unique - ['qt5', 'qt5xml5', 'qt5xml5t64']
+    Layer 3 (no evolution): 2 unique - ['qt', 'qtxml']
+    Layer 4 (full): 2 unique - ['qt', 'qtxml']
+
+================================================================================
+
+Entry: libqt5multimedia5-plugins
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-multimedia
+  debian:
+    - libqt5multimedia5-plugins
+  fedora:
+    - qt5-qtmultimedia
+    - qt5-qtmultimedia
+  openembedded:
+    - qtmultimedia@meta-qt5
+  ubuntu:
+    - libqt5multimedia5-plugins
+    - libqt5multimedia5-plugins
+    - libqt5multimedia5-plugins
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libqt5multimedia5-plugins', 'qt5-multimedia', 'qt5-qtmultimedia', 'qtmultimedia']
+    Layer 2 (no affixes): 4 unique - ['qt5-multimedia', 'qt5-qtmultimedia', 'qt5multimedia5', 'qtmultimedia']
+    Layer 3 (no evolution): 3 unique - ['qt-multimedia', 'qt-qtmultimedia', 'qtmultimedia']
+    Layer 4 (full): 3 unique - ['qt-multimedia', 'qt-qtmultimedia', 'qtmultimedia']
+
+================================================================================
+
+Entry: libqt5x11extras5-dev
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-x11extras
+  debian:
+    - libqt5x11extras5-dev
+  fedora:
+    - qt5-qtx11extras-devel
+    - qt5-qtx11extras-devel
+  gentoo:
+    - dev-qt/qtx11extras:5
+  openembedded:
+    - qtx11extras@meta-qt5
+  rhel:
+    - qt5-qtx11extras-devel
+    - qt5-qtx11extras-devel
+  ubuntu:
+    - libqt5x11extras5-dev
+    - libqt5x11extras5-dev
+    - libqt5x11extras5-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libqt5x11extras5-dev', 'qt5-qtx11extras-devel', 'qt5-x11extras', 'qtx11extras', 'qtx11extras:5']
+    Layer 2 (no affixes): 5 unique - ['qt5-qtx11extras', 'qt5-x11extras', 'qt5x11extras5', 'qtx11extras', 'qtx11extras:5']
+    Layer 3 (no evolution): 4 unique - ['qt-qtxextras', 'qt-xextras', 'qtxextras', 'qtxextras:']
+    Layer 4 (full): 4 unique - ['qt-qtxextras', 'qt-xextras', 'qtxextras', 'qtxextras:']
+
+================================================================================
+
+Entry: libqt6-core
+--------------------------------------------------------------------------------
+  alpine:
+    - qt6-qtbase
+  arch:
+    - qt6-base
+  debian:
+    - libqt6core6
+  fedora:
+    - qt6-qtbase
+    - qt6-qtbase
+  gentoo:
+    - dev-qt/qtcore:6
+  openembedded:
+    - qtbase@meta-qt6
+  rhel:
+    - qt6-qtbase
+  ubuntu:
+    - libqt6core6
+    - libqt6core6t64
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libqt6core6', 'libqt6core6t64', 'qt6-base', 'qt6-qtbase', 'qtbase', 'qtcore:6']
+    Layer 2 (no affixes): 6 unique - ['qt6', 'qt6-qtbase', 'qt6core6', 'qt6core6t64', 'qtbase', 'qtcore:6']
+    Layer 3 (no evolution): 5 unique - ['qt', 'qt-qtbase', 'qtbase', 'qtcore', 'qtcore:']
+    Layer 4 (full): 5 unique - ['qt', 'qt-qtbase', 'qtbase', 'qtcore', 'qtcore:']
+
+================================================================================
+
+Entry: libqt6svg6
+--------------------------------------------------------------------------------
+  alpine:
+    - qt6-qtsvg
+  arch:
+    - qt6-svg
+  debian:
+    - libqt6svg6
+  fedora:
+    - qt6-qtsvg
+    - qt6-qtsvg
+  gentoo:
+    - dev-qt/qtsvg:6
+  openembedded:
+    - qtsvg@meta-qt6
+  rhel:
+    - qt6-qtsvg-devel
+  ubuntu:
+    - libqt6svg6
+    - libqt6svg6
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libqt6svg6', 'qt6-qtsvg', 'qt6-qtsvg-devel', 'qt6-svg', 'qtsvg', 'qtsvg:6']
+    Layer 2 (no affixes): 5 unique - ['qt6-qtsvg', 'qt6-svg', 'qt6svg6', 'qtsvg', 'qtsvg:6']
+    Layer 3 (no evolution): 4 unique - ['qt-qtsvg', 'qt-svg', 'qtsvg', 'qtsvg:']
+    Layer 4 (full): 4 unique - ['qt-qtsvg', 'qt-svg', 'qtsvg', 'qtsvg:']
+
+================================================================================
+
+Entry: libraw1394
+--------------------------------------------------------------------------------
+  arch:
+    - libraw1394
+  debian:
+    - libraw1394-11
+  fedora:
+    - libraw1394
+    - libraw1394
+  gentoo:
+    - sys-libs/libraw1394
+  openembedded:
+    - libraw1394@meta-oe
+  ubuntu:
+    - libraw1394-11
+    - libraw1394-11
+    - libraw1394-11
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libraw1394', 'libraw1394-11']
+    Layer 2 (no affixes): 2 unique - ['raw1394', 'raw1394-11']
+    Layer 3 (no evolution): 1 unique - ['raw']
+    Layer 4 (full): 1 unique - ['raw']
+
+================================================================================
+
+Entry: libsndfile1-dev
+--------------------------------------------------------------------------------
+  arch:
+    - libsndfile
+  debian:
+    - libsndfile1-dev
+  fedora:
+    - libsndfile-devel
+    - libsndfile-devel
+  gentoo:
+    - media-libs/libsndfile
+  openembedded:
+    - libsndfile1@openembedded-core
+  rhel:
+    - libsndfile-devel
+    - libsndfile-devel
+  ubuntu:
+    - libsndfile1-dev
+    - libsndfile1-dev
+    - libsndfile1-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libsndfile', 'libsndfile-devel', 'libsndfile1', 'libsndfile1-dev']
+    Layer 2 (no affixes): 2 unique - ['sndfile', 'sndfile1']
+    Layer 3 (no evolution): 1 unique - ['sndfile']
+    Layer 4 (full): 1 unique - ['sndfile']
+
+================================================================================
+
+Entry: libsoqt4-dev
+--------------------------------------------------------------------------------
+  arch:
+    - soqt
+  debian:
+    - libsoqt4-dev
+  fedora:
+    - SoQt-devel
+    - SoQt-devel
+  gentoo:
+    - media-libs/SoQt
+  ubuntu:
+    - libsoqt4-dev
+    - libsoqt4-dev
+    - libsoqt4-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libsoqt4-dev', 'soqt', 'soqt-devel']
+    Layer 2 (no affixes): 2 unique - ['soqt', 'soqt4']
+    Layer 3 (no evolution): 1 unique - ['soqt']
+    Layer 4 (full): 1 unique - ['soqt']
+
+================================================================================
+
+Entry: libsoup2-dev
+--------------------------------------------------------------------------------
+  alpine:
+    - libsoup-dev
+  arch:
+    - libsoup
+  debian:
+    - libsoup2.4-dev
+  fedora:
+    - libsoup-devel
+    - libsoup-devel
+  gentoo:
+    - net-libs/libsoup-2.4
+  opensuse:
+    - libsoup-2_4-1
+  ubuntu:
+    - libsoup2.4-dev
+    - libsoup2.4-dev
+    - libsoup2.4-dev
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libsoup', 'libsoup-2.4', 'libsoup-2_4-1', 'libsoup-dev', 'libsoup-devel', 'libsoup2.4-dev']
+    Layer 2 (no affixes): 4 unique - ['soup', 'soup-2-4-1', 'soup-2.4', 'soup2.4']
+    Layer 3 (no evolution): 1 unique - ['soup']
+    Layer 4 (full): 1 unique - ['soup']
+
+================================================================================
+
+Entry: libsqlite3-dev
+--------------------------------------------------------------------------------
+  alpine:
+    - sqlite-dev
+  arch:
+    - sqlite
+  debian:
+    - libsqlite3-dev
+  fedora:
+    - libsq3-devel
+    - libsq3-devel
+  gentoo:
+    - dev-db/sqlite:3
+  openembedded:
+    - sqlite3@openembedded-core
+  rhel:
+    - libsq3-devel
+    - libsq3-devel
+  ubuntu:
+    - libsqlite3-dev
+    - libsqlite3-dev
+    - libsqlite3-dev
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libsq3-devel', 'libsqlite3-dev', 'sqlite', 'sqlite-dev', 'sqlite3', 'sqlite:3']
+    Layer 2 (no affixes): 4 unique - ['sq3', 'sqlite', 'sqlite3', 'sqlite:3']
+    Layer 3 (no evolution): 3 unique - ['sq', 'sqlite', 'sqlite:']
+    Layer 4 (full): 3 unique - ['sq', 'sqlite', 'sqlite:']
+
+================================================================================
+
+Entry: libsrtp0-dev
+--------------------------------------------------------------------------------
+  arch:
+    - libsrtp
+  debian:
+    - libsrtp0-dev
+  fedora:
+    - libsrtp-devel
+    - libsrtp-devel
+  gentoo:
+    - net-libs/libsrtp:0
+  ubuntu:
+    - libsrtp0-dev
+    - libsrtp0-dev
+    - libsrtp0-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libsrtp', 'libsrtp-devel', 'libsrtp0-dev', 'libsrtp:0']
+    Layer 2 (no affixes): 3 unique - ['srtp', 'srtp0', 'srtp:0']
+    Layer 3 (no evolution): 2 unique - ['srtp', 'srtp:']
+    Layer 4 (full): 2 unique - ['srtp', 'srtp:']
+
+================================================================================
+
+Entry: libssh2
+--------------------------------------------------------------------------------
+  arch:
+    - libssh2
+  debian:
+    - libssh2-1
+  fedora:
+    - libssh2
+    - libssh2
+  gentoo:
+    - net-libs/libssh2
+  openembedded:
+    - libssh2@openembedded-core
+  ubuntu:
+    - libssh2-1
+    - libssh2-1
+    - libssh2-1
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libssh2', 'libssh2-1']
+    Layer 2 (no affixes): 2 unique - ['ssh2', 'ssh2-1']
+    Layer 3 (no evolution): 1 unique - ['ssh']
+    Layer 4 (full): 1 unique - ['ssh']
+
+================================================================================
+
+Entry: libssh2-dev
+--------------------------------------------------------------------------------
+  arch:
+    - libssh2
+  debian:
+    - libssh2-1-dev
+  fedora:
+    - libssh2-devel
+    - libssh2-devel
+  gentoo:
+    - net-libs/libssh2
+  openembedded:
+    - libssh2@openembedded-core
+  ubuntu:
+    - libssh2-1-dev
+    - libssh2-1-dev
+    - libssh2-1-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libssh2', 'libssh2-1-dev', 'libssh2-devel']
+    Layer 2 (no affixes): 2 unique - ['ssh2', 'ssh2-1']
+    Layer 3 (no evolution): 1 unique - ['ssh']
+    Layer 4 (full): 1 unique - ['ssh']
+
+================================================================================
+
+Entry: libstdc++5
+--------------------------------------------------------------------------------
+  debian:
+    - libstdc++5
+  gentoo:
+    - virtual/libstdc++
+  opensuse:
+    - libstdc++33
+  ubuntu:
+    - libstdc++5
+    - libstdc++5
+    - libstdc++5
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libstdc++', 'libstdc++33', 'libstdc++5']
+    Layer 2 (no affixes): 3 unique - ['stdc++', 'stdc++33', 'stdc++5']
+    Layer 3 (no evolution): 1 unique - ['stdc++']
+    Layer 4 (full): 1 unique - ['stdc++']
+
+================================================================================
+
+Entry: libstdc++6
+--------------------------------------------------------------------------------
+  arch:
+    - gcc-libs
+  debian:
+    - libstdc++6
+  fedora:
+    - libstdc++
+    - libstdc++
+  ubuntu:
+    - libstdc++6
+    - libstdc++6
+    - libstdc++6
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['gcc-libs', 'libstdc++', 'libstdc++6']
+    Layer 2 (no affixes): 3 unique - ['gcc', 'stdc++', 'stdc++6']
+    Layer 3 (no evolution): 2 unique - ['gcc', 'stdc++']
+    Layer 4 (full): 2 unique - ['gcc', 'stdc++']
+
+================================================================================
+
+Entry: libsvm3
+--------------------------------------------------------------------------------
+  arch:
+    - libsvm
+  debian:
+    - libsvm3
+  fedora:
+    - libsvm
+    - libsvm
+  gentoo:
+    - =sci-libs/libsvm-3*
+  ubuntu:
+    - libsvm3
+    - libsvm3
+    - libsvm3
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libsvm', 'libsvm-3*', 'libsvm3']
+    Layer 2 (no affixes): 3 unique - ['svm', 'svm-3*', 'svm3']
+    Layer 3 (no evolution): 1 unique - ['svm']
+    Layer 4 (full): 1 unique - ['svm']
+
+================================================================================
+
+Entry: libtiff4-dev
+--------------------------------------------------------------------------------
+  arch:
+    - libtiff
+  debian:
+    - libtiff4-dev
+  fedora:
+    - libtiff-devel
+    - libtiff-devel
+  gentoo:
+    - media-libs/tiff:0
+  ubuntu:
+    - libtiff4-dev
+    - libtiff4-dev
+    - libtiff4-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libtiff', 'libtiff-devel', 'libtiff4-dev', 'tiff:0']
+    Layer 2 (no affixes): 3 unique - ['tiff', 'tiff4', 'tiff:0']
+    Layer 3 (no evolution): 2 unique - ['tiff', 'tiff:']
+    Layer 4 (full): 2 unique - ['tiff', 'tiff:']
+
+================================================================================
+
+Entry: libunwind
+--------------------------------------------------------------------------------
+  arch:
+    - libunwind
+  debian:
+    - libunwind8
+  fedora:
+    - libunwind
+    - libunwind
+  gentoo:
+    - sys-libs/libunwind
+  openembedded:
+    - libunwind@openembedded-core
+  ubuntu:
+    - libunwind8
+    - libunwind8
+    - libunwind8
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libunwind', 'libunwind8']
+    Layer 2 (no affixes): 2 unique - ['unwind', 'unwind8']
+    Layer 3 (no evolution): 1 unique - ['unwind']
+    Layer 4 (full): 1 unique - ['unwind']
+
+================================================================================
+
+Entry: libusb
+--------------------------------------------------------------------------------
+  arch:
+    - libusb-compat
+  debian:
+    - libusb-0.1-4
+  fedora:
+    - libusb-compat-0.1
+    - libusb-compat-0.1
+  gentoo:
+    - virtual/libusb:0
+  rhel:
+    - libusb
+    - libusb
+  ubuntu:
+    - libusb-0.1-4
+    - libusb-0.1-4
+    - libusb-0.1-4
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libusb', 'libusb-0.1-4', 'libusb-compat', 'libusb-compat-0.1', 'libusb:0']
+    Layer 2 (no affixes): 4 unique - ['usb', 'usb-0.1-4', 'usb-compat-0.1', 'usb:0']
+    Layer 3 (no evolution): 3 unique - ['usb', 'usb-compat', 'usb:']
+    Layer 4 (full): 2 unique - ['usb', 'usb:']
+
+================================================================================
+
+Entry: libusb-1.0
+--------------------------------------------------------------------------------
+  arch:
+    - libusb
+  debian:
+    - libusb-1.0-0
+  fedora:
+    - libusbx
+    - libusbx
+  gentoo:
+    - virtual/libusb:1
+  openembedded:
+    - libusb1@openembedded-core
+  opensuse:
+    - libusb-1_0-0
+  rhel:
+    - libusbx
+    - libusbx
+  ubuntu:
+    - libusb-1.0-0
+    - libusb-1.0-0
+    - libusb-1.0-0
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libusb', 'libusb-1.0-0', 'libusb-1_0-0', 'libusb1', 'libusb:1', 'libusbx']
+    Layer 2 (no affixes): 6 unique - ['usb', 'usb-1-0-0', 'usb-1.0-0', 'usb1', 'usb:1', 'usbx']
+    Layer 3 (no evolution): 3 unique - ['usb', 'usb:', 'usbx']
+    Layer 4 (full): 3 unique - ['usb', 'usb:', 'usbx']
+
+================================================================================
+
+Entry: libusb-1.0-dev
+--------------------------------------------------------------------------------
+  arch:
+    - libusb
+  debian:
+    - libusb-1.0-0-dev
+  fedora:
+    - libusbx-devel
+    - libusbx-devel
+  gentoo:
+    - virtual/libusb:1
+  openembedded:
+    - libusb1@openembedded-core
+  opensuse:
+    - libusb-1_0-devel
+  rhel:
+    - libusbx-devel
+    - libusbx-devel
+  ubuntu:
+    - libusb-1.0-0-dev
+    - libusb-1.0-0-dev
+    - libusb-1.0-0-dev
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libusb', 'libusb-1.0-0-dev', 'libusb-1_0-devel', 'libusb1', 'libusb:1', 'libusbx-devel']
+    Layer 2 (no affixes): 6 unique - ['usb', 'usb-1-0', 'usb-1.0-0', 'usb1', 'usb:1', 'usbx']
+    Layer 3 (no evolution): 3 unique - ['usb', 'usb:', 'usbx']
+    Layer 4 (full): 3 unique - ['usb', 'usb:', 'usbx']
+
+================================================================================
+
+Entry: libusb-dev
+--------------------------------------------------------------------------------
+  arch:
+    - libusb-compat
+  debian:
+    - libusb-dev
+  fedora:
+    - libusb-compat-0.1-devel
+    - libusb-compat-0.1-devel
+  gentoo:
+    - virtual/libusb
+  openembedded:
+    - libusb1@openembedded-core
+  opensuse:
+    - libusb-1_0-devel
+  rhel:
+    - libusb-devel
+    - libusb-devel
+  ubuntu:
+    - libusb-dev
+    - libusb-dev
+    - libusb-dev
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['libusb', 'libusb-1_0-devel', 'libusb-compat', 'libusb-compat-0.1-devel', 'libusb-dev', 'libusb-devel', 'libusb1']
+    Layer 2 (no affixes): 4 unique - ['usb', 'usb-1-0', 'usb-compat-0.1', 'usb1']
+    Layer 3 (no evolution): 2 unique - ['usb', 'usb-compat']
+    Layer 4 (full): 1 unique - ['usb']
+
+================================================================================
+
+Entry: libuv1-dev
+--------------------------------------------------------------------------------
+  arch:
+    - libuv
+  debian:
+    - libuv1-dev
+  fedora:
+    - libuv-devel
+    - libuv-devel
+  gentoo:
+    - dev-libs/libuv
+  ubuntu:
+    - libuv1-dev
+    - libuv1-dev
+    - libuv1-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libuv', 'libuv-devel', 'libuv1-dev']
+    Layer 2 (no affixes): 2 unique - ['uv', 'uv1']
+    Layer 3 (no evolution): 1 unique - ['uv']
+    Layer 4 (full): 1 unique - ['uv']
+
+================================================================================
+
+Entry: libvtk
+--------------------------------------------------------------------------------
+  arch:
+    - vtk
+  fedora:
+    - vtk-devel
+    - vtk-devel
+  gentoo:
+    - sci-libs/vtk[boost,python,qt5]
+  opensuse:
+    - vtk-devel
+  ubuntu:
+    - libvtk7-dev
+    - libvtk7-dev
+    - libvtk7-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libvtk7-dev', 'vtk', 'vtk-devel', 'vtk[boost,python,qt5]']
+    Layer 2 (no affixes): 3 unique - ['vtk', 'vtk7', 'vtk[boost,python,qt5]']
+    Layer 3 (no evolution): 2 unique - ['vtk', 'vtk[boost,python,qt]']
+    Layer 4 (full): 2 unique - ['vtk', 'vtk[boost,python,qt]']
+
+================================================================================
+
+Entry: libvtk-java
+--------------------------------------------------------------------------------
+  arch:
+    - vtk
+  fedora:
+    - vtk-java
+    - vtk-java
+  gentoo:
+    - sci-libs/vtk[java]
+  opensuse:
+    - vtk-java
+  ubuntu:
+    - libvtk7-java
+    - libvtk7-java
+    - libvtk7-java
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libvtk7-java', 'vtk', 'vtk-java', 'vtk[java]']
+    Layer 2 (no affixes): 3 unique - ['vtk', 'vtk7', 'vtk[java]']
+    Layer 3 (no evolution): 2 unique - ['vtk', 'vtk[java]']
+    Layer 4 (full): 2 unique - ['vtk', 'vtk[java]']
+
+================================================================================
+
+Entry: libvtk-qt
+--------------------------------------------------------------------------------
+  arch:
+    - vtk
+  fedora:
+    - vtk-qt
+    - vtk-qt
+  gentoo:
+    - sci-libs/vtk[qt5,rendering]
+  opensuse:
+    - vtk-qt
+  ubuntu:
+    - libvtk7-qt-dev
+    - libvtk7-qt-dev
+    - libvtk7-qt-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libvtk7-qt-dev', 'vtk', 'vtk-qt', 'vtk[qt5,rendering]']
+    Layer 2 (no affixes): 4 unique - ['vtk', 'vtk-qt', 'vtk7-qt', 'vtk[qt5,rendering]']
+    Layer 3 (no evolution): 3 unique - ['vtk', 'vtk-qt', 'vtk[qt,rendering]']
+    Layer 4 (full): 3 unique - ['vtk', 'vtk-qt', 'vtk[qt,rendering]']
+
+================================================================================
+
+Entry: libx11
+--------------------------------------------------------------------------------
+  alpine:
+    - libx11
+  arch:
+    - libx11
+  debian:
+    - libx11-dev
+  fedora:
+    - libX11
+    - libX11
+  gentoo:
+    - x11-libs/libX11
+  openembedded:
+    - libx11@openembedded-core
+  opensuse:
+    - libX11-6
+  ubuntu:
+    - libx11-dev
+    - libx11-dev
+    - libx11-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libx11', 'libx11-6', 'libx11-dev']
+    Layer 2 (no affixes): 2 unique - ['x11', 'x11-6']
+    Layer 3 (no evolution): 1 unique - ['x']
+    Layer 4 (full): 1 unique - ['x']
+
+================================================================================
+
+Entry: libxaw
+--------------------------------------------------------------------------------
+  alpine:
+    - libxaw-dev
+  arch:
+    - libxaw
+  debian:
+    - libxaw7-dev
+  fedora:
+    - libXaw-devel
+    - libXaw-devel
+  gentoo:
+    - x11-libs/libXaw
+  openembedded:
+    - libxaw@meta-oe
+  opensuse:
+    - xorg-x11-devel
+  rhel:
+    - libXaw-devel
+    - libXaw-devel
+  ubuntu:
+    - libxaw7-dev
+    - libxaw7-dev
+    - libxaw7-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libxaw', 'libxaw-dev', 'libxaw-devel', 'libxaw7-dev', 'xorg-x11-devel']
+    Layer 2 (no affixes): 3 unique - ['xaw', 'xaw7', 'xorg-x11']
+    Layer 3 (no evolution): 2 unique - ['xaw', 'xorg-x']
+    Layer 4 (full): 2 unique - ['xaw', 'xorg-x']
+
+================================================================================
+
+Entry: libxslt
+--------------------------------------------------------------------------------
+  arch:
+    - libxslt
+  debian:
+    - libxslt1-dev
+  fedora:
+    - libxslt-devel
+    - libxslt-devel
+  gentoo:
+    - dev-libs/libxslt
+  ubuntu:
+    - libxslt1-dev
+    - libxslt1-dev
+    - libxslt1-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libxslt', 'libxslt-devel', 'libxslt1-dev']
+    Layer 2 (no affixes): 2 unique - ['xslt', 'xslt1']
+    Layer 3 (no evolution): 1 unique - ['xslt']
+    Layer 4 (full): 1 unique - ['xslt']
+
+================================================================================
+
+Entry: libxss1
+--------------------------------------------------------------------------------
+  arch:
+    - libxss
+  debian:
+    - libxss1
+  fedora:
+    - libXScrnSaver
+    - libXScrnSaver
+  gentoo:
+    - x11-libs/libXScrnSaver
+  ubuntu:
+    - libxss1
+    - libxss1
+    - libxss1
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libxscrnsaver', 'libxss', 'libxss1']
+    Layer 2 (no affixes): 3 unique - ['xscrnsaver', 'xss', 'xss1']
+    Layer 3 (no evolution): 2 unique - ['xscrnsaver', 'xss']
+    Layer 4 (full): 2 unique - ['xscrnsaver', 'xss']
+
+================================================================================
+
+Entry: libyaml
+--------------------------------------------------------------------------------
+  alpine:
+    - yaml
+  arch:
+    - libyaml
+  debian:
+    - libyaml-0-2
+  fedora:
+    - libyaml
+    - libyaml
+  gentoo:
+    - dev-libs/libyaml
+  openembedded:
+    - libyaml@openembedded-core
+  opensuse:
+    - libyaml-devel
+  rhel:
+    - libyaml
+    - libyaml
+  ubuntu:
+    - libyaml-0-2
+    - libyaml-0-2
+    - libyaml-0-2
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libyaml', 'libyaml-0-2', 'libyaml-devel', 'yaml']
+    Layer 2 (no affixes): 2 unique - ['yaml', 'yaml-0-2']
+    Layer 3 (no evolution): 1 unique - ['yaml']
+    Layer 4 (full): 1 unique - ['yaml']
+
+================================================================================
+
+Entry: llvm-7
+--------------------------------------------------------------------------------
+  openembedded:
+    - llvm@openembedded-core
+  ubuntu:
+    - llvm-7
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['llvm', 'llvm-7']
+    Layer 2 (no affixes): 2 unique - ['llvm', 'llvm-7']
+    Layer 3 (no evolution): 1 unique - ['llvm']
+    Layer 4 (full): 1 unique - ['llvm']
+
+================================================================================
+
+Entry: llvm-7-dev
+--------------------------------------------------------------------------------
+  openembedded:
+    - llvm@openembedded-core
+  ubuntu:
+    - llvm-7-dev
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['llvm', 'llvm-7-dev']
+    Layer 2 (no affixes): 2 unique - ['llvm', 'llvm-7']
+    Layer 3 (no evolution): 1 unique - ['llvm']
+    Layer 4 (full): 1 unique - ['llvm']
+
+================================================================================
+
+Entry: lua-dev
+--------------------------------------------------------------------------------
+  arch:
+    - lua
+  debian:
+    - liblua5.1-0-dev
+  fedora:
+    - compat-lua-devel
+    - compat-lua-devel
+  gentoo:
+    - dev-lang/lua
+  openembedded:
+    - lua@openembedded-core
+  rhel:
+    - compat-lua-devel
+    - compat-lua-devel
+  ubuntu:
+    - liblua5.1-0-dev
+    - liblua5.1-0-dev
+    - liblua5.1-0-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['compat-lua-devel', 'liblua5.1-0-dev', 'lua']
+    Layer 2 (no affixes): 2 unique - ['lua', 'lua5.1-0']
+    Layer 3 (no evolution): 1 unique - ['lua']
+    Layer 4 (full): 1 unique - ['lua']
+
+================================================================================
+
+Entry: lua5.2-dev
+--------------------------------------------------------------------------------
+  arch:
+    - lua52
+  debian:
+    - liblua5.2-dev
+  fedora:
+    - lua-devel
+    - lua-devel
+  gentoo:
+    - dev-lang/lua:5.2
+  openembedded:
+    - lua@meta-oe
+  rhel:
+    - lua-devel
+    - lua-devel
+  ubuntu:
+    - liblua5.2-dev
+    - liblua5.2-dev
+    - liblua5.2-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['liblua5.2-dev', 'lua', 'lua-devel', 'lua52', 'lua:5.2']
+    Layer 2 (no affixes): 4 unique - ['lua', 'lua5.2', 'lua52', 'lua:5.2']
+    Layer 3 (no evolution): 2 unique - ['lua', 'lua:']
+    Layer 4 (full): 2 unique - ['lua', 'lua:']
+
+================================================================================
+
+Entry: mayavi
+--------------------------------------------------------------------------------
+  debian:
+    - mayavi2
+  fedora:
+    - Mayavi
+    - Mayavi
+  gentoo:
+    - sci-visualization/mayavi
+  ubuntu:
+    - mayavi2
+    - mayavi2
+    - mayavi2
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['mayavi', 'mayavi2']
+    Layer 2 (no affixes): 2 unique - ['mayavi', 'mayavi2']
+    Layer 3 (no evolution): 1 unique - ['mayavi']
+    Layer 4 (full): 1 unique - ['mayavi']
+
+================================================================================
+
+Entry: netpbm
+--------------------------------------------------------------------------------
+  arch:
+    - netpbm
+  debian:
+    - libnetpbm10-dev
+  fedora:
+    - netpbm-devel
+    - netpbm-devel
+  gentoo:
+    - media-libs/netpbm
+  opensuse:
+    - libnetpbm-devel
+  rhel:
+    - netpbm-devel
+    - netpbm-devel
+  ubuntu:
+    - libnetpbm10-dev
+    - libnetpbm10-dev
+    - libnetpbm10-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libnetpbm-devel', 'libnetpbm10-dev', 'netpbm', 'netpbm-devel']
+    Layer 2 (no affixes): 2 unique - ['netpbm', 'netpbm10']
+    Layer 3 (no evolution): 1 unique - ['netpbm']
+    Layer 4 (full): 1 unique - ['netpbm']
+
+================================================================================
+
+Entry: nlohmann-json-dev
+--------------------------------------------------------------------------------
+  arch:
+    - nlohmann-json
+  debian:
+    - nlohmann-json3-dev
+  fedora:
+    - json-devel
+    - json-devel
+  gentoo:
+    - dev-cpp/nlohmann_json
+  openembedded:
+    - nlohmann-json@meta-oe
+  rhel:
+    - json-devel
+    - json-devel
+  ubuntu:
+    - nlohmann-json3-dev
+    - nlohmann-json3-dev
+    - nlohmann-json3-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['json-devel', 'nlohmann-json', 'nlohmann-json3-dev', 'nlohmann_json']
+    Layer 2 (no affixes): 3 unique - ['json', 'nlohmann-json', 'nlohmann-json3']
+    Layer 3 (no evolution): 2 unique - ['json', 'nlohmann-json']
+    Layer 4 (full): 2 unique - ['json', 'nlohmann-json']
+
+================================================================================
+
+Entry: osmium
+--------------------------------------------------------------------------------
+  arch:
+    - libosmium
+  debian:
+    - libosmium2-dev
+  fedora:
+    - libosmium-devel
+    - libosmium-devel
+  ubuntu:
+    - libosmium2-dev
+    - libosmium2-dev
+    - libosmium2-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libosmium', 'libosmium-devel', 'libosmium2-dev']
+    Layer 2 (no affixes): 2 unique - ['osmium', 'osmium2']
+    Layer 3 (no evolution): 1 unique - ['osmium']
+    Layer 4 (full): 1 unique - ['osmium']
+
+================================================================================
+
+Entry: pcre
+--------------------------------------------------------------------------------
+  alpine:
+    - pcre-dev
+  arch:
+    - pcre
+  debian:
+    - libpcre3-dev
+  fedora:
+    - pcre-devel
+    - pcre-devel
+  gentoo:
+    - dev-libs/libpcre
+  openembedded:
+    - libpcre@openembedded-core
+  rhel:
+    - pcre-devel
+    - pcre-devel
+  ubuntu:
+    - libpcre3-dev
+    - libpcre3-dev
+    - libpcre3-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libpcre', 'libpcre3-dev', 'pcre', 'pcre-dev', 'pcre-devel']
+    Layer 2 (no affixes): 2 unique - ['pcre', 'pcre3']
+    Layer 3 (no evolution): 1 unique - ['pcre']
+    Layer 4 (full): 1 unique - ['pcre']
+
+================================================================================
+
+Entry: portaudio19-dev
+--------------------------------------------------------------------------------
+  debian:
+    - portaudio19-dev
+  fedora:
+    - portaudio-devel
+    - portaudio-devel
+  gentoo:
+    - =media-libs/portaudio-19*
+  openembedded:
+    - portaudio-v19@meta-oe
+  ubuntu:
+    - portaudio19-dev
+    - portaudio19-dev
+    - portaudio19-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['portaudio-19*', 'portaudio-devel', 'portaudio-v19', 'portaudio19-dev']
+    Layer 2 (no affixes): 4 unique - ['portaudio', 'portaudio-19*', 'portaudio-v19', 'portaudio19']
+    Layer 3 (no evolution): 2 unique - ['portaudio', 'portaudio-v']
+    Layer 4 (full): 2 unique - ['portaudio', 'portaudio-v']
+
+================================================================================
+
+Entry: protobuf
+--------------------------------------------------------------------------------
+  arch:
+    - protobuf
+  debian:
+    - libprotobuf32
+  fedora:
+    - protobuf
+    - protobuf
+  gentoo:
+    - dev-libs/protobuf
+  openembedded:
+    - protobuf@meta-oe
+  opensuse:
+    - libprotobuf9
+  rhel:
+    - protobuf
+    - protobuf
+  ubuntu:
+    - libprotobuf23
+    - libprotobuf32
+    - libprotobuf17
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libprotobuf17', 'libprotobuf23', 'libprotobuf32', 'libprotobuf9', 'protobuf']
+    Layer 2 (no affixes): 5 unique - ['protobuf', 'protobuf17', 'protobuf23', 'protobuf32', 'protobuf9']
+    Layer 3 (no evolution): 1 unique - ['protobuf']
+    Layer 4 (full): 1 unique - ['protobuf']
+
+================================================================================
+
+Entry: pyflakes3
+--------------------------------------------------------------------------------
+  alpine:
+    - py3-pyflakes
+  arch:
+    - python-pyflakes
+  debian:
+    - pyflakes3
+  fedora:
+    - python3-pyflakes
+    - python3-pyflakes
+  gentoo:
+    - dev-python/pyflakes
+  openembedded:
+    - ${PYTHON_PN}-pyflakes@meta-ros-common
+  rhel:
+    - python%{python3_pkgversion}-pyflakes
+    - python%{python3_pkgversion}-pyflakes
+  ubuntu:
+    - pyflakes3
+    - pyflakes3
+    - pyflakes3
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['${python_pn}-pyflakes', 'py3-pyflakes', 'pyflakes', 'pyflakes3', 'python%{python3_pkgversion}-pyflakes', 'python-pyflakes', 'python3-pyflakes']
+    Layer 2 (no affixes): 2 unique - ['pyflakes', 'pyflakes3']
+    Layer 3 (no evolution): 1 unique - ['pyflakes']
+    Layer 4 (full): 1 unique - ['pyflakes']
+
+================================================================================
+
+Entry: pyro4
+--------------------------------------------------------------------------------
+  arch:
+    - python2-pyro
+  debian:
+    - python2-pyro4
+  fedora:
+    - python-pyro
+    - python-pyro
+  gentoo:
+    - dev-python/pyro
+  ubuntu:
+    - python2-pyro4
+    - python2-pyro4
+    - python2-pyro4
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['pyro', 'python-pyro', 'python2-pyro', 'python2-pyro4']
+    Layer 2 (no affixes): 2 unique - ['pyro', 'pyro4']
+    Layer 3 (no evolution): 1 unique - ['pyro']
+    Layer 4 (full): 1 unique - ['pyro']
+
+================================================================================
+
+Entry: python
+--------------------------------------------------------------------------------
+  alpine:
+    - python2-dev
+  arch:
+    - python2
+  debian:
+    - python-dev
+  fedora:
+    - python-devel
+    - python-devel
+  gentoo:
+    - dev-lang/python
+  openembedded:
+    - python@meta-python2
+  opensuse:
+    - python-devel
+  rhel:
+    - python2-devel
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['python', 'python-dev', 'python-devel', 'python2', 'python2-dev', 'python2-devel']
+    Layer 2 (no affixes): 2 unique - ['python', 'python2']
+    Layer 3 (no evolution): 1 unique - ['python']
+    Layer 4 (full): 1 unique - ['python']
+
+================================================================================
+
+Entry: python-argparse
+--------------------------------------------------------------------------------
+  alpine:
+    - py-argparse
+  arch:
+    - python2
+  fedora:
+    - python
+    - python
+  gentoo:
+    - dev-lang/python
+  opensuse:
+    - python
+  rhel:
+    - python2
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['py-argparse', 'python', 'python2']
+    Layer 2 (no affixes): 3 unique - ['argparse', 'python', 'python2']
+    Layer 3 (no evolution): 2 unique - ['argparse', 'python']
+    Layer 4 (full): 2 unique - ['argparse', 'python']
+
+================================================================================
+
+Entry: python-beautifulsoup
+--------------------------------------------------------------------------------
+  arch:
+    - python2-beautifulsoup3
+  debian:
+    - python-beautifulsoup
+  gentoo:
+    - dev-python/beautifulsoup
+  ubuntu:
+    - python-beautifulsoup
+    - python-beautifulsoup
+    - python-beautifulsoup
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['beautifulsoup', 'python-beautifulsoup', 'python2-beautifulsoup3']
+    Layer 2 (no affixes): 2 unique - ['beautifulsoup', 'beautifulsoup3']
+    Layer 3 (no evolution): 1 unique - ['beautifulsoup']
+    Layer 4 (full): 1 unique - ['beautifulsoup']
+
+================================================================================
+
+Entry: python-bs4
+--------------------------------------------------------------------------------
+  debian:
+    - python-bs4
+  fedora:
+    - python-beautifulsoup4
+    - python-beautifulsoup4
+  gentoo:
+    - =dev-python/beautifulsoup-4*
+  ubuntu:
+    - python-bs4
+    - python-bs4
+    - python-bs4
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['beautifulsoup-4*', 'python-beautifulsoup4', 'python-bs4']
+    Layer 2 (no affixes): 3 unique - ['beautifulsoup-4*', 'beautifulsoup4', 'bs4']
+    Layer 3 (no evolution): 2 unique - ['beautifulsoup', 'bs']
+    Layer 4 (full): 2 unique - ['beautifulsoup', 'bs']
+
+================================================================================
+
+Entry: python-cherrypy
+--------------------------------------------------------------------------------
+  debian:
+    - python-cherrypy3
+  fedora:
+    - python-cherrypy
+    - python-cherrypy
+  gentoo:
+    - dev-python/cherrypy
+  ubuntu:
+    - python-cherrypy3
+    - python-cherrypy3
+    - python-cherrypy3
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['cherrypy', 'python-cherrypy', 'python-cherrypy3']
+    Layer 2 (no affixes): 2 unique - ['cherrypy', 'cherrypy3']
+    Layer 3 (no evolution): 1 unique - ['cherrypy']
+    Layer 4 (full): 1 unique - ['cherrypy']
+
+================================================================================
+
+Entry: python-dev
+--------------------------------------------------------------------------------
+  arch:
+    - python
+  debian:
+    - python-dev
+  fedora:
+    - python2-devel
+    - python2-devel
+  rhel:
+    - python2-devel
+  ubuntu:
+    - python-dev
+    - python-dev
+    - python2-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['python', 'python-dev', 'python2-dev', 'python2-devel']
+    Layer 2 (no affixes): 2 unique - ['python', 'python2']
+    Layer 3 (no evolution): 1 unique - ['python']
+    Layer 4 (full): 1 unique - ['python']
+
+================================================================================
+
+Entry: python-ftdi1
+--------------------------------------------------------------------------------
+  debian:
+    - python-ftdi1
+  gentoo:
+    - dev-embedded/libftdi
+  ubuntu:
+    - python-ftdi1
+    - python-ftdi1
+    - python-ftdi1
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['libftdi', 'python-ftdi1']
+    Layer 2 (no affixes): 2 unique - ['ftdi', 'ftdi1']
+    Layer 3 (no evolution): 1 unique - ['ftdi']
+    Layer 4 (full): 1 unique - ['ftdi']
+
+================================================================================
+
+Entry: python-gtk2
+--------------------------------------------------------------------------------
+  arch:
+    - pygtk
+  fedora:
+    - pygtk2
+    - pygtk2
+  gentoo:
+    - =dev-python/pygtk-2*
+  opensuse:
+    - python-gtk
+  rhel:
+    - pygtk2
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['pygtk', 'pygtk-2*', 'pygtk2', 'python-gtk']
+    Layer 2 (no affixes): 4 unique - ['gtk', 'pygtk', 'pygtk-2*', 'pygtk2']
+    Layer 3 (no evolution): 2 unique - ['gtk', 'pygtk']
+    Layer 4 (full): 2 unique - ['gtk', 'pygtk']
+
+================================================================================
+
+Entry: python-jinja2
+--------------------------------------------------------------------------------
+  debian:
+    - python-jinja2
+  fedora:
+    - python-jinja2
+    - python-jinja2
+  gentoo:
+    - dev-python/jinja
+  ubuntu:
+    - python-jinja2
+    - python-jinja2
+    - python-jinja2
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['jinja', 'python-jinja2']
+    Layer 2 (no affixes): 2 unique - ['jinja', 'jinja2']
+    Layer 3 (no evolution): 1 unique - ['jinja']
+    Layer 4 (full): 1 unique - ['jinja']
+
+================================================================================
+
+Entry: python-psycopg2
+--------------------------------------------------------------------------------
+  debian:
+    - python-psycopg2
+  fedora:
+    - python-psycopg2
+    - python-psycopg2
+  gentoo:
+    - =dev-python/psycopg-2*
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['psycopg-2*', 'python-psycopg2']
+    Layer 2 (no affixes): 2 unique - ['psycopg-2*', 'psycopg2']
+    Layer 3 (no evolution): 1 unique - ['psycopg']
+    Layer 4 (full): 1 unique - ['psycopg']
+
+================================================================================
+
+Entry: python-pylint3
+--------------------------------------------------------------------------------
+  debian:
+    - pylint3
+  fedora:
+    - python3-pylint
+    - python3-pylint
+  gentoo:
+    - dev-python/pylint
+  ubuntu:
+    - pylint
+    - pylint
+    - pylint
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['pylint', 'pylint3', 'python3-pylint']
+    Layer 2 (no affixes): 2 unique - ['pylint', 'pylint3']
+    Layer 3 (no evolution): 1 unique - ['pylint']
+    Layer 4 (full): 1 unique - ['pylint']
+
+================================================================================
+
+Entry: python-pysnmp
+--------------------------------------------------------------------------------
+  debian:
+    - python-pysnmp4
+  gentoo:
+    - dev-python/pysnmp
+  ubuntu:
+    - python-pysnmp4
+    - python-pysnmp4
+    - python-pysnmp4
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['pysnmp', 'python-pysnmp4']
+    Layer 2 (no affixes): 2 unique - ['pysnmp', 'pysnmp4']
+    Layer 3 (no evolution): 1 unique - ['pysnmp']
+    Layer 4 (full): 1 unique - ['pysnmp']
+
+================================================================================
+
+Entry: python-sip4
+--------------------------------------------------------------------------------
+  debian:
+    - python-sip-dev
+  fedora:
+    - sip
+    - sip
+  gentoo:
+    - =dev-python/sip-4*
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['python-sip-dev', 'sip', 'sip-4*']
+    Layer 2 (no affixes): 2 unique - ['sip', 'sip-4*']
+    Layer 3 (no evolution): 1 unique - ['sip']
+    Layer 4 (full): 1 unique - ['sip']
+
+================================================================================
+
+Entry: python-tornado
+--------------------------------------------------------------------------------
+  arch:
+    - python-tornado
+  debian:
+    - python-tornado
+  fedora:
+    - python-tornado
+    - python-tornado
+  gentoo:
+    - www-servers/tornado
+  openembedded:
+    - python-tornado45@meta-ros-python2
+  ubuntu:
+    - python-tornado
+    - python-tornado
+    - python-tornado
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['python-tornado', 'python-tornado45', 'tornado']
+    Layer 2 (no affixes): 2 unique - ['tornado', 'tornado45']
+    Layer 3 (no evolution): 1 unique - ['tornado']
+    Layer 4 (full): 1 unique - ['tornado']
+
+================================================================================
+
+Entry: python3
+--------------------------------------------------------------------------------
+  alpine:
+    - python3
+  arch:
+    - python
+  debian:
+    - python3-dev
+  fedora:
+    - python3-devel
+    - python3-devel
+  gentoo:
+    - dev-lang/python
+  openembedded:
+    - python3@openembedded-core
+  opensuse:
+    - python3-devel
+  rhel:
+    - python%{python3_pkgversion}-devel
+    - python%{python3_pkgversion}-devel
+  ubuntu:
+    - python3-dev
+    - python3-dev
+    - python3-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['python', 'python%{python3_pkgversion}-devel', 'python3', 'python3-dev', 'python3-devel']
+    Layer 2 (no affixes): 3 unique - ['', 'python', 'python3']
+    Layer 3 (no evolution): 2 unique - ['', 'python']
+    Layer 4 (full): 2 unique - ['', 'python']
+
+================================================================================
+
+Entry: python3-dev
+--------------------------------------------------------------------------------
+  alpine:
+    - python3-dev
+  arch:
+    - python
+  debian:
+    - python3-dev
+  fedora:
+    - python3-devel
+    - python3-devel
+  gentoo:
+    - =dev-lang/python-3*
+  openembedded:
+    - python3@openembedded-core
+  opensuse:
+    - python3-devel
+  rhel:
+    - python%{python3_pkgversion}-devel
+    - python%{python3_pkgversion}-devel
+  ubuntu:
+    - python3-dev
+    - python3-dev
+    - python3-dev
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['python', 'python%{python3_pkgversion}-devel', 'python-3*', 'python3', 'python3-dev', 'python3-devel']
+    Layer 2 (no affixes): 4 unique - ['', '3*', 'python', 'python3']
+    Layer 3 (no evolution): 3 unique - ['', '*', 'python']
+    Layer 4 (full): 3 unique - ['', '*', 'python']
+
+================================================================================
+
+Entry: python3-distutils
+--------------------------------------------------------------------------------
+  debian:
+    - python3-distutils
+  fedora:
+    - python3
+    - python3
+  gentoo:
+    - dev-lang/python
+  ubuntu:
+    - python3-distutils
+    - python3-distutils
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['python', 'python3', 'python3-distutils']
+    Layer 2 (no affixes): 3 unique - ['distutils', 'python', 'python3']
+    Layer 3 (no evolution): 2 unique - ['distutils', 'python']
+    Layer 4 (full): 2 unique - ['distutils', 'python']
+
+================================================================================
+
+Entry: python3-ftdi1
+--------------------------------------------------------------------------------
+  arch:
+    - libftdi
+  debian:
+    - python3-ftdi1
+  fedora:
+    - python3-libftdi
+    - python3-libftdi
+  gentoo:
+    - dev-embedded/libftdi[python]
+  opensuse:
+    - python3-libftdi1
+  ubuntu:
+    - python3-ftdi1
+    - python3-ftdi1
+    - python3-ftdi1
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libftdi', 'libftdi[python]', 'python3-ftdi1', 'python3-libftdi', 'python3-libftdi1']
+    Layer 2 (no affixes): 3 unique - ['ftdi', 'ftdi1', 'ftdi[python]']
+    Layer 3 (no evolution): 2 unique - ['ftdi', 'ftdi[python]']
+    Layer 4 (full): 2 unique - ['ftdi', 'ftdi[python]']
+
+================================================================================
+
+Entry: python3-importlib-resources
+--------------------------------------------------------------------------------
+  arch:
+    - python-importlib_resources
+  debian:
+    - python3-importlib-resources
+  fedora:
+    - python3
+    - python3
+  gentoo:
+    - dev-lang/python
+  openembedded:
+    - python3@openembedded-core
+  rhel:
+    - python3-importlib-resources
+    - python3
+  ubuntu:
+    - python3-minimal
+    - python3-minimal
+    - python3-minimal
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['python', 'python-importlib_resources', 'python3', 'python3-importlib-resources', 'python3-minimal']
+    Layer 2 (no affixes): 4 unique - ['importlib', 'minimal', 'python', 'python3']
+    Layer 3 (no evolution): 3 unique - ['importlib', 'minimal', 'python']
+    Layer 4 (full): 3 unique - ['importlib-resoues', 'minimal', 'python']
+
+================================================================================
+
+Entry: python3-interpreter
+--------------------------------------------------------------------------------
+  arch:
+    - python
+  debian:
+    - python3-minimal
+  fedora:
+    - python3
+    - python3
+  gentoo:
+    - dev-lang/python
+  opensuse:
+    - python3
+  rhel:
+    - python3
+    - python3
+  ubuntu:
+    - python3-minimal
+    - python3-minimal
+    - python3-minimal
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['python', 'python3', 'python3-minimal']
+    Layer 2 (no affixes): 3 unique - ['minimal', 'python', 'python3']
+    Layer 3 (no evolution): 2 unique - ['minimal', 'python']
+    Layer 4 (full): 2 unique - ['minimal', 'python']
+
+================================================================================
+
+Entry: python3-jinja2
+--------------------------------------------------------------------------------
+  alpine:
+    - py3-jinja2
+  debian:
+    - python3-jinja2
+  fedora:
+    - python3-jinja2
+    - python3-jinja2
+  gentoo:
+    - dev-python/jinja
+  openembedded:
+    - python3-jinja2@openembedded-core
+  rhel:
+    - python3-jinja2
+    - python3-jinja2
+  ubuntu:
+    - python3-jinja2
+    - python3-jinja2
+    - python3-jinja2
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['jinja', 'py3-jinja2', 'python3-jinja2']
+    Layer 2 (no affixes): 2 unique - ['jinja', 'jinja2']
+    Layer 3 (no evolution): 1 unique - ['jinja']
+    Layer 4 (full): 1 unique - ['jinja']
+
+================================================================================
+
+Entry: python3-progressbar
+--------------------------------------------------------------------------------
+  arch:
+    - python-progressbar
+  debian:
+    - python3-progressbar
+  fedora:
+    - python3-progressbar2
+    - python3-progressbar2
+  gentoo:
+    - dev-python/progressbar
+  ubuntu:
+    - python3-progressbar
+    - python3-progressbar
+    - python3-progressbar
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['progressbar', 'python-progressbar', 'python3-progressbar', 'python3-progressbar2']
+    Layer 2 (no affixes): 2 unique - ['progressbar', 'progressbar2']
+    Layer 3 (no evolution): 1 unique - ['progressbar']
+    Layer 4 (full): 1 unique - ['progressbar']
+
+================================================================================
+
+Entry: python3-pysnmp
+--------------------------------------------------------------------------------
+  debian:
+    - python3-pysnmp4
+  fedora:
+    - python3-pysnmp
+    - python3-pysnmp
+  gentoo:
+    - dev-python/pysnmp
+  opensuse:
+    - python3-pysnmp
+  rhel:
+    - python3-pysnmp
+    - python3-pysnmp
+  ubuntu:
+    - python3-pysnmp4
+    - python3-pysnmp4
+    - python3-pysnmp4
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['pysnmp', 'python3-pysnmp', 'python3-pysnmp4']
+    Layer 2 (no affixes): 2 unique - ['pysnmp', 'pysnmp4']
+    Layer 3 (no evolution): 1 unique - ['pysnmp']
+    Layer 4 (full): 1 unique - ['pysnmp']
+
+================================================================================
+
+Entry: python3-pysnmp-mibs
+--------------------------------------------------------------------------------
+  debian:
+    - python3-pysnmp4-mibs
+  fedora:
+    - python3-pysnmp-mibs
+    - python3-pysnmp-mibs
+  gentoo:
+    - dev-python/pysnmp-mibs
+  pypi:
+    - pysnmp-mibs
+  ubuntu:
+    - python3-pysnmp4-mibs
+    - python3-pysnmp4-mibs
+    - python3-pysnmp4-mibs
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['pysnmp-mibs', 'python3-pysnmp-mibs', 'python3-pysnmp4-mibs']
+    Layer 2 (no affixes): 2 unique - ['pysnmp-mibs', 'pysnmp4-mibs']
+    Layer 3 (no evolution): 1 unique - ['pysnmp-mibs']
+    Layer 4 (full): 1 unique - ['pysnmp-mibs']
+
+================================================================================
+
+Entry: python3-venv
+--------------------------------------------------------------------------------
+  debian:
+    - python3-venv
+  fedora:
+    - python3-libs
+    - python3-libs
+  gentoo:
+    - dev-lang/python
+  openembedded:
+    - python3@openembedded-core
+  opensuse:
+    - python3-virtualenv
+  rhel:
+    - python3-libs
+    - python3-libs
+  ubuntu:
+    - python3-venv
+    - python3-venv
+    - python3-venv
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['python', 'python3', 'python3-libs', 'python3-venv', 'python3-virtualenv']
+    Layer 2 (no affixes): 4 unique - ['python', 'python3', 'venv', 'virtualenv']
+    Layer 3 (no evolution): 3 unique - ['python', 'venv', 'virtualenv']
+    Layer 4 (full): 3 unique - ['python', 'venv', 'virtualenv']
+
+================================================================================
+
+Entry: python3-wxgtk4.0
+--------------------------------------------------------------------------------
+  debian:
+    - python3-wxgtk4.0
+  fedora:
+    - python3-wxpython4
+    - python3-wxpython4
+  gentoo:
+    - dev-python/wxpython
+  ubuntu:
+    - python3-wxgtk4.0
+    - python3-wxgtk4.0
+    - python3-wxgtk4.0
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['python3-wxgtk4.0', 'python3-wxpython4', 'wxpython']
+    Layer 2 (no affixes): 3 unique - ['wxgtk4.0', 'wxpython', 'wxpython4']
+    Layer 3 (no evolution): 2 unique - ['wxgtk', 'wxpython']
+    Layer 4 (full): 2 unique - ['wxgtk', 'wxpython']
+
+================================================================================
+
+Entry: qml-module-qtquick-extras
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-quickcontrols
+  debian:
+    - qml-module-qtquick-extras
+  fedora:
+    - qt5-qtquickcontrols
+    - qt5-qtquickcontrols
+  gentoo:
+    - dev-qt/qtquickcontrols
+  openembedded:
+    - qtquickcontrols2@meta-qt5
+  rhel:
+    - qt5-qtquickcontrols
+    - qt5-qtquickcontrols
+  ubuntu:
+    - qml-module-qtquick-extras
+    - qml-module-qtquick-extras
+    - qml-module-qtquick-extras
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['qml-module-qtquick-extras', 'qt5-qtquickcontrols', 'qt5-quickcontrols', 'qtquickcontrols', 'qtquickcontrols2']
+    Layer 2 (no affixes): 5 unique - ['qml-module-qtquick', 'qt5-qtquickcontrols', 'qt5-quickcontrols', 'qtquickcontrols', 'qtquickcontrols2']
+    Layer 3 (no evolution): 4 unique - ['qml-module-qtquick', 'qt-qtquickcontrols', 'qt-quickcontrols', 'qtquickcontrols']
+    Layer 4 (full): 4 unique - ['qml-module-qtquick', 'qt-qtquickcontrols', 'qt-quickcontrols', 'qtquickcontrols']
+
+================================================================================
+
+Entry: qt4-qmake
+--------------------------------------------------------------------------------
+  debian:
+    - qt4-qmake
+  fedora:
+    - qt-devel
+    - qt-devel
+  gentoo:
+    - dev-qt/qtcore:4
+  opensuse:
+    - libqt4-devel
+  ubuntu:
+    - qt4-qmake
+    - qt4-qmake
+    - qt4-qmake
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libqt4-devel', 'qt-devel', 'qt4-qmake', 'qtcore:4']
+    Layer 2 (no affixes): 4 unique - ['qt', 'qt4', 'qt4-qmake', 'qtcore:4']
+    Layer 3 (no evolution): 3 unique - ['qt', 'qt-qmake', 'qtcore:']
+    Layer 4 (full): 3 unique - ['qt', 'qt-qmake', 'qtcore:']
+
+================================================================================
+
+Entry: qtdeclarative5-dev
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-declarative
+  debian:
+    - qtdeclarative5-dev
+  fedora:
+    - qt5-qtdeclarative-devel
+    - qt5-qtdeclarative-devel
+  gentoo:
+    - dev-qt/qtdeclarative:5
+  openembedded:
+    - qtdeclarative@meta-qt5
+  rhel:
+    - qt5-qtdeclarative-devel
+    - qt5-qtdeclarative-devel
+  ubuntu:
+    - qtdeclarative5-dev
+    - qtdeclarative5-dev
+    - qtdeclarative5-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['qt5-declarative', 'qt5-qtdeclarative-devel', 'qtdeclarative', 'qtdeclarative5-dev', 'qtdeclarative:5']
+    Layer 2 (no affixes): 5 unique - ['qt5-declarative', 'qt5-qtdeclarative', 'qtdeclarative', 'qtdeclarative5', 'qtdeclarative:5']
+    Layer 3 (no evolution): 4 unique - ['qt-declarative', 'qt-qtdeclarative', 'qtdeclarative', 'qtdeclarative:']
+    Layer 4 (full): 4 unique - ['qt-declarative', 'qt-qtdeclarative', 'qtdeclarative', 'qtdeclarative:']
+
+================================================================================
+
+Entry: qtmultimedia5-dev
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-multimedia
+  debian:
+    - qtmultimedia5-dev
+  fedora:
+    - qt5-qtmultimedia-devel
+    - qt5-qtmultimedia-devel
+  gentoo:
+    - dev-qt/qtmultimedia:5
+  openembedded:
+    - qtmultimedia@meta-qt5
+  rhel:
+    - qt5-qtmultimedia-devel
+    - qt5-qtmultimedia-devel
+  ubuntu:
+    - qtmultimedia5-dev
+    - qtmultimedia5-dev
+    - qtmultimedia5-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['qt5-multimedia', 'qt5-qtmultimedia-devel', 'qtmultimedia', 'qtmultimedia5-dev', 'qtmultimedia:5']
+    Layer 2 (no affixes): 5 unique - ['qt5-multimedia', 'qt5-qtmultimedia', 'qtmultimedia', 'qtmultimedia5', 'qtmultimedia:5']
+    Layer 3 (no evolution): 4 unique - ['qt-multimedia', 'qt-qtmultimedia', 'qtmultimedia', 'qtmultimedia:']
+    Layer 4 (full): 4 unique - ['qt-multimedia', 'qt-qtmultimedia', 'qtmultimedia', 'qtmultimedia:']
+
+================================================================================
+
+Entry: qtquickcontrols2-5-dev
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-quickcontrols2
+  debian:
+    - qtquickcontrols2-5-dev
+  fedora:
+    - qt5-qtquickcontrols2-devel
+    - qt5-qtquickcontrols2-devel
+  gentoo:
+    - dev-qt/qtquickcontrols2
+  rhel:
+    - qt5-qtquickcontrols2-devel
+    - qt5-qtquickcontrols2-devel
+  ubuntu:
+    - qtquickcontrols2-5-dev
+    - qtquickcontrols2-5-dev
+    - qtquickcontrols2-5-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['qt5-qtquickcontrols2-devel', 'qt5-quickcontrols2', 'qtquickcontrols2', 'qtquickcontrols2-5-dev']
+    Layer 2 (no affixes): 4 unique - ['qt5-qtquickcontrols2', 'qt5-quickcontrols2', 'qtquickcontrols2', 'qtquickcontrols2-5']
+    Layer 3 (no evolution): 3 unique - ['qt-qtquickcontrols', 'qt-quickcontrols', 'qtquickcontrols']
+    Layer 4 (full): 3 unique - ['qt-qtquickcontrols', 'qt-quickcontrols', 'qtquickcontrols']
+
+================================================================================
+
+Entry: qttools5-dev-tools
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-tools
+  debian:
+    - qttools5-dev-tools
+  fedora:
+    - qt5-qttools-devel
+    - qt5-qttools-devel
+  openembedded:
+    - qttools@meta-qt5
+  rhel:
+    - qt5-qttools-devel
+    - qt5-qttools-devel
+  ubuntu:
+    - qttools5-dev-tools
+    - qttools5-dev-tools
+    - qttools5-dev-tools
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['qt5-qttools-devel', 'qt5-tools', 'qttools', 'qttools5-dev-tools']
+    Layer 2 (no affixes): 4 unique - ['qt5', 'qt5-qttools', 'qttools', 'qttools5']
+    Layer 3 (no evolution): 3 unique - ['qt', 'qt-qttools', 'qttools']
+    Layer 4 (full): 3 unique - ['qt', 'qt-qttools', 'qttools']
+
+================================================================================
+
+Entry: qtwebengine5-dev
+--------------------------------------------------------------------------------
+  arch:
+    - qt5-webengine
+  debian:
+    - qtwebengine5-dev
+  fedora:
+    - qt5-qtwebengine-devel
+    - qt5-qtwebengine-devel
+  gentoo:
+    - dev-qt/qtwebengine
+  rhel:
+    - qt5-qtwebengine-devel
+    - qt5-qtwebengine-devel
+  ubuntu:
+    - qtwebengine5-dev
+    - qtwebengine5-dev
+    - qtwebengine5-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['qt5-qtwebengine-devel', 'qt5-webengine', 'qtwebengine', 'qtwebengine5-dev']
+    Layer 2 (no affixes): 4 unique - ['qt5-qtwebengine', 'qt5-webengine', 'qtwebengine', 'qtwebengine5']
+    Layer 3 (no evolution): 3 unique - ['qt-qtwebengine', 'qt-webengine', 'qtwebengine']
+    Layer 4 (full): 3 unique - ['qt-qtwebengine', 'qt-webengine', 'qtwebengine']
+
+================================================================================
+
+Entry: rpy2
+--------------------------------------------------------------------------------
+  arch:
+    - python-rpy2
+  debian:
+    - python-rpy2
+  gentoo:
+    - =dev-python/rpy-2*
+  opensuse:
+    - python3-rpy2
+  ubuntu:
+    - python-rpy2
+    - python-rpy2
+    - python-rpy2
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['python-rpy2', 'python3-rpy2', 'rpy-2*']
+    Layer 2 (no affixes): 2 unique - ['rpy-2*', 'rpy2']
+    Layer 3 (no evolution): 1 unique - ['rpy']
+    Layer 4 (full): 1 unique - ['rpy']
+
+================================================================================
+
+Entry: sdformat
+--------------------------------------------------------------------------------
+  debian:
+    - libsdformat-dev
+  fedora:
+    - sdformat-devel
+    - sdformat-devel
+  gentoo:
+    - dev-libs/sdformat
+  openembedded:
+    - sdformat@meta-ros-common
+  ubuntu:
+    - libsdformat-dev
+    - libsdformat9-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libsdformat-dev', 'libsdformat9-dev', 'sdformat', 'sdformat-devel']
+    Layer 2 (no affixes): 2 unique - ['sdformat', 'sdformat9']
+    Layer 3 (no evolution): 1 unique - ['sdformat']
+    Layer 4 (full): 1 unique - ['sdformat']
+
+================================================================================
+
+Entry: sdl
+--------------------------------------------------------------------------------
+  arch:
+    - sdl12-compat
+  debian:
+    - libsdl1.2-dev
+  fedora:
+    - SDL-devel
+    - SDL-devel
+  gentoo:
+    - media-libs/libsdl
+  openembedded:
+    - libsdl@meta-oe
+  opensuse:
+    - libSDL-devel
+  rhel:
+    - SDL-devel
+    - SDL-devel
+  ubuntu:
+    - libsdl1.2-dev
+    - libsdl1.2-dev
+    - libsdl1.2-dev
+
+  Summary:
+    Layer 1 (minimal): 5 unique - ['libsdl', 'libsdl-devel', 'libsdl1.2-dev', 'sdl-devel', 'sdl12-compat']
+    Layer 2 (no affixes): 3 unique - ['sdl', 'sdl1.2', 'sdl12']
+    Layer 3 (no evolution): 1 unique - ['sdl']
+    Layer 4 (full): 1 unique - ['sdl']
+
+================================================================================
+
+Entry: sdl-gfx
+--------------------------------------------------------------------------------
+  arch:
+    - sdl_gfx
+  debian:
+    - libsdl-gfx1.2-dev
+  fedora:
+    - SDL_gfx
+    - SDL_gfx
+  gentoo:
+    - media-libs/sdl-gfx
+  ubuntu:
+    - libsdl-gfx1.2-dev
+    - libsdl-gfx1.2-dev
+    - libsdl-gfx1.2-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libsdl-gfx1.2-dev', 'sdl-gfx', 'sdl_gfx']
+    Layer 2 (no affixes): 2 unique - ['sdl-gfx', 'sdl-gfx1.2']
+    Layer 3 (no evolution): 1 unique - ['sdl-gfx']
+    Layer 4 (full): 1 unique - ['sdl-gfx']
+
+================================================================================
+
+Entry: sdl-image
+--------------------------------------------------------------------------------
+  arch:
+    - sdl_image
+  debian:
+    - libsdl-image1.2-dev
+  fedora:
+    - SDL_image-devel
+    - SDL_image-devel
+  gentoo:
+    - media-libs/sdl-image
+  openembedded:
+    - libsdl-image@meta-oe
+  opensuse:
+    - libSDL_image-devel
+  ubuntu:
+    - libsdl-image1.2-dev
+    - libsdl-image1.2-dev
+    - libsdl-image1.2-dev
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['libsdl-image', 'libsdl-image1.2-dev', 'libsdl_image-devel', 'sdl-image', 'sdl_image', 'sdl_image-devel']
+    Layer 2 (no affixes): 2 unique - ['sdl-image', 'sdl-image1.2']
+    Layer 3 (no evolution): 1 unique - ['sdl-image']
+    Layer 4 (full): 1 unique - ['sdl-image']
+
+================================================================================
+
+Entry: sdl-mixer
+--------------------------------------------------------------------------------
+  arch:
+    - sdl_mixer
+  debian:
+    - libsdl-mixer1.2-dev
+  fedora:
+    - SDL_mixer-devel
+    - SDL_mixer-devel
+  gentoo:
+    - media-libs/sdl-mixer
+  ubuntu:
+    - libsdl-mixer1.2-dev
+    - libsdl-mixer1.2-dev
+    - libsdl-mixer1.2-dev
+
+  Summary:
+    Layer 1 (minimal): 4 unique - ['libsdl-mixer1.2-dev', 'sdl-mixer', 'sdl_mixer', 'sdl_mixer-devel']
+    Layer 2 (no affixes): 2 unique - ['sdl-mixer', 'sdl-mixer1.2']
+    Layer 3 (no evolution): 1 unique - ['sdl-mixer']
+    Layer 4 (full): 1 unique - ['sdl-mixer']
+
+================================================================================
+
+Entry: sdl-ttf
+--------------------------------------------------------------------------------
+  arch:
+    - sdl_ttf
+  debian:
+    - libsdl-ttf2.0-dev
+  fedora:
+    - SDL_ttf
+    - SDL_ttf
+  gentoo:
+    - media-libs/sdl-ttf
+  ubuntu:
+    - libsdl-ttf2.0-dev
+    - libsdl-ttf2.0-dev
+    - libsdl-ttf2.0-dev
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['libsdl-ttf2.0-dev', 'sdl-ttf', 'sdl_ttf']
+    Layer 2 (no affixes): 2 unique - ['sdl-ttf', 'sdl-ttf2.0']
+    Layer 3 (no evolution): 1 unique - ['sdl-ttf']
+    Layer 4 (full): 1 unique - ['sdl-ttf']
+
+================================================================================
+
+Entry: sqlite3
+--------------------------------------------------------------------------------
+  arch:
+    - sqlite
+  debian:
+    - sqlite3
+  fedora:
+    - sqlite
+    - sqlite
+  gentoo:
+    - =dev-db/sqlite-3*
+  openembedded:
+    - sqlite3@openembedded-core
+  rhel:
+    - sqlite
+    - sqlite
+  ubuntu:
+    - sqlite3
+    - sqlite3
+    - sqlite3
+
+  Summary:
+    Layer 1 (minimal): 3 unique - ['sqlite', 'sqlite-3*', 'sqlite3']
+    Layer 2 (no affixes): 3 unique - ['sqlite', 'sqlite-3*', 'sqlite3']
+    Layer 3 (no evolution): 1 unique - ['sqlite']
+    Layer 4 (full): 1 unique - ['sqlite']
+
+================================================================================
+
+Entry: wx-common
+--------------------------------------------------------------------------------
+  arch:
+    - wxwidgets-gtk3
+  debian:
+    - wx-common
+  fedora:
+    - wxGTK-devel
+    - wxGTK-devel
+  gentoo:
+    - x11-libs/wxGTK
+  openembedded:
+    - wxwidgets@meta-ros-common
+  rhel:
+    - wxGTK3-devel
+    - wxGTK-devel
+  ubuntu:
+    - wx-common
+    - wx-common
+    - wx-common
+
+  Summary:
+    Layer 1 (minimal): 6 unique - ['wx-common', 'wxgtk', 'wxgtk-devel', 'wxgtk3-devel', 'wxwidgets', 'wxwidgets-gtk3']
+    Layer 2 (no affixes): 5 unique - ['wx', 'wxgtk', 'wxgtk3', 'wxwidgets', 'wxwidgets-gtk3']
+    Layer 3 (no evolution): 4 unique - ['wx', 'wxgtk', 'wxwidgets', 'wxwidgets-gtk']
+    Layer 4 (full): 4 unique - ['wx', 'wxgtk', 'wxwidgets', 'wxwidgets-gtk']
+
+================================================================================
+
+Entry: wxwidgets
+--------------------------------------------------------------------------------
+  arch:
+    - wxwidgets-gtk3
+  debian:
+    - libwxgtk3.2-dev
+  fedora:
+    - wxGTK-devel
+    - wxGTK-devel
+  gentoo:
+    - x11-libs/wxGTK
+  openembedded:
+    - wxwidgets@meta-ros-common
+  opensuse:
+    - wxGTK-devel
+  rhel:
+    - wxGTK3-devel
+    - wxGTK-devel
+  ubuntu:
+    - libwxgtk3.0-gtk3-dev
+    - libwxgtk3.2-dev
+    - libwxgtk3.0-gtk3-dev
+
+  Summary:
+    Layer 1 (minimal): 7 unique - ['libwxgtk3.0-gtk3-dev', 'libwxgtk3.2-dev', 'wxgtk', 'wxgtk-devel', 'wxgtk3-devel', 'wxwidgets', 'wxwidgets-gtk3']
+    Layer 2 (no affixes): 6 unique - ['wxgtk', 'wxgtk3', 'wxgtk3.0-gtk3', 'wxgtk3.2', 'wxwidgets', 'wxwidgets-gtk3']
+    Layer 3 (no evolution): 4 unique - ['wxgtk', 'wxgtk-gtk', 'wxwidgets', 'wxwidgets-gtk']
+    Layer 4 (full): 4 unique - ['wxgtk', 'wxgtk-gtk', 'wxwidgets', 'wxwidgets-gtk']
+
+================================================================================
+
+Entry: yapf3
+--------------------------------------------------------------------------------
+  debian:
+    - yapf3
+  fedora:
+    - python3-yapf
+    - python3-yapf
+  ubuntu:
+    - yapf3
+    - yapf3
+    - yapf3
+
+  Summary:
+    Layer 1 (minimal): 2 unique - ['python3-yapf', 'yapf3']
+    Layer 2 (no affixes): 2 unique - ['yapf', 'yapf3']
+    Layer 3 (no evolution): 1 unique - ['yapf']
+    Layer 4 (full): 1 unique - ['yapf']
+
+================================================================================
+

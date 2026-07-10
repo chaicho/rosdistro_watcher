@@ -1,0 +1,54 @@
+{
+  "debian_bookworm": [
+    {
+      "name": "libqt5qml5",
+      "bin_name": "libqt5qml5",
+      "src_name": "qtdeclarative-opensource-src",
+      "repo_name": "debian",
+      "repo_version": "bookworm",
+      "arch": "amd64",
+      "version": "5.15.8+dfsg-3",
+      "description": "Found by rosdep CI (exact) in debian bookworm",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_focal": [
+    {
+      "name": "libqt5qml5",
+      "bin_name": "libqt5qml5",
+      "src_name": "qtdeclarative-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "focal",
+      "arch": "amd64",
+      "version": "5.12.8-0ubuntu1",
+      "description": "Found by rosdep CI (exact) in ubuntu focal",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_jammy": [
+    {
+      "name": "libqt5qml5",
+      "bin_name": "libqt5qml5",
+      "src_name": "qtdeclarative-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "jammy",
+      "arch": "amd64",
+      "version": "5.15.3+dfsg-1",
+      "description": "Found by rosdep CI (exact) in ubuntu jammy",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "libqt5qml5",
+      "bin_name": "libqt5qml5",
+      "src_name": "qtdeclarative-opensource-src",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": "amd64",
+      "version": "5.15.13+dfsg-1",
+      "description": "Found by rosdep CI (exact) in ubuntu noble",
+      "confidence": 1.0
+    }
+  ]
+}

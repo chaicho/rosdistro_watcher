@@ -1,0 +1,54 @@
+{
+  "fedora_43": [
+    {
+      "name": "python3-docstring-parser",
+      "bin_name": "python3-docstring-parser",
+      "src_name": "python-docstring-parser",
+      "repo_name": "fedora",
+      "repo_version": "43",
+      "arch": null,
+      "version": "0.17.0-3.fc43",
+      "description": "Parse Python docstrings",
+      "confidence": 1.0
+    }
+  ],
+  "pypi": [
+    {
+      "name": "docstring-parser",
+      "bin_name": "docstring-parser",
+      "src_name": "docstring-parser",
+      "repo_name": "pypi",
+      "repo_version": "",
+      "arch": null,
+      "version": "0.18.0",
+      "description": "Parse Python docstrings in reST, Google and Numpydoc format",
+      "confidence": 1.0
+    }
+  ],
+  "ubuntu_noble": [
+    {
+      "name": "python3-docstring-parser",
+      "bin_name": "python3-docstring-parser",
+      "src_name": "docstring-parser",
+      "repo_name": "ubuntu",
+      "repo_version": "noble",
+      "arch": null,
+      "version": "0.15-3",
+      "description": "Parse Python docstrings in reST, Google and Numpydoc format",
+      "confidence": 1.0
+    }
+  ],
+  "fedora_42": [
+    {
+      "name": "python3-docstring-parser",
+      "bin_name": "python3-docstring-parser",
+      "src_name": "python-docstring-parser",
+      "repo_name": "fedora",
+      "repo_version": "42",
+      "arch": null,
+      "version": "0.16-2.fc42",
+      "description": "Parse Python docstrings",
+      "confidence": 1.0
+    }
+  ]
+}
